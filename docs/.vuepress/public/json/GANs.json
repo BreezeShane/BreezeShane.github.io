@@ -1,0 +1,60 @@
+{
+    "name": "Original GAN",
+    "link": "https://breezeshane.github.io/2021/04/24/Original%20GAN/",
+    "children": [{
+            "name": "DC GAN"
+        },
+        {
+            "name": "LS GAN"
+        },
+        {
+            "name": "Cycle GAN"
+        },
+        {
+            "name": "CC GAN"
+        },
+        {
+            "name": "Style GAN"
+        },
+        {
+            "name": "Info GAN"
+        },
+        {
+            "name": "C GAN"
+        },
+        {
+            "name": "AC GAN"
+        },
+        {
+            "name": "PG GAN"
+        },
+        {
+            "name": "SA GAN"
+        },
+        {
+            "name": "Se GAN"
+        },
+        {
+            "name": "CT GAN"
+        },
+        {
+            "name": "Enlighten GAN"
+        },
+        {
+            "name": "W GAN",
+            "children": [{
+                    "name": "WGAN",
+                    "link": "https://breezeshane.github.io/2021/04/29/WGAN/"
+                },
+                {
+                    "name": "WGAN-gp",
+                    "link": "https://breezeshane.github.io/2021/05/18/WGAN-gp/"
+                },
+                {
+                    "name": "WGAN-div",
+                    "link": "https://breezeshane.github.io/2021/05/18/WGAN-div/"
+                }
+            ]
+        }
+    ]
+}

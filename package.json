@@ -1,0 +1,23 @@
+{
+    "name": "vue-blog",
+    "version": "1.0.0",
+    "description": "---\r blog: true\r home: true\r icon: home\r heroImage: /Breeze Shane.jpg\r bgImage: /images/Wallpapers/shanshui_guohua-008.jpg\r darkbgImage: /images/Wallpapers/milyway_galaxy_vivo_nex_stock_4k.jpg\r heroText: 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮\r heroFullScreen: true\r tagline: Where there is light, there is hope\r project:\r   - name: vuepress-theme-hope\r     type: link\r     desc: 一个功能强大的 Vuepress 主题✨\r     link: https://vuepress-theme-hope.github.io/zh/\r     cover: /assets/img/vuepress-hope-logo.svg",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs",
+        "docs:build": "vuepress build docs",
+        "docs:clean-dev": "vuepress dev docs --no-cache",
+        "docs:dev": "vuepress dev docs",
+        "docs:eject-theme": "vuepress eject-hope docs",
+        "deploy": "zsh ./deploy.sh"
+    },
+    "keywords": [],
+    "author": "",
+    "license": "ISC",
+    "devDependencies": {
+        "vuepress": "^1.8.2",
+        "vuepress-theme-hope": "^1.19.0"
+    }
+}
