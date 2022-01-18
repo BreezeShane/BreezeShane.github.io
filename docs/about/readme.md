@@ -3,6 +3,7 @@ title: 𝕬𝖇𝖔𝖚𝖙
 date: 2021-05-06 20:47:08
 sidebar: false
 article: false
+comment: false
 ---
 
 <center>
