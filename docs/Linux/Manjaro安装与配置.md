@@ -663,17 +663,29 @@ pip install pandas
 
 接着我们确认一下tensorflow和pytorch都安装成功了：
 
-### tensorflow测试代码
+### 深度学习框架测试代码
 
-简洁的测试方法：
-
+<CodeGroup>
+<CodeGroupItem title="PyTorch" active>
 ```python
-print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
+import torch    # 如正常则静默
+a = torch.Tensor([1.])    # 如正常则静默
+a.cuda()    # 如正常则返回"tensor([ 1.], device='cuda:0')"
+from torch.backends import cudnn # 如正常则静默
+cudnn.is_acceptable(a.cuda())    # 如正常则返回 "True"
 ```
 
-输出的结果代表当前tensorflow可以使用的GPU数量，如果把len去掉的话会得到对应的设备名。
+</CodeGroupItem>
 
-当然也有如下常见的测试方法：
+<CodeGroupItem title="TensorFlow Simple">
+```python
+print("Num GPUs Available: ", len(tf.config.experimental.list_physical_devices('GPU')))
+# 输出的结果代表当前tensorflow可以使用的GPU数量，如果把len去掉的话会得到对应的设备名。
+```
+
+</CodeGroupItem>
+
+<CodeGroupItem title="TensorFlow Normal">
 
 ```python
 import tensorflow as tf
@@ -694,35 +706,26 @@ model.compile(optimizer='adam',
 model.fit(x_train, y_train, epochs=5)
 
 model.evaluate(x_test,  y_test, verbose=2)
+
+# 得到如下结果即为正常：
+# 
+# Epoch 1/5
+# 1875/1875 [==============================] - 3s 2ms/step - loss: 0.2962 - accuracy: 0.9155
+# Epoch 2/5
+# 1875/1875 [==============================] - 3s 2ms/step - loss: 0.1420 - accuracy: 0.9581
+# Epoch 3/5
+# 1875/1875 [==============================] - 3s 2ms/step - loss: 0.1064 - accuracy: 0.9672
+# Epoch 4/5
+# 1875/1875 [==============================] - 3s 2ms/step - loss: 0.0885 - accuracy: 0.9730
+# Epoch 5/5
+# 1875/1875 [==============================] - 3s 2ms/step - loss: 0.0749 - accuracy: 0.9765
+# 313/313 - 0s - loss: 0.0748 - accuracy: 0.9778
+# 
+# [0.07484959065914154, 0.9778000116348267]
 ```
 
-得到如下结果即为正常：
-
-```
-Epoch 1/5
-1875/1875 [==============================] - 3s 2ms/step - loss: 0.2962 - accuracy: 0.9155
-Epoch 2/5
-1875/1875 [==============================] - 3s 2ms/step - loss: 0.1420 - accuracy: 0.9581
-Epoch 3/5
-1875/1875 [==============================] - 3s 2ms/step - loss: 0.1064 - accuracy: 0.9672
-Epoch 4/5
-1875/1875 [==============================] - 3s 2ms/step - loss: 0.0885 - accuracy: 0.9730
-Epoch 5/5
-1875/1875 [==============================] - 3s 2ms/step - loss: 0.0749 - accuracy: 0.9765
-313/313 - 0s - loss: 0.0748 - accuracy: 0.9778
-
-[0.07484959065914154, 0.9778000116348267]
-```
-
-### pytorch测试代码
-
-```python
-import torch    # 如正常则静默
-a = torch.Tensor([1.])    # 如正常则静默
-a.cuda()    # 如正常则返回"tensor([ 1.], device='cuda:0')"
-from torch.backends import cudnn # 如正常则静默
-cudnn.is_acceptable(a.cuda())    # 如正常则返回 "True"
-```
+</CodeGroupItem>
+</CodeGroup>
 
 ### Jupyter NoteBook安装与配置
 
