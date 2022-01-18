@@ -47,14 +47,14 @@ module.exports = config({
         docsBranch: "main",
         nav: navBarConfig.zh,
         // sidebar: sideBarConfig.zh,
-        sidebar: "auto",
-        locales: {
-            /** 英文设置 */
-            "/en/": {
-                nav: navBarConfig.en,
-                sidebar: sideBarConfig.en,
-            },
-        },
+        sidebar: false,
+        // locales: {
+        //     /** 英文设置 */
+        //     "/en/": {
+        //         nav: navBarConfig.en,
+        //         sidebar: sideBarConfig.en,
+        //     },
+        // },
 
         blog: {
             name: "𝕭𝖗𝖊𝖊𝖟𝖊 𝕾𝖍𝖆𝖓𝖊",
