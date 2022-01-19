@@ -27,10 +27,10 @@ module.exports = config({
 
     locales: {
         "/": { lang: "zh-CN" },
-        "/en/": {
-            title: "My name is Breeze Shane",
-            description: "Breeze Shane Personal Blog",
-        },
+        // "/en/": {
+        //     title: "My name is Breeze Shane",
+        //     description: "Breeze Shane Personal Blog",
+        // },
     },
 
     markdown: {
@@ -47,7 +47,75 @@ module.exports = config({
         docsBranch: "main",
         nav: navBarConfig.zh,
         // sidebar: sideBarConfig.zh,
-        sidebar: false,
+        sidebar: [
+            "/" /* / */,
+            {
+              title: "Aritficial Intelligence",
+              prefix: "/ArtificialIntelligence/",
+              children: [
+                  "",
+              ],
+            },
+            {
+              title: "Data Structures and Algorithms",
+              prefix: "/bar/",
+              children: [
+                "",
+              ],
+            },
+            {
+                title: "Blog",
+                prefix: "/BlogBuildingAndUsing/",
+                children: [
+                  "/BlogBuilding/",
+                  "/Markdown语法杂记/",
+                  "/LaTeX/",
+                  "/ChangeBlogTheme/",
+                  "/CreateNewFilebyShell/",
+                ],
+              },
+              {
+                title: "Linux",
+                prefix: "/Linux/",
+                children: [
+                  "/Manjaro安装与配置/",
+                  "/ZeroTier-One安装与使用/",
+                  "/记服务器搭建过程/",
+                  "/PrivateNetdiskBuilding/",
+                  "/ArcolinuxAndAwesomeWM/",
+                  "/AutoIAC/",
+                  "/Shells/",
+                  "/BuildingServer/",
+                ],
+              },
+              {
+                title: "Mathematics",
+                prefix: "/Mathematics/",
+                children: [
+                  "/LipschitzContinuity/",
+                  "/CongruenceExpression/",
+                ],
+              },
+              {
+                title: "Web",
+                prefix: "/Web/",
+                children: [
+                  "/HowtoForceCVWhenBanned/",
+                  "/Frontbackend/",
+                ],
+              },
+              {
+                title: "Python",
+                prefix: "/Python/",
+                children: [
+                    "/Crawler/"
+                ],
+              },
+            "/Windows10快捷键大全/",
+            "/VComputer/",
+            "/Git_Commands/",
+            "/about/",
+          ],
         // locales: {
         //     /** 英文设置 */
         //     "/en/": {

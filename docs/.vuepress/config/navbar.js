@@ -33,7 +33,7 @@ module.exports = {
         // },
     ]),
 
-    en: navbarConfig([
-        { text: "Home", link: "/en/", icon: "home" },
-    ]),
+    // en: navbarConfig([
+    //     { text: "Home", link: "/en/", icon: "home" },
+    // ]),
 };

@@ -10,8 +10,8 @@ tagline: You can put your slogan here
 heroFullScreen: true
 project:
   - type: project
-    name: EnlightenGAN
-    desc: This is what I'm building and improving!
+    name: NovelEnlightenGAN
+    desc: This is what I've built. It's based on GAN.
     link: https://github.com/BreezeShane/EnlightenGAN
 
   - type: link
