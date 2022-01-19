@@ -46,7 +46,7 @@ article: false
 
 开局第一步：换源。
 
-**按下<kbd>Meta</kbd>+<kbd>ENTER</kbd>或者<kbd>Meta</kbd>+<kbd>T</kbd>打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入`/etc/pacman,conf`内：
+**按下<kbd>Meta</kbd>+<kbd>ENTER</kbd>或者<kbd>Meta</kbd>+<kbd>T</kbd>打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入`/etc/pacman.conf`内：
 
 ```shell
 [archlinuxcn]
