@@ -111,6 +111,8 @@ fcitx5 &
 export QT_IM_MODULE=fcitx5
 ```
 
+::: danger 未必如此
+
 这时候你启动Fcitx5是可以正常使用的，但AwesomeWM并不会自动将它加入到自动启动菜单，因此我们也同样需要修改系统配置，在修改之前我建议先自行备份配置文件：`cp ~/.config/awesome/rc.lua ~/.config/awesome/rc.lua.backup`，然后编辑`~/.config/awesome/rc.lua`，将下面的代码加入配置文件即可：
 
 ```lua
@@ -135,6 +137,14 @@ end
 ```
 
 现在是想让Fcitx5开机自启动，那就可以把上面代码中的`NAME`改为`fcitx5`。保存之后，建议执行`awesome -k`来检查有无语法错误，最后可以按下<kbd>Meta</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>来重启AwesomeWM。注意，这样做也意味着每次你按下这一组快捷键，autorunApps数组里面的所有应用都会再次启动一次。现在重启一下就可以正式投入使用了。
+
+:::
+
+::: tip 简洁思路
+
+其实直接按下<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>A</kbd>启动软件菜单，运行一下Fcitx5 Configuration后调整输入法设置即可，无需手动添加启动项。
+
+:::
 
 ### 科学上网的配置
 

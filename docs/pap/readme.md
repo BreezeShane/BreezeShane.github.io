@@ -1,8 +1,7 @@
 ---
 title: 𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓
 date: 2021-05-06 20:47:08
-bgImage: /images/Wallpapers/fog_covered_dark_forest_hd_dark.jpg
-sidebar: false
+sidebar: true
 article: false
 comment: false
 ---
@@ -20,3 +19,12 @@ comment: false
     𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
     </font>
 </center>
+<style>
+.page{
+margin:0 auto;
+background-image: url(/images/Wallpapers/fog_covered_dark_forest_hd_dark.jpg);
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+</style>
