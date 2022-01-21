@@ -21,6 +21,7 @@ article: false
 
 1. [相关名词的概念](DeepLearning/RelativeConcepts.md)
 2. [相关的简单运算](DeepLearning/RelativeCompute.md)
+3. [范数](../Mathematics/Norm.md)
 3. [特征分解](DeepLearning/)
 4. [奇异值分解](DeepLearning/)
 5. [Moore-Penrose伪逆](DeepLearning/)
