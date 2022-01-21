@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 19 Jan 2022 14:49:05 GMT</pubDate>
-    <lastBuildDate>Wed, 19 Jan 2022 14:49:05 GMT</lastBuildDate>
+    <pubDate>Fri, 21 Jan 2022 09:15:13 GMT</pubDate>
+    <lastBuildDate>Fri, 21 Jan 2022 09:15:13 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -164,6 +164,7 @@
 <ol>
 <li><a href="./DeepLearning/RelativeConcepts.html">相关名词的概念</a></li>
 <li><a href="./DeepLearning/RelativeCompute.html">相关的简单运算</a></li>
+<li><a href="./../Mathematics/Norm.html">范数</a></li>
 <li><a href="./DeepLearning/">特征分解</a></li>
 <li><a href="./DeepLearning/">奇异值分解</a></li>
 <li><a href="./DeepLearning/">Moore-Penrose伪逆</a></li>
@@ -1320,7 +1321,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
       <link>https://breezeshane.github.io/ArtificialIntelligence/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Aritficial Intelligence</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <p><a href="./AIOverview.html">AI Overview</a></p>
 <p><a href="./EnvInstall.html">Environment Installing And Using</a></p>
@@ -6082,7 +6083,7 @@ import torch as pd
       <link>https://breezeshane.github.io/BlogBuildingAndUsing/</link>
       <guid>https://breezeshane.github.io/BlogBuildingAndUsing/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./BlogBuilding.html">Blog Building</a></li>
@@ -6101,7 +6102,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6126,7 +6127,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6141,7 +6142,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6660,7 +6661,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6683,7 +6684,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6694,7 +6695,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6714,7 +6715,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6725,7 +6726,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -6906,7 +6907,7 @@ $$
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</guid>
       <source url="https://breezeshane.github.io/rss.xml">定义</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -7855,7 +7856,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Data Structures and Algorithms</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="data-structures"> Data Structures</h2>
 <ol>
 <li><a href="./DataSructures/SequentialLinearList.html">Sequential Linear List</a></li>
@@ -8063,7 +8064,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
       <source url="https://breezeshane.github.io/rss.xml">Arcolinux &amp; AwesomeWM</source>
       <pubDate>Thu, 02 Dec 2021 12:00:21 GMT</pubDate>
       <content:encoded><![CDATA[<blockquote>
-<p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行<code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
+<p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 <code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
 </blockquote>
 <p>不过，这个路比Manjaro艰难得多就是了，ArcoLinuxB仅仅是比ArchLinux多了个桌面环境，我原本是有选择安装的，奈何网络质量问题，我无法如意，因此得到的ArcoLinux几乎相当于一台裸机……</p>
 <h2 id="arcolinux-安装"> ArcoLinux 安装</h2>
@@ -8078,7 +8079,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>在笔记本电脑上通常是按下<kbd>F12</kbd>或者<kbd>F2</kbd>来进入EFI启动选项界面，选择你的USB即可。</p>
 </li>
 <li>
-<p>**使用GParted手动划分硬盘分区。**我是折腾许久都无果失败后找到大佬帮助的，这才弄明白原来真正需要做的是：为你的系统划分一个EFI启动引导分区，推荐大小为<code>512MB</code>，虽然我真正安装后才知道实际只用了<code>1.30MB</code>，再划分好硬盘的一部分空间来存放你的系统，剩下的就用来存放你的数据，但要注意，划分好后别急着点击下一步，我们还有非常重要的配置还没写——先选择Manual partitioning选项，然后选择好刚才那个EFI启动引导分区，编辑它的属性，将flag修改为<code>/boot/efi</code>，一般不用选中<code>grub-boot</code>；然后将存放数据的硬盘分区中属性的flag一项修改为<code>/</code>。其他选项则自由发挥，自己安排，值得一提的是，我这次没有选择使用Plasma桌面系统，而是选择了AwesomeWM，因为我确信学会熟练使用它会大幅提高我的工作效率。</p>
+<p>**使用GParted手动划分硬盘分区。**我是折腾许久都无果失败后找到大佬帮助的，这才弄明白原来真正需要做的是：为你的系统划分一个EFI启动引导分区，推荐大小为 <code>512MB</code>，虽然我真正安装后才知道实际只用了 <code>1.30MB</code>，再划分好硬盘的一部分空间来存放你的系统，剩下的就用来存放你的数据，但要注意，划分好后别急着点击下一步，我们还有非常重要的配置还没写——先选择Manual partitioning选项，然后选择好刚才那个EFI启动引导分区，编辑它的属性，将flag修改为 <code>/boot/efi</code>，一般不用选中 <code>grub-boot</code>；然后将存放数据的硬盘分区中属性的flag一项修改为 <code>/</code>。其他选项则自由发挥，自己安排，值得一提的是，我这次没有选择使用Plasma桌面系统，而是选择了AwesomeWM，因为我确信学会熟练使用它会大幅提高我的工作效率。</p>
 </li>
 <li>
 <p>等待安装好后就可以拔掉系统盘了，至此你的系统已经可以安装完毕了。</p>
@@ -8091,12 +8092,12 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p><strong>「注意」</strong>：AwesomeWM桌面系统与常见的桌面系统是完全不一样的逻辑，常见的桌面系统如Windows、Plasma/KDE、GNOME、XFCE等都是堆栈式桌面布局，而AwesomeWM和i3两者都是平铺式桌面布局，因此使用上有较大区别，最明显的是从前你所记住的绝大多数快捷键在这里全部无效，原因都是对不上号，执行同一功能的两个桌面系统对应的快捷键是截然不同的。出于这样的原因，我会在文章中穿插描述AwesomeWM的使用方式。</p>
 <p><strong>「重点」</strong>：AwesomeWM的配置文件在：<code>~/.config/awesome/rc.lua</code>这里，使用的语言正如你所见，是Lua。另外在学习使用的时候请按<kbd>Meta</kbd>+<kbd>S</kbd>打开帮助窗口来查看各种操作的使用，建议都亲自敲一遍，这样入门快。</p>
 <p>开局第一步：换源。</p>
-<p>**按下<kbd>Meta</kbd>+<kbd>ENTER</kbd>或者<kbd>Meta</kbd>+<kbd>T</kbd>打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入<code>/etc/pacman.conf</code>内：</p>
+<p>**按下<kbd>Meta</kbd>+<kbd>ENTER</kbd>或者<kbd>Meta</kbd>+<kbd>T</kbd>打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入 <code>/etc/pacman.conf</code>内：</p>
 <div><pre><code><span>[</span>archlinuxcn<span>]</span>
 SigLevel <span>=</span> Optional TrustedOnly
 Server <span>=</span> https://mirrors.ustc.edu.cn/archlinuxcn/<span>$arch</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>然后配置yay的镜像源顺序，要编辑<code>/etc/pacman.d/mirrorlist</code>，良心的是这个文件下已经将全球所有的镜像源都加入其中了，我们要做的是将文件后面的China部分移动到前面即可。我的做法是先sudo vim /etc/pacman.d/mirrorlist，然后用鼠标选中China这一部分的地址，键盘输入<kbd>&quot;+y</kbd>(表示复制选中的内容到系统剪贴板📋)，然后将光标移动到文件开头，直接用键盘键入<kbd>p</kbd>即可将刚才复制的内容粘贴上去，保存退出即可。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>然后配置yay的镜像源顺序，要编辑 <code>/etc/pacman.d/mirrorlist</code>，良心的是这个文件下已经将全球所有的镜像源都加入其中了，我们要做的是将文件后面的China部分移动到前面即可。我的做法是先sudo vim /etc/pacman.d/mirrorlist，然后用鼠标选中China这一部分的地址，键盘输入<kbd>&quot;+y</kbd>(表示复制选中的内容到系统剪贴板📋)，然后将光标移动到文件开头，直接用键盘键入<kbd>p</kbd>即可将刚才复制的内容粘贴上去，保存退出即可。</p>
 <h2 id="awesomewm-配置"> AwesomeWM 配置</h2>
 <h3 id="awesomewm中较简单的软件安装"> AwesomeWM中较简单的软件安装</h3>
 <div><pre><code><span># 因为有些软件安装过于简单，只是执行安装语句即可完成的事，我就都集中写在这里了。</span>
@@ -8127,19 +8128,19 @@ yay -S fim <span># 终端平台的图片查看器</span>
 yay -S fcitx5-pinyin-moegirl fcitx5-pinyin-zhwiki
 <span># 安装词库</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这时AwesomeWM下配置输入法不太一样，需要将以下内容写入<code>~/.pam_environment</code>：</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这时AwesomeWM下配置输入法不太一样，需要将以下内容写入 <code>~/.pam_environment</code>：</p>
 <div><pre><code>GTK_IM_MODULE <span>DEFAULT</span><span>=</span>fcitx
 QT_IM_MODULE  <span>DEFAULT</span><span>=</span>fcitx
 <span>XMODIFIERS</span>    <span>DEFAULT</span><span>=</span><span>\</span>@im<span>=</span>fcitx
 INPUT_METHOD  <span>DEFAULT</span><span>=</span>fcitx
 SDL_IM_MODULE <span>DEFAULT</span><span>=</span>fcitx
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后将下面的代码写入<code>~/.xprofile</code>即可：</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后将下面的代码写入 <code>~/.xprofile</code>即可：</p>
 <div><pre><code>fcitx5 <span>&amp;</span>
 <span>export</span> <span>QT_IM_MODULE</span><span>=</span>fcitx5
 </code></pre>
 <div><span>1</span><br><span>2</span><br></div></div><div><p>未必如此</p>
-<p>这时候你启动Fcitx5是可以正常使用的，但AwesomeWM并不会自动将它加入到自动启动菜单，因此我们也同样需要修改系统配置，在修改之前我建议先自行备份配置文件：<code>cp ~/.config/awesome/rc.lua ~/.config/awesome/rc.lua.backup</code>，然后编辑<code>~/.config/awesome/rc.lua</code>，将下面的代码加入配置文件即可：</p>
+<p>这时候你启动Fcitx5是可以正常使用的，但AwesomeWM并不会自动将它加入到自动启动菜单，因此我们也同样需要修改系统配置，在修改之前我建议先自行备份配置文件：<code>cp ~/.config/awesome/rc.lua ~/.config/awesome/rc.lua.backup</code>，然后编辑 <code>~/.config/awesome/rc.lua</code>，将下面的代码加入配置文件即可：</p>
 <div><pre><code><span>-- Autostart applications</span>
 awful<span>.</span>spawn<span>.</span><span>with_shell</span><span>(</span><span>"~/.config/awesome/autostart.sh"</span><span>)</span>
 awful<span>.</span>spawn<span>.</span><span>with_shell</span><span>(</span><span>"picom -b --config  $HOME/.config/awesome/picom.conf"</span><span>)</span>
@@ -8159,7 +8160,7 @@ autorunApps <span>=</span>
 	<span>end</span>
 <span>end</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><p>现在是想让Fcitx5开机自启动，那就可以把上面代码中的<code>NAME</code>改为<code>fcitx5</code>。保存之后，建议执行<code>awesome -k</code>来检查有无语法错误，最后可以按下<kbd>Meta</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>来重启AwesomeWM。注意，这样做也意味着每次你按下这一组快捷键，autorunApps数组里面的所有应用都会再次启动一次。现在重启一下就可以正式投入使用了。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><p>现在是想让Fcitx5开机自启动，那就可以把上面代码中的 <code>NAME</code>改为 <code>fcitx5</code>。保存之后，建议执行 <code>awesome -k</code>来检查有无语法错误，最后可以按下<kbd>Meta</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>来重启AwesomeWM。注意，这样做也意味着每次你按下这一组快捷键，autorunApps数组里面的所有应用都会再次启动一次。现在重启一下就可以正式投入使用了。</p>
 </div>
 <div><p>简洁思路</p>
 <p>其实直接按下<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>A</kbd>启动软件菜单，运行一下Fcitx5 Configuration后调整输入法设置即可，无需手动添加启动项。</p>
@@ -8169,30 +8170,33 @@ autorunApps <span>=</span>
 <p>这次我选用的还是Qv2ray，但要明白的是，它归根到底只是一个外部界面，真正使用的是V2ray核心。经过我较长时间的摸索发现，内核不止一个，除了要安装v2ray之外，还要安装xray。因此我们应该执行：</p>
 <div><pre><code>yay -S xray v2ray qv2ray
 </code></pre>
-<div><span>1</span><br></div></div><p>然后应该在<code>/etc/environment</code>配置文件中引入这样的全局变量：</p>
+<div><span>1</span><br></div></div><p>然后应该在 <code>/etc/environment</code>配置文件中引入这样的全局变量：</p>
 <div><pre><code><span>export</span> <span>http_proxy</span><span>=</span>http://127.0.0.1:8889
 <span>export</span> <span>https_proxy</span><span>=</span>http://127.0.0.1:8889
 <span>export</span> <span>ftp_proxy</span><span>=</span>http://127.0.0.1:8889
 <span>export</span> <span>rsync_proxy</span><span>=</span>http://127.0.0.1:8889
 <span>export</span> <span>no_proxy</span><span>=</span><span>'localhost,127.0.0.1,localaddress,.localdomain.com'</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后在Qv2ray中设置分组的订阅链接，更新订阅，选择节点后就可以开始科学上网了。要注意的是，写入<code>/etc/environment</code>文件的地址应当是本机内网地址，一般选用localhost就够用了，后面跟的端口号应该与Qv2ray上HTTP代理的端口号是一致的。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后在Qv2ray中设置分组的订阅链接，更新订阅，选择节点后就可以开始科学上网了。要注意的是，写入 <code>/etc/environment</code>文件的地址应当是本机内网地址，一般选用localhost就够用了，后面跟的端口号应该与Qv2ray上HTTP代理的端口号是一致的。</p>
+<div><p>注意</p>
+<p>我尝试过只安装v2ray和qv2ray的方案，但是发现它并不能稳定运行，只是能用上一小段时间然后就连不上了，因此仍然认为采取以上做法才是稳定妥当做法。</p>
+</div>
 <h3 id="设置系统非静默启动"> 设置系统非静默启动</h3>
-<p>这里的思路依旧是差不多的，依旧是编辑<code>/etc/default/grub</code>文件，从中寻找<code>GRUB_CMDLINE_LINUX_DEFAULT</code>这一关键字修改，把引号中的quiet参数去掉。</p>
-<p>但到此还没完。你会发现当你执行<code>sudo update-grub</code>的时候会报错，导致无法正常进行。但这不意味着我们没有办法，没有这个脚本，我们就造一个。</p>
+<p>这里的思路依旧是差不多的，依旧是编辑 <code>/etc/default/grub</code>文件，从中寻找 <code>GRUB_CMDLINE_LINUX_DEFAULT</code>这一关键字修改，把引号中的quiet参数去掉。</p>
+<p>但到此还没完。你会发现当你执行 <code>sudo update-grub</code>的时候会报错，导致无法正常进行。但这不意味着我们没有办法，没有这个脚本，我们就造一个。</p>
 <div><pre><code><span>#!/bin/sh</span>
 <span>set</span> -e
 <span>exec</span> <span>grub-mkconfig</span> -o /boot/grub/grub.cfg <span>"<span>$@</span>"</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>将以上代码写入<code>/usr/sbin/update-grub</code>脚本后再重新执行<code>sudo update-grub</code>即可。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>将以上代码写入 <code>/usr/sbin/update-grub</code>脚本后再重新执行 <code>sudo update-grub</code>即可。</p>
 <h3 id="配置logid"> 配置Logid</h3>
-<p>详见<a href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/#logid%E4%BD%BF%E7%94%A8" target="_blank" rel="noopener noreferrer">此处</a>，两者配置几乎一致，这里就不再赘述了，另外，如果不知道自己的设备名称应该是如何的，可以通过执行<code>sudo logid -v</code>来查看设备名，输出的信息里会写的，注意看提示。</p>
+<p>详见<a href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/#logid%E4%BD%BF%E7%94%A8" target="_blank" rel="noopener noreferrer">此处</a>，两者配置几乎一致，这里就不再赘述了，另外，如果不知道自己的设备名称应该是如何的，可以通过执行 <code>sudo logid -v</code>来查看设备名，输出的信息里会写的，注意看提示。</p>
 <h3 id="配置anaconda及测试"> 配置Anaconda及测试</h3>
 <p>详见<a href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/#windows-10-manjaro%E4%B8%8B%E7%9A%84anaconda%E9%85%8D%E7%BD%AE" target="_blank" rel="noopener noreferrer">此处</a>，这里也不做赘述了。</p>
 <h3 id="开机自动挂载硬盘"> 开机自动挂载硬盘</h3>
 <p>经本人亲自配置，确认是没有区别，因此可以参考<a href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/#%E5%BC%80%E6%9C%BA%E6%8C%82%E8%BD%BDntfs%E7%A1%AC%E7%9B%98" target="_blank" rel="noopener noreferrer">这里</a>修改</p>
 <h3 id="sudo免密问题"> sudo免密问题</h3>
-<p>和Manjaro不同，这里应该执行<code>sudo visudo</code>命令来编辑配置文件，并在最后加入：</p>
+<p>和Manjaro不同，这里应该执行 <code>sudo visudo</code>命令来编辑配置文件，并在最后加入：</p>
 <div><pre><code><span>&lt;YOURUSERNAME> ALL=(ALL) NOPASSWD</span><span>:</span> ALL
 </code></pre>
 <div><span>1</span><br></div></div><p>保存后就可以生效了。</p>
@@ -8211,7 +8215,7 @@ awful<span>.</span><span>key</span><span>(</span><span>{</span> <span>}</span><s
 <div><pre><code><span>sudo</span> pacman -Rs xorg-xbacklight
 <span>sudo</span> pacman -S acpilight
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>按照网友的说法，这个时候应该奏效的，还是没有任何反应，于是我尝试使用了Root权限执行，果然有效，但又考虑到，我不可能在按下键的时候还要去输入sudo的密码，而且系统也不会给我这个提示信息，那么我应该怎么做呢？执行过<code>xbacklight -inc 10</code>后得到这样的输出：</p>
+<div><span>1</span><br><span>2</span><br></div></div><p>按照网友的说法，这个时候应该奏效的，还是没有任何反应，于是我尝试使用了Root权限执行，果然有效，但又考虑到，我不可能在按下键的时候还要去输入sudo的密码，而且系统也不会给我这个提示信息，那么我应该怎么做呢？执行过 <code>xbacklight -inc 10</code>后得到这样的输出：</p>
 <div><pre><code>/usr/bin/xbacklight: <span>[</span>Errno <span>13</span><span>]</span> Permission denied: '/sys/class/backlight/intel_backlight/brightness
 </code></pre>
 <div><span>1</span><br></div></div><p>显然是权限问题，改写一下文件的权限就可以完全解决问题了：</p>
@@ -8361,7 +8365,9 @@ awful<span>.</span><span>key</span><span>(</span><span>{</span><span>}</span><sp
     <span>{</span>description <span>=</span> <span>"&lt;YOUR DISCRIPTION>"</span><span>,</span> group <span>=</span> <span>"&lt;YOUR KEY GROUP NAME>"</span><span>}</span><span>)</span><span>,</span> 
 <span>-- 如果加上了第三行这部分内容，你将会在帮助窗口中看到它。</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>按键名称大多数情况下你可以通过执行<code>xev</code>来查看你所按下按键的名称，但亲测发现功能性按键是无法看到名字的，或许会有别的办法，至少只是使用<code>xev</code>是看不了的。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><p>提示</p>
+<p>按键名称大多数情况下你可以通过执行 <code>xev</code>来查看你所按下按键的名称，但亲测发现功能性按键是无法看到名字的，或许会有别的办法，至少只是使用 <code>xev</code>是看不了的。</p>
+</div>
 <h3 id="配置显示器扩展方式"> 配置显示器扩展方式</h3>
 <p>时隔许久，今天我终于学会如何配置显示器扩展方式了！实现的了灵感其实来自这条命令：</p>
 <div><pre><code><span>sudo</span> journalctl
@@ -8376,20 +8382,20 @@ awful<span>.</span><span>key</span><span>(</span><span>{</span><span>}</span><sp
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>我这时才知道，系统有自带autorandr的，并且我目前没能扩展屏幕也正是因为缺少了关键的配置文件，于是我马上开始查询xrandr、arandr等相关资料，最后我终于弄明白如何调整了：</p>
 <p>由于我在使用三个显示器，因此配置起来相对要麻烦些。</p>
-<p>本次使用<code>xrandr</code>中我用的参数有<code>--output</code>、<code>--auto</code>、<code>--rate</code>、<code>--rotate</code>、<code>--left-to</code>和<code>--above</code>。</p>
+<p>本次使用 <code>xrandr</code>中我用的参数有 <code>--output</code>、<code>--auto</code>、<code>--rate</code>、<code>--rotate</code>、<code>--left-to</code>和 <code>--above</code>。</p>
 <ul>
-<li><code>--output</code>：该参数后面要写接口名称，表示输出到指定接口，可通过<code>xrandr</code>查看当前显示器所有的接口名称。</li>
+<li><code>--output</code>：该参数后面要写接口名称，表示输出到指定接口，可通过 <code>xrandr</code>查看当前显示器所有的接口名称。</li>
 <li><code>--auto</code>：表示自动调节分辨率。</li>
 <li><code>--rate</code>：该参数后面要写数值，表示设定刷新率。</li>
 <li><code>--rotate</code>：该参数后面要写方向，表示屏幕翻转方向。</li>
-<li><code>--left-to</code>：该参数后面要写接口名称，表示屏幕接在该接口对应屏幕的左侧，与之对应的有<code>--right-to</code>。</li>
-<li><code>--above</code>：该参数后面要写接口名称，表示屏幕接在该接口连接的屏幕的上方，与之对应的有<code>--below</code>。</li>
+<li><code>--left-to</code>：该参数后面要写接口名称，表示屏幕接在该接口对应屏幕的左侧，与之对应的有 <code>--right-to</code>。</li>
+<li><code>--above</code>：该参数后面要写接口名称，表示屏幕接在该接口连接的屏幕的上方，与之对应的有 <code>--below</code>。</li>
 </ul>
 <p>弄明白这些基本参数说明之后，要做的应该是选中一个位于高处的显示器为基准屏幕「可以不是Primary屏幕」，我选择了放在高处的横向屏幕，选择了向左扩展，然后在笔记本显示器这里选择了向上扩展，就这样扩展即可成功实现我的预期。</p>
 <div><pre><code>xrandr --output eDP-1 --auto --rate <span>60</span> --rotate normal --output DP-1 --auto --rate <span>60</span> --rotate left --left-of HDMI-1 --output HDMI-1 --auto --rate <span>60</span> --rotate normal --above eDP-1
 </code></pre>
-<div><span>1</span><br></div></div><p>但我是做完了这些之后才发现，有可以使用的GUI工具<code>arandr</code>。。。</p>
-<p>但是做这些其实还不够，这样修改只是临时修改，重启后还是一切还原的，因此我们还需要使用系统自带的<code>autorandr</code>来实现，执行：</p>
+<div><span>1</span><br></div></div><p>但我是做完了这些之后才发现，有可以使用的GUI工具 <code>arandr</code>。。。</p>
+<p>但是做这些其实还不够，这样修改只是临时修改，重启后还是一切还原的，因此我们还需要使用系统自带的 <code>autorandr</code>来实现，执行：</p>
 <div><pre><code>autorandr --save <span>&lt;</span>YOUR_CONFIG_NAME<span>></span>
 autorandr --default <span>&lt;</span>YOUR_CONFIG_NAME<span>></span>
 <span># 上面这一行是用来设置默认的显示器默认配置方案的。</span>
@@ -8407,18 +8413,18 @@ autorandr --default <span>&lt;</span>YOUR_CONFIG_NAME<span>></span>
 <blockquote>
 <p><strong>提问：</strong></p>
 <p>我正在使用<a href="https://github.com/l0b0/tilde/blob/master/.screenlayout/right-tack.sh" target="_blank" rel="noopener noreferrer"><code>xrandr</code>脚本</a>来设置屏幕尺寸和旋转角度。在这种情况下，一个屏幕处于横向模式，另一个屏幕旋转。如何在<a href="https://github.com/l0b0/tilde/blob/master/.config/awesome/rc.lua" target="_blank" rel="noopener noreferrer">Awesome WM配置中</a>检测到这种旋转？</p>
-<p>目标是设置标签布局，以便沿屏幕的短轴划分窗口。即，<code>awful.layout.suit.tile</code>在横向模式下使用的标签将<code>awful.layout.suit.tile.bottom</code>在纵向模式下使用。也就是说，而不是这样：</p>
+<p>目标是设置标签布局，以便沿屏幕的短轴划分窗口。即，<code>awful.layout.suit.tile</code>在横向模式下使用的标签将 <code>awful.layout.suit.tile.bottom</code>在纵向模式下使用。也就是说，而不是这样：</p>
 <p><img src="/images/ArcolinuxAndAwesomeWM.assets/ZdCM1.png" alt="" /></p>
 <p>我要这个：</p>
 <p><img src="/images/ArcolinuxAndAwesomeWM.assets/LPcau.png" alt="" /></p>
 <p><strong>解答：</strong></p>
-<p>假设您在以下布局中定义了以下布局<code>rc.lua</code>：</p>
+<p>假设您在以下布局中定义了以下布局 <code>rc.lua</code>：</p>
 <div><pre><code>awful<span>.</span>layout<span>.</span>layouts <span>=</span> <span>{</span>
    awful<span>.</span>layout<span>.</span>suit<span>.</span>tile<span>,</span>
    awful<span>.</span>layout<span>.</span>suit<span>.</span>tile<span>.</span>bottom<span>,</span>
 <span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>使用<code>awful.screen.connect_for_each_screen(func)</code>，您可以为每个现有的和将来创建的屏幕调用一个函数。您很有可能已经打过电话<code>rc.lua</code>了（例如设置墙纸或创建标签）。根据您的配置，您需要以下内容：</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>使用 <code>awful.screen.connect_for_each_screen(func)</code>，您可以为每个现有的和将来创建的屏幕调用一个函数。您很有可能已经打过电话 <code>rc.lua</code>了（例如设置墙纸或创建标签）。根据您的配置，您需要以下内容：</p>
 <div><pre><code>awful<span>.</span>screen<span>.</span><span>connect_for_each_screen</span><span>(</span><span>function</span><span>(</span>s<span>)</span>
    <span>if</span> s<span>.</span>geometry<span>.</span>width <span>>=</span> s<span>.</span>geometry<span>.</span>height <span>then</span>
      awful<span>.</span><span>tag</span><span>(</span><span>{</span> <span>"1"</span><span>,</span> <span>"2"</span><span>,</span> <span>"3"</span><span>,</span> <span>"4"</span><span>,</span> <span>"5"</span><span>,</span> <span>"6"</span><span>,</span> <span>"7"</span><span>,</span> <span>"8"</span><span>,</span> <span>"9"</span><span>,</span> <span>"0"</span> <span>}</span><span>,</span> s<span>,</span> awful<span>.</span>layout<span>.</span>layouts<span>[</span><span>1</span><span>]</span><span>)</span>
@@ -8479,8 +8485,8 @@ awful<span>.</span>screen<span>.</span><span>connect_for_each_screen</span><span
     s<span>.</span>systray<span>.</span>visible <span>=</span> <span>true</span>
  <span>end</span><span>)</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br></div></div><p>现在很明显了，在第一行这里，从系统启动一开始就已经初始化十个tag了，然后到调用<code>awful.screen.connect_for_each_screen</code>这个函数的时候，通过这个语句<code>awful.tag</code>就又创建新的十个tag，因此对应的解决办法显然是——删除<code>awful.util.tagnames</code>内的所有内容。</p>
-<p>不是删除<code>awful.util.tagnames</code>！不是删除<code>awful.util.tagnames</code>！不是删除<code>awful.util.tagnames</code>！删除它会改崩桌面系统的，因为初始化的基本容器被删掉了，<code>awful.tag</code>在尝试加入新的tag时会找不到这个基本容器，所以设置为空即可，修改后的代码如下：</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br></div></div><p>现在很明显了，在第一行这里，从系统启动一开始就已经初始化十个tag了，然后到调用 <code>awful.screen.connect_for_each_screen</code>这个函数的时候，通过这个语句 <code>awful.tag</code>就又创建新的十个tag，因此对应的解决办法显然是——删除 <code>awful.util.tagnames</code>内的所有内容。</p>
+<p>不是删除 <code>awful.util.tagnames</code>！不是删除 <code>awful.util.tagnames</code>！不是删除 <code>awful.util.tagnames</code>！删除它会改崩桌面系统的，因为初始化的基本容器被删掉了，<code>awful.tag</code>在尝试加入新的tag时会找不到这个基本容器，所以设置为空即可，修改后的代码如下：</p>
 <div><pre><code>awful<span>.</span>util<span>.</span>tagnames <span>=</span> <span>{</span>  <span>}</span>
 <span>......</span>
 awful<span>.</span>layout<span>.</span>layouts <span>=</span> <span>{</span>
@@ -8526,9 +8532,9 @@ awful<span>.</span>screen<span>.</span><span>connect_for_each_screen</span><span
 <div><pre><code><span>sudo</span> hostnamectl set-hostname <span>&lt;</span>NAMEYOULIKE<span>></span>
 </code></pre>
 <div><span>1</span><br></div></div><h3 id="给urxvt添加多标签功能"> 给URxvt添加多标签功能</h3>
-<p>修改<code>~/.Xresources</code>文件，搜索其中的<code>URxvt.perl-ext-common</code>字样，在后面添加<code>,tabbed</code>后执行<code>xrdb -merge ~/.Xresources</code>即可。</p>
+<p>修改 <code>~/.Xresources</code>文件，搜索其中的 <code>URxvt.perl-ext-common</code>字样，在后面添加 <code>,tabbed</code>后执行 <code>xrdb -merge ~/.Xresources</code>即可。</p>
 <h3 id="让urxvt支持组合键"> 让URxvt支持组合键</h3>
-<p>如果你喜欢使用<kbd>Ctrl</kbd>+<kbd>Arrow</kbd>类的组合键，但是你发现它在URxvt这里并不生效，其实是需要修改<code>~/.Xresources</code>配置文件的：</p>
+<p>如果你喜欢使用<kbd>Ctrl</kbd>+<kbd>Arrow</kbd>类的组合键，但是你发现它在URxvt这里并不生效，其实是需要修改 <code>~/.Xresources</code>配置文件的：</p>
 <p>在该文件下任意一个比较合适的地方添加如下的配置：</p>
 <div><pre><code>! enable some control keymap.
 URxvt.keysym.Control-Up:     \033[1;5A
@@ -8536,25 +8542,30 @@ URxvt.keysym.Control-Down:   \033[1;5B
 URxvt.keysym.Control-Left:   \033[1;5D
 URxvt.keysym.Control-Right:  \033[1;5C
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后执行<code>xrdb -merge ~/.Xresources</code>，重启一下，即可生效。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后执行 <code>xrdb -merge ~/.Xresources</code>，重启一下，即可生效。</p>
 <h3 id="添加锁屏功能"> 添加锁屏功能</h3>
-<p>如果希望能使用热键来锁定系统的话，需要稍微折腾一下，下载安装<code>xscreensaver</code>，执行：<code>sudo pacman -S xscreensaver</code>，然后要编辑<code>~/.xinitrc</code>文件，在结尾处添加：<code>xscreensaver -no-splash &amp;</code>，并且需要在<code>~/.Xresources</code>文件中寻找<code>my_table.join</code>的字样，添加：</p>
+<div><p>风险提示</p>
+<p>使用这个东西时应该做好心理准备，我使用一段时间后发现它有个缺陷，不知是什么时候，它就可能彻底锁死计算机。</p>
+<p>这里锁死的含义就是即使你输入了十分正确的密码，依旧会认为你输入错误。</p>
+<p>也正是这种原因，我弃用了这个锁屏。</p>
+</div>
+<p>如果希望能使用热键来锁定系统的话，需要稍微折腾一下，下载安装 <code>xscreensaver</code>，执行：<code>sudo pacman -S xscreensaver</code>，然后要编辑 <code>~/.xinitrc</code>文件，在结尾处添加：<code>xscreensaver -no-splash &amp;</code>，并且需要在 <code>~/.Xresources</code>文件中寻找 <code>my_table.join</code>的字样，添加：</p>
 <div><pre><code>awful<span>.</span><span>key</span><span>(</span><span>{</span> modkey <span>}</span><span>,</span> <span>"l"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> awful<span>.</span>util<span>.</span><span>spawn</span><span>(</span> <span>"xscreensaver-command -lock"</span> <span>)</span> <span>end</span><span>,</span>
     <span>{</span> description <span>=</span> <span>"Screen lock"</span><span>,</span> group <span>=</span> <span>"global keys"</span> <span>}</span><span>)</span><span>,</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br></div></div><p>然后按下<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>重启一下AwesomeWM即可生效。</p>
-<p>按理说这时候应该每次开机启动都可以生效的，但我发现并没有，于是我就修改了<code>~/.config/awesome/autostart.sh</code>来设定自动启动<code>xscreensaver</code>。</p>
+<p>按理说这时候应该每次开机启动都可以生效的，但我发现并没有，于是我就修改了 <code>~/.config/awesome/autostart.sh</code>来设定自动启动 <code>xscreensaver</code>。</p>
 <div><pre><code><span>vim</span> ~/.config/awesome/autostart.sh
 <span># 按下G跳转到最后一行，再按下Shift+4跳转到最后一个字符，添加下面一行</span>
 run xscreensaver -no-splash
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存退出后即可自动启动该程序。</p>
-<h2 id="virtual-machine-manager安装与配置"> Virtual Machine Manager安装与配置</h2>
+<h3 id="virtual-machine-manager安装与配置"> Virtual Machine Manager安装与配置</h3>
 <p>即使目前我已经是全栈使用Linux，但总会有那种时候，我是必须要使用Windows才行的，而我已经把原来的Windows系统完全删除掉了，因此我必须提前做好准备，先安装配置好虚拟机来以备不时之需。</p>
 <p>首先要确保你的系统是支持虚拟化的，执行下列命令来查看：</p>
 <div><pre><code><span><span>LC_ALL</span></span><span>=</span>C lscpu <span>|</span> <span>grep</span> Virtualization
 </code></pre>
-<div><span>1</span><br></div></div><p>如果是使用Intel CPU的话，会看到<code>VT-x</code>，如果是使用AMD的话会看到<code>AMD-V</code>。</p>
+<div><span>1</span><br></div></div><p>如果是使用Intel CPU的话，会看到 <code>VT-x</code>，如果是使用AMD的话会看到 <code>AMD-V</code>。</p>
 <p>接下来我们要安装相关组件：</p>
 <div><pre><code><span>sudo</span> pacman -S qemu libvirt ovmf virt-manager virt-viewer dnsmasq vde2 bridge-utils openbsd-netcat ebtables iptables libguestfs
 </code></pre>
@@ -8570,30 +8581,33 @@ newgrp libvirt
 <div><span>1</span><br><span>2</span><br></div></div><p>然后我们重启一下服务：</p>
 <div><pre><code><span>sudo</span> systemctl restart libvirtd.service
 </code></pre>
-<div><span>1</span><br></div></div><p>之后我们打开<code>virt-manager</code>，新建连接。选择<code>QEMU/KVM</code>后保持默认就可以开始新建虚拟机了！</p>
-<h2 id="将平板作为扩展屏幕使用"> 将平板作为扩展屏幕使用</h2>
+<div><span>1</span><br></div></div><p>之后我们打开 <code>virt-manager</code>，新建连接。选择 <code>QEMU/KVM</code>后保持默认就可以开始新建虚拟机了！</p>
+<h3 id="将平板作为扩展屏幕使用"> 将平板作为扩展屏幕使用</h3>
 <p>家里的显示器数量有限，但又不能因此就再买一个显示器。又考虑到我手中还有一个平板，那么我就有办法让平板作为我的第三个屏幕。</p>
 <p>基本原理其实就是在电脑上自己手动添加一个视频信号输出，然后由服务端软件开放端口投出，最后由平板连接这个开放端口，达到显示第三屏幕的效果。</p>
-<p>注意，这种操作并非不受限制：</p>
+<div><p>注意</p>
+<p>这种操作并非不受限制：</p>
 <ol>
 <li>你首先要知道你的计算机最多能扩展多少个屏幕，在这里我的电脑能支持同时输出3个显示器设备。</li>
 <li>你还要知道你的每一个显卡的输出信号能力，即它最大的分辨率输出能力，比如我的显卡性能并不是特别强，最大只能输出1080P「1920✕1080」，那么如果我尝试让它输出2560✕1600的分辨率，这个肯定会失败的。</li>
-<li>服务端软件一般系统并不自带，因此需要用户自行安装，可以执行<code>sudo pacman -S x11vnc</code>来直接安装。</li>
+<li>服务端软件一般系统并不自带，因此需要用户自行安装，可以执行 <code>sudo pacman -S x11vnc</code>来直接安装。</li>
 </ol>
+</div>
 <p>了解了这些限制后我们就可以开始了：</p>
-<p>你可以事先</p>
 <ol>
 <li>
 <p>首先我们应该确定要输出的分辨率，并获取相关参数，执行</p>
 <div><pre><code>cvt <span>&lt;</span>X<span>></span> <span>&lt;</span>Y<span>></span> <span>&lt;</span>Z<span>></span>
 </code></pre>
-<div><span>1</span><br></div></div><p>这里的<code>&lt;X&gt;</code>、<code>&lt;Y&gt;</code>、<code>&lt;Z&gt;</code>分别表示分辨率宽、高和屏幕刷新率参数。如<code>cvt 1920 1080 60</code>表示分辨率为1920✕1080，屏幕刷新率为60Hz。
-你会得到类似这个的输出：</p>
+<div><span>1</span><br></div></div><div><p>提示</p>
+<p>这里的 <code>&lt;X&gt;</code>、<code>&lt;Y&gt;</code>、<code>&lt;Z&gt;</code>分别表示分辨率宽、高和屏幕刷新率参数。如 <code>cvt 1920 1080 60</code>表示分辨率为1920✕1080，屏幕刷新率为60Hz。</p>
+<p>你会得到类似这个的输出：</p>
 <div><pre><code> ❯ cvt <span>1920</span> <span>1080</span> <span>60</span>
  <span># 1920x1080 59.96 Hz (CVT 2.07M9) hsync: 67.16 kHz; pclk: 173.00 MHz</span>
  Modeline <span>"1920x1080_60.00"</span>  <span>173.00</span>  <span>1920</span> <span>2048</span> <span>2248</span> <span>2576</span>  <span>1080</span> <span>1083</span> <span>1088</span> <span>1120</span> -hsync +vsync
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></li>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></div>
+</li>
 <li>
 <p>获取到这些参数后我们还要复制好这些参数，并执行下面这个命令：</p>
 <div><pre><code>xrandr --newmode <span>"1920x1080_60.00"</span>  <span>173.00</span>  <span>1920</span> <span>2048</span> <span>2248</span> <span>2576</span>  <span>1080</span> <span>1083</span> <span>1088</span> <span>1120</span> -hsync +vsync
@@ -8603,26 +8617,131 @@ newgrp libvirt
 <p>新建好这个输出模式后再执行下面这个命令：</p>
 <div><pre><code>xrandr --addmode <span>&lt;</span>API<span>></span> 1920x1080_60.00
 </code></pre>
-<div><span>1</span><br></div></div><p>这里的<code>&lt;API&gt;</code>是指你输出的视频信号端口名称，如果觉得这里不清晰的话可以先执行<code>xrandr</code>来看看，执行完上面指令的时候就可以看到你新添加的输出模式了。</p>
-<p>另外，如果是希望扩展屏幕，建议<code>&lt;API&gt;</code>选取未连接状态的端口。不过如果只是希望复制屏幕的话，大可不必用这种方法。</p>
+<div><span>1</span><br></div></div><div><p>提示</p>
+<p>这里的 <code>&lt;API&gt;</code>是指你输出的视频信号端口名称，如果觉得这里不清晰的话可以先执行 <code>xrandr</code>来看看，执行完上面指令的时候就可以看到你新添加的输出模式了。</p>
+<p>另外，如果是希望扩展屏幕，建议 <code>&lt;API&gt;</code>选取未连接状态的端口。不过如果只是希望复制屏幕的话，大可不必用这种方法。</p>
+</div>
 </li>
 <li>
 <p>接下来你还要开启输出模式，做屏幕扩展，执行</p>
 <div><pre><code>xrandr --output <span>&lt;</span>API<span>></span> --mode 1920x1080_60.00 --right-of <span>&lt;</span>Other API<span>></span>
 </code></pre>
-<div><span>1</span><br></div></div><p>当然也可以使用其它参数，详细可以执行<code>xrandr --help</code>后关注<code>--output</code>下的其它参数。</p>
+<div><span>1</span><br></div></div><div><p>提示</p>
+<p>当然也可以使用其它参数，详细可以执行 <code>xrandr --help</code>后关注 <code>--output</code>下的其它参数。</p>
+</div>
 </li>
 <li>
-<p>最后你就需要使用<code>x11vnc</code>来开放端口，将这个新添加的屏幕输出出去，执行</p>
+<p>最后你就需要使用 <code>x11vnc</code>来开放端口，将这个新添加的屏幕输出出去，执行</p>
 <div><pre><code>x11vnc -clip 1920x1080+X+Y
 </code></pre>
-<div><span>1</span><br></div></div><p>这里的X表示扩展屏幕的起点横坐标，Y表示扩展屏幕的起点纵坐标。比如我现在在使用两个显示器，且分辨率都是1920✕1080，那么我在扩展第三个屏幕的时候就可以选择起点横坐标为3840，纵坐标为0。
-当然如果你希望它在后台运行，可以添加<code>-bg</code>来后台启动。</p>
-<p>如果希望设置密码，添加<code>-usepw</code>就可以了。使用这个参数时它会在<code>~/.vnc/passwd</code>中或<code>~/.vnc/passwdfile</code>第一行里找到密码，如果这些文件都不存在，则它会提示你输入密码，并保存在<code>~/.vnc/passwd</code>中。</p>
-<p>如果想指定端口的话需要添加参数<code>-rfbport PORT</code>，其中<code>PORT</code>要换为你想使用的端口号。</p>
+<div><span>1</span><br></div></div><div><p>提示</p>
+<p>这里的X表示扩展屏幕的起点横坐标，Y表示扩展屏幕的起点纵坐标。比如我现在在使用两个显示器，且分辨率都是1920✕1080，那么我在扩展第三个屏幕的时候就可以选择起点横坐标为3840，纵坐标为0。
+当然如果你希望它在后台运行，可以添加 <code>-bg</code>来后台启动。</p>
+<p>如果希望设置密码，添加 <code>-usepw</code>就可以了。使用这个参数时它会在 <code>~/.vnc/passwd</code>中或 <code>~/.vnc/passwdfile</code>第一行里找到密码，如果这些文件都不存在，则它会提示你输入密码，并保存在 <code>~/.vnc/passwd</code>中。</p>
+<p>如果想指定端口的话需要添加参数 <code>-rfbport PORT</code>，其中 <code>PORT</code>要换为你想使用的端口号。</p>
+</div>
 </li>
 </ol>
 <p>现在你可以在平板上连接电脑开放的端口来查看了。</p>
+<h3 id="手动安装字体"> 手动安装字体</h3>
+<p>因为URxvt的字体支持问题，我在使用Powerlevel10k时发现无法使用Unicode字符，因此需要按照官方文档给出的Manual Install方式去做：</p>
+<ol>
+<li>先下载字体，我选择了官方文档给出的<a href="https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf" target="_blank" rel="noopener noreferrer">MesloLGS NF Regular</a>下载链接。</li>
+<li>下载后将它移动到 <code>/usr/share/fonts/awesome-terminal-fonts</code>下。</li>
+<li>执行 <code>fc-cache -vf</code>来刷新字体库缓存。</li>
+</ol>
+<h3 id="更改urxvt字体"> 更改URxvt字体</h3>
+<p>安装好字体后，需要编辑 <code>～/.Xresources</code>文件，找到其中的段落：</p>
+<div><pre><code>! fonts
+URxvt.letterSpace: 	    		-1
+URxvt.font:                 	xft:Monospace:regular:size=11
+URxvt.imFont:               	xft:Monospace:regular:size=11
+URxvt.italicFont:           	xft:Monospace:italic:size=11
+URxvt.boldFont:             	xft:Monospace:bold:size=11
+URxvt.boldItalicFont:     	    xft:Monospace:regular:size=11
+! run :.!fc-list | grep &lt;font-name&gt;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>改成如下即可：</p>
+<div><pre><code>! fonts
+URxvt.letterSpace: 	    		-1
+URxvt.font:                 	xft:MesloLGS NF-20
+URxvt.imFont:               	xft:MesloLGS NF-20
+URxvt.italicFont:           	xft:MesloLGS NF-20
+URxvt.boldFont:             	xft:MesloLGS NF-20
+URxvt.boldItalicFont:     	    xft:MesloLGS NF-20
+! run :.!fc-list | grep &lt;font-name&gt;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p>保存退出后还需要执行 <code>xrdb -m ~/.Xresources</code></p>
+<p>重启一下终端，你就可以看到字体已被启用了。</p>
+<h3 id="组合键安全从容应对关机-重启卡死问题"> 组合键安全从容应对关机/重启卡死问题</h3>
+<p>最近发现每次重启都要等好久才能正常关机、重启，一般等一分半也就行了，但后来我发现，有的时候它会是这样做的：</p>
+<p>一直等待进程结束，写的上限是1min 30s，但到这个时间后又给上限加长，改到3min......最离谱的一次是直接让我等了十分钟多。</p>
+<p>于是我终于忍不了了，想起朋友有使用组合键就能完成强制重启，几番查找后发现，原来是使用了Magic SysRq组合键。</p>
+<div><p>维基百科</p>
+<p>Magic SysRq组合键是一串能直接与Linux 内核沟通的组合键，允许用户就算在系统进入死循环濒临崩溃时，直接调用系统底层将资料写入文件系统或重启，避免尚未写入文件系统与硬盘的数据在关机后消失。效果类似于电脑上的电源键或重启键，但能执行更多操作。</p>
+<p>此组合键提供一系列在系统崩溃时常用到的功能，比如上述的写入数据，或关闭 X Server 、Kill 进程、卸载 文件系统，也通常是死机时的最后手段。</p>
+<p>但在 linux 核心停止运作的情况下 Magic SysRq 无效，例如 kernel panic。</p>
+</div>
+<p>但是这个组合键功能在Arch系这里是默认关闭的。为了使用这个功能，我们需要做以下操作来开启这个功能：</p>
+<p>首先执行 <code>sudo echo &quot;kernel.sysrq = 1&quot; &gt; /etc/sysctl.d/99-sysctl.conf</code>来写入开启状态。</p>
+<p>然后执行如下命令：</p>
+<CodeGroup>
+<CodeGroupItem title="重载系统所有配置">
+<div><pre><code><span>sudo</span> sysctl --system
+</code></pre>
+<div><span>1</span><br></div></div></CodeGroupItem>
+<CodeGroupItem title="仅重载99-sysctl.conf配置文件">
+<div><pre><code><span>sudo</span> sysctl --load<span>=</span>/etc/sysctl.d/99-sysctl.conf
+</code></pre>
+<div><span>1</span><br></div></div></CodeGroupItem>
+</CodeGroup>
+<p>这样我们就启用了Magic SysRQ功能，下面我们看看如何使用这个功能：</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">KeyBoard Shortcut</th>
+<th style="text-align:center">Illustration</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>R</kbd></td>
+<td style="text-align:center">从 X 收回对键盘的控制</td>
+</tr>
+<tr>
+<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>E</kbd></td>
+<td style="text-align:center">向所有进程发送 SIGTERM 信号，让它们正常终止</td>
+</tr>
+<tr>
+<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>I</kbd></td>
+<td style="text-align:center">向所有进程发送 SIGKILL 信号，强制立即终止</td>
+</tr>
+<tr>
+<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>S</kbd></td>
+<td style="text-align:center">将待写数据写入磁盘</td>
+</tr>
+<tr>
+<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>U</kbd></td>
+<td style="text-align:center">卸载所有硬盘然后重新按只读模式挂载</td>
+</tr>
+<tr>
+<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd></td>
+<td style="text-align:center">重启</td>
+</tr>
+</tbody>
+</table>
+<p>通常我们在关机/重启之前都会做好保存工作，因此一般而言执行这三步就可以了：</p>
+<ol>
+<li><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>R</kbd></li>
+<li><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>E</kbd></li>
+<li><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>I</kbd></li>
+</ol>
+<div><p>注意</p>
+<p>第二步和第三步之间最好隔开1～2秒，不然做完第二步后立刻做第三步的话有可能导致有些本可以正常结束的进程被意外终止掉的结果，因此稍微等一下是妥当的做法。</p>
+<p>另外，第一步是关键，如果不夺取键盘，后面你试图发送的任何信息都无法发送。要说话，就得先抢过来“话筒”。</p>
+</div>
+<p>当系统中有内核高耗的进程导致系统卡顿时，可以使用 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>F</kbd> Magic SysRq 组合键唤醒 Linux Kernel 的 OOM（out of memory） Killer 杀死这些进程。使用这个组合键可以减少因内存高耗导致重启系统的次数，OMM Killer使用启发算法选取当前系统内存占用最高且不重要的进程进行杀死，所以当系统内存占用不高的情况下还是需要慎用。</p>
+<p>有关Magic SysRq的所有功能按键可以<a href="./MagicSysRq.html">点此查看</a></p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
@@ -9024,6 +9143,123 @@ rfkill: Cannot get wiphy information
 <h2 id="改建为局域网dns服务器"> 改建为局域网DNS服务器</h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Magic SysRq 组合键功能表</title>
+      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
+      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
+      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>说明</p>
+<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th style="text-align:center">按键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
+<td style="text-align:center"><kbd>0</kbd> ~ <kbd>9</kbd></td>
+</tr>
+<tr>
+<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
+<td style="text-align:center"><kbd>b</kbd></td>
+</tr>
+<tr>
+<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
+<td style="text-align:center"><kbd>c</kbd></td>
+</tr>
+<tr>
+<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
+<td style="text-align:center"><kbd>d</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>e</kbd></td>
+</tr>
+<tr>
+<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
+<td style="text-align:center"><kbd>f</kbd></td>
+</tr>
+<tr>
+<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
+<td style="text-align:center"><kbd>g</kbd></td>
+</tr>
+<tr>
+<td>将简洁的帮助文档打印至控制台</td>
+<td style="text-align:center"><kbd>h</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>i</kbd></td>
+</tr>
+<tr>
+<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
+<td style="text-align:center"><kbd>j</kbd></td>
+</tr>
+<tr>
+<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
+<td style="text-align:center"><kbd>k</kbd></td>
+</tr>
+<tr>
+<td>打印当前所有在线的 CPU 堆栈信息</td>
+<td style="text-align:center"><kbd>l</kbd></td>
+</tr>
+<tr>
+<td>打印当前的内存信息在控制台</td>
+<td style="text-align:center"><kbd>m</kbd></td>
+</tr>
+<tr>
+<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
+<td style="text-align:center"><kbd>n</kbd></td>
+</tr>
+<tr>
+<td>关闭系统</td>
+<td style="text-align:center"><kbd>o</kbd></td>
+</tr>
+<tr>
+<td>打印当前的寄存器信息和 flags 信息在控制台</td>
+<td style="text-align:center"><kbd>p</kbd></td>
+</tr>
+<tr>
+<td>显示所有在线的高进度定时器和时钟源信息</td>
+<td style="text-align:center"><kbd>q</kbd></td>
+</tr>
+<tr>
+<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
+<td style="text-align:center"><kbd>r</kbd></td>
+</tr>
+<tr>
+<td>同步所有的已挂载的文件系统</td>
+<td style="text-align:center"><kbd>s</kbd></td>
+</tr>
+<tr>
+<td>打印当前的进程列表，以及他们的详细信息</td>
+<td style="text-align:center"><kbd>t</kbd></td>
+</tr>
+<tr>
+<td>重新挂载文件系统至只读模式</td>
+<td style="text-align:center"><kbd>u</kbd></td>
+</tr>
+<tr>
+<td>强制还原帧缓冲控制台</td>
+<td style="text-align:center"><kbd>v</kbd></td>
+</tr>
+<tr>
+<td>打印所有 D 状态（阻塞）的进程信息</td>
+<td style="text-align:center"><kbd>w</kbd></td>
+</tr>
+<tr>
+<td>转储 ftrace 缓冲区</td>
+<td style="text-align:center"><kbd>z</kbd></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
     </item>
     <item>
       <title>Manjaro Linux</title>
@@ -11629,7 +11865,7 @@ vncserver :1
       <link>https://breezeshane.github.io/Linux/</link>
       <guid>https://breezeshane.github.io/Linux/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<ol>
 <li><a href="./Manjaro安装与配置.html">Manjaro安装与配置</a></li>
 <li><a href="./ZeroTier-One安装与使用.html">ZeroTier-One安装与使用</a></li>
@@ -11972,7 +12208,7 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
       <link>https://breezeshane.github.io/Mathematics/</link>
       <guid>https://breezeshane.github.io/Mathematics/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Mathematics</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="目录"> 目录</h1>
 <ol>
 <li><a href="./LipschitzContinuity.html">Lipschitz Continuity</a></li>
@@ -12076,7 +12312,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/Python/</link>
       <guid>https://breezeshane.github.io/Python/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Python</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./Crawler.html">Crawler</a></li>
@@ -12360,7 +12596,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/Web/</link>
       <guid>https://breezeshane.github.io/Web/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Web</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./HowtoForceCVWhenBanned.html">How to Force CV When Banned</a></li>
@@ -12693,25 +12929,14 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/en/</link>
-      <guid>https://breezeshane.github.io/en/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
-      <content:encoded><![CDATA[<p>This is a blog home page.</p>
-<p>To use this layout, you should set both <code>blog: true</code> and <code>home: true</code> in the page front matter.</p>
-<p>For related configuration docs, please see <a href="https://vuepress-theme-hope.github.io/guide/blog/home/" target="_blank" rel="noopener noreferrer">blog homepage</a></p>
-]]></content:encoded>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
     </item>
     <item>
       <title>Intro Page</title>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -12721,7 +12946,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -12746,7 +12971,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -12808,7 +13033,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -12817,7 +13042,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -12830,7 +13055,7 @@ background-size: cover;
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -12855,7 +13080,7 @@ background-size: cover;
       <guid>https://breezeshane.github.io/zh/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -12870,7 +13095,7 @@ background-size: cover;
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -13387,7 +13612,7 @@ $$
       <guid>https://breezeshane.github.io/zh/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -13410,7 +13635,7 @@ $$
       <link>https://breezeshane.github.io/zh/home/</link>
       <guid>https://breezeshane.github.io/zh/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -13421,7 +13646,7 @@ $$
       <link>https://breezeshane.github.io/zh/layout/</link>
       <guid>https://breezeshane.github.io/zh/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>注意</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -13446,7 +13671,7 @@ $$
       <link>https://breezeshane.github.io/zh/</link>
       <guid>https://breezeshane.github.io/zh/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -13457,7 +13682,7 @@ $$
       <link>https://breezeshane.github.io/zh/slides/</link>
       <guid>https://breezeshane.github.io/zh/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 19 Jan 2022 14:48:08 GMT</pubDate>
+      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
