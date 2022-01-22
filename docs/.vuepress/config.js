@@ -53,7 +53,7 @@ module.exports = config({
               title: "Aritficial Intelligence",
               prefix: "/ArtificialIntelligence/",
               children: [
-                  "",
+                  "index",
               ],
             },
             {

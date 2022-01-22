@@ -81,7 +81,7 @@ $$
 当$p \rightarrow +\infty$时，
 
 $$
-\lVert\vec{x}\rVert_{\infty}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
+\lVert\vec{x}\rVert_{p}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
 $$
 
 --
@@ -89,7 +89,7 @@ $$
 当$p \rightarrow -\infty$时，
 
 $$
-\lVert\vec{x}\rVert_{\infty}=\lim_{p\rightarrow -\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\min_{i}|x_i|
+\lVert\vec{x}\rVert_{p}=\lim_{p\rightarrow -\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\min_{i}|x_i|
 $$
 
 该距离被称作无穷范数或最大范数。而且该距离也有另外一个名称：切比雪夫距离。
@@ -101,7 +101,7 @@ $$
 若有两个向量或两个点p和q，其坐标分别为$p_{i}$和$q_i$，则有
 
 $$
-D_{\rm {Chebyshev}}(p,q):=\max _{i}(|p_{i}-q_{i}|) = \lim_{k\to\infty}\bigg(\sum _{i=1}^{n}\left|p_{i}-q_{i}\right|^{k}\bigg)^{1/k},
+D_{\rm{Chebyshev}}(p,q):=\max_{i}(|p_{i}-q_{i}|) = \lim_{k\to\infty}\bigg(\sum_{i=1}^{n}\left|p_{i}-q_{i}\right|^{k}\bigg)^{1/k},
 $$
 
 @slideend
