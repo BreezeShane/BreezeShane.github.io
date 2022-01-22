@@ -61,6 +61,62 @@ module.exports = config({
                   "UnsupervisedLearning",
               ],
             },
+            {
+              title: "Data Structures and Algorithms",
+              prefix: "DataStructuresandAlgorithms/",
+              children: [
+                "",
+              ],
+            },
+            {
+                title: "Blog",
+                prefix: "BlogBuildingAndUsing/",
+                children: [
+                  "BlogBuilding",
+                  "Markdown语法杂记",
+                  "LaTeX",
+                  "ChangeBlogTheme",
+                  "CreateNewFilebyShell",
+                ],
+              },
+              {
+                title: "Linux",
+                prefix: "Linux/",
+                children: [
+                  "Manjaro安装与配置",
+                  "ZeroTier-One安装与使用",
+                  "记服务器搭建过程",
+                  "PrivateNetdiskBuilding",
+                  "ArcolinuxAndAwesomeWM",
+                  "AutoIAC",
+                  "Shells",
+                  "BuildingServer",
+                ],
+              },
+              {
+                title: "Mathematics",
+                prefix: "Mathematics/",
+                children: [
+                  "LipschitzContinuity",
+                  "CongruenceExpression",
+                  "Norm",
+                ],
+              },
+              {
+                title: "Web",
+                prefix: "Web/",
+                children: [
+                  "HowtoForceCVWhenBanned",
+                  "Frontbackend",
+                ],
+              },
+              {
+                title: "Python",
+                prefix: "Python/",
+                children: [
+                    "Crawler"
+                ],
+              },
             "Windows10快捷键大全",
             "VComputer",
             "Git_Commands",
