@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Jan 2022 10:54:11 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 10:54:11 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Jan 2022 10:59:20 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 10:59:20 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -1326,7 +1326,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
       <link>https://breezeshane.github.io/ArtificialIntelligence/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Aritficial Intelligence</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <p><a href="./AIOverview.html">AI Overview</a></p>
 <p><a href="./EnvInstall.html">Environment Installing And Using</a></p>
@@ -6088,7 +6088,7 @@ import torch as pd
       <link>https://breezeshane.github.io/BlogBuildingAndUsing/</link>
       <guid>https://breezeshane.github.io/BlogBuildingAndUsing/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./BlogBuilding.html">Blog Building</a></li>
@@ -6107,7 +6107,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6132,7 +6132,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6147,7 +6147,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6666,7 +6666,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6689,7 +6689,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6700,7 +6700,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6720,7 +6720,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6731,7 +6731,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -6912,7 +6912,7 @@ $$
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</guid>
       <source url="https://breezeshane.github.io/rss.xml">定义</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -7861,7 +7861,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Data Structures and Algorithms</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="data-structures"> Data Structures</h2>
 <ol>
 <li><a href="./DataSructures/SequentialLinearList.html">Sequential Linear List</a></li>
@@ -11870,7 +11870,7 @@ vncserver :1
       <link>https://breezeshane.github.io/Linux/</link>
       <guid>https://breezeshane.github.io/Linux/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<ol>
 <li><a href="./Manjaro安装与配置.html">Manjaro安装与配置</a></li>
 <li><a href="./ZeroTier-One安装与使用.html">ZeroTier-One安装与使用</a></li>
@@ -12155,7 +12155,7 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
       <link>https://breezeshane.github.io/Mathematics/</link>
       <guid>https://breezeshane.github.io/Mathematics/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Mathematics</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="目录"> 目录</h1>
 <ol>
 <li><a href="./LipschitzContinuity.html">Lipschitz Continuity</a></li>
@@ -12260,7 +12260,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/Python/</link>
       <guid>https://breezeshane.github.io/Python/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Python</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./Crawler.html">Crawler</a></li>
@@ -12544,7 +12544,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/Web/</link>
       <guid>https://breezeshane.github.io/Web/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Web</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./HowtoForceCVWhenBanned.html">How to Force CV When Banned</a></li>
@@ -12877,14 +12877,14 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
     </item>
     <item>
       <title>Intro Page</title>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -12894,7 +12894,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -12919,7 +12919,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -12981,7 +12981,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -12990,7 +12990,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -13003,7 +13003,7 @@ background-size: cover;
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -13028,7 +13028,7 @@ background-size: cover;
       <guid>https://breezeshane.github.io/zh/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -13043,7 +13043,7 @@ background-size: cover;
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -13560,7 +13560,7 @@ $$
       <guid>https://breezeshane.github.io/zh/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -13583,7 +13583,7 @@ $$
       <link>https://breezeshane.github.io/zh/home/</link>
       <guid>https://breezeshane.github.io/zh/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -13594,7 +13594,7 @@ $$
       <link>https://breezeshane.github.io/zh/layout/</link>
       <guid>https://breezeshane.github.io/zh/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>注意</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -13619,7 +13619,7 @@ $$
       <link>https://breezeshane.github.io/zh/</link>
       <guid>https://breezeshane.github.io/zh/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -13630,7 +13630,7 @@ $$
       <link>https://breezeshane.github.io/zh/slides/</link>
       <guid>https://breezeshane.github.io/zh/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 22 Jan 2022 10:53:15 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 10:58:22 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
