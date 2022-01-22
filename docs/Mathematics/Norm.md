@@ -84,6 +84,8 @@ $$
 \lVert\vec{x}\rVert_{\infty}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
 $$
 
+--
+
 当$p \rightarrow -\infty$时，
 
 $$
@@ -92,7 +94,7 @@ $$
 
 该距离被称作无穷范数或最大范数。而且该距离也有另外一个名称：切比雪夫距离。
 
---
+---
 
 因为切比雪夫距离定义为：
 
