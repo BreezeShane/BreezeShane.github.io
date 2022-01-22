@@ -53,31 +53,11 @@ module.exports = config({
               title: "Aritficial Intelligence",
               prefix: "/ArtificialIntelligence/",
               children: [
-                {
-                  title: "AI Overview",
-                  prefix: "AIOverview/",
-                  children: ["/"],
-                },
-                {
-                  title: "Env Install",
-                  prefix: "EnvInstall/",
-                  children: ["/"],
-                },
-                {
-                  title: "Statistical Learning Methods Notebook",
-                  prefix: "StatisticalLearningMethodsNotebook/",
-                  children: ["/"],
-                },
-                {
-                  title: "Deep Learning",
-                  prefix: "DeepLearning/",
-                  children: ["/"],
-                },
-                {
-                  title: "Unsupervised Learning",
-                  prefix: "UnsupervisedLearning/",
-                  children: ["/"],
-                },
+                  "AIOverview/",
+                  "EnvInstall/",
+                  "StatisticalLearningMethodsNotebook/",
+                  "DeepLearning/",
+                  "UnsupervisedLearning/",
               ],
             },
             {
@@ -91,11 +71,11 @@ module.exports = config({
                 title: "Blog",
                 prefix: "BlogBuildingAndUsing/",
                 children: [
-                  "BlogBuilding//",
-                  "Markdown语法杂记//",
-                  "LaTeX//",
-                  "ChangeBlogTheme//",
-                  "CreateNewFilebyShell//",
+                  "BlogBuilding/",,
+                  "Markdown语法杂记/",,
+                  "LaTeX/",,
+                  "ChangeBlogTheme/",,
+                  "CreateNewFilebyShell/",,
                 ],
               },
               {
