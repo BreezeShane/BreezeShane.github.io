@@ -11,6 +11,7 @@ categories:
 tags: 
  - Aritficial Intelligence
  - Mathematics
+article: false
 ---
 ## 矩阵转置
 

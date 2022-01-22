@@ -11,6 +11,7 @@ categories:
 tags: 
  - Aritficial Intelligence
  - Mathematics
+article: false
 ---
 ## 标量、向量、矩阵和张量
 

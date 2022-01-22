@@ -1,6 +1,6 @@
 ---
 title: Moore-Penrose伪逆
-date: 
+date: 2022-01-23 01:12:20
 author: Breeze Shane
 top: false
 toc: true
@@ -11,4 +11,5 @@ categories:
 tags: 
  - Aritficial Intelligence
  - Mathematics
+article: false
 ---
