@@ -58,7 +58,19 @@ module.exports = config({
                   "EnvInstall",
                   "StatisticalLearningMethodsNotebook",
                   "DeepLearning",
-                  "UnsupervisedLearning",
+                  {
+                    title: "Unsupervised Learning",
+                    prefix: "UnsupervisedLearning/",
+                    children: [
+                      "ElementaryCourse",
+                      "StandardGAN",
+                      "WGAN",
+                      "WGAN-gp",
+                      "WGAN-div",
+                      "EnlightenGAN",
+                      "LowLightMetrics",
+                    ],
+                  },
               ],
             },
             {
@@ -66,12 +78,63 @@ module.exports = config({
               prefix: "DataStructuresandAlgorithms/",
               children: [
                 "",
+                {
+                  title: "Data Structures",
+                  prefix: "DataStructures/",
+                  children: [
+                    "SequentialLinearList",
+                    "SingleLinkedList",
+                    "CircularLinkedList",
+                    "DoubleLinkedList",
+                    "StackBasedonSequentialLinearList",
+                    "StackBasedonSingleLinkedList",
+                    "Queue",
+                  ],
+                },
+                {
+                  title: "Algorithms",
+                  prefix: "Algorithms/",
+                  children: [
+                    {
+                      title: "Sort Algorithms",
+                      prefix: "SortAlgorithms/",
+                      children: [
+                        "BubbleSort",
+                        "SelectionSort",
+                        "InsertionSort",
+                        "ShellSort",
+                        "MergeSort",
+                        "QuickSort",
+                      ],
+                    },
+                    {
+                      title: "Search Algorithms",
+                      prefix: "SearchAlgorithms/",
+                      children: [
+                        "SequentialSearch",
+                      ],
+                    },
+                  ],
+                },
+                {
+                  title: "Problems",
+                  prefix: "Problems/",
+                  children: [
+                    "JosephusProblem",
+                    "BracketMatching",
+                    "nQueensProblem",
+                    "ReverseShortData",
+                    "SomeProblemsonSequentialLinearList",
+                    "SomeProblemsonSingleLinkedList",
+                  ],
+                },
               ],
             },
             {
                 title: "Blog",
                 prefix: "BlogBuildingAndUsing/",
                 children: [
+                  "",
                   "BlogBuilding",
                   "Markdown语法杂记",
                   "LaTeX",
@@ -83,6 +146,7 @@ module.exports = config({
                 title: "Linux",
                 prefix: "Linux/",
                 children: [
+                  "",
                   "Manjaro安装与配置",
                   "ZeroTier-One安装与使用",
                   "记服务器搭建过程",
@@ -97,6 +161,7 @@ module.exports = config({
                 title: "Mathematics",
                 prefix: "Mathematics/",
                 children: [
+                  "",
                   "LipschitzContinuity",
                   "CongruenceExpression",
                   "Norm",
@@ -106,6 +171,7 @@ module.exports = config({
                 title: "Web",
                 prefix: "Web/",
                 children: [
+                  "",
                   "HowtoForceCVWhenBanned",
                   "Frontbackend",
                 ],
@@ -114,7 +180,8 @@ module.exports = config({
                 title: "Python",
                 prefix: "Python/",
                 children: [
-                    "Crawler"
+                  "",
+                  "Crawler"
                 ],
               },
             "Windows10快捷键大全",
