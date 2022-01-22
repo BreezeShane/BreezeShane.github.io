@@ -44,7 +44,11 @@ $$
 
 @slidestart moon
 
-#### 当$p=0$时，
+## 关于p值的讨论
+
+---
+
+当$p=0$时，
 
 $$
 \lVert\vec{x}\rVert_{0}=\sum^{n}_{i=1}[x_i \neq 0]
@@ -54,7 +58,7 @@ $$
 
 ---
 
-#### 当$p=1$时，
+当$p=1$时，
 
 $$
 \lVert\vec{x}\rVert_{1}=\sum^{n}_{i=1}|x_i|
@@ -64,7 +68,7 @@ $$
 
 ---
 
-#### 当$p=2$时，
+当$p=2$时，
 
 $$
 \lVert\vec{x}\rVert_{2}=\sqrt{\sum^{n}_{i=1}|x_i|^2}
@@ -74,13 +78,13 @@ $$
 
 ---
 
-#### 当$p \rightarrow +\infty$时，
+当$p \rightarrow +\infty$时，
 
 $$
 \lVert\vec{x}\rVert_{\infty}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
 $$
 
-#### 当$p \rightarrow -\infty$时，
+当$p \rightarrow -\infty$时，
 
 $$
 \lVert\vec{x}\rVert_{\infty}=\lim_{p\rightarrow -\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\min_{i}|x_i|
