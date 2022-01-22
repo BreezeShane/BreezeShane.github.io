@@ -42,9 +42,9 @@ L_{p}({\vec {x}})=\lVert\vec{x}\rVert_{p}={\Bigl (}\sum _{i=1}^{n}|x_{i}|^{p}{\B
 \text{其中}\quad\vec {x}=\{x_{1},x_{2},\ldots ,x_{n}\},\,p\geqslant 1.
 $$
 
----
+@slidestart moon
 
-当$p=0$时，
+#### 当$p=0$时，
 
 $$
 \lVert\vec{x}\rVert_{0}=\sum^{n}_{i=1}[x_i \neq 0]
@@ -54,7 +54,7 @@ $$
 
 ---
 
-当$p=1$时，
+#### 当$p=1$时，
 
 $$
 \lVert\vec{x}\rVert_{1}=\sum^{n}_{i=1}|x_i|
@@ -64,7 +64,7 @@ $$
 
 ---
 
-当$p=2$时，
+#### 当$p=2$时，
 
 $$
 \lVert\vec{x}\rVert_{2}=\sqrt{\sum^{n}_{i=1}|x_i|^2}
@@ -74,19 +74,21 @@ $$
 
 ---
 
-当$p \rightarrow +\infty$时，
+#### 当$p \rightarrow +\infty$时，
 
 $$
 \lVert\vec{x}\rVert_{\infty}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
 $$
 
-当$p \rightarrow -\infty$时，
+#### 当$p \rightarrow -\infty$时，
 
 $$
 \lVert\vec{x}\rVert_{\infty}=\lim_{p\rightarrow -\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\min_{i}|x_i|
 $$
 
 该距离被称作无穷范数或最大范数。而且该距离也有另外一个名称：切比雪夫距离。
+
+--
 
 因为切比雪夫距离定义为：
 
@@ -96,7 +98,7 @@ $$
 D_{\rm {Chebyshev}}(p,q):=\max _{i}(|p_{i}-q_{i}|) = \lim_{k\to\infty}\bigg(\sum _{i=1}^{n}\left|p_{i}-q_{i}\right|^{k}\bigg)^{1/k},
 $$
 
----
+@slideend
 
 以上的$L_p$范数系都是在衡量向量的大小，如果想衡量矩阵的大小，则需要使用矩阵范数。
 

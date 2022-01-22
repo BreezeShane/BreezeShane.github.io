@@ -11,3 +11,4 @@ tags:
 
 1. [Lipschitz Continuity](LipschitzContinuity.md)
 2. [Congruence Expression](CongruenceExpression.md)
+3. [Norm](Norm.md)
