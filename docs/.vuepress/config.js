@@ -150,7 +150,9 @@ module.exports = config({
             demo: true,
             flowchart: true,
             footnote: true,
-            presentation: true,
+            presentation: {
+              plugins: ["highlight", "math"]
+            },
             sub: true,
             sup: true,
             tex: true,
