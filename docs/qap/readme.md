@@ -7,7 +7,7 @@ comment: false
 ---
 
 <center>
-    <font color="#6495ED" size="5">
+    <font color="#bacac6" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
     𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
     𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
@@ -22,7 +22,7 @@ comment: false
 <style>
 .page{
 margin:0 auto;
-background-image: url(/images/Wallpapers/fog_covered_dark_forest_hd_dark.jpg);
+background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
 background-position: center center;
 background-attachment: fixed;
 background-size: cover;
