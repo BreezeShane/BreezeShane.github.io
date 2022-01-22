@@ -54,7 +54,7 @@ $$
 \lVert\vec{x}\rVert_{0}=\sum^{n}_{i=1}[x_i \neq 0]
 $$
 
-> 「注意」：这里的$L_{0}$范数并非通常意义上的范数（不满足三角不等式或次可加性）。
+「注意」：这里的$L_{0}$范数并非通常意义上的范数（不满足三角不等式或次可加性）。
 
 ---
 
@@ -78,18 +78,18 @@ $$
 
 ---
 
-当$p \rightarrow +\infty$时，
+当$p\rightarrow+\infty$时，
 
 $$
-\lVert\vec{x}\rVert_{p}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
+||\vec{x}||_{p}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
 $$
 
 --
 
-当$p \rightarrow -\infty$时，
+当$p\rightarrow-\infty$时，
 
 $$
-\lVert\vec{x}\rVert_{p}=\lim_{p\rightarrow -\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\min_{i}|x_i|
+||\vec{x}||_{p}=\lim_{p\rightarrow -\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\min_{i}|x_i|
 $$
 
 该距离被称作无穷范数或最大范数。而且该距离也有另外一个名称：切比雪夫距离。
@@ -101,7 +101,10 @@ $$
 若有两个向量或两个点p和q，其坐标分别为$p_{i}$和$q_i$，则有
 
 $$
-D_{\rm{Chebyshev}}(p,q):=\max_{i}(|p_{i}-q_{i}|) = \lim_{k\to\infty}\bigg(\sum_{i=1}^{n}\left|p_{i}-q_{i}\right|^{k}\bigg)^{1/k},
+\begin{align}
+D_{\rm{Chebyshev}}(p,q)&:=\max_{i}(|p_{i}-q_{i}|) \newline
+&= \lim_{k\to\infty}\bigg(\sum_{i=1}^{n}\left|p_{i}-q_{i}\right|^{k}\bigg)^{1/k}
+\end{align}
 $$
 
 @slideend
