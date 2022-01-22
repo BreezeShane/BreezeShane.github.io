@@ -51,7 +51,7 @@ module.exports = config({
             "/" /* / */,
             {
               title: "Aritficial Intelligence",
-              prefix: "/ArtificialIntelligence/",
+              prefix: "ArtificialIntelligence/",
               children: [
                   "AIOverview/",
                   "EnvInstall/",
