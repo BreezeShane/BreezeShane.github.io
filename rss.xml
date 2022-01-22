@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Jan 2022 17:49:13 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 17:49:13 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Jan 2022 18:12:10 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 18:12:10 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -697,6 +697,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:14:55 GMT</pubDate>
     </item>
     <item>
+      <title>概率分布</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
+    </item>
+    <item>
       <title>独立性和条件独立性</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</guid>
@@ -709,13 +716,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
       <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
       <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>概率分布</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
     </item>
     <item>
       <title>贝叶斯规则</title>
@@ -6426,7 +6426,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6451,7 +6451,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6466,7 +6466,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6985,7 +6985,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7008,7 +7008,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7019,7 +7019,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7039,7 +7039,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7050,7 +7050,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -12489,6 +12489,129 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
     </item>
     <item>
+      <title>𝕬𝖇𝖔𝖚𝖙</title>
+      <link>https://breezeshane.github.io/about/</link>
+      <guid>https://breezeshane.github.io/about/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intro Page</title>
+      <link>https://breezeshane.github.io/intro/</link>
+      <guid>https://breezeshane.github.io/intro/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Layout</title>
+      <link>https://breezeshane.github.io/layout/</link>
+      <guid>https://breezeshane.github.io/layout/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
+      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
+<div><p>注意</p>
+<p>This is just a demo, you should add styles according to your own needs.</p>
+
+
+</div>
+<template #page-top><p>Page top content</p>
+</template><template #page-bottom><p>Page bottom content</p>
+</template><template #content-top><p>Content top content</p>
+</template><template #content-bottom><p>Content bottom content</p>
+</template><template #navbar-start><p>Navbar start content</p>
+</template><template #navbar-center><p>Navbar center content</p>
+</template><template #navbar-end><p>Navbar end content</p>
+</template><template #sidebar-top><p>Sidebar top content</p>
+</template><template #sidebar-center><p>Sidebar center content</p>
+</template><template #sidebar-bottom><p>Sidebar bottom content</p>
+</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>友情链接</title>
+      <link>https://breezeshane.github.io/links/</link>
+      <guid>https://breezeshane.github.io/links/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
+      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
+<div id="1" style="width:128px;height:256px;">
+<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
+<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
+</div>
+<div id="2" style="width:128px;height:256px;">
+<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
+<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
+</div>
+<div id="3" style="width:128px;height:256px;">
+<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
+</div>
+<div id="4" style="width:128px;height:256px;">
+<a href="https://blog.pommespeter.com"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
+<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
+</div>
+<div id="5" style="width:128px;height:256px;">
+<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
+<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
+</div>
+<div id="6" style="width:128px;height:256px;">
+<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
+<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
+</div>
+</div>]]></content:encoded>
+    </item>
+    <item>
+      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
+      <link>https://breezeshane.github.io/qap/</link>
+      <guid>https://breezeshane.github.io/qap/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
+      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
+      <content:encoded><![CDATA[<center>
+    <font color="#bacac6" size="5">
+    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
+    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
+    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
+    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
+    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
+    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
+    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
+    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
+    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
+    </font>
+</center>
+<style>
+.page{
+margin:0 auto;
+background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+</style>]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Slide page</title>
+      <link>https://breezeshane.github.io/slides/</link>
+      <guid>https://breezeshane.github.io/slides/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
+      <pubDate>Sat, 22 Jan 2022 18:11:19 GMT</pubDate>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
       <title>Windows10 快捷键大全</title>
       <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
       <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
@@ -13035,129 +13158,6 @@ patch_request_class<span>(</span>app<span>)</span>
 </blockquote>
 <p>最后将整个前后端写好之后，就可以正常执行了！</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>𝕬𝖇𝖔𝖚𝖙</title>
-      <link>https://breezeshane.github.io/about/</link>
-      <guid>https://breezeshane.github.io/about/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Intro Page</title>
-      <link>https://breezeshane.github.io/intro/</link>
-      <guid>https://breezeshane.github.io/intro/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Custom Layout</title>
-      <link>https://breezeshane.github.io/layout/</link>
-      <guid>https://breezeshane.github.io/layout/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
-      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
-<div><p>注意</p>
-<p>This is just a demo, you should add styles according to your own needs.</p>
-
-
-</div>
-<template #page-top><p>Page top content</p>
-</template><template #page-bottom><p>Page bottom content</p>
-</template><template #content-top><p>Content top content</p>
-</template><template #content-bottom><p>Content bottom content</p>
-</template><template #navbar-start><p>Navbar start content</p>
-</template><template #navbar-center><p>Navbar center content</p>
-</template><template #navbar-end><p>Navbar end content</p>
-</template><template #sidebar-top><p>Sidebar top content</p>
-</template><template #sidebar-center><p>Sidebar center content</p>
-</template><template #sidebar-bottom><p>Sidebar bottom content</p>
-</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>友情链接</title>
-      <link>https://breezeshane.github.io/links/</link>
-      <guid>https://breezeshane.github.io/links/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
-      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
-<div id="1" style="width:128px;height:256px;">
-<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
-<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
-</div>
-<div id="2" style="width:128px;height:256px;">
-<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
-<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
-</div>
-<div id="3" style="width:128px;height:256px;">
-<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
-</div>
-<div id="4" style="width:128px;height:256px;">
-<a href="https://blog.pommespeter.com"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
-<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
-</div>
-<div id="5" style="width:128px;height:256px;">
-<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
-<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
-</div>
-<div id="6" style="width:128px;height:256px;">
-<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
-<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
-</div>
-</div>]]></content:encoded>
-    </item>
-    <item>
-      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
-      <link>https://breezeshane.github.io/qap/</link>
-      <guid>https://breezeshane.github.io/qap/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
-      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
-      <content:encoded><![CDATA[<center>
-    <font color="#6495ED" size="5">
-    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
-    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
-    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
-    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
-    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
-    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
-    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
-    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
-    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
-    </font>
-</center>
-<style>
-.page{
-margin:0 auto;
-background-image: url(/images/Wallpapers/fog_covered_dark_forest_hd_dark.jpg);
-background-position: center center;
-background-attachment: fixed;
-background-size: cover;
-}
-</style>]]></content:encoded>
-    </item>
-    <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Slide page</title>
-      <link>https://breezeshane.github.io/slides/</link>
-      <guid>https://breezeshane.github.io/slides/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 22 Jan 2022 17:48:14 GMT</pubDate>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
     </item>
   </channel>
 </rss>
