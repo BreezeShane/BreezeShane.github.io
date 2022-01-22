@@ -1,6 +1,6 @@
 ---
-title: 
-date:
+title: 双链表
+date: 2021-10-14 19:26:31
 author: Breeze Shane
 toc: true
 mathjax: true

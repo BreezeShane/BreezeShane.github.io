@@ -6,8 +6,10 @@ top: false
 toc: true
 mathjax: true
 categories: 
+ - AritficialIntelligence
  - Mathematics
 tags: 
+ - Aritficial Intelligence
  - Mathematics
 ---
 ## 向量范数

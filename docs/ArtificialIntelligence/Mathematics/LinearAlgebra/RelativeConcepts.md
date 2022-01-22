@@ -7,8 +7,10 @@ toc: true
 mathjax: true
 categories: 
  - AritficialIntelligence
+ - Mathematics
 tags: 
  - Aritficial Intelligence
+ - Mathematics
 ---
 ## 标量、向量、矩阵和张量
 

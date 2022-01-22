@@ -7,8 +7,10 @@ toc: true
 mathjax: true
 categories: 
  - AritficialIntelligence
+ - Mathematics
 tags: 
  - Aritficial Intelligence
+ - Mathematics
 ---
 ## 矩阵转置
 

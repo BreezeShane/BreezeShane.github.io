@@ -8,7 +8,7 @@ toc: true
 mathjax: true
 categories: 
  - Mathematics
- - Convex Analysis
+ - ConvexAnalysis
 tags: 
  - Mathematics
  - Convex Analysis

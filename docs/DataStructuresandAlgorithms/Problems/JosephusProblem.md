@@ -1,5 +1,5 @@
 ---
-title: 
+title: 约瑟夫问题
 date:
 author: Breeze Shane
 toc: true

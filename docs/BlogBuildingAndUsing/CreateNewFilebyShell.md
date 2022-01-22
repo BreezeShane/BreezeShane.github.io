@@ -1,5 +1,5 @@
 ---
-title: Create New File by Shell!
+title: 用Shell脚本创建新文章
 date: 2021-05-09 19:59:21
 author: Breeze Shane
 img: /source/images/
@@ -19,8 +19,6 @@ tags:
  - Shell
  - Geek
 ---
-
-# 用Shell脚本创建新文章
 
 ## 前言
 
