@@ -6,7 +6,7 @@
   <author>
     <name>Breeze Shane</name>
   </author>
-  <updated>2022-01-22T11:04:30.523Z</updated>
+  <updated>2022-01-22T11:28:17.857Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://breezeshane.github.io/atom.xml"/>
   <link rel="alternate" href="https://breezeshane.github.io/"/>
@@ -25,7 +25,7 @@
     <title type="html">有关人工智能与机器学习领域的概况</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/AIOverview/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="人工智能是什么"> 人工智能是什么？</h2>
 <p>关于人工智能的定义在学术界一直尚存争议，原因也无非是因为实在难以给智能下定义。</p>
 <p>目前比较广泛的说法是：<strong>人工智能是一门研究、开发用于模拟、延伸和扩展人的智能的理论方法技术及应用的一门技术科学。</strong></p>
@@ -171,7 +171,7 @@
     <title type="html">Deep Learning</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前言"> 前言</h2>
 <p>该系列下所有内容均来自书籍《Deep Learning》的译作《深度学习》，即业界内俗称的“花书”。该系列主要用于记录本人的读书笔记，并会在一些地方做延伸讨论，增加一些内容。</p>
 <h2 id="预备知识"> 预备知识</h2>
@@ -238,7 +238,7 @@
     <title type="html">相关的简单运算</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeCompute/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeCompute/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
 <h2 id="矩阵加法"> 矩阵加法</h2>
 <h2 id="矩阵乘法"> 矩阵乘法</h2>
@@ -257,7 +257,7 @@
     <title type="html">相关名词的概念</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeConcepts/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeConcepts/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="标量、向量、矩阵和张量"> 标量、向量、矩阵和张量</h2>
 <h3 id="标量"> 标量</h3>
 <p>又称<strong>纯量</strong>，是只有大小、没有方向、可用实数表示的一个量。</p>
@@ -335,7 +335,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">入门机器学习的安装与配置</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="你可能有配备"> 你可能有配备？</h2>
 <p>或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入<code>inxi -G</code>来查看电脑的显卡配备信息。可能你不懂什么是显卡？</p>
 <blockquote>
@@ -419,7 +419,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Statistical Learning Methods Notebook</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/StatisticalLearningMethodsNotebook/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/StatisticalLearningMethodsNotebook/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="有监督学习"> 有监督学习</h2>
 <h2 id="无监督学习"> 无监督学习</h2>
 ]]></content>
@@ -436,7 +436,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">无监督学习介绍与入门</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="什么是无监督学习"> 什么是无监督学习？</h2>
 <p>无监督学习是机器学习的一种训练方式「或者是学习方式」。无监督学习的概念是相对有监督学习而言的。</p>
 <blockquote>
@@ -628,7 +628,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Enlighten GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="应用领域及背景"> 应用领域及背景</h2>
 <p>该项目是应用在图像修复领域的低照度增强方向，是致力于将日常生活中常见的各种难以用肉眼感知特征的低照度场景增强到能够方便、舒适地观察内容的场景。</p>
 <center>该项目迄今为止仍是无监督学习方法低照度增强的SOTA。</center>
@@ -686,7 +686,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Low Light Metrics</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="low-light-metrics"> Low Light Metrics</h1>
 <h2 id="content"> Content</h2>
 <p>本文记录了LPIPS、SSIM、MAE、MSE、PSNR、NIQE和NIMA共计七个低照度指标，除了介绍相关背景、意义，也会提及算法实现的大致过程。</p>
@@ -813,9 +813,9 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
   </entry>
   <entry>
     <title type="html">Generative Adversarial Networks</title>
-    <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/OriginalGAN/</id>
-    <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/OriginalGAN/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/</id>
+    <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/"/>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="generative-adversarial-networks"> Generative Adversarial Networks</h1>
 <blockquote>
 <p><strong>经过接受GAN的洗礼，我感觉我整个人都变得“睿智”了。。。</strong></p>
@@ -1072,7 +1072,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Divergence for GANs</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wasserstein-divergence-for-gans"> Wasserstein Divergence for GANs</h1>
 <blockquote>
 <p>參考自：</p>
@@ -1207,7 +1207,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">WGAN with Gradient Penalty</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
 <h2 id="结果"> 结果</h2>
 <p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
@@ -1271,7 +1271,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>首推这篇博客，本文内容多参考自此。<a href="https://www.cnblogs.com/Allen-rg/p/10305125.html" target="_blank" rel="noopener noreferrer">WGAN (原理解析)</a></p>
 <p>本文也另外参考了这篇<a href="https://lotabout.me/2018/WGAN/" target="_blank" rel="noopener noreferrer">博客</a></p>
@@ -1419,7 +1419,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <title type="html">Aritficial Intelligence</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <p><a href="./AIOverview.html">AI Overview</a></p>
 <p><a href="./EnvInstall.html">Environment Installing And Using</a></p>
@@ -1447,14 +1447,14 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">🥲🥲🥲多灾多难的博客搭建过程🥲🥲🥲</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="blog-building"> Blog Building</h1>
 <blockquote>
 <p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
@@ -1582,7 +1582,7 @@ FATAL {
     <title type="html">Changing Blog Theme</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="to-change-my-blog-theme"> To Change My Blog Theme</h1>
 <blockquote>
 <p>参考文档：</p>
@@ -2010,7 +2010,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">Create New File by Shell!</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="用shell脚本创建新文章"> 用Shell脚本创建新文章</h1>
 <h2 id="前言"> 前言</h2>
 <p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
@@ -2212,7 +2212,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">LaTeX公式</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="latex公式"> LaTeX公式</h1>
 <blockquote>
 <p>参考内容：</p>
@@ -3338,7 +3338,7 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
     <title type="html">Markdown语法杂记</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="markdown语法杂记"> Markdown语法杂记</h1>
 <hr>
 <blockquote>
@@ -6219,7 +6219,7 @@ import torch as pd
     <title type="html">Blog</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./BlogBuilding.html">Blog Building</a></li>
@@ -6235,14 +6235,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">组件禁用</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/disable/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/disable/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -6269,14 +6269,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/encrypt/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6289,14 +6289,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/markdown/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -6768,14 +6768,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/page/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/page/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -6831,7 +6831,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6855,14 +6855,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/home/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/home/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6873,14 +6873,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://breezeshane.github.io/CourseOfBlog/layout/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/layout/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6900,14 +6900,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6918,14 +6918,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/slides/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/slides/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -6934,14 +6934,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">二叉树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/BinaryTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/BinaryTree/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>二叉树是一颗有序树，它由</p>
 ]]></content>
@@ -6958,7 +6958,7 @@ $$
     <title type="html">循环链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/CircularLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/CircularLinkedList/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>循环链表，即令单链表尾结点的指针指向链表的头结点。</p>
 <p>结构代码的定义：「本质上与单链表的结构体定义并无差异」</p>
@@ -7126,7 +7126,7 @@ $$
     <title type="html">定义</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -7279,14 +7279,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">队列与循环队列</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Queue/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Queue/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>队列是限制结点插入操作固定在一端进行,而结点的删除操作固定在另一端进行的一种特殊线性表，特殊在于它操作受限，仅能使用入队、出队操作。</p>
 <p>如图所示：</p>
@@ -7393,7 +7393,7 @@ DataType <span>computeNum</span><span>(</span>PseqQueue Q<span>)</span><span>{</
     <title type="html">顺序线性表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SequentialLinearList/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>顺序线性表是数据结构算法中最简单的一种结构，它的组成成分如下：</p>
@@ -7599,7 +7599,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">单向链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SingleLinkedList/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
@@ -7790,7 +7790,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">顺序线性栈</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSequentialLinearList/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
@@ -7899,7 +7899,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">链式栈</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSingleLinkedList/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="链式栈的定义"> 链式栈的定义</h2>
@@ -7925,7 +7925,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">底层原因</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Statement/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Statement/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="指针变量写法"> 指针变量写法</h2>
 <div><pre><code>PseqList <span>createNullList_seq</span><span>(</span><span>int</span> m<span>)</span><span>{</span>
     <span>if</span> <span>(</span> <span>!</span>m <span>)</span>
@@ -7984,7 +7984,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">N皇后问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题</h2>
 <p>下图所示为4皇后问题。n皇后问题：在n×n的棋盘上安置n个皇后，要求任意两个皇后均不在同一行、同一列、同一对角线上，要求设计算法求解总共有多少方案。</p>
 <p><img src="/images/nQueens.png" alt="" /></p>
@@ -8127,7 +8127,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">Data Structures and Algorithms</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="data-structures"> Data Structures</h2>
 <ol>
 <li><a href="./DataSructures/SequentialLinearList.html">Sequential Linear List</a></li>
@@ -8199,14 +8199,14 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Git Commands</title>
     <id>https://breezeshane.github.io/Git_Commands/</id>
     <link href="https://breezeshane.github.io/Git_Commands/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
 <p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
 <h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
@@ -8346,7 +8346,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">Arcolinux &amp; AwesomeWM</title>
     <id>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</id>
     <link href="https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 <code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
 </blockquote>
@@ -9040,7 +9040,7 @@ URxvt.boldItalicFont:     	    xft:MesloLGS NF-20
     <title type="html">Shell全自动安装与部署Anaconda</title>
     <id>https://breezeshane.github.io/Linux/AutoIAC/</id>
     <link href="https://breezeshane.github.io/Linux/AutoIAC/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
 <h2 id="实现思路"> 实现思路</h2>
@@ -9330,7 +9330,7 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
     <title type="html">记将旧电脑改建成服务器的过程</title>
     <id>https://breezeshane.github.io/Linux/BuildingServer/</id>
     <link href="https://breezeshane.github.io/Linux/BuildingServer/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
 <h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
@@ -9452,7 +9452,7 @@ rfkill: Cannot get wiphy information
     <title type="html">Magic SysRq 组合键功能表</title>
     <id>https://breezeshane.github.io/Linux/MagicSysRq/</id>
     <link href="https://breezeshane.github.io/Linux/MagicSysRq/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<div><p>说明</p>
 <p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
 </div>
@@ -9576,7 +9576,7 @@ rfkill: Cannot get wiphy information
     <title type="html">Manjaro Linux</title>
     <id>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
     <link href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="manjaro-linux"> Manjaro Linux</h1>
 <p>终于考完试了！在大学第一个寒假到来之际，我决定入坑Linux系统，并花了很长时间挑选系统（深度选择困难患者），终于，我选择了Manjaro Linux，希望它<sub>不会让人失望</sub>！</p>
 <h2 id="_1-windows10-manjaro-linux深度指北"> 1.Windows10+Manjaro Linux深度指北</h2>
@@ -10844,93 +10844,10 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">Manjaro Linux</title>
-    <id>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</id>
-    <link href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="记一次局域网搭建私人云盘的过程"> 记一次局域网搭建私人云盘的过程</h2>
-<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h3 id="过程"> 过程</h3>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用<code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                          
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                    
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                       
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                       
---name nextcloud <span>\</span>              
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>          
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过<code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令<code>--link mysql:mysql</code>，和<code>:</code>后面的<code>mysql</code>有关。</p>
-<h3 id="还没结束"> 还没结束</h3>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改<code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="「注意」"> 「注意」</h3>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数<code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2021-01-17T11:23:18.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">Linux Shell 编程学习与实战</title>
     <id>https://breezeshane.github.io/Linux/Shells/</id>
     <link href="https://breezeshane.github.io/Linux/Shells/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="模拟输入组合键ctrl-anykey"> 模拟输入组合键<kbd>Ctrl</kbd>+<kbd>AnyKey</kbd></h2>
 <p>在<a href="./AutoIAC.html">上一篇笔记</a>中我提到没能将输入内容送入指定的进程PID，但在了解到这一点之前我学到了如下的一些内容：</p>
 <div><pre><code><span>echo</span> <span>$$</span> <span># 这个是显示当前进程的PID。</span>
@@ -12092,10 +12009,93 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">Manjaro Linux</title>
+    <id>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</id>
+    <link href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/"/>
+    <updated>2022-01-22T11:27:21.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="记一次局域网搭建私人云盘的过程"> 记一次局域网搭建私人云盘的过程</h2>
+<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h3 id="过程"> 过程</h3>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用<code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                          
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                    
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                       
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                       
+--name nextcloud <span>\</span>              
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>          
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过<code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令<code>--link mysql:mysql</code>，和<code>:</code>后面的<code>mysql</code>有关。</p>
+<h3 id="还没结束"> 还没结束</h3>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改<code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="「注意」"> 「注意」</h3>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数<code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2021-01-17T11:23:18.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
     <id>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
     <link href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
 <h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
 <p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
@@ -12200,7 +12200,7 @@ vncserver :1
     <title type="html">Linux</title>
     <id>https://breezeshane.github.io/Linux/</id>
     <link href="https://breezeshane.github.io/Linux/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><a href="./Manjaro安装与配置.html">Manjaro安装与配置</a></li>
 <li><a href="./ZeroTier-One安装与使用.html">ZeroTier-One安装与使用</a></li>
@@ -12218,14 +12218,14 @@ vncserver :1
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Building Up Servicer</title>
     <id>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</id>
     <link href="https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
 <h2 id="怎么做"> 怎么做？</h2>
@@ -12291,7 +12291,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">同余式及其性质</title>
     <id>https://breezeshane.github.io/Mathematics/CongruenceExpression/</id>
     <link href="https://breezeshane.github.io/Mathematics/CongruenceExpression/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>若一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>a</span></span></span></span>被一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除的时候得到的商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和唯一的一个余数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>，另一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>b</span></span></span></span>也被<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除时得到商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，得到的唯一余数也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>（其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.78041em;vertical-align:-0.13597em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>），即</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:3.0000299999999998em;vertical-align:-1.25003em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>a</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>b</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
@@ -12373,7 +12373,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">Lipschitz Continuity</title>
     <id>https://breezeshane.github.io/Mathematics/LipschitzContinuity/</id>
     <link href="https://breezeshane.github.io/Mathematics/LipschitzContinuity/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="利普希茨连续-lipschitz-continuity"> 利普希茨连续——Lipschitz Continuity</h1>
 <blockquote>
 <p>参考资料：<a href="https://zh.wikipedia.org/wiki/%E5%88%A9%E6%99%AE%E5%B8%8C%E8%8C%A8%E9%80%A3%E7%BA%8C" target="_blank" rel="noopener noreferrer">利普希茨连续 - 维基百科</a></p>
@@ -12437,7 +12437,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">向量范数与矩阵范数</title>
     <id>https://breezeshane.github.io/Mathematics/Norm/</id>
     <link href="https://breezeshane.github.io/Mathematics/Norm/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="向量范数"> 向量范数</h2>
 <p>向量范数具有“长度”概念，是一个函数，其为向量空间内的所有向量赋予非零的正长度或大小。</p>
 <p>假设V是域F上的向量空间；V的半范数是一个函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>;</span><span style="margin-right:0.16666666666666666em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>(</span><span>x</span><span>)</span></span></span></span>，满足：</p>
@@ -12519,7 +12519,7 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
     <title type="html">Mathematics</title>
     <id>https://breezeshane.github.io/Mathematics/</id>
     <link href="https://breezeshane.github.io/Mathematics/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="目录"> 目录</h1>
 <ol>
 <li><a href="./LipschitzContinuity.html">Lipschitz Continuity</a></li>
@@ -12533,14 +12533,14 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Crawler</title>
     <id>https://breezeshane.github.io/Python/Crawler/</id>
     <link href="https://breezeshane.github.io/Python/Crawler/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
 <h2 id="前言"> 前言</h2>
 <p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
@@ -12637,7 +12637,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">Python</title>
     <id>https://breezeshane.github.io/Python/</id>
     <link href="https://breezeshane.github.io/Python/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./Crawler.html">Crawler</a></li>
@@ -12649,14 +12649,14 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">关于Vcomputer如何实现循环的哲学问题</title>
     <id>https://breezeshane.github.io/VComputer/</id>
     <link href="https://breezeshane.github.io/VComputer/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
 <hr>
 <p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
@@ -12706,7 +12706,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">简单的网页前后端搭建过程</title>
     <id>https://breezeshane.github.io/Web/Frontbackend/</id>
     <link href="https://breezeshane.github.io/Web/Frontbackend/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
 <h3 id="html"> HTML</h3>
 <p><strong>HTML设置字体：</strong></p>
@@ -12858,7 +12858,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">在受限的网站里强制复制粘贴</title>
     <id>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</id>
     <link href="https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
 <blockquote>
 <p>参考：</p>
@@ -12947,7 +12947,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">Web</title>
     <id>https://breezeshane.github.io/Web/</id>
     <link href="https://breezeshane.github.io/Web/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./HowtoForceCVWhenBanned.html">How to Force CV When Banned</a></li>
@@ -12960,14 +12960,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Windows10 快捷键大全</title>
     <id>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</id>
     <link href="https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
 <h2 id="_2020-11-19"> 2020/11/19</h2>
 <hr>
@@ -13293,21 +13293,21 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">𝕬𝖇𝖔𝖚𝖙</title>
     <id>https://breezeshane.github.io/about/</id>
     <link href="https://breezeshane.github.io/about/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://breezeshane.github.io/intro/</id>
     <link href="https://breezeshane.github.io/intro/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -13317,14 +13317,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://breezeshane.github.io/layout/</id>
     <link href="https://breezeshane.github.io/layout/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13349,14 +13349,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">友情链接</title>
     <id>https://breezeshane.github.io/links/</id>
     <link href="https://breezeshane.github.io/links/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13389,14 +13389,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
     <id>https://breezeshane.github.io/pap/</id>
     <link href="https://breezeshane.github.io/pap/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<center>
     <font color="#6495ED" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
@@ -13432,7 +13432,7 @@ background-size: cover;
     <title type="html">Blog Home</title>
     <id>https://breezeshane.github.io/</id>
     <link href="https://breezeshane.github.io/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content>
     <author>
@@ -13441,14 +13441,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://breezeshane.github.io/slides/</id>
     <link href="https://breezeshane.github.io/slides/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
+    <updated>2022-01-22T11:27:21.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -13457,709 +13457,7 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">组件禁用</title>
-    <id>https://breezeshane.github.io/zh/guide/disable/</id>
-    <link href="https://breezeshane.github.io/zh/guide/disable/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
-]]></summary>
-    <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
-
-<p>本页面应当禁用了:</p>
-<ul>
-<li>导航栏</li>
-<li>侧边栏</li>
-<li>路径导航</li>
-<li>页面信息</li>
-<li>贡献者</li>
-<li>编辑此页链接</li>
-<li>更新时间</li>
-<li>上一篇/下一篇 链接</li>
-<li>评论</li>
-<li>页脚</li>
-<li>返回顶部按钮</li>
-</ul>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">密码加密的文章</title>
-    <id>https://breezeshane.github.io/zh/guide/encrypt/</id>
-    <link href="https://breezeshane.github.io/zh/guide/encrypt/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">Markdown 增强</title>
-    <id>https://breezeshane.github.io/zh/guide/markdown/</id>
-    <link href="https://breezeshane.github.io/zh/guide/markdown/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
-]]></summary>
-    <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
-
-<h2 id="一键启用"> 一键启用</h2>
-<p>你可以设置 <code>themeconfig.mdEnhance.enableAll</code> 启用 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> 插件的所有功能。</p>
-<div><div><br><br><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><br><br><br></div><pre><code>module<span>.</span>exports <span>=</span> <span>{</span>
-  themeConfig<span>:</span> <span>{</span>
-    mdEnhance<span>:</span> <span>{</span>
-      enableAll<span>:</span> <span>true</span><span>,</span>
-    <span>}</span><span>,</span>
-  <span>}</span><span>,</span>
-<span>}</span><span>;</span>
-</code></pre><div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h2 id="新增的更多语法"> 新增的更多语法</h2>
-<h3 id="上下角标"> 上下角标</h3>
-<p>19<sup>th</sup> H<sub>2</sub>O</p>
-<details><summary>代码</summary>
-<div><pre><code>19^th^ H<span><span>~</span><span>2</span><span>~</span></span>O
-</code></pre>
-<div><span>1</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/sup-sub/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="自定义对齐"> 自定义对齐</h3>
-<div>
-<p>我是居中的</p>
-</div>
-<div>
-<p>我在右对齐</p>
-</div>
-<details><summary>代码</summary>
-<div><pre><code>::: center
-
-我是居中的
-
-:::
-
-::: right
-
-我在右对齐
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/align/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="脚注"> 脚注</h3>
-<p>此文字有脚注<sup></sup>.</p>
-<details><summary>代码</summary>
-<div><pre><code>此文字有脚注[^first].
-
-<span><span>[</span><span>^first</span><span>]</span><span>:</span> 这是脚注内容</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/footnote/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="标记"> 标记</h3>
-<p>你可以标记 ==重要的内容== 。</p>
-<details><summary>代码</summary>
-<div><pre><code>你可以标记 ==重要的内容== 。
-</code></pre>
-<div><span>1</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/mark/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="任务列表"> 任务列表</h3>
-<ul>
-<li>[x] 计划 1</li>
-<li>[ ] 计划 2</li>
-</ul>
-<details><summary>Code</summary>
-<div><pre><code><span>-</span> [x] 计划 1
-<span>-</span> [ ] 计划 2
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/tasklist/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="流程图"> 流程图</h3>
-<i>Not supported content</i><details><summary>代码</summary>
-<div><pre><code>​```flow
-cond=>condition: Process?
-process=>operation: Process
-e=>end: End
-
-cond(yes)->process->e
-cond(no)->e
-```
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/flowchart/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h2 id="mermaid"> Mermaid</h2>
-<p>​```mermaid
-graph TD;
-A--&gt;B;
-A--&gt;C;
-B--&gt;D;
-C--&gt;D;</p>
-<div><pre><code>
-::: details 代码
-
-````md
-​```mermaid
-graph TD;
-    A--&gt;B;
-    A--&gt;C;
-    B--&gt;D;
-    C--&gt;D;
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><div><pre><code>
-:::
-
-- [点击查看](https://vuepress-theme-hope.github.io/zh/guide/markdown/mermaid/)
-
-### Tex 语法
-
-$$
-\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
-= \left(\frac {y^{\omega}} {\omega}\right) \left\{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right\}
-$$
-
-::: details 代码
-
-​```md
-$$
-\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
-= \left(\frac {y^{\omega}} {\omega}\right) \left\{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right\}
-$$
-```
-
-:::
-
-- [点击查看](https://vuepress-theme-hope.github.io/zh/guide/markdown/tex/)
-
-### 代码案例
-
-::: demo 一个普通 Demo
-
-```html
-&lt;h1&gt;Mr.Hope&lt;/h1&gt;
-&lt;p&gt;&lt;span id=&quot;very&quot;&gt;十分&lt;/span&gt; 帅&lt;/p&gt;
-```
-
-```js
-document.querySelector(&quot;#very&quot;).addEventListener(&quot;click&quot;, () =&gt; {
-  alert(&quot;十分帅&quot;);
-});
-```
-
-```css
-span {
-  color: red;
-}
-```
-
-:::
-
-:::: details 代码
-
-````md
-::: demo 一个普通 Demo
-
-​```html
-&lt;h1&gt;Mr.Hope&lt;/h1&gt;
-&lt;p&gt;&lt;span id=&quot;very&quot;&gt;十分&lt;/span&gt; 帅&lt;/p&gt;
-```
-
-```js
-document.querySelector(&quot;#very&quot;).addEventListener(&quot;click&quot;, () =&gt; {
-  alert(&quot;十分帅&quot;);
-});
-```
-
-```css
-span {
-  color: red;
-}
-```
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br></div></div><p>::::</p>
-
-          <div
-            id="code-demo-6c47b125"
-           
-  data-type="react"
- data-title="%E4%B8%80%E4%B8%AA%20React%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%60%60%60css%5Cn.box-react%20span%20%7B%5Cn%20%20color%3A%20red%3B%5Cn%7D%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
-<p>​```js
-export default class App extends React.Component {
-constructor(props) {
-super(props);
-this.state = { message: &quot;十分帅&quot; };
-}
-render() {
-return (
-<div className="box-react">
-Mr.Hope <span>{this.state.message}</span>
-</div>
-);
-}
-}</p>
-<div><pre><code>
-```css
-.box-react span {
-  color: red;
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo [react] 一个 React Demo
-
-​```js
-export default class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { message: "十分帅" };
-  }
-  render() {
-    return (
-      <span><span><span>&lt;</span>div</span> <span>className</span><span><span>=</span><span>"</span>box-react<span>"</span></span><span>></span></span>
-        Mr.Hope <span><span><span>&lt;</span>span</span><span>></span></span>{this.state.message}<span><span><span>&lt;/</span>span</span><span>></span></span>
-      <span><span><span>&lt;/</span>div</span><span>></span></span>
-    );
-  }
-}
-<span><span>```</span>
-<span>
-```css
-.box-react span {
-  color: red;
-}</span>
-<span>```</span></span>
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></details>
-
-          <div
-            id="code-demo-a8b6364c"
-           
-  data-type="vue"
- data-title="%E4%B8%80%E4%B8%AA%20Vue%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
-<p>​```vue
-<template>
-<div>
-Mr.Hope <span>{{ message }}</span>
-</div>
-</template>
-<script>
-export default {
-data: () =&gt; ({ message: &quot;十分帅&quot; }),
-};
-</script>
-<style>
-.box-vue span {
-color: red;
-}
-</style></p>
-<div><pre><code>
-</code></pre>
-<div><span>1</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo [vue] 一个 Vue Demo
-
-​```vue
-<span><span><span>&lt;</span>template</span><span>></span></span>
-  <span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>box-vue<span>"</span></span><span>></span></span>
-    Mr.Hope <span><span><span>&lt;</span>span</span><span>></span></span>{{ message }}<span><span><span>&lt;/</span>span</span><span>></span></span>
-  <span><span><span>&lt;/</span>div</span><span>></span></span>
-<span><span><span>&lt;/</span>template</span><span>></span></span>
-<span><span><span>&lt;</span>script</span><span>></span></span><span><span>
-<span>export</span> <span>default</span> <span>{</span>
-  <span>data</span><span>:</span> <span>(</span><span>)</span> <span>=></span> <span>(</span><span>{</span> message<span>:</span> <span>"十分帅"</span> <span>}</span><span>)</span><span>,</span>
-<span>}</span><span>;</span>
-</span></span><span><span><span>&lt;/</span>script</span><span>></span></span>
-<span><span><span>&lt;</span>style</span><span>></span></span><span><span>
-<span>.box-vue span</span> <span>{</span>
-  <span>color</span><span>:</span> red<span>;</span>
-<span>}</span>
-</span></span><span><span><span>&lt;/</span>style</span><span>></span></span>
-```
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br></div></div></details>
-
-          <div
-            id="code-demo-4ad68778"
-           
-  
- data-title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%60%60%60ts%5Cnconst%20message%3A%20string%20%3D%20%5C%22Mr.Hope%5C%22%3B%5Cn%5Cndocument.querySelector(%5C%22h1%5C%22).innerHTML%20%3D%20message%3B%5Cn%22%2C%22scss%22%3A%22h1%20%7B%5Cn%20%20font-style%3A%20italic%3B%5Cn%5Cn%20%20%2B%20p%20%7B%5Cn%20%20%20%20color%3A%20red%3B%5Cn%20%20%7D%5Cn%7D%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
-<p>​```md</p>
-<h1 id="标题"> 标题</h1>
-<p>十分帅</p>
-<div><pre><code>
-```ts
-const message: string = &quot;Mr.Hope&quot;;
-
-document.querySelector(&quot;h1&quot;).innerHTML = message;
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><pre><code><span>h1 </span><span>{</span>
-  <span>font-style</span><span>:</span> italic<span>;</span>
-
-  <span>+ p </span><span>{</span>
-    <span>color</span><span>:</span> red<span>;</span>
-  <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo 一个普通 Demo
-
-​```md
-<span><span>#</span> 标题</span>
-
-十分帅
-<span><span>```</span>
-<span>
-```ts
-const message: string = "Mr.Hope";
-
-document.querySelector("h1").innerHTML = message;</span>
-<span>```</span></span>
-
-<span><span>```</span><span>scss</span>
-<span><span>h1 </span><span>{</span>
-  <span>font-style</span><span>:</span> italic<span>;</span>
-
-  <span>+ p </span><span>{</span>
-    <span>color</span><span>:</span> red<span>;</span>
-  <span>}</span>
-<span>}</span></span>
-<span>```</span></span>
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/demo/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="幻灯片"> 幻灯片</h3>
-<i>Not supported content</i><details><summary>代码</summary>
-<div><pre><code>@slidestart
-
-<span><span>##</span> 幻灯片 1</span>
-
-一个有文字和 <span>[<span>链接</span>](<span>https://mrhope.site</span>)</span> 的段落
-
-<span>---</span>
-
-<span><span>##</span> 幻灯片 2</span>
-
-<span>-</span> 列表 1
-<span>-</span> 列表 2
-
-<span>---</span>
-
-<span><span>##</span> 幻灯片 3.1</span>
-
-​```js
-const a = 1;
-```
-
---
-
-<span><span>##</span> 幻灯片 3.2</span>
-
-$$
-J(\theta_0,\theta_1) = \sum_{i=0}
-$$
-
-@slideend
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/presentation/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h2 id="其他语法"> 其他语法</h2>
-<div><p>自定义标题</p>
-<p>信息容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>提示容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>警告容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>危险容器</p>
-</div>
-<details><summary>自定义标题</summary>
-<p>详情容器</p>
-</details>
-<details><summary>代码</summary>
-<p>​```md</p>
-<div><p>自定义标题</p>
-<p>信息容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>提示容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>警告容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>危险容器</p>
-</div>
-<details><summary>自定义标题</summary>
-<p>详情容器</p>
-</details>
-<div><pre><code>
-</code></pre>
-<div><span>1</span><br></div></div></details>
-<hr>
-<section>
-<ol>
-<li id="footnote1"><p>这是脚注内容 </p>
-</li>
-</ol>
-</section>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">页面配置</title>
-    <id>https://breezeshane.github.io/zh/guide/page/</id>
-    <link href="https://breezeshane.github.io/zh/guide/page/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
-<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
-<ul>
-<li>
-<p>作者设置为 Ms.Hope。</p>
-</li>
-<li>
-<p>写作时间应为 2020 年 1 月 1 日</p>
-</li>
-<li>
-<p>分类为 “使用指南”</p>
-</li>
-<li>
-<p>标签为 “页面配置” 和 “使用指南”</p>
-</li>
-</ul>
-<h2 id="页面内容"> 页面内容</h2>
-<p>你可以自由在这里书写你的 Markdown。</p>
-<div><p>提示</p>
-<ul>
-<li>
-<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
-</li>
-<li>
-<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
-</li>
-</ul>
-</div>
-<p>主题包含了一个自定义徽章章可以使用:</p>
-<blockquote>
-<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
-</blockquote>
-<h2 id="页面结构"> 页面结构</h2>
-<p>此页面应当包含：</p>
-<ul>
-<li>返回顶部按钮</li>
-<li>路径导航</li>
-<li>评论</li>
-<li>页脚</li>
-</ul>
-]]></content>
-    <author>
-      <name>Ms.Hope</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Ms.Hope</name>
-    </contributor>
-    <published>2020-01-01T00:00:00.000Z</published>
-    <rights>Copyright by Ms.Hope</rights>
-  </entry>
-  <entry>
-    <title type="html">主要功能与配置演示</title>
-    <id>https://breezeshane.github.io/zh/guide/</id>
-    <link href="https://breezeshane.github.io/zh/guide/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
-<ul>
-<li>
-<p><a href="./page.html">页面展示</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown 展示</a></p>
-</li>
-<li>
-<p><a href="./disable.html">禁用展示</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">加密展示</a></p>
-</li>
-</ul>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <category term="使用指南"/>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">项目主页</title>
-    <id>https://breezeshane.github.io/zh/home/</id>
-    <link href="https://breezeshane.github.io/zh/home/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
-<p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
-<p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">自定义布局</title>
-    <id>https://breezeshane.github.io/zh/layout/</id>
-    <link href="https://breezeshane.github.io/zh/layout/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
-<div><p>注意</p>
-<p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
-
-
-</div>
-<template #page-top><p>页面顶部内容</p>
-</template><template #page-bottom><p>页面底部内容</p>
-</template><template #content-top><p>内容顶部内容</p>
-</template><template #content-bottom><p>内容底部内容</p>
-</template><template #navbar-start><p>导航栏起始内容</p>
-</template><template #navbar-center><p>导航栏中部内容</p>
-</template><template #navbar-end><p>导航栏末尾内容</p>
-</template><template #sidebar-top><p>侧边栏顶部内容</p>
-</template><template #sidebar-center><p>侧边栏中部内容</p>
-</template><template #sidebar-bottom><p>侧边栏底部内容</p>
-</template><p>更多详情，详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/custom/" target="_blank" rel="noopener noreferrer">自定义布局</a>.</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">博客主页</title>
-    <id>https://breezeshane.github.io/zh/</id>
-    <link href="https://breezeshane.github.io/zh/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[<p>这是一个博客主页。</p>
-<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
-<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">幻灯片页</title>
-    <id>https://breezeshane.github.io/zh/slides/</id>
-    <link href="https://breezeshane.github.io/zh/slides/"/>
-    <updated>2022-01-22T11:03:07.000Z</updated>
-    <content type="html"><![CDATA[
-<i>Not supported content</i>]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-22T11:03:07.000Z</published>
+    <published>2022-01-22T11:27:21.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
 </feed>

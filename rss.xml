@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 22 Jan 2022 11:04:30 GMT</pubDate>
-    <lastBuildDate>Sat, 22 Jan 2022 11:04:30 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Jan 2022 11:28:17 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 11:28:17 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -743,8 +743,8 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
     </item>
     <item>
       <title>Generative Adversarial Networks</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/OriginalGAN/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/OriginalGAN/</guid>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Generative Adversarial Networks</source>
       <pubDate>Sat, 24 Apr 2021 12:37:00 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="generative-adversarial-networks"> Generative Adversarial Networks</h1>
@@ -1326,7 +1326,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
       <link>https://breezeshane.github.io/ArtificialIntelligence/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Aritficial Intelligence</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <p><a href="./AIOverview.html">AI Overview</a></p>
 <p><a href="./EnvInstall.html">Environment Installing And Using</a></p>
@@ -6088,7 +6088,7 @@ import torch as pd
       <link>https://breezeshane.github.io/BlogBuildingAndUsing/</link>
       <guid>https://breezeshane.github.io/BlogBuildingAndUsing/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./BlogBuilding.html">Blog Building</a></li>
@@ -6107,7 +6107,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6132,7 +6132,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6147,7 +6147,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6666,7 +6666,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6689,7 +6689,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6700,7 +6700,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6720,7 +6720,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6731,7 +6731,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -6912,7 +6912,7 @@ $$
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</guid>
       <source url="https://breezeshane.github.io/rss.xml">定义</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -7861,7 +7861,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Data Structures and Algorithms</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="data-structures"> Data Structures</h2>
 <ol>
 <li><a href="./DataSructures/SequentialLinearList.html">Sequential Linear List</a></li>
@@ -10532,83 +10532,6 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
-      <title>Manjaro Linux</title>
-      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
-      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Manjaro Linux</source>
-      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="记一次局域网搭建私人云盘的过程"> 记一次局域网搭建私人云盘的过程</h2>
-<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h3 id="过程"> 过程</h3>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用<code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                          
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                    
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                       
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                       
---name nextcloud <span>\</span>              
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>          
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过<code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令<code>--link mysql:mysql</code>，和<code>:</code>后面的<code>mysql</code>有关。</p>
-<h3 id="还没结束"> 还没结束</h3>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改<code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="「注意」"> 「注意」</h3>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数<code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
-    </item>
-    <item>
       <title>Linux Shell 编程学习与实战</title>
       <link>https://breezeshane.github.io/Linux/Shells/</link>
       <guid>https://breezeshane.github.io/Linux/Shells/</guid>
@@ -11767,6 +11690,83 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
     </item>
     <item>
+      <title>Manjaro Linux</title>
+      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
+      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Manjaro Linux</source>
+      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="记一次局域网搭建私人云盘的过程"> 记一次局域网搭建私人云盘的过程</h2>
+<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h3 id="过程"> 过程</h3>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用<code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                          
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                    
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                       
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                       
+--name nextcloud <span>\</span>              
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>          
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过<code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令<code>--link mysql:mysql</code>，和<code>:</code>后面的<code>mysql</code>有关。</p>
+<h3 id="还没结束"> 还没结束</h3>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改<code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="「注意」"> 「注意」</h3>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数<code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
+    </item>
+    <item>
       <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
       <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
       <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
@@ -11870,7 +11870,7 @@ vncserver :1
       <link>https://breezeshane.github.io/Linux/</link>
       <guid>https://breezeshane.github.io/Linux/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<ol>
 <li><a href="./Manjaro安装与配置.html">Manjaro安装与配置</a></li>
 <li><a href="./ZeroTier-One安装与使用.html">ZeroTier-One安装与使用</a></li>
@@ -12155,7 +12155,7 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
       <link>https://breezeshane.github.io/Mathematics/</link>
       <guid>https://breezeshane.github.io/Mathematics/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Mathematics</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="目录"> 目录</h1>
 <ol>
 <li><a href="./LipschitzContinuity.html">Lipschitz Continuity</a></li>
@@ -12260,7 +12260,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/Python/</link>
       <guid>https://breezeshane.github.io/Python/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Python</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./Crawler.html">Crawler</a></li>
@@ -12544,7 +12544,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/Web/</link>
       <guid>https://breezeshane.github.io/Web/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Web</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./HowtoForceCVWhenBanned.html">How to Force CV When Banned</a></li>
@@ -12877,14 +12877,14 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
     </item>
     <item>
       <title>Intro Page</title>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -12894,7 +12894,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -12919,7 +12919,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -12981,7 +12981,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -12990,647 +12990,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>组件禁用</title>
-      <link>https://breezeshane.github.io/zh/guide/disable/</link>
-      <guid>https://breezeshane.github.io/zh/guide/disable/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">组件禁用</source>
-      <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
-</description>
-      <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
-
-<p>本页面应当禁用了:</p>
-<ul>
-<li>导航栏</li>
-<li>侧边栏</li>
-<li>路径导航</li>
-<li>页面信息</li>
-<li>贡献者</li>
-<li>编辑此页链接</li>
-<li>更新时间</li>
-<li>上一篇/下一篇 链接</li>
-<li>评论</li>
-<li>页脚</li>
-<li>返回顶部按钮</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>密码加密的文章</title>
-      <link>https://breezeshane.github.io/zh/guide/encrypt/</link>
-      <guid>https://breezeshane.github.io/zh/guide/encrypt/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
-      <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Markdown 增强</title>
-      <link>https://breezeshane.github.io/zh/guide/markdown/</link>
-      <guid>https://breezeshane.github.io/zh/guide/markdown/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Markdown 增强</source>
-      <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
-</description>
-      <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
-
-<h2 id="一键启用"> 一键启用</h2>
-<p>你可以设置 <code>themeconfig.mdEnhance.enableAll</code> 启用 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a> 插件的所有功能。</p>
-<div><div><br><br><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><br><br><br></div><pre><code>module<span>.</span>exports <span>=</span> <span>{</span>
-  themeConfig<span>:</span> <span>{</span>
-    mdEnhance<span>:</span> <span>{</span>
-      enableAll<span>:</span> <span>true</span><span>,</span>
-    <span>}</span><span>,</span>
-  <span>}</span><span>,</span>
-<span>}</span><span>;</span>
-</code></pre><div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h2 id="新增的更多语法"> 新增的更多语法</h2>
-<h3 id="上下角标"> 上下角标</h3>
-<p>19<sup>th</sup> H<sub>2</sub>O</p>
-<details><summary>代码</summary>
-<div><pre><code>19^th^ H<span><span>~</span><span>2</span><span>~</span></span>O
-</code></pre>
-<div><span>1</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/sup-sub/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="自定义对齐"> 自定义对齐</h3>
-<div>
-<p>我是居中的</p>
-</div>
-<div>
-<p>我在右对齐</p>
-</div>
-<details><summary>代码</summary>
-<div><pre><code>::: center
-
-我是居中的
-
-:::
-
-::: right
-
-我在右对齐
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/align/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="脚注"> 脚注</h3>
-<p>此文字有脚注<sup></sup>.</p>
-<details><summary>代码</summary>
-<div><pre><code>此文字有脚注[^first].
-
-<span><span>[</span><span>^first</span><span>]</span><span>:</span> 这是脚注内容</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/footnote/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="标记"> 标记</h3>
-<p>你可以标记 ==重要的内容== 。</p>
-<details><summary>代码</summary>
-<div><pre><code>你可以标记 ==重要的内容== 。
-</code></pre>
-<div><span>1</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/mark/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="任务列表"> 任务列表</h3>
-<ul>
-<li>[x] 计划 1</li>
-<li>[ ] 计划 2</li>
-</ul>
-<details><summary>Code</summary>
-<div><pre><code><span>-</span> [x] 计划 1
-<span>-</span> [ ] 计划 2
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/guide/markdown/tasklist/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="流程图"> 流程图</h3>
-<i>Not supported content</i><details><summary>代码</summary>
-<div><pre><code>​```flow
-cond=>condition: Process?
-process=>operation: Process
-e=>end: End
-
-cond(yes)->process->e
-cond(no)->e
-```
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/flowchart/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h2 id="mermaid"> Mermaid</h2>
-<p>​```mermaid
-graph TD;
-A--&gt;B;
-A--&gt;C;
-B--&gt;D;
-C--&gt;D;</p>
-<div><pre><code>
-::: details 代码
-
-````md
-​```mermaid
-graph TD;
-    A--&gt;B;
-    A--&gt;C;
-    B--&gt;D;
-    C--&gt;D;
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><div><pre><code>
-:::
-
-- [点击查看](https://vuepress-theme-hope.github.io/zh/guide/markdown/mermaid/)
-
-### Tex 语法
-
-$$
-\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
-= \left(\frac {y^{\omega}} {\omega}\right) \left\{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right\}
-$$
-
-::: details 代码
-
-​```md
-$$
-\frac {\partial^r} {\partial \omega^r} \left(\frac {y^{\omega}} {\omega}\right)
-= \left(\frac {y^{\omega}} {\omega}\right) \left\{(\log y)^r + \sum_{i=1}^r \frac {(-1)^i r \cdots (r-i+1) (\log y)^{r-i}} {\omega^i} \right\}
-$$
-```
-
-:::
-
-- [点击查看](https://vuepress-theme-hope.github.io/zh/guide/markdown/tex/)
-
-### 代码案例
-
-::: demo 一个普通 Demo
-
-```html
-&lt;h1&gt;Mr.Hope&lt;/h1&gt;
-&lt;p&gt;&lt;span id=&quot;very&quot;&gt;十分&lt;/span&gt; 帅&lt;/p&gt;
-```
-
-```js
-document.querySelector(&quot;#very&quot;).addEventListener(&quot;click&quot;, () =&gt; {
-  alert(&quot;十分帅&quot;);
-});
-```
-
-```css
-span {
-  color: red;
-}
-```
-
-:::
-
-:::: details 代码
-
-````md
-::: demo 一个普通 Demo
-
-​```html
-&lt;h1&gt;Mr.Hope&lt;/h1&gt;
-&lt;p&gt;&lt;span id=&quot;very&quot;&gt;十分&lt;/span&gt; 帅&lt;/p&gt;
-```
-
-```js
-document.querySelector(&quot;#very&quot;).addEventListener(&quot;click&quot;, () =&gt; {
-  alert(&quot;十分帅&quot;);
-});
-```
-
-```css
-span {
-  color: red;
-}
-```
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br></div></div><p>::::</p>
-
-          <div
-            id="code-demo-6c47b125"
-           
-  data-type="react"
- data-title="%E4%B8%80%E4%B8%AA%20React%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%60%60%60css%5Cn.box-react%20span%20%7B%5Cn%20%20color%3A%20red%3B%5Cn%7D%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
-<p>​```js
-export default class App extends React.Component {
-constructor(props) {
-super(props);
-this.state = { message: &quot;十分帅&quot; };
-}
-render() {
-return (
-<div className="box-react">
-Mr.Hope <span>{this.state.message}</span>
-</div>
-);
-}
-}</p>
-<div><pre><code>
-```css
-.box-react span {
-  color: red;
-}
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo [react] 一个 React Demo
-
-​```js
-export default class App extends React.Component {
-  constructor(props) {
-    super(props);
-    this.state = { message: "十分帅" };
-  }
-  render() {
-    return (
-      <span><span><span>&lt;</span>div</span> <span>className</span><span><span>=</span><span>"</span>box-react<span>"</span></span><span>></span></span>
-        Mr.Hope <span><span><span>&lt;</span>span</span><span>></span></span>{this.state.message}<span><span><span>&lt;/</span>span</span><span>></span></span>
-      <span><span><span>&lt;/</span>div</span><span>></span></span>
-    );
-  }
-}
-<span><span>```</span>
-<span>
-```css
-.box-react span {
-  color: red;
-}</span>
-<span>```</span></span>
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></details>
-
-          <div
-            id="code-demo-a8b6364c"
-           
-  data-type="vue"
- data-title="%E4%B8%80%E4%B8%AA%20Vue%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
-<p>​```vue
-<template>
-<div>
-Mr.Hope <span>{{ message }}</span>
-</div>
-</template>
-<script>
-export default {
-data: () =&gt; ({ message: &quot;十分帅&quot; }),
-};
-</script>
-<style>
-.box-vue span {
-color: red;
-}
-</style></p>
-<div><pre><code>
-</code></pre>
-<div><span>1</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo [vue] 一个 Vue Demo
-
-​```vue
-<span><span><span>&lt;</span>template</span><span>></span></span>
-  <span><span><span>&lt;</span>div</span> <span>class</span><span><span>=</span><span>"</span>box-vue<span>"</span></span><span>></span></span>
-    Mr.Hope <span><span><span>&lt;</span>span</span><span>></span></span>{{ message }}<span><span><span>&lt;/</span>span</span><span>></span></span>
-  <span><span><span>&lt;/</span>div</span><span>></span></span>
-<span><span><span>&lt;/</span>template</span><span>></span></span>
-<span><span><span>&lt;</span>script</span><span>></span></span><span><span>
-<span>export</span> <span>default</span> <span>{</span>
-  <span>data</span><span>:</span> <span>(</span><span>)</span> <span>=></span> <span>(</span><span>{</span> message<span>:</span> <span>"十分帅"</span> <span>}</span><span>)</span><span>,</span>
-<span>}</span><span>;</span>
-</span></span><span><span><span>&lt;/</span>script</span><span>></span></span>
-<span><span><span>&lt;</span>style</span><span>></span></span><span><span>
-<span>.box-vue span</span> <span>{</span>
-  <span>color</span><span>:</span> red<span>;</span>
-<span>}</span>
-</span></span><span><span><span>&lt;/</span>style</span><span>></span></span>
-```
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br></div></div></details>
-
-          <div
-            id="code-demo-4ad68778"
-           
-  
- data-title="%E4%B8%80%E4%B8%AA%E6%99%AE%E9%80%9A%20Demo"
-
-            data-code="%7B%22%22%3A%22%5Cn%60%60%60ts%5Cnconst%20message%3A%20string%20%3D%20%5C%22Mr.Hope%5C%22%3B%5Cn%5Cndocument.querySelector(%5C%22h1%5C%22).innerHTML%20%3D%20message%3B%5Cn%22%2C%22scss%22%3A%22h1%20%7B%5Cn%20%20font-style%3A%20italic%3B%5Cn%5Cn%20%20%2B%20p%20%7B%5Cn%20%20%20%20color%3A%20red%3B%5Cn%20%20%7D%5Cn%7D%5Cn%22%7D"
-          >
-              <div>
-                
-              </div>
-              <div>
-                <div>
-<p>​```md</p>
-<h1 id="标题"> 标题</h1>
-<p>十分帅</p>
-<div><pre><code>
-```ts
-const message: string = &quot;Mr.Hope&quot;;
-
-document.querySelector(&quot;h1&quot;).innerHTML = message;
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><pre><code><span>h1 </span><span>{</span>
-  <span>font-style</span><span>:</span> italic<span>;</span>
-
-  <span>+ p </span><span>{</span>
-    <span>color</span><span>:</span> red<span>;</span>
-  <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div>
-            </div>
-          </div>
-          
-        </div>
-<details><summary>代码</summary>
-<div><pre><code>::: demo 一个普通 Demo
-
-​```md
-<span><span>#</span> 标题</span>
-
-十分帅
-<span><span>```</span>
-<span>
-```ts
-const message: string = "Mr.Hope";
-
-document.querySelector("h1").innerHTML = message;</span>
-<span>```</span></span>
-
-<span><span>```</span><span>scss</span>
-<span><span>h1 </span><span>{</span>
-  <span>font-style</span><span>:</span> italic<span>;</span>
-
-  <span>+ p </span><span>{</span>
-    <span>color</span><span>:</span> red<span>;</span>
-  <span>}</span>
-<span>}</span></span>
-<span>```</span></span>
-
-:::
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/demo/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h3 id="幻灯片"> 幻灯片</h3>
-<i>Not supported content</i><details><summary>代码</summary>
-<div><pre><code>@slidestart
-
-<span><span>##</span> 幻灯片 1</span>
-
-一个有文字和 <span>[<span>链接</span>](<span>https://mrhope.site</span>)</span> 的段落
-
-<span>---</span>
-
-<span><span>##</span> 幻灯片 2</span>
-
-<span>-</span> 列表 1
-<span>-</span> 列表 2
-
-<span>---</span>
-
-<span><span>##</span> 幻灯片 3.1</span>
-
-​```js
-const a = 1;
-```
-
---
-
-<span><span>##</span> 幻灯片 3.2</span>
-
-$$
-J(\theta_0,\theta_1) = \sum_{i=0}
-$$
-
-@slideend
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br></div></div></details>
-<ul>
-<li><a href="https://vuepress-theme-hope.github.io/zh/guide/markdown/presentation/" target="_blank" rel="noopener noreferrer">点击查看</a></li>
-</ul>
-<h2 id="其他语法"> 其他语法</h2>
-<div><p>自定义标题</p>
-<p>信息容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>提示容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>警告容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>危险容器</p>
-</div>
-<details><summary>自定义标题</summary>
-<p>详情容器</p>
-</details>
-<details><summary>代码</summary>
-<p>​```md</p>
-<div><p>自定义标题</p>
-<p>信息容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>提示容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>警告容器</p>
-</div>
-<div><p>自定义标题</p>
-<p>危险容器</p>
-</div>
-<details><summary>自定义标题</summary>
-<p>详情容器</p>
-</details>
-<div><pre><code>
-</code></pre>
-<div><span>1</span><br></div></div></details>
-<hr>
-<section>
-<ol>
-<li id="footnote1"><p>这是脚注内容 </p>
-</li>
-</ol>
-</section>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>页面配置</title>
-      <link>https://breezeshane.github.io/zh/guide/page/</link>
-      <guid>https://breezeshane.github.io/zh/guide/page/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">页面配置</source>
-      <category>使用指南</category>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="页面信息"> 页面信息</h2>
-<p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
-<ul>
-<li>
-<p>作者设置为 Ms.Hope。</p>
-</li>
-<li>
-<p>写作时间应为 2020 年 1 月 1 日</p>
-</li>
-<li>
-<p>分类为 “使用指南”</p>
-</li>
-<li>
-<p>标签为 “页面配置” 和 “使用指南”</p>
-</li>
-</ul>
-<h2 id="页面内容"> 页面内容</h2>
-<p>你可以自由在这里书写你的 Markdown。</p>
-<div><p>提示</p>
-<ul>
-<li>
-<p>Markdown 文件夹的图片请使用相对链接 <code>./</code> 进行引用。</p>
-</li>
-<li>
-<p><code>.vuepress/public</code> 文件夹的图片，请使用绝对链接 <code>/</code> 进行引用</p>
-</li>
-</ul>
-</div>
-<p>主题包含了一个自定义徽章章可以使用:</p>
-<blockquote>
-<p>文字结尾应该有深蓝色的 徽章文字 徽章。 <i>Not supported content</i></p>
-</blockquote>
-<h2 id="页面结构"> 页面结构</h2>
-<p>此页面应当包含：</p>
-<ul>
-<li>返回顶部按钮</li>
-<li>路径导航</li>
-<li>评论</li>
-<li>页脚</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>主要功能与配置演示</title>
-      <link>https://breezeshane.github.io/zh/guide/</link>
-      <guid>https://breezeshane.github.io/zh/guide/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
-      <category>使用指南</category>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
-<ul>
-<li>
-<p><a href="./page.html">页面展示</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown 展示</a></p>
-</li>
-<li>
-<p><a href="./disable.html">禁用展示</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">加密展示</a></p>
-</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>项目主页</title>
-      <link>https://breezeshane.github.io/zh/home/</link>
-      <guid>https://breezeshane.github.io/zh/home/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
-<p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
-<p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>自定义布局</title>
-      <link>https://breezeshane.github.io/zh/layout/</link>
-      <guid>https://breezeshane.github.io/zh/layout/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
-<div><p>注意</p>
-<p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
-
-
-</div>
-<template #page-top><p>页面顶部内容</p>
-</template><template #page-bottom><p>页面底部内容</p>
-</template><template #content-top><p>内容顶部内容</p>
-</template><template #content-bottom><p>内容底部内容</p>
-</template><template #navbar-start><p>导航栏起始内容</p>
-</template><template #navbar-center><p>导航栏中部内容</p>
-</template><template #navbar-end><p>导航栏末尾内容</p>
-</template><template #sidebar-top><p>侧边栏顶部内容</p>
-</template><template #sidebar-center><p>侧边栏中部内容</p>
-</template><template #sidebar-bottom><p>侧边栏底部内容</p>
-</template><p>更多详情，详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/custom/" target="_blank" rel="noopener noreferrer">自定义布局</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>博客主页</title>
-      <link>https://breezeshane.github.io/zh/</link>
-      <guid>https://breezeshane.github.io/zh/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
-<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
-<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>幻灯片页</title>
-      <link>https://breezeshane.github.io/zh/slides/</link>
-      <guid>https://breezeshane.github.io/zh/slides/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 22 Jan 2022 11:03:07 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 11:27:21 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
