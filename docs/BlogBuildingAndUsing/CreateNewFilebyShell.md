@@ -18,7 +18,6 @@ tags:
  - Manjaro
  - Shell
  - Geek
-article: false
 ---
 
 # 用Shell脚本创建新文章

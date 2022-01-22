@@ -5,7 +5,6 @@ toc: true
 author: Breeze Shane
 excerpt: 本文记述了WGAN的由来、发展、成熟以及改进的WGAN-gp诞生的相关报告。
 image: /images/v2-3cfe84e6b6b58c00e013975fe649398e_b.jpg
-article: false
 tags:
  - Unsupervised Learning
  - Generative Adversarial Networks

@@ -8,7 +8,6 @@ categories:
  - DataStructuresAndAlgorithms
 tags:
  - Data Structures and Algorithms
-article: false
 ---
 
 ## 指针变量写法

@@ -16,7 +16,6 @@ tags:
  - Front-end
  - CV Method
  - Crack Web Pages
-article: false
 ---
 
 # 在受限的网站里强制复制粘贴

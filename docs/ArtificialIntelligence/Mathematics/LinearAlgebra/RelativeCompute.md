@@ -9,7 +9,6 @@ categories:
  - AritficialIntelligence
 tags: 
  - Aritficial Intelligence
-article: false
 ---
 ## 矩阵转置
 
@@ -18,5 +17,3 @@ article: false
 ## 矩阵乘法
 
 ## 矩阵元素对应乘积
-
-

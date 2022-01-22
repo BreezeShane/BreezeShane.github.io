@@ -13,7 +13,6 @@ tags:
   - Zhaoo
   - GitHub
 excerpt: 本文记述了我由原来的Fluid主题切换到Zhaoo主题的详细过程，经历了不少辛酸。。。
-article: false
 ---
 
 # To Change My Blog Theme

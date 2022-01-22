@@ -9,7 +9,6 @@ categories:
  - Mathematics
 tags: 
  - Mathematics
-article: false
 ---
 ## 向量范数
 

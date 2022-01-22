@@ -3,8 +3,6 @@ title: Lipschitz Continuity
 date: 2021-05-12 19:49:43
 author: Breeze Shane
 top: false
-image: /images/lipschitz_continuity.jpg
-banner_img: 
 excerpt: 本文记录了数学凸优化的相关知识，但仅仅是浅尝辄止，由于本人仅仅是本科生，在这里欠缺的基础太多，故暂时打算留到以后再研究。此文可能近一两年要停更。
 toc: true
 mathjax: true
@@ -14,7 +12,6 @@ categories:
 tags: 
  - Mathematics
  - Convex Analysis
-article: false
 ---
 
 # 利普希茨连续——Lipschitz Continuity

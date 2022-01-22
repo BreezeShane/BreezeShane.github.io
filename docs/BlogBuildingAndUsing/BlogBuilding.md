@@ -15,7 +15,6 @@ tags:
   - Fluid
   - SSH
   - GitHub
-article: false
 ---
 
 # Blog Building

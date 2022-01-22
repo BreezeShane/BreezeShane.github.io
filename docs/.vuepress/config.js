@@ -40,7 +40,6 @@ module.exports = config({
     themeConfig: {
         logo: "/铃兰.svg",
         author: "Breeze Shane",
-
         repo: "https://github.com/BreezeShane/BreezeShane.github.io",
         repoDisplay: false,
         docsDir: "src",
@@ -53,11 +52,88 @@ module.exports = config({
               title: "Aritficial Intelligence",
               prefix: "ArtificialIntelligence/",
               children: [
-                  "",
                   "AIOverview",
                   "EnvInstall",
-                  "StatisticalLearningMethodsNotebook",
-                  "DeepLearning",
+                  {
+                    title: "Statistical Learning Methods",
+                    prefix: "StatisticalLearningMethods/",
+                    children: [
+                    ],
+                  },
+                  {
+                    title: "Mathematics",
+                    prefix: "Mathematics/",
+                    children: [
+                      {
+                        title: "Linear Algebra",
+                        prefix: "LinearAlgebra/",
+                        children: [
+                          "RelativeConcepts",
+                          "RelativeCompute",
+                          "Norm",
+                          "特征分解",
+                          "奇异值分解",
+                          "Moore-Penrose伪逆",
+                          "[实例]主成分分析",
+                        ],
+                      },
+                      {
+                        title: "Probability Theory",
+                        prefix: "ProbabilityTheory/",
+                        children: [
+                          "随机变量",
+                          "概率分布",
+                          "边缘概率",
+                          "条件概率及其链式法则",
+                          "独立性和条件独立性",
+                          "期望、方差和协方差",
+                          "常见概率分布",
+                          "常见函数及其性质",
+                          "贝叶斯规则",
+                          "连续性变量的技术细节",
+                          "信息论",
+                          "结构化概率模型",
+                        ],
+                      },
+                      "CongruenceExpression",
+                      "LipschitzContinuity",
+                    ],
+                  },
+                  {
+                    title: "Deep Learning",
+                    prefix: "DeepLearning/",
+                    children: [
+                      "前言",
+                      {
+                        title: "数值计算",
+                        prefix: "DataCompute/",
+                        children: [
+                          "上溢和下溢",
+                          "病态条件",
+                          "基于梯度的优化方法",
+                          "约束优化",
+                          "[实例]线性最小二乘",
+                        ],
+                      },
+                      {
+                        title: "机器学习基础",
+                        prefix: "BasicsofML/",
+                        children: [
+                          "学习算法",
+                          "容量、过拟合和欠拟合",
+                          "超参数和验证集",
+                          "估计、偏差和方差",
+                          "最大似然估计",
+                          "贝叶斯统计",
+                          "监督学习算法",
+                          "无监督学习算法",
+                          "随机梯度下降",
+                          "构建机器学习算法",
+                          "促使深度学习发展的挑战",
+                        ],
+                      },
+                    ],
+                  },
                   {
                     title: "Unsupervised Learning",
                     prefix: "UnsupervisedLearning/",
@@ -71,13 +147,18 @@ module.exports = config({
                       "LowLightMetrics",
                     ],
                   },
+                  {
+                    title: "Reinforcement Learning",
+                    prefix: "ReinforcementLearning/",
+                    children: [
+                    ],
+                  },
               ],
             },
             {
               title: "Data Structures and Algorithms",
               prefix: "DataStructuresandAlgorithms/",
               children: [
-                "",
                 {
                   title: "Data Structures",
                   prefix: "DataStructures/",
@@ -86,9 +167,25 @@ module.exports = config({
                     "SingleLinkedList",
                     "CircularLinkedList",
                     "DoubleLinkedList",
-                    "StackBasedonSequentialLinearList",
-                    "StackBasedonSingleLinkedList",
+                    {
+                      title: "Stack",
+                      children: [
+                        "StackBasedonSequentialLinearList",
+                        "StackBasedonSingleLinkedList",
+                      ],
+                    },
                     "Queue",
+                    {
+                      title: "Tree",
+                      prefix: "Tree/",
+                      children: [
+                        "BinaryTree",
+                        "2-3Tree",
+                        "Red-BlackTree",
+                        "BTree",
+                        "B+Tree",
+                      ],
+                    },
                   ],
                 },
                 {
@@ -105,6 +202,10 @@ module.exports = config({
                         "ShellSort",
                         "MergeSort",
                         "QuickSort",
+                        "HeapSort",
+                        "BucketSort",
+                        "CountingSort",
+                        "RadixSort",
                       ],
                     },
                     {
@@ -112,6 +213,12 @@ module.exports = config({
                       prefix: "SearchAlgorithms/",
                       children: [
                         "SequentialSearch",
+                        "BinarySearch",
+                        "InterpolationSearch",
+                        "FibonacciSearch",
+                        "TreeTableLookup",
+                        "BlockSearch",
+                        "HashSearch",
                       ],
                     },
                   ],
@@ -134,7 +241,6 @@ module.exports = config({
                 title: "Blog",
                 prefix: "BlogBuildingAndUsing/",
                 children: [
-                  "",
                   "BlogBuilding",
                   "Markdown语法杂记",
                   "LaTeX",
@@ -146,7 +252,6 @@ module.exports = config({
                 title: "Linux",
                 prefix: "Linux/",
                 children: [
-                  "",
                   "Manjaro安装与配置",
                   "ZeroTier-One安装与使用",
                   "记服务器搭建过程",
@@ -158,20 +263,9 @@ module.exports = config({
                 ],
               },
               {
-                title: "Mathematics",
-                prefix: "Mathematics/",
-                children: [
-                  "",
-                  "LipschitzContinuity",
-                  "CongruenceExpression",
-                  "Norm",
-                ],
-              },
-              {
                 title: "Web",
                 prefix: "Web/",
                 children: [
-                  "",
                   "HowtoForceCVWhenBanned",
                   "Frontbackend",
                 ],
@@ -180,7 +274,6 @@ module.exports = config({
                 title: "Python",
                 prefix: "Python/",
                 children: [
-                  "",
                   "Crawler"
                 ],
               },

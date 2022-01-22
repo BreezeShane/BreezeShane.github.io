@@ -13,7 +13,6 @@ tags:
  - Linux
  - Arco Linux
  - Awesome Window Manager
-article: false
 ---
 > **前因**：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 `sudo rm -rf /*`。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。
 

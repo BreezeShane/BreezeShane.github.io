@@ -4,7 +4,6 @@ date: 2021-4-25 01:25:14
 update: 2021-5-7 12:51:20
 author: Breeze Shane
 image: /images/ZeroTier.png
-top: 
 toc: true
 mathjax: false
 excerpt: 本文介绍了如何安装和配置ZeroTier One并利用内网穿透来实现跨局域网连接的方法。
@@ -17,7 +16,6 @@ tags:
   - Manjaro
   - Zerotier One
   - Remote Control
-article: false
 ---
 
 # 从Zerotier One安装与配置到Android & Manjaro连接共享控制的一条龙服务问题

@@ -9,7 +9,6 @@ categories:
  - Mathematics
 tags: 
  - Mathematics
-article: false
 ---
 
 ## 模拟输入组合键<kbd>Ctrl</kbd>+<kbd>AnyKey</kbd>

@@ -8,6 +8,4 @@ categories:
  - DataStructuresAndAlgorithms
 tags:
  - Data Structures and Algorithms
-article: false
 ---
-

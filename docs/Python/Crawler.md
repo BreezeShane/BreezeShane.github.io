@@ -13,7 +13,6 @@ tags:
  - Python
  - Crawler
 excerpt: 本文是关于网络爬虫的学习笔记，主要用于提高搜索数据的效率。
-article: false
 ---
 
 # 网络爬虫学习(Updating...)

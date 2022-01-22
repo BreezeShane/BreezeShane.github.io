@@ -4,8 +4,6 @@ date: 2021-4-19 18:42:33
 author: Breeze Shane
 img: /source/images/
 top: false
-image: /images/latex_logo.png
-banner_img: /images/aurora_borealis_nature_snow_winter_hd_nature.jpg
 toc: true
 mathjax: true
 excerpt: 本文详细记述了LaTeX的语法知识，可以直接当作帮助文档或者字典手册之类的东西。
@@ -15,7 +13,6 @@ keywords:
 tags:
  - Markdown
  - LaTeX
-article: false
 ---
 # LaTeX公式
 

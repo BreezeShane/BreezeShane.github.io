@@ -6,10 +6,12 @@ top: false
 toc: true
 mathjax: true
 categories: 
- - Mathematics
+ - Linux
+ - Shell
 tags: 
- - Mathematics
-article: false
+ - Linux
+ - Anaconda
+ - Shell
 ---
 
 ## 背景

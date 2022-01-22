@@ -4,10 +4,8 @@ date: 2021-05-18 15:41:52
 author: Breeze Shane
 top: false
 image: /images/wgan-div.jpg
-banner_img: 
 toc: true
 mathjax: true
-article: false
 categories: 
  - UnsupervisedLearning
  - GenerativeAdversarialNetworks

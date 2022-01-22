@@ -5,7 +5,6 @@ author: Breeze Shane
 toc: true
 mathjax: false
 categories: Markdown
-article: false
 tags: 
   - Markdown
 ---

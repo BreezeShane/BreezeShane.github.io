@@ -9,12 +9,10 @@ categories:
  - ArtificialIntelligence
 tags: 
  - Artificial Intelligence
-article: false
 ---
-
 ## 你可能有配备？
 
-或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入`inxi -G`来查看电脑的显卡配备信息。可能你不懂什么是显卡？
+或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入 `inxi -G`来查看电脑的显卡配备信息。可能你不懂什么是显卡？
 
 > 显卡又称[显示卡](https://baike.baidu.com/item/显示卡/103062)( Graphics card)，是计算机中一个重要的组成部分，承担输出显示图形的任务，对喜欢玩游戏和从事专业图形设计的人来说，显卡非常重要。
 
@@ -43,15 +41,10 @@ article: false
 ### 数据科学计算工具包（建议使用时再去查询）
 
 1. [numpy](https://numpy.org/doc/stable/)
-
 2. [pandas](https://pandas.pydata.org/docs/)
-
 3. [keras](https://keras.io/api/)
-
 4. [scipy](https://www.scipy.org/docs.html)
-
 5. [scikit-learn](https://scikit-learn.org/stable/modules/classes.html)
-
 
 ### 常见机器学习框架（建议学习使用其一）
 

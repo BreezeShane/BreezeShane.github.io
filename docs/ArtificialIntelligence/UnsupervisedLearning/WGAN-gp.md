@@ -4,8 +4,6 @@ date: 2021-05-18 08:44:36
 author: Breeze Shane
 top: false
 image: /images/wgan-gp.png
-banner_img: 
-article: false
 toc: true
 mathjax: true
 categories: 

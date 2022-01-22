@@ -4,7 +4,6 @@ date: 2021-09-17 14:32:24
 toc: true
 author: Breeze Shane
 excerpt: 本文介绍了EnlightenGAN的原理和具体实现。
-article: false
 tags:
  - Unsupervised Learning
  - Generative Adversarial Networks

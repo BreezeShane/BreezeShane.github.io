@@ -15,7 +15,6 @@ tags:
  - Linux
  - Manjaro
  - Geek
-article: false
 ---
 # Manjaro Linux
 

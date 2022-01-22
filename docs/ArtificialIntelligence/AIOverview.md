@@ -9,7 +9,6 @@ categories:
  - AritficialIntelligence
 tags: 
  - Aritficial Intelligence
-article: false
 ---
 
 ## 人工智能是什么？

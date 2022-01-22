@@ -2,7 +2,6 @@
 title: Manjaro Linux
 date: 2021-1-17 11:23:18
 author: Breeze Shane
-top: 8
 toc: true
 mathjax: false
 image: /images/Manjaro-logo-text-edit.png
@@ -16,7 +15,6 @@ tags:
  - Manjaro
  - Docker
  - NextCloud
-article: false
 ---
 ## 记一次局域网搭建私人云盘的过程
 
