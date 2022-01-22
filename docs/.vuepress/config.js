@@ -47,7 +47,99 @@ module.exports = config({
         docsBranch: "main",
         nav: navBarConfig.zh,
         // sidebar: sideBarConfig.zh,
-        sidebar: false,
+        sidebar: [
+            "/" /* / */,
+            {
+              title: "Aritficial Intelligence",
+              prefix: "/ArtificialIntelligence/",
+              children: [
+                {
+                  title: "AI Overview",
+                  prefix: "AIOverview/",
+                  children: ["index"],
+                },
+                {
+                  title: "Env Install",
+                  prefix: "EnvInstall/",
+                  children: ["index"],
+                },
+                {
+                  title: "Statistical Learning Methods Notebook",
+                  prefix: "StatisticalLearningMethodsNotebook/",
+                  children: ["index"],
+                },
+                {
+                  title: "Deep Learning",
+                  prefix: "DeepLearning/",
+                  children: ["index"],
+                },
+                {
+                  title: "Unsupervised Learning",
+                  prefix: "UnsupervisedLearning/",
+                  children: ["index"],
+                },
+              ],
+            },
+            {
+              title: "Data Structures and Algorithms",
+              prefix: "DataStructuresandAlgorithms/",
+              children: [
+                "",
+              ],
+            },
+            {
+                title: "Blog",
+                prefix: "BlogBuildingAndUsing/",
+                children: [
+                  "BlogBuilding/index",
+                  "Markdown语法杂记/index",
+                  "LaTeX/index",
+                  "ChangeBlogTheme/index",
+                  "CreateNewFilebyShell/index",
+                ],
+              },
+              {
+                title: "Linux",
+                prefix: "/Linux/",
+                children: [
+                  "Manjaro安装与配置/",
+                  "ZeroTier-One安装与使用/",
+                  "记服务器搭建过程/",
+                  "PrivateNetdiskBuilding/",
+                  "ArcolinuxAndAwesomeWM/",
+                  "AutoIAC/",
+                  "Shells/",
+                  "BuildingServer/",
+                ],
+              },
+              {
+                title: "Mathematics",
+                prefix: "/Mathematics/",
+                children: [
+                  "LipschitzContinuity/",
+                  "CongruenceExpression/",
+                ],
+              },
+              {
+                title: "Web",
+                prefix: "/Web/",
+                children: [
+                  "HowtoForceCVWhenBanned/",
+                  "Frontbackend/",
+                ],
+              },
+              {
+                title: "Python",
+                prefix: "/Python/",
+                children: [
+                    "Crawler/"
+                ],
+              },
+            "Windows10快捷键大全/",
+            "VComputer/",
+            "Git_Commands/",
+            "/about/",
+          ],
         // locales: {
         //     /** 英文设置 */
         //     "/en/": {
@@ -105,9 +197,9 @@ module.exports = config({
         algolia: {
             apiKey: "064a2d15d1a0f7b69df3ef1458d1a510",
             Name: "mrhope",
-        },[
-index
-,        algoliaType],: "full",
+        },
+
+        algoliaType: "full",
 
         iconPrefix: "fas fa-",
 
