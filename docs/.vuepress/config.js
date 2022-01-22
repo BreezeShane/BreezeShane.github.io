@@ -53,7 +53,31 @@ module.exports = config({
               title: "Aritficial Intelligence",
               prefix: "/ArtificialIntelligence/",
               children: [
-                  "index",
+                {
+                  title: "AI Overview",
+                  prefix: "AIOverview/",
+                  children: "index"
+                },
+                {
+                  title: "Env Install",
+                  prefix: "EnvInstall/",
+                  children: "index"
+                },
+                {
+                  title: "Statistical Learning Methods Notebook",
+                  prefix: "StatisticalLearningMethodsNotebook/",
+                  children: "index"
+                },
+                {
+                  title: "Deep Learning",
+                  prefix: "DeepLearning/",
+                  children: "index"
+                },
+                {
+                  title: "Unsupervised Learning",
+                  prefix: "UnsupervisedLearning/",
+                  children: "index"
+                },
               ],
             },
             {
@@ -172,9 +196,9 @@ module.exports = config({
 
         algolia: {
             apiKey: "064a2d15d1a0f7b69df3ef1458d1a510",
-            indexName: "mrhope",
+            Name: "mrhope",
         },
-
+index
         algoliaType: "full",
 
         iconPrefix: "fas fa-",
