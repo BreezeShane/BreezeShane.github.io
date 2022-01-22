@@ -56,27 +56,27 @@ module.exports = config({
                 {
                   title: "AI Overview",
                   prefix: "/AIOverview/",
-                  children: "index",
+                  children: "index.html",
                 },
                 {
                   title: "Env Install",
                   prefix: "/EnvInstall/",
-                  children: "index",
+                  children: "index.html",
                 },
                 {
                   title: "Statistical Learning Methods Notebook",
                   prefix: "/StatisticalLearningMethodsNotebook/",
-                  children: "index",
+                  children: "index.html",
                 },
                 {
                   title: "Deep Learning",
                   prefix: "/DeepLearning/",
-                  children: "index",
+                  children: "index.html",
                 },
                 {
                   title: "Unsupervised Learning",
                   prefix: "/UnsupervisedLearning/",
-                  children: "index",
+                  children: "index.html",
                 },
               ],
             },
