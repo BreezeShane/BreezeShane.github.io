@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 21 Jan 2022 09:15:13 GMT</pubDate>
-    <lastBuildDate>Fri, 21 Jan 2022 09:15:13 GMT</lastBuildDate>
+    <pubDate>Sat, 22 Jan 2022 05:05:02 GMT</pubDate>
+    <lastBuildDate>Sat, 22 Jan 2022 05:05:02 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -237,8 +237,10 @@
 <p>也称作<strong>矢量</strong>，指一个同时具有大小和方向，且满足平行四边形法则的几何对象。</p>
 <p>一个向量可以由一列有序的数来确定。</p>
 <p>若向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>中总共有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个元素，且每一个元素都属于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span></span></span></span></span></span></span></span>，其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span></span></span></span></span></span></span></span>表示实数集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>次笛卡尔积所构成的集合。</p>
+<div><p>提示</p>
 <p>有时我们会这样描述向量：</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.439018em;vertical-align:-0.35001em;"></span><span><span>[</span></span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>⋯</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span><span>]</span></span><span><span><span><span style="height:1.089008em;"><span style="top:-3.3029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:5.459999999999999em;vertical-align:-2.4799999999999995em;"></span><span><span><span><span><span><span style="height:2.9500349999999997em;"><span style="top:-2.011015em;"><span style="height:3.8160299999999996em;"></span><span><span>⎣</span></span></span><span style="top:-3.158015em;"><span style="height:3.8160299999999996em;"></span><span style="height:1.8160299999999996em;width:0.667em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.667em' height='1.8160299999999996em' style='width:0.667em' viewBox='0 0 667 1816' preserveAspectRatio='xMinYMin'><path d='M319 0 H403 V1816 H319z M319 0 H403 V1816 H319z'/></svg></span></span><span style="top:-5.611064999999999em;"><span style="height:3.8160299999999996em;"></span><span><span>⎡</span></span></span></span><span>​</span></span><span><span style="height:2.4500349999999997em;"><span></span></span></span></span></span></span><span><span><span><span><span><span style="height:2.9799999999999995em;"><span style="top:-5.8275em;"><span style="height:3.6875em;"></span><span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-4.6275em;"><span style="height:3.6875em;"></span><span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-2.7674999999999996em;"><span style="height:3.6875em;"></span><span><span><span>⋮</span><span style="border-right-width:0em;border-top-width:1.5em;bottom:0em;"></span></span></span></span><span style="top:-1.5675000000000006em;"><span style="height:3.6875em;"></span><span><span><span>x</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:2.4799999999999995em;"><span></span></span></span></span></span></span></span><span><span><span><span><span style="height:2.9500349999999997em;"><span style="top:-2.011015em;"><span style="height:3.8160299999999996em;"></span><span><span>⎦</span></span></span><span style="top:-3.158015em;"><span style="height:3.8160299999999996em;"></span><span style="height:1.8160299999999996em;width:0.667em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.667em' height='1.8160299999999996em' style='width:0.667em' viewBox='0 0 667 1816' preserveAspectRatio='xMinYMin'><path d='M263 0 H347 V1816 H263z M263 0 H347 V1816 H263z'/></svg></span></span><span style="top:-5.611064999999999em;"><span style="height:3.8160299999999996em;"></span><span><span>⎤</span></span></span></span><span>​</span></span><span><span style="height:2.4500349999999997em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
+</div>
 <h3 id="矩阵"> 矩阵</h3>
 <p>数学上，一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>m</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>的矩阵是一个由<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>行（row）<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>列（column）元素排列成的矩形阵列。矩阵里的元素可以是数字、符号或数学式。</p>
 <p>若一个实数矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>高度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>，宽度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>，那么我们称矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.810431em;vertical-align:-0.0391em;"></span><span><span><span>A</span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span><span><span>R</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>×</span><span>n</span></span></span></span></span></span></span></span></span></span></span></span></span>。</p>
@@ -248,7 +250,7 @@
 <p>是一个可用来表示在一些矢量、标量和其他张量之间的线性关系的多线性函数(线性关系的基本例子有内积、外积、线性映射以及笛卡儿积)。</p>
 <p>其坐标在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>维空间内，有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.664392em;vertical-align:0em;"></span><span><span>n</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span>个分量的一种量，其中每个分量都是坐标的函数，而在坐标变换时，这些分量也依照某些规则作线性变换。<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>称为该张量的秩或阶（与矩阵的秩和阶均无关系）。</p>
 <p>张量的简洁定义表述为由若干坐标系改变时满足一定坐标转化关系的有序数组成的集合。</p>
-<p><strong>张量的另一种定义方式：</strong></p>
+<p><strong>另一种定义方式：</strong></p>
 <p>一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>p</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">q</span><span>)</span></span></span></span>型的张量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span></span></span></span>被定义为一个多重线性映射</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.284465em;vertical-align:-1.5457689999999997em;"></span><span><span><span><span style="height:0.7386960000000002em;"><span style="top:-1.5903390000000002em;"><span style="height:3em;"></span><span><span><span>p</span><span><span><span> </span><span>個</span></span></span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span><span><span style="height:0.738696em;"><span style="top:-2.26867em;"><span style="height:3em;"></span><span style="height:0.548em;min-width:1.6em;"><span style="height:0.548em;"><svg xmlns="http://www.w3.org/2000/svg" width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
  35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
@@ -271,14 +273,17 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 -174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span><span>⋯</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.22222em;">V</span></span></span></span><span>​</span></span><span><span style="height:0.73133em;"><span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:1.5457689999999997em;"><span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>,</span></span></span></span></span></p>
 <p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span></span></span></span>是矢量空间，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.688696em;vertical-align:0em;"></span><span><span style="margin-right:0.22222em;">V</span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span></span></span></span>是其对偶空间。</p>
 <p>张量不随参照系的坐标变换（其实就是基向量变化）而变化。</p>
+<div><p>提示</p>
 <p><strong>与标量、矩阵的关系：</strong></p>
 <p>我们可以将标量视为零阶张量，矢量视为一阶张量，那么矩阵就是二阶张量。</p>
+</div>
 <h2 id="单位矩阵和逆矩阵"> 单位矩阵和逆矩阵</h2>
 <h3 id="单位矩阵"> 单位矩阵</h3>
 <p>是一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>的方形矩阵，其主对角线元素为1，其余元素为0，且该方阵的阶数为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>，记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.07847em;">I</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，有时会记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>diag</span></span><span>(</span><span>1</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>)</span></span></span></span></p>
 <h3 id="逆矩阵"> 逆矩阵</h3>
 <p>设A是一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>阶矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>，若存在另一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>阶矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>B</span></span></span></span>，使得<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span><span>AB</span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68611em;vertical-align:0em;"></span><span><span>BA</span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68611em;vertical-align:0em;"></span><span>E</span></span></span></span> ，则称方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>可逆，并称方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>B</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>的逆矩阵，并记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8141079999999999em;vertical-align:0em;"></span><span><span>A</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−</span><span>1</span></span></span></span></span></span></span></span></span></span></span></span>。</p>
 <h2 id="范数"> 范数</h2>
+<p>详细请查看<a href="./../../Mathematics/Norm.html">此处</a></p>
 <h2 id="特殊类型的矩阵和向量"> 特殊类型的矩阵和向量</h2>
 <h2 id="行列式"> 行列式</h2>
 <p>记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>det</span><span>(</span><span>A</span><span>)</span></span></span></span>，是一个将方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>映射到实数的函数，等于矩阵所有特征值的乘积。</p>
@@ -1321,7 +1326,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
       <link>https://breezeshane.github.io/ArtificialIntelligence/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Aritficial Intelligence</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <p><a href="./AIOverview.html">AI Overview</a></p>
 <p><a href="./EnvInstall.html">Environment Installing And Using</a></p>
@@ -6083,7 +6088,7 @@ import torch as pd
       <link>https://breezeshane.github.io/BlogBuildingAndUsing/</link>
       <guid>https://breezeshane.github.io/BlogBuildingAndUsing/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./BlogBuilding.html">Blog Building</a></li>
@@ -6102,7 +6107,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6127,7 +6132,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6142,7 +6147,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6661,7 +6666,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6684,7 +6689,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6695,7 +6700,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6715,7 +6720,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6726,7 +6731,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -6907,7 +6912,7 @@ $$
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</guid>
       <source url="https://breezeshane.github.io/rss.xml">定义</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -7856,7 +7861,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Data Structures and Algorithms</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="data-structures"> Data Structures</h2>
 <ol>
 <li><a href="./DataSructures/SequentialLinearList.html">Sequential Linear List</a></li>
@@ -9163,99 +9168,99 @@ rfkill: Cannot get wiphy information
 <tbody>
 <tr>
 <td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
-<td style="text-align:center"><kbd>0</kbd> ~ <kbd>9</kbd></td>
+<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
 </tr>
 <tr>
 <td>立即重启系统，不同步文件系统或者卸载文件系统</td>
-<td style="text-align:center"><kbd>b</kbd></td>
+<td style="text-align:center"><kbd>B</kbd></td>
 </tr>
 <tr>
 <td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
-<td style="text-align:center"><kbd>c</kbd></td>
+<td style="text-align:center"><kbd>C</kbd></td>
 </tr>
 <tr>
 <td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
-<td style="text-align:center"><kbd>d</kbd></td>
+<td style="text-align:center"><kbd>D</kbd></td>
 </tr>
 <tr>
 <td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>e</kbd></td>
+<td style="text-align:center"><kbd>E</kbd></td>
 </tr>
 <tr>
 <td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
-<td style="text-align:center"><kbd>f</kbd></td>
+<td style="text-align:center"><kbd>F</kbd></td>
 </tr>
 <tr>
 <td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
-<td style="text-align:center"><kbd>g</kbd></td>
+<td style="text-align:center"><kbd>G</kbd></td>
 </tr>
 <tr>
 <td>将简洁的帮助文档打印至控制台</td>
-<td style="text-align:center"><kbd>h</kbd></td>
+<td style="text-align:center"><kbd>H</kbd></td>
 </tr>
 <tr>
 <td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>i</kbd></td>
+<td style="text-align:center"><kbd>I</kbd></td>
 </tr>
 <tr>
 <td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
-<td style="text-align:center"><kbd>j</kbd></td>
+<td style="text-align:center"><kbd>J</kbd></td>
 </tr>
 <tr>
 <td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
-<td style="text-align:center"><kbd>k</kbd></td>
+<td style="text-align:center"><kbd>K</kbd></td>
 </tr>
 <tr>
 <td>打印当前所有在线的 CPU 堆栈信息</td>
-<td style="text-align:center"><kbd>l</kbd></td>
+<td style="text-align:center"><kbd>L</kbd></td>
 </tr>
 <tr>
 <td>打印当前的内存信息在控制台</td>
-<td style="text-align:center"><kbd>m</kbd></td>
+<td style="text-align:center"><kbd>M</kbd></td>
 </tr>
 <tr>
 <td>重置所有的实时进程或者高优先级进程的 nice 值</td>
-<td style="text-align:center"><kbd>n</kbd></td>
+<td style="text-align:center"><kbd>N</kbd></td>
 </tr>
 <tr>
 <td>关闭系统</td>
-<td style="text-align:center"><kbd>o</kbd></td>
+<td style="text-align:center"><kbd>O</kbd></td>
 </tr>
 <tr>
 <td>打印当前的寄存器信息和 flags 信息在控制台</td>
-<td style="text-align:center"><kbd>p</kbd></td>
+<td style="text-align:center"><kbd>P</kbd></td>
 </tr>
 <tr>
 <td>显示所有在线的高进度定时器和时钟源信息</td>
-<td style="text-align:center"><kbd>q</kbd></td>
+<td style="text-align:center"><kbd>Q</kbd></td>
 </tr>
 <tr>
 <td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
-<td style="text-align:center"><kbd>r</kbd></td>
+<td style="text-align:center"><kbd>R</kbd></td>
 </tr>
 <tr>
 <td>同步所有的已挂载的文件系统</td>
-<td style="text-align:center"><kbd>s</kbd></td>
+<td style="text-align:center"><kbd>S</kbd></td>
 </tr>
 <tr>
 <td>打印当前的进程列表，以及他们的详细信息</td>
-<td style="text-align:center"><kbd>t</kbd></td>
+<td style="text-align:center"><kbd>T</kbd></td>
 </tr>
 <tr>
 <td>重新挂载文件系统至只读模式</td>
-<td style="text-align:center"><kbd>u</kbd></td>
+<td style="text-align:center"><kbd>U</kbd></td>
 </tr>
 <tr>
 <td>强制还原帧缓冲控制台</td>
-<td style="text-align:center"><kbd>v</kbd></td>
+<td style="text-align:center"><kbd>V</kbd></td>
 </tr>
 <tr>
 <td>打印所有 D 状态（阻塞）的进程信息</td>
-<td style="text-align:center"><kbd>w</kbd></td>
+<td style="text-align:center"><kbd>W</kbd></td>
 </tr>
 <tr>
 <td>转储 ftrace 缓冲区</td>
-<td style="text-align:center"><kbd>z</kbd></td>
+<td style="text-align:center"><kbd>Z</kbd></td>
 </tr>
 </tbody>
 </table>
@@ -11865,7 +11870,7 @@ vncserver :1
       <link>https://breezeshane.github.io/Linux/</link>
       <guid>https://breezeshane.github.io/Linux/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<ol>
 <li><a href="./Manjaro安装与配置.html">Manjaro安装与配置</a></li>
 <li><a href="./ZeroTier-One安装与使用.html">ZeroTier-One安装与使用</a></li>
@@ -12119,65 +12124,7 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
 -7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
 H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
 c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>2</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>}</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>⩾</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1.</span></span></span></span></span></p>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span>[</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span><span>=</span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>0</span><span>]</span></span></span></span></span></p>
-<blockquote>
-<p>「注意」：这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span>L</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>范数并非通常意义上的范数（不满足三角不等式或次可加性）。</p>
-</blockquote>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span></span></span></span></span></p>
-<p>该距离又称曼哈顿距离。</p>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>2</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>2</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.1568160000000005em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.8791470000000006em;"><span style="top:-5.116816em;"><span style="height:5.116816em;"></span><span style="padding-left:1.056em;"><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>∣</span><span><span><span><span style="height:0.740108em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span></span></span><span style="top:-3.8391470000000005em;"><span style="height:5.116816em;"></span><span style="min-width:0.742em;height:3.196816em;"><svg xmlns="http://www.w3.org/2000/svg" width='400em' height='3.196816em' viewBox='0 0 400000 3196' preserveAspectRatio='xMinYMin slice'><path d='M702 80H40000040
-H742v3062l-4 4-4 4c-.667.7 -2 1.5-4 2.5s-4.167 1.833-6.5 2.5-5.5 1-9.5 1
-h-12l-28-84c-16.667-52-96.667 -294.333-240-727l-212 -643 -85 170
-c-4-3.333-8.333-7.667-13 -13l-13-13l77-155 77-156c66 199.333 139 419.667
-219 661 l218 661zM702 80H400000v40H742z'/></svg></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span></span></span></span></span></p>
-<p>该距离又以欧氏距离而知名。</p>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>+</span><span>∞</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>∞</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.4000000000000004em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>p</span><span>→</span><span>+</span><span>∞</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.836108em;"><span></span></span></span></span></span><span>(</span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>∣</span><span><span><span><span style="height:0.714392em;"><span style="top:-3.1130000000000004em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span></span></span></span></span><span><span>)</span><span><span><span><span style="height:0.938em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1/</span><span>p</span></span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.477664em;vertical-align:-0.7276640000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.372336em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>i</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7276640000000001em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span></span></span></span></span></p>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>−</span><span>∞</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>∞</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.4000000000000004em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>p</span><span>→</span><span>−</span><span>∞</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.836108em;"><span></span></span></span></span></span><span>(</span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>∣</span><span><span><span><span style="height:0.714392em;"><span style="top:-3.1130000000000004em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span></span></span></span></span><span><span>)</span><span><span><span><span style="height:0.938em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1/</span><span>p</span></span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.4776639999999999em;vertical-align:-0.727664em;"></span><span><span><span><span style="height:0.66786em;"><span style="top:-2.372336em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>i</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>min</span></span></span></span><span>​</span></span><span><span style="height:0.727664em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span></span></span></span></span></p>
-<p>该距离被称作无穷范数或最大范数。而且该距离也有另外一个名称：切比雪夫距离。</p>
-<p>因为切比雪夫距离定义为：</p>
-<p>若有两个向量或两个点p和q，其坐标分别为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span>p</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，则有</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span><span><span style="margin-right:0.01389em;">Chebyshev</span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>p</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">q</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>:=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.477664em;vertical-align:-0.7276640000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.372336em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>i</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7276640000000001em;"><span></span></span></span></span></span><span>(</span><span>∣</span><span><span>p</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.005569em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.347892em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03148em;">k</span><span>→</span><span>∞</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.7521079999999999em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span>(</span></span><span style="margin-right:0.16666666666666666em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span><span style="top:0em;">∣</span><span><span>p</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="top:0em;">∣</span></span><span><span><span><span style="height:0.9890079999999999em;"><span style="top:-3.2029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03148em;">k</span></span></span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span><span>)</span></span><span><span><span><span style="height:1.7279em;"><span style="top:-3.9029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1/</span><span style="margin-right:0.03148em;">k</span></span></span></span></span></span></span></span></span><span>,</span></span></span></span></span></p>
-<hr>
-<p>以上的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>L</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>范数系都是在衡量向量的大小，如果想衡量矩阵的大小，则需要使用矩阵范数。</p>
+<i>Not supported content</i><p>以上的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>L</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>范数系都是在衡量向量的大小，如果想衡量矩阵的大小，则需要使用矩阵范数。</p>
 <h2 id="矩阵范数"> 矩阵范数</h2>
 <p>矩阵范数，又称矩阵模，是将一定的矩阵空间建立为赋范向量空间时为矩阵装备的范数。</p>
 <p>赋范向量空间是拓扑向量空间中的基本种类。通过赋予向量空间（线性空间）以范数，建立拓扑结构。考虑系数域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>可以是实数域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>或复数域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>C</span></span></span></span>等）上的所有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>m</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>矩阵所构成的向量空间<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span>M</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>,</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>K</span><span>)</span></span></span></span>。这是一个有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>mn</span></span></span></span>维的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>-向量空间。可以如同对其他的有限维<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>-向量空间一样，为矩阵空间<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span>M</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>,</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>K</span><span>)</span></span></span></span>装备范数。这样的范数称为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span>M</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>,</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>K</span><span>)</span></span></span></span>上的一个矩阵范数。</p>
@@ -12208,11 +12155,12 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
       <link>https://breezeshane.github.io/Mathematics/</link>
       <guid>https://breezeshane.github.io/Mathematics/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Mathematics</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="目录"> 目录</h1>
 <ol>
 <li><a href="./LipschitzContinuity.html">Lipschitz Continuity</a></li>
 <li><a href="./CongruenceExpression.html">Congruence Expression</a></li>
+<li><a href="./Norm.html">Norm</a></li>
 </ol>
 ]]></content:encoded>
     </item>
@@ -12312,7 +12260,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/Python/</link>
       <guid>https://breezeshane.github.io/Python/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Python</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./Crawler.html">Crawler</a></li>
@@ -12596,7 +12544,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/Web/</link>
       <guid>https://breezeshane.github.io/Web/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Web</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./HowtoForceCVWhenBanned.html">How to Force CV When Banned</a></li>
@@ -12929,14 +12877,14 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
     </item>
     <item>
       <title>Intro Page</title>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -12946,7 +12894,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -12971,7 +12919,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13033,7 +12981,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -13042,7 +12990,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -13055,7 +13003,7 @@ background-size: cover;
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -13080,7 +13028,7 @@ background-size: cover;
       <guid>https://breezeshane.github.io/zh/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -13095,7 +13043,7 @@ background-size: cover;
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -13612,7 +13560,7 @@ $$
       <guid>https://breezeshane.github.io/zh/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -13635,7 +13583,7 @@ $$
       <link>https://breezeshane.github.io/zh/home/</link>
       <guid>https://breezeshane.github.io/zh/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -13646,7 +13594,7 @@ $$
       <link>https://breezeshane.github.io/zh/layout/</link>
       <guid>https://breezeshane.github.io/zh/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>注意</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -13671,7 +13619,7 @@ $$
       <link>https://breezeshane.github.io/zh/</link>
       <guid>https://breezeshane.github.io/zh/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -13682,7 +13630,7 @@ $$
       <link>https://breezeshane.github.io/zh/slides/</link>
       <guid>https://breezeshane.github.io/zh/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Fri, 21 Jan 2022 09:14:12 GMT</pubDate>
+      <pubDate>Sat, 22 Jan 2022 05:04:03 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>

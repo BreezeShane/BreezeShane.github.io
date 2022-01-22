@@ -6,7 +6,7 @@
   <author>
     <name>Breeze Shane</name>
   </author>
-  <updated>2022-01-21T09:15:13.838Z</updated>
+  <updated>2022-01-22T05:05:02.206Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://breezeshane.github.io/atom.xml"/>
   <link rel="alternate" href="https://breezeshane.github.io/"/>
@@ -25,7 +25,7 @@
     <title type="html">有关人工智能与机器学习领域的概况</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/AIOverview/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="人工智能是什么"> 人工智能是什么？</h2>
 <p>关于人工智能的定义在学术界一直尚存争议，原因也无非是因为实在难以给智能下定义。</p>
 <p>目前比较广泛的说法是：<strong>人工智能是一门研究、开发用于模拟、延伸和扩展人的智能的理论方法技术及应用的一门技术科学。</strong></p>
@@ -171,7 +171,7 @@
     <title type="html">Deep Learning</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前言"> 前言</h2>
 <p>该系列下所有内容均来自书籍《Deep Learning》的译作《深度学习》，即业界内俗称的“花书”。该系列主要用于记录本人的读书笔记，并会在一些地方做延伸讨论，增加一些内容。</p>
 <h2 id="预备知识"> 预备知识</h2>
@@ -238,7 +238,7 @@
     <title type="html">相关的简单运算</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeCompute/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeCompute/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
 <h2 id="矩阵加法"> 矩阵加法</h2>
 <h2 id="矩阵乘法"> 矩阵乘法</h2>
@@ -257,7 +257,7 @@
     <title type="html">相关名词的概念</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeConcepts/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/RelativeConcepts/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="标量、向量、矩阵和张量"> 标量、向量、矩阵和张量</h2>
 <h3 id="标量"> 标量</h3>
 <p>又称<strong>纯量</strong>，是只有大小、没有方向、可用实数表示的一个量。</p>
@@ -266,8 +266,10 @@
 <p>也称作<strong>矢量</strong>，指一个同时具有大小和方向，且满足平行四边形法则的几何对象。</p>
 <p>一个向量可以由一列有序的数来确定。</p>
 <p>若向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>中总共有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个元素，且每一个元素都属于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span></span></span></span></span></span></span></span>，其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span></span></span></span></span></span></span></span>表示实数集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>次笛卡尔积所构成的集合。</p>
+<div><p>提示</p>
 <p>有时我们会这样描述向量：</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.439018em;vertical-align:-0.35001em;"></span><span><span>[</span></span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>⋯</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span><span>]</span></span><span><span><span><span style="height:1.089008em;"><span style="top:-3.3029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:5.459999999999999em;vertical-align:-2.4799999999999995em;"></span><span><span><span><span><span><span style="height:2.9500349999999997em;"><span style="top:-2.011015em;"><span style="height:3.8160299999999996em;"></span><span><span>⎣</span></span></span><span style="top:-3.158015em;"><span style="height:3.8160299999999996em;"></span><span style="height:1.8160299999999996em;width:0.667em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.667em' height='1.8160299999999996em' style='width:0.667em' viewBox='0 0 667 1816' preserveAspectRatio='xMinYMin'><path d='M319 0 H403 V1816 H319z M319 0 H403 V1816 H319z'/></svg></span></span><span style="top:-5.611064999999999em;"><span style="height:3.8160299999999996em;"></span><span><span>⎡</span></span></span></span><span>​</span></span><span><span style="height:2.4500349999999997em;"><span></span></span></span></span></span></span><span><span><span><span><span><span style="height:2.9799999999999995em;"><span style="top:-5.8275em;"><span style="height:3.6875em;"></span><span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-4.6275em;"><span style="height:3.6875em;"></span><span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-2.7674999999999996em;"><span style="height:3.6875em;"></span><span><span><span>⋮</span><span style="border-right-width:0em;border-top-width:1.5em;bottom:0em;"></span></span></span></span><span style="top:-1.5675000000000006em;"><span style="height:3.6875em;"></span><span><span><span>x</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:2.4799999999999995em;"><span></span></span></span></span></span></span></span><span><span><span><span><span style="height:2.9500349999999997em;"><span style="top:-2.011015em;"><span style="height:3.8160299999999996em;"></span><span><span>⎦</span></span></span><span style="top:-3.158015em;"><span style="height:3.8160299999999996em;"></span><span style="height:1.8160299999999996em;width:0.667em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.667em' height='1.8160299999999996em' style='width:0.667em' viewBox='0 0 667 1816' preserveAspectRatio='xMinYMin'><path d='M263 0 H347 V1816 H263z M263 0 H347 V1816 H263z'/></svg></span></span><span style="top:-5.611064999999999em;"><span style="height:3.8160299999999996em;"></span><span><span>⎤</span></span></span></span><span>​</span></span><span><span style="height:2.4500349999999997em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
+</div>
 <h3 id="矩阵"> 矩阵</h3>
 <p>数学上，一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>m</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>的矩阵是一个由<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>行（row）<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>列（column）元素排列成的矩形阵列。矩阵里的元素可以是数字、符号或数学式。</p>
 <p>若一个实数矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>高度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>，宽度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>，那么我们称矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.810431em;vertical-align:-0.0391em;"></span><span><span><span>A</span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span><span><span>R</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>×</span><span>n</span></span></span></span></span></span></span></span></span></span></span></span></span>。</p>
@@ -277,7 +279,7 @@
 <p>是一个可用来表示在一些矢量、标量和其他张量之间的线性关系的多线性函数(线性关系的基本例子有内积、外积、线性映射以及笛卡儿积)。</p>
 <p>其坐标在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>维空间内，有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.664392em;vertical-align:0em;"></span><span><span>n</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span></span></span></span></span></span></span></span>个分量的一种量，其中每个分量都是坐标的函数，而在坐标变换时，这些分量也依照某些规则作线性变换。<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>称为该张量的秩或阶（与矩阵的秩和阶均无关系）。</p>
 <p>张量的简洁定义表述为由若干坐标系改变时满足一定坐标转化关系的有序数组成的集合。</p>
-<p><strong>张量的另一种定义方式：</strong></p>
+<p><strong>另一种定义方式：</strong></p>
 <p>一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>p</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">q</span><span>)</span></span></span></span>型的张量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span></span></span></span>被定义为一个多重线性映射</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.284465em;vertical-align:-1.5457689999999997em;"></span><span><span><span><span style="height:0.7386960000000002em;"><span style="top:-1.5903390000000002em;"><span style="height:3em;"></span><span><span><span>p</span><span><span><span> </span><span>個</span></span></span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span><span><span style="height:0.738696em;"><span style="top:-2.26867em;"><span style="height:3em;"></span><span style="height:0.548em;min-width:1.6em;"><span style="height:0.548em;"><svg xmlns="http://www.w3.org/2000/svg" width='400em' height='0.548em' viewBox='0 0 400000 548' preserveAspectRatio='xMinYMin slice'><path d='M0 6l6-6h17c12.688 0 19.313.3 20 1 4 4 7.313 8.3 10 13
  35.313 51.3 80.813 93.8 136.5 127.5 55.688 33.7 117.188 55.8 184.5 66.5.688
@@ -300,14 +302,17 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 -174 2.7-5 6-9 10-13 .7-1 7.3-1 20-1h17z'/></svg></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span><span>⋯</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.22222em;">V</span></span></span></span><span>​</span></span><span><span style="height:0.73133em;"><span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:1.5457689999999997em;"><span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>,</span></span></span></span></span></p>
 <p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span></span></span></span>是矢量空间，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.688696em;vertical-align:0em;"></span><span><span style="margin-right:0.22222em;">V</span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span></span></span></span>是其对偶空间。</p>
 <p>张量不随参照系的坐标变换（其实就是基向量变化）而变化。</p>
+<div><p>提示</p>
 <p><strong>与标量、矩阵的关系：</strong></p>
 <p>我们可以将标量视为零阶张量，矢量视为一阶张量，那么矩阵就是二阶张量。</p>
+</div>
 <h2 id="单位矩阵和逆矩阵"> 单位矩阵和逆矩阵</h2>
 <h3 id="单位矩阵"> 单位矩阵</h3>
 <p>是一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>的方形矩阵，其主对角线元素为1，其余元素为0，且该方阵的阶数为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>，记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.07847em;">I</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.07847em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，有时会记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>diag</span></span><span>(</span><span>1</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>)</span></span></span></span></p>
 <h3 id="逆矩阵"> 逆矩阵</h3>
 <p>设A是一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>阶矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>，若存在另一个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>阶矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>B</span></span></span></span>，使得<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span><span>AB</span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68611em;vertical-align:0em;"></span><span><span>BA</span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68611em;vertical-align:0em;"></span><span>E</span></span></span></span> ，则称方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>可逆，并称方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>B</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>的逆矩阵，并记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8141079999999999em;vertical-align:0em;"></span><span><span>A</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−</span><span>1</span></span></span></span></span></span></span></span></span></span></span></span>。</p>
 <h2 id="范数"> 范数</h2>
+<p>详细请查看<a href="./../../Mathematics/Norm.html">此处</a></p>
 <h2 id="特殊类型的矩阵和向量"> 特殊类型的矩阵和向量</h2>
 <h2 id="行列式"> 行列式</h2>
 <p>记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>det</span><span>(</span><span>A</span><span>)</span></span></span></span>，是一个将方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>映射到实数的函数，等于矩阵所有特征值的乘积。</p>
@@ -330,7 +335,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">入门机器学习的安装与配置</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="你可能有配备"> 你可能有配备？</h2>
 <p>或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入<code>inxi -G</code>来查看电脑的显卡配备信息。可能你不懂什么是显卡？</p>
 <blockquote>
@@ -414,7 +419,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Statistical Learning Methods Notebook</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/StatisticalLearningMethodsNotebook/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/StatisticalLearningMethodsNotebook/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="有监督学习"> 有监督学习</h2>
 <h2 id="无监督学习"> 无监督学习</h2>
 ]]></content>
@@ -431,7 +436,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">无监督学习介绍与入门</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="什么是无监督学习"> 什么是无监督学习？</h2>
 <p>无监督学习是机器学习的一种训练方式「或者是学习方式」。无监督学习的概念是相对有监督学习而言的。</p>
 <blockquote>
@@ -623,7 +628,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Enlighten GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="应用领域及背景"> 应用领域及背景</h2>
 <p>该项目是应用在图像修复领域的低照度增强方向，是致力于将日常生活中常见的各种难以用肉眼感知特征的低照度场景增强到能够方便、舒适地观察内容的场景。</p>
 <center>该项目迄今为止仍是无监督学习方法低照度增强的SOTA。</center>
@@ -681,7 +686,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Low Light Metrics</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="low-light-metrics"> Low Light Metrics</h1>
 <h2 id="content"> Content</h2>
 <p>本文记录了LPIPS、SSIM、MAE、MSE、PSNR、NIQE和NIMA共计七个低照度指标，除了介绍相关背景、意义，也会提及算法实现的大致过程。</p>
@@ -810,7 +815,7 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
     <title type="html">Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/OriginalGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/OriginalGAN/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="generative-adversarial-networks"> Generative Adversarial Networks</h1>
 <blockquote>
 <p><strong>经过接受GAN的洗礼，我感觉我整个人都变得“睿智”了。。。</strong></p>
@@ -1067,7 +1072,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Divergence for GANs</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wasserstein-divergence-for-gans"> Wasserstein Divergence for GANs</h1>
 <blockquote>
 <p>參考自：</p>
@@ -1202,7 +1207,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">WGAN with Gradient Penalty</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
 <h2 id="结果"> 结果</h2>
 <p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
@@ -1266,7 +1271,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>首推这篇博客，本文内容多参考自此。<a href="https://www.cnblogs.com/Allen-rg/p/10305125.html" target="_blank" rel="noopener noreferrer">WGAN (原理解析)</a></p>
 <p>本文也另外参考了这篇<a href="https://lotabout.me/2018/WGAN/" target="_blank" rel="noopener noreferrer">博客</a></p>
@@ -1414,7 +1419,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <title type="html">Aritficial Intelligence</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <p><a href="./AIOverview.html">AI Overview</a></p>
 <p><a href="./EnvInstall.html">Environment Installing And Using</a></p>
@@ -1442,14 +1447,14 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">🥲🥲🥲多灾多难的博客搭建过程🥲🥲🥲</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="blog-building"> Blog Building</h1>
 <blockquote>
 <p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
@@ -1577,7 +1582,7 @@ FATAL {
     <title type="html">Changing Blog Theme</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="to-change-my-blog-theme"> To Change My Blog Theme</h1>
 <blockquote>
 <p>参考文档：</p>
@@ -2005,7 +2010,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">Create New File by Shell!</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="用shell脚本创建新文章"> 用Shell脚本创建新文章</h1>
 <h2 id="前言"> 前言</h2>
 <p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
@@ -2207,7 +2212,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">LaTeX公式</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="latex公式"> LaTeX公式</h1>
 <blockquote>
 <p>参考内容：</p>
@@ -3333,7 +3338,7 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
     <title type="html">Markdown语法杂记</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="markdown语法杂记"> Markdown语法杂记</h1>
 <hr>
 <blockquote>
@@ -6214,7 +6219,7 @@ import torch as pd
     <title type="html">Blog</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./BlogBuilding.html">Blog Building</a></li>
@@ -6230,14 +6235,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">组件禁用</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/disable/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/disable/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -6264,14 +6269,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/encrypt/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6284,14 +6289,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/markdown/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -6763,14 +6768,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/page/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/page/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -6826,7 +6831,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6850,14 +6855,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/home/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/home/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6868,14 +6873,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://breezeshane.github.io/CourseOfBlog/layout/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/layout/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6895,14 +6900,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6913,14 +6918,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/slides/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/slides/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -6929,14 +6934,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">二叉树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/BinaryTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/BinaryTree/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>二叉树是一颗有序树，它由</p>
 ]]></content>
@@ -6953,7 +6958,7 @@ $$
     <title type="html">循环链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/CircularLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/CircularLinkedList/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>循环链表，即令单链表尾结点的指针指向链表的头结点。</p>
 <p>结构代码的定义：「本质上与单链表的结构体定义并无差异」</p>
@@ -7121,7 +7126,7 @@ $$
     <title type="html">定义</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/DoubleLinkedList/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -7274,14 +7279,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">队列与循环队列</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Queue/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Queue/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>队列是限制结点插入操作固定在一端进行,而结点的删除操作固定在另一端进行的一种特殊线性表，特殊在于它操作受限，仅能使用入队、出队操作。</p>
 <p>如图所示：</p>
@@ -7388,7 +7393,7 @@ DataType <span>computeNum</span><span>(</span>PseqQueue Q<span>)</span><span>{</
     <title type="html">顺序线性表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SequentialLinearList/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>顺序线性表是数据结构算法中最简单的一种结构，它的组成成分如下：</p>
@@ -7594,7 +7599,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">单向链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/SingleLinkedList/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
@@ -7785,7 +7790,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">顺序线性栈</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSequentialLinearList/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
@@ -7894,7 +7899,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">链式栈</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/StackBasedonSingleLinkedList/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="链式栈的定义"> 链式栈的定义</h2>
@@ -7920,7 +7925,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">底层原因</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Statement/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataSructures/Statement/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="指针变量写法"> 指针变量写法</h2>
 <div><pre><code>PseqList <span>createNullList_seq</span><span>(</span><span>int</span> m<span>)</span><span>{</span>
     <span>if</span> <span>(</span> <span>!</span>m <span>)</span>
@@ -7979,7 +7984,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">N皇后问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题</h2>
 <p>下图所示为4皇后问题。n皇后问题：在n×n的棋盘上安置n个皇后，要求任意两个皇后均不在同一行、同一列、同一对角线上，要求设计算法求解总共有多少方案。</p>
 <p><img src="/images/nQueens.png" alt="" /></p>
@@ -8122,7 +8127,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">Data Structures and Algorithms</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="data-structures"> Data Structures</h2>
 <ol>
 <li><a href="./DataSructures/SequentialLinearList.html">Sequential Linear List</a></li>
@@ -8194,14 +8199,14 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Git Commands</title>
     <id>https://breezeshane.github.io/Git_Commands/</id>
     <link href="https://breezeshane.github.io/Git_Commands/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
 <p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
 <h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
@@ -8341,7 +8346,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">Arcolinux &amp; AwesomeWM</title>
     <id>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</id>
     <link href="https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 <code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
 </blockquote>
@@ -9035,7 +9040,7 @@ URxvt.boldItalicFont:     	    xft:MesloLGS NF-20
     <title type="html">Shell全自动安装与部署Anaconda</title>
     <id>https://breezeshane.github.io/Linux/AutoIAC/</id>
     <link href="https://breezeshane.github.io/Linux/AutoIAC/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
 <h2 id="实现思路"> 实现思路</h2>
@@ -9325,7 +9330,7 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
     <title type="html">记将旧电脑改建成服务器的过程</title>
     <id>https://breezeshane.github.io/Linux/BuildingServer/</id>
     <link href="https://breezeshane.github.io/Linux/BuildingServer/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
 <h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
@@ -9447,7 +9452,7 @@ rfkill: Cannot get wiphy information
     <title type="html">Magic SysRq 组合键功能表</title>
     <id>https://breezeshane.github.io/Linux/MagicSysRq/</id>
     <link href="https://breezeshane.github.io/Linux/MagicSysRq/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<div><p>说明</p>
 <p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
 </div>
@@ -9461,99 +9466,99 @@ rfkill: Cannot get wiphy information
 <tbody>
 <tr>
 <td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
-<td style="text-align:center"><kbd>0</kbd> ~ <kbd>9</kbd></td>
+<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
 </tr>
 <tr>
 <td>立即重启系统，不同步文件系统或者卸载文件系统</td>
-<td style="text-align:center"><kbd>b</kbd></td>
+<td style="text-align:center"><kbd>B</kbd></td>
 </tr>
 <tr>
 <td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
-<td style="text-align:center"><kbd>c</kbd></td>
+<td style="text-align:center"><kbd>C</kbd></td>
 </tr>
 <tr>
 <td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
-<td style="text-align:center"><kbd>d</kbd></td>
+<td style="text-align:center"><kbd>D</kbd></td>
 </tr>
 <tr>
 <td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>e</kbd></td>
+<td style="text-align:center"><kbd>E</kbd></td>
 </tr>
 <tr>
 <td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
-<td style="text-align:center"><kbd>f</kbd></td>
+<td style="text-align:center"><kbd>F</kbd></td>
 </tr>
 <tr>
 <td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
-<td style="text-align:center"><kbd>g</kbd></td>
+<td style="text-align:center"><kbd>G</kbd></td>
 </tr>
 <tr>
 <td>将简洁的帮助文档打印至控制台</td>
-<td style="text-align:center"><kbd>h</kbd></td>
+<td style="text-align:center"><kbd>H</kbd></td>
 </tr>
 <tr>
 <td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>i</kbd></td>
+<td style="text-align:center"><kbd>I</kbd></td>
 </tr>
 <tr>
 <td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
-<td style="text-align:center"><kbd>j</kbd></td>
+<td style="text-align:center"><kbd>J</kbd></td>
 </tr>
 <tr>
 <td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
-<td style="text-align:center"><kbd>k</kbd></td>
+<td style="text-align:center"><kbd>K</kbd></td>
 </tr>
 <tr>
 <td>打印当前所有在线的 CPU 堆栈信息</td>
-<td style="text-align:center"><kbd>l</kbd></td>
+<td style="text-align:center"><kbd>L</kbd></td>
 </tr>
 <tr>
 <td>打印当前的内存信息在控制台</td>
-<td style="text-align:center"><kbd>m</kbd></td>
+<td style="text-align:center"><kbd>M</kbd></td>
 </tr>
 <tr>
 <td>重置所有的实时进程或者高优先级进程的 nice 值</td>
-<td style="text-align:center"><kbd>n</kbd></td>
+<td style="text-align:center"><kbd>N</kbd></td>
 </tr>
 <tr>
 <td>关闭系统</td>
-<td style="text-align:center"><kbd>o</kbd></td>
+<td style="text-align:center"><kbd>O</kbd></td>
 </tr>
 <tr>
 <td>打印当前的寄存器信息和 flags 信息在控制台</td>
-<td style="text-align:center"><kbd>p</kbd></td>
+<td style="text-align:center"><kbd>P</kbd></td>
 </tr>
 <tr>
 <td>显示所有在线的高进度定时器和时钟源信息</td>
-<td style="text-align:center"><kbd>q</kbd></td>
+<td style="text-align:center"><kbd>Q</kbd></td>
 </tr>
 <tr>
 <td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
-<td style="text-align:center"><kbd>r</kbd></td>
+<td style="text-align:center"><kbd>R</kbd></td>
 </tr>
 <tr>
 <td>同步所有的已挂载的文件系统</td>
-<td style="text-align:center"><kbd>s</kbd></td>
+<td style="text-align:center"><kbd>S</kbd></td>
 </tr>
 <tr>
 <td>打印当前的进程列表，以及他们的详细信息</td>
-<td style="text-align:center"><kbd>t</kbd></td>
+<td style="text-align:center"><kbd>T</kbd></td>
 </tr>
 <tr>
 <td>重新挂载文件系统至只读模式</td>
-<td style="text-align:center"><kbd>u</kbd></td>
+<td style="text-align:center"><kbd>U</kbd></td>
 </tr>
 <tr>
 <td>强制还原帧缓冲控制台</td>
-<td style="text-align:center"><kbd>v</kbd></td>
+<td style="text-align:center"><kbd>V</kbd></td>
 </tr>
 <tr>
 <td>打印所有 D 状态（阻塞）的进程信息</td>
-<td style="text-align:center"><kbd>w</kbd></td>
+<td style="text-align:center"><kbd>W</kbd></td>
 </tr>
 <tr>
 <td>转储 ftrace 缓冲区</td>
-<td style="text-align:center"><kbd>z</kbd></td>
+<td style="text-align:center"><kbd>Z</kbd></td>
 </tr>
 </tbody>
 </table>
@@ -9571,7 +9576,7 @@ rfkill: Cannot get wiphy information
     <title type="html">Manjaro Linux</title>
     <id>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
     <link href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="manjaro-linux"> Manjaro Linux</h1>
 <p>终于考完试了！在大学第一个寒假到来之际，我决定入坑Linux系统，并花了很长时间挑选系统（深度选择困难患者），终于，我选择了Manjaro Linux，希望它<sub>不会让人失望</sub>！</p>
 <h2 id="_1-windows10-manjaro-linux深度指北"> 1.Windows10+Manjaro Linux深度指北</h2>
@@ -10842,7 +10847,7 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
     <title type="html">Manjaro Linux</title>
     <id>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</id>
     <link href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="记一次局域网搭建私人云盘的过程"> 记一次局域网搭建私人云盘的过程</h2>
 <blockquote>
 <p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
@@ -10925,7 +10930,7 @@ nextcloud
     <title type="html">Linux Shell 编程学习与实战</title>
     <id>https://breezeshane.github.io/Linux/Shells/</id>
     <link href="https://breezeshane.github.io/Linux/Shells/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="模拟输入组合键ctrl-anykey"> 模拟输入组合键<kbd>Ctrl</kbd>+<kbd>AnyKey</kbd></h2>
 <p>在<a href="./AutoIAC.html">上一篇笔记</a>中我提到没能将输入内容送入指定的进程PID，但在了解到这一点之前我学到了如下的一些内容：</p>
 <div><pre><code><span>echo</span> <span>$$</span> <span># 这个是显示当前进程的PID。</span>
@@ -12090,7 +12095,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
     <title type="html">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
     <id>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
     <link href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
 <h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
 <p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
@@ -12195,7 +12200,7 @@ vncserver :1
     <title type="html">Linux</title>
     <id>https://breezeshane.github.io/Linux/</id>
     <link href="https://breezeshane.github.io/Linux/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<ol>
 <li><a href="./Manjaro安装与配置.html">Manjaro安装与配置</a></li>
 <li><a href="./ZeroTier-One安装与使用.html">ZeroTier-One安装与使用</a></li>
@@ -12213,14 +12218,14 @@ vncserver :1
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Building Up Servicer</title>
     <id>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</id>
     <link href="https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
 <h2 id="怎么做"> 怎么做？</h2>
@@ -12286,7 +12291,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">同余式及其性质</title>
     <id>https://breezeshane.github.io/Mathematics/CongruenceExpression/</id>
     <link href="https://breezeshane.github.io/Mathematics/CongruenceExpression/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>若一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>a</span></span></span></span>被一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除的时候得到的商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和唯一的一个余数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>，另一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>b</span></span></span></span>也被<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除时得到商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，得到的唯一余数也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>（其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.78041em;vertical-align:-0.13597em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>），即</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:3.0000299999999998em;vertical-align:-1.25003em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>a</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>b</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
@@ -12368,7 +12373,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">Lipschitz Continuity</title>
     <id>https://breezeshane.github.io/Mathematics/LipschitzContinuity/</id>
     <link href="https://breezeshane.github.io/Mathematics/LipschitzContinuity/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="利普希茨连续-lipschitz-continuity"> 利普希茨连续——Lipschitz Continuity</h1>
 <blockquote>
 <p>参考资料：<a href="https://zh.wikipedia.org/wiki/%E5%88%A9%E6%99%AE%E5%B8%8C%E8%8C%A8%E9%80%A3%E7%BA%8C" target="_blank" rel="noopener noreferrer">利普希茨连续 - 维基百科</a></p>
@@ -12432,7 +12437,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">向量范数与矩阵范数</title>
     <id>https://breezeshane.github.io/Mathematics/Norm/</id>
     <link href="https://breezeshane.github.io/Mathematics/Norm/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="向量范数"> 向量范数</h2>
 <p>向量范数具有“长度”概念，是一个函数，其为向量空间内的所有向量赋予非零的正长度或大小。</p>
 <p>假设V是域F上的向量空间；V的半范数是一个函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>;</span><span style="margin-right:0.16666666666666666em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>(</span><span>x</span><span>)</span></span></span></span>，满足：</p>
@@ -12476,65 +12481,7 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
 -7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
 H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
 c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>2</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>}</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>⩾</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1.</span></span></span></span></span></p>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span>[</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span><span>=</span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>0</span><span>]</span></span></span></span></span></p>
-<blockquote>
-<p>「注意」：这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span>L</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>范数并非通常意义上的范数（不满足三角不等式或次可加性）。</p>
-</blockquote>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span></span></span></span></span></p>
-<p>该距离又称曼哈顿距离。</p>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>2</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>2</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.1568160000000005em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.8791470000000006em;"><span style="top:-5.116816em;"><span style="height:5.116816em;"></span><span style="padding-left:1.056em;"><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>∣</span><span><span><span><span style="height:0.740108em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span></span></span><span style="top:-3.8391470000000005em;"><span style="height:5.116816em;"></span><span style="min-width:0.742em;height:3.196816em;"><svg xmlns="http://www.w3.org/2000/svg" width='400em' height='3.196816em' viewBox='0 0 400000 3196' preserveAspectRatio='xMinYMin slice'><path d='M702 80H40000040
-H742v3062l-4 4-4 4c-.667.7 -2 1.5-4 2.5s-4.167 1.833-6.5 2.5-5.5 1-9.5 1
-h-12l-28-84c-16.667-52-96.667 -294.333-240-727l-212 -643 -85 170
-c-4-3.333-8.333-7.667-13 -13l-13-13l77-155 77-156c66 199.333 139 419.667
-219 661 l218 661zM702 80H400000v40H742z'/></svg></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span></span></span></span></span></p>
-<p>该距离又以欧氏距离而知名。</p>
-<hr>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>+</span><span>∞</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>∞</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.4000000000000004em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>p</span><span>→</span><span>+</span><span>∞</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.836108em;"><span></span></span></span></span></span><span>(</span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>∣</span><span><span><span><span style="height:0.714392em;"><span style="top:-3.1130000000000004em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span></span></span></span></span><span><span>)</span><span><span><span><span style="height:0.938em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1/</span><span>p</span></span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.477664em;vertical-align:-0.7276640000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.372336em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>i</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7276640000000001em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span></span></span></span></span></p>
-<p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>−</span><span>∞</span></span></span></span>时，</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
-3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
-10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
--1.333 1.333-3.167 3.5-5.5 6.5s-4 4.833-5 5.5c-1 .667-2.5 1.333-4.5 2s-4.333 1
--7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
-H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
-c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>∞</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.4000000000000004em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>p</span><span>→</span><span>−</span><span>∞</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.836108em;"><span></span></span></span></span></span><span>(</span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>∣</span><span><span><span><span style="height:0.714392em;"><span style="top:-3.1130000000000004em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span></span></span></span></span><span><span>)</span><span><span><span><span style="height:0.938em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1/</span><span>p</span></span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.4776639999999999em;vertical-align:-0.727664em;"></span><span><span><span><span style="height:0.66786em;"><span style="top:-2.372336em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>i</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>min</span></span></span></span><span>​</span></span><span><span style="height:0.727664em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span></span></span></span></span></p>
-<p>该距离被称作无穷范数或最大范数。而且该距离也有另外一个名称：切比雪夫距离。</p>
-<p>因为切比雪夫距离定义为：</p>
-<p>若有两个向量或两个点p和q，其坐标分别为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span>p</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，则有</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span><span><span style="margin-right:0.01389em;">Chebyshev</span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>p</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">q</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>:=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.477664em;vertical-align:-0.7276640000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.372336em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>i</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7276640000000001em;"><span></span></span></span></span></span><span>(</span><span>∣</span><span><span>p</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.005569em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.347892em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03148em;">k</span><span>→</span><span>∞</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.7521079999999999em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span>(</span></span><span style="margin-right:0.16666666666666666em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span><span style="top:0em;">∣</span><span><span>p</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="top:0em;">∣</span></span><span><span><span><span style="height:0.9890079999999999em;"><span style="top:-3.2029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03148em;">k</span></span></span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span><span>)</span></span><span><span><span><span style="height:1.7279em;"><span style="top:-3.9029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1/</span><span style="margin-right:0.03148em;">k</span></span></span></span></span></span></span></span></span><span>,</span></span></span></span></span></p>
-<hr>
-<p>以上的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>L</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>范数系都是在衡量向量的大小，如果想衡量矩阵的大小，则需要使用矩阵范数。</p>
+<i>Not supported content</i><p>以上的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>L</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>p</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>范数系都是在衡量向量的大小，如果想衡量矩阵的大小，则需要使用矩阵范数。</p>
 <h2 id="矩阵范数"> 矩阵范数</h2>
 <p>矩阵范数，又称矩阵模，是将一定的矩阵空间建立为赋范向量空间时为矩阵装备的范数。</p>
 <p>赋范向量空间是拓扑向量空间中的基本种类。通过赋予向量空间（线性空间）以范数，建立拓扑结构。考虑系数域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>（<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>可以是实数域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>或复数域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>C</span></span></span></span>等）上的所有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>m</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>矩阵所构成的向量空间<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span>M</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>,</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>K</span><span>)</span></span></span></span>。这是一个有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>mn</span></span></span></span>维的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>-向量空间。可以如同对其他的有限维<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68889em;vertical-align:0em;"></span><span>K</span></span></span></span>-向量空间一样，为矩阵空间<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span>M</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>,</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>K</span><span>)</span></span></span></span>装备范数。这样的范数称为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span>M</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span><span>,</span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>K</span><span>)</span></span></span></span>上的一个矩阵范数。</p>
@@ -12572,11 +12519,12 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
     <title type="html">Mathematics</title>
     <id>https://breezeshane.github.io/Mathematics/</id>
     <link href="https://breezeshane.github.io/Mathematics/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="目录"> 目录</h1>
 <ol>
 <li><a href="./LipschitzContinuity.html">Lipschitz Continuity</a></li>
 <li><a href="./CongruenceExpression.html">Congruence Expression</a></li>
+<li><a href="./Norm.html">Norm</a></li>
 </ol>
 ]]></content>
     <author>
@@ -12585,14 +12533,14 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Crawler</title>
     <id>https://breezeshane.github.io/Python/Crawler/</id>
     <link href="https://breezeshane.github.io/Python/Crawler/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
 <h2 id="前言"> 前言</h2>
 <p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
@@ -12689,7 +12637,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">Python</title>
     <id>https://breezeshane.github.io/Python/</id>
     <link href="https://breezeshane.github.io/Python/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./Crawler.html">Crawler</a></li>
@@ -12701,14 +12649,14 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">关于Vcomputer如何实现循环的哲学问题</title>
     <id>https://breezeshane.github.io/VComputer/</id>
     <link href="https://breezeshane.github.io/VComputer/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
 <hr>
 <p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
@@ -12758,7 +12706,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">简单的网页前后端搭建过程</title>
     <id>https://breezeshane.github.io/Web/Frontbackend/</id>
     <link href="https://breezeshane.github.io/Web/Frontbackend/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
 <h3 id="html"> HTML</h3>
 <p><strong>HTML设置字体：</strong></p>
@@ -12910,7 +12858,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">在受限的网站里强制复制粘贴</title>
     <id>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</id>
     <link href="https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
 <blockquote>
 <p>参考：</p>
@@ -12999,7 +12947,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">Web</title>
     <id>https://breezeshane.github.io/Web/</id>
     <link href="https://breezeshane.github.io/Web/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="目录"> 目录</h2>
 <ol>
 <li><a href="./HowtoForceCVWhenBanned.html">How to Force CV When Banned</a></li>
@@ -13012,14 +12960,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Windows10 快捷键大全</title>
     <id>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</id>
     <link href="https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
 <h2 id="_2020-11-19"> 2020/11/19</h2>
 <hr>
@@ -13345,21 +13293,21 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">𝕬𝖇𝖔𝖚𝖙</title>
     <id>https://breezeshane.github.io/about/</id>
     <link href="https://breezeshane.github.io/about/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://breezeshane.github.io/intro/</id>
     <link href="https://breezeshane.github.io/intro/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -13369,14 +13317,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://breezeshane.github.io/layout/</id>
     <link href="https://breezeshane.github.io/layout/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13401,14 +13349,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">友情链接</title>
     <id>https://breezeshane.github.io/links/</id>
     <link href="https://breezeshane.github.io/links/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13441,14 +13389,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
     <id>https://breezeshane.github.io/pap/</id>
     <link href="https://breezeshane.github.io/pap/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<center>
     <font color="#6495ED" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
@@ -13484,7 +13432,7 @@ background-size: cover;
     <title type="html">Blog Home</title>
     <id>https://breezeshane.github.io/</id>
     <link href="https://breezeshane.github.io/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content>
     <author>
@@ -13493,14 +13441,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://breezeshane.github.io/slides/</id>
     <link href="https://breezeshane.github.io/slides/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -13509,14 +13457,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">组件禁用</title>
     <id>https://breezeshane.github.io/zh/guide/disable/</id>
     <link href="https://breezeshane.github.io/zh/guide/disable/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -13543,14 +13491,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://breezeshane.github.io/zh/guide/encrypt/</id>
     <link href="https://breezeshane.github.io/zh/guide/encrypt/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -13563,14 +13511,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://breezeshane.github.io/zh/guide/markdown/</id>
     <link href="https://breezeshane.github.io/zh/guide/markdown/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -14040,14 +13988,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://breezeshane.github.io/zh/guide/page/</id>
     <link href="https://breezeshane.github.io/zh/guide/page/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -14103,7 +14051,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://breezeshane.github.io/zh/guide/</id>
     <link href="https://breezeshane.github.io/zh/guide/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -14127,14 +14075,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://breezeshane.github.io/zh/home/</id>
     <link href="https://breezeshane.github.io/zh/home/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -14145,14 +14093,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://breezeshane.github.io/zh/layout/</id>
     <link href="https://breezeshane.github.io/zh/layout/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <div><p>注意</p>
 <p>此处仅仅是一个演示，你应该自行根据需求添加样式。</p>
@@ -14177,14 +14125,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://breezeshane.github.io/zh/</id>
     <link href="https://breezeshane.github.io/zh/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -14195,14 +14143,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://breezeshane.github.io/zh/slides/</id>
     <link href="https://breezeshane.github.io/zh/slides/"/>
-    <updated>2022-01-21T09:14:12.000Z</updated>
+    <updated>2022-01-22T05:04:03.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -14211,7 +14159,7 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-21T09:14:12.000Z</published>
+    <published>2022-01-22T05:04:03.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
 </feed>
