@@ -51,51 +51,51 @@ module.exports = config({
             "/" /* / */,
             {
               title: "Aritficial Intelligence",
-              prefix: "/ArtificialIntelligence/",
+              prefix: "ArtificialIntelligence/",
               children: [
                 {
                   title: "AI Overview",
-                  prefix: "/AIOverview/",
-                  children: "index.html",
+                  prefix: "AIOverview/",
+                  children: ["index"],
                 },
                 {
                   title: "Env Install",
-                  prefix: "/EnvInstall/",
-                  children: "index.html",
+                  prefix: "EnvInstall/",
+                  children: ["index"],
                 },
                 {
                   title: "Statistical Learning Methods Notebook",
-                  prefix: "/StatisticalLearningMethodsNotebook/",
-                  children: "index.html",
+                  prefix: "StatisticalLearningMethodsNotebook/",
+                  children: ["index"],
                 },
                 {
                   title: "Deep Learning",
-                  prefix: "/DeepLearning/",
-                  children: "index.html",
+                  prefix: "DeepLearning/",
+                  children: ["index"],
                 },
                 {
                   title: "Unsupervised Learning",
-                  prefix: "/UnsupervisedLearning/",
-                  children: "index.html",
+                  prefix: "UnsupervisedLearning/",
+                  children: ["index"],
                 },
               ],
             },
             {
               title: "Data Structures and Algorithms",
-              prefix: "/DataStructuresandAlgorithms/",
+              prefix: "DataStructuresandAlgorithms/",
               children: [
                 "",
               ],
             },
             {
                 title: "Blog",
-                prefix: "/BlogBuildingAndUsing/",
+                prefix: "BlogBuildingAndUsing/",
                 children: [
-                  "BlogBuilding/",
-                  "Markdown语法杂记/",
-                  "LaTeX/",
-                  "ChangeBlogTheme/",
-                  "CreateNewFilebyShell/",
+                  "BlogBuilding/index",
+                  "Markdown语法杂记/index",
+                  "LaTeX/index",
+                  "ChangeBlogTheme/index",
+                  "CreateNewFilebyShell/index",
                 ],
               },
               {
@@ -197,9 +197,9 @@ module.exports = config({
         algolia: {
             apiKey: "064a2d15d1a0f7b69df3ef1458d1a510",
             Name: "mrhope",
-        },
+        },[
 index
-        algoliaType: "full",
+        algoliaType],: "full",
 
         iconPrefix: "fas fa-",
 
