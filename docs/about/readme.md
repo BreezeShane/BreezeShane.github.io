@@ -15,11 +15,11 @@ action:
     link: /
 
 features:
-  - title: NovelEnlightenGAN 🧰
+  - title: NovelEnlightenGAN 🔮
     details: This is what I've built. It's based on GAN.
     link: https://github.com/BreezeShane/NovelEnlightenGAN
   
-  - title: Deep Learning 🧰
+  - title: Deep Learning 🛠
     details: It's a canonical textbook of the subject that I'm majoring.
     link: /ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/
   
