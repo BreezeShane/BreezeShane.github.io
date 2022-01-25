@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Jan 2022 03:29:32 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Jan 2022 03:29:32 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 03:37:07 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 03:37:07 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -6426,7 +6426,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6451,7 +6451,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6466,7 +6466,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6985,7 +6985,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7008,7 +7008,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7019,7 +7019,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7039,7 +7039,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7050,7 +7050,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8193,18 +8193,18 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
-      <title>约瑟夫问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
-    </item>
-    <item>
       <title>极限反转数问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
       <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>约瑟夫问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
     </item>
     <item>
       <title>顺序线性表的一些经典问题</title>
@@ -12823,7 +12823,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -12857,7 +12857,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -12867,7 +12867,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -12892,7 +12892,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -12955,7 +12955,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -12964,238 +12964,10 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 25 Jan 2022 03:28:34 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>简单的网页前后端搭建过程</title>
-      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
-      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
-      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
-<h3 id="html"> HTML</h3>
-<p><strong>HTML设置字体：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
-<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
-<span><span><span>&lt;/</span>form</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
-<h3 id="css"> CSS</h3>
-<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
-<p>CSS选择器：</p>
-<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
-<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
-<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
-<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
-<span>background-position</span><span>:</span> center center<span>;</span>
-<span>background-attachment</span><span>:</span> fixed<span>;</span>
-<span>background-size</span><span>:</span> cover<span>;</span>
-<span>margin</span><span>:</span> 0<span>;</span>
-<span>position</span><span>:</span> relative<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
-<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
-<span>top</span><span>:</span> 50%<span>;</span>
-<span>left</span><span>:</span> 50%<span>;</span>
-<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
-<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
-<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
-<h3 id="javascript"> JavaScript</h3>
-<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
-<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
-    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
-    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
-    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
-	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
-
-    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
-	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
-
-    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
-        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
-        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
-        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
-            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
-            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
-        <span>}</span>
-        file_num <span>=</span> fileList<span>.</span>length
-        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
-            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
-        <span>}</span> <span>else</span> <span>{</span>
-            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
-                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
-            <span>}</span>
-            <span>// 以下定义了前端传输的相关信息。</span>
-            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
-                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
-                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
-                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
-                processData<span>:</span> <span>false</span><span>,</span> 
-                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
-                contentType<span>:</span> <span>false</span><span>,</span>
-                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
-                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
-                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
-                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
-                    <span>//后续的两行代码则是修改相应控件的数据。</span>
-                <span>}</span><span>,</span>
-                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
-                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
-                <span>}</span>
-            <span>}</span><span>)</span>
-        <span>}</span>
-    <span>}</span><span>)</span><span>;</span>
-
-    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
-        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
-        <span>// 直接触发选择文件的点击事件。</span>
-    <span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
-<p>使用后端flask之前需要先做好配置：</p>
-<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
-<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
-
-app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
-<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
-    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
-<blockquote>
-<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
-</blockquote>
-<p>调用flask_uploads包后要做如下的配置：</p>
-<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
-configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
-patch_request_class<span>(</span>app<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
-<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
-<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
-<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
-    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
-    file_urls <span>=</span> <span>[</span><span>]</span>
-    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
-    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
-        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
-        fileList<span>.</span>append<span>(</span>filename<span>)</span>
-        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
-    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
-    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
-    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
-<p>「注」：以上所有代码都是项目的主要部分。</p>
-</blockquote>
-<p>最后将整个前后端写好之后，就可以正常执行了！</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>在受限的网站里强制复制粘贴</title>
-      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
-      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
-      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
-<blockquote>
-<p>参考：</p>
-<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
-<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
-<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
-<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
-</blockquote>
-<h2 id="背景"> 背景</h2>
-<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
-<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
-<h2 id="实现方法"> 实现方法</h2>
-<h3 id="插件大法"> 插件大法</h3>
-<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
-<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
-<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
-<h3 id="查看源码大法"> 查看源码大法</h3>
-<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
-<blockquote>
-<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
-</blockquote>
-<h3 id="console操作大法"> Console操作大法</h3>
-<h4 id="全文复制"> 全文复制</h4>
-<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
-<p>如果你遇到如下形式的输出：</p>
-<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
-<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
-<p>写Shell文件，输入如下代码：</p>
-<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
-<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
-<h4 id="选中区域复制"> 选中区域复制</h4>
-<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
-<ol>
-<li>打开开发者工具</li>
-<li>选中网页中要复制的文字</li>
-<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
-</ol>
-<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
-<h3 id="打印预览大法"> 打印预览大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
-<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
-<h3 id="终极杀招"> 终极杀招</h3>
-<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
-<h2 id="补充的小知识"> 补充的小知识</h2>
-<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
-<h3 id="javascript实现方式"> JavaScript实现方式</h3>
-<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-  <span>return</span> <span>false</span><span>;</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
-  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
-    <span>return</span> <span>false</span><span>;</span>
-  <span>}</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
-<div><pre><code><span>body</span> <span>{</span>
-  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
-  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
-  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
-  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
-  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
-  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
-<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
     </item>
     <item>
       <title>SDN入门基础</title>
@@ -13272,9 +13044,9 @@ patch_request_class<span>(</span>app<span>)</span>
 <li>不可编程，无法按需，是网络设备几十年来的老规矩。</li>
 </ol>
 </details>
-<p>::: 问题四：无法按需，不可编程</p>
-<p>无法按需，不可编程。这就意味着如果需求有变动，就只能从硬件设计开发开始到软件应用开发来实现这一项大工程了。变更需求就要另起炉灶，即使这个需求可能非常合理、简单，变更的也微小。这一现象也被人形象地描述为“吃硬不吃软”。从中可以看出，传统网络存在着不灵活、不通用的巨大问题，这个问题将导致开发成本十分高昂，开发周期十分漫长。</p>
-<p>:::</p>
+<p>::: 问题四：无法按需，不可编程
+无法按需，不可编程。这就意味着如果需求有变动，就只能从硬件设计开发开始到软件应用开发来实现这一项大工程了。变更需求就要另起炉灶，即使这个需求可能非常合理、简单，变更的也微小。这一现象也被人形象地描述为“吃硬不吃软”。从中可以看出，传统网络存在着不灵活、不通用的巨大问题，这个问题将导致开发成本十分高昂，开发周期十分漫长。
+:::</p>
 <h2 id="sdn网络与传统网络的比较"> SDN网络与传统网络的比较</h2>
 <table>
 <thead>
@@ -13492,6 +13264,234 @@ SDN为网络用户提供了丰富的可编程API，用户可以通过南向接�
 <p><em>未完待续</em>……</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
+    </item>
+    <item>
+      <title>在受限的网站里强制复制粘贴</title>
+      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
+      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
+      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
+<blockquote>
+<p>参考：</p>
+<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
+<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
+<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
+<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
+</blockquote>
+<h2 id="背景"> 背景</h2>
+<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
+<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
+<h2 id="实现方法"> 实现方法</h2>
+<h3 id="插件大法"> 插件大法</h3>
+<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
+<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
+<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
+<h3 id="查看源码大法"> 查看源码大法</h3>
+<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
+<blockquote>
+<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
+</blockquote>
+<h3 id="console操作大法"> Console操作大法</h3>
+<h4 id="全文复制"> 全文复制</h4>
+<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
+<p>如果你遇到如下形式的输出：</p>
+<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
+<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
+<p>写Shell文件，输入如下代码：</p>
+<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
+<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
+<h4 id="选中区域复制"> 选中区域复制</h4>
+<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+<ol>
+<li>打开开发者工具</li>
+<li>选中网页中要复制的文字</li>
+<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+</ol>
+<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
+<h3 id="打印预览大法"> 打印预览大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
+<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
+<h3 id="终极杀招"> 终极杀招</h3>
+<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
+<h2 id="补充的小知识"> 补充的小知识</h2>
+<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
+<h3 id="javascript实现方式"> JavaScript实现方式</h3>
+<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
+  <span>return</span> <span>false</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
+  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
+    <span>return</span> <span>false</span><span>;</span>
+  <span>}</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
+<div><pre><code><span>body</span> <span>{</span>
+  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
+  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
+  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
+  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
+  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
+  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
+<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
+    </item>
+    <item>
+      <title>简单的网页前后端搭建过程</title>
+      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
+      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
+      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
+<h3 id="html"> HTML</h3>
+<p><strong>HTML设置字体：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
+<span><span><span>&lt;/</span>form</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
+<h3 id="css"> CSS</h3>
+<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
+<p>CSS选择器：</p>
+<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
+<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
+<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
+<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
+<span>background-position</span><span>:</span> center center<span>;</span>
+<span>background-attachment</span><span>:</span> fixed<span>;</span>
+<span>background-size</span><span>:</span> cover<span>;</span>
+<span>margin</span><span>:</span> 0<span>;</span>
+<span>position</span><span>:</span> relative<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
+<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
+<span>top</span><span>:</span> 50%<span>;</span>
+<span>left</span><span>:</span> 50%<span>;</span>
+<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
+<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
+<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
+<h3 id="javascript"> JavaScript</h3>
+<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
+<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
+    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
+    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
+    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
+	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
+
+    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
+	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
+
+    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
+        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
+        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
+        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
+            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
+            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
+        <span>}</span>
+        file_num <span>=</span> fileList<span>.</span>length
+        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
+            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
+                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
+            <span>}</span>
+            <span>// 以下定义了前端传输的相关信息。</span>
+            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
+                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
+                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
+                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
+                processData<span>:</span> <span>false</span><span>,</span> 
+                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
+                contentType<span>:</span> <span>false</span><span>,</span>
+                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
+                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
+                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
+                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
+                    <span>//后续的两行代码则是修改相应控件的数据。</span>
+                <span>}</span><span>,</span>
+                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
+                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
+                <span>}</span>
+            <span>}</span><span>)</span>
+        <span>}</span>
+    <span>}</span><span>)</span><span>;</span>
+
+    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
+        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
+        <span>// 直接触发选择文件的点击事件。</span>
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
+<p>使用后端flask之前需要先做好配置：</p>
+<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
+<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
+
+app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
+<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
+    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
+<blockquote>
+<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
+</blockquote>
+<p>调用flask_uploads包后要做如下的配置：</p>
+<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
+configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
+patch_request_class<span>(</span>app<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
+<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
+<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
+<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
+    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
+    file_urls <span>=</span> <span>[</span><span>]</span>
+    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
+    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
+        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
+        fileList<span>.</span>append<span>(</span>filename<span>)</span>
+        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
+    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
+    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
+    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
+<p>「注」：以上所有代码都是项目的主要部分。</p>
+</blockquote>
+<p>最后将整个前后端写好之后，就可以正常执行了！</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
