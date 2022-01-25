@@ -18,7 +18,7 @@ tags:
 
 假设V是域F上的向量空间；V的半范数是一个函数$p:V\to \mathbb {R} ;x\mapsto p(x)$，满足：
 
-$\forall a\in F,\forall u,v\in V,$
+$\forall a\in F,\forall u,v\in V$
 
 1. $p(v)\geq 0$（具有半正定性）
 
@@ -180,10 +180,10 @@ $$
 任何诱导的矩阵范数都满足此不等式
 
 $$
-\left \| A \right \| \ge \rho(A) \quad\text{其中ρ(A)是A的谱半径。}
+\left \| A \right \| \ge \rho(A) \quad\text{其中$\rho(A)$是$A$的谱半径。}
 $$
 
-事实上，可以证明ρ(A)是A的所有诱导范数的下界。
+事实上，可以证明$\rho(A)$是A的所有诱导范数的下界。
 
 此外，我们有
 
