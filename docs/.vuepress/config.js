@@ -268,6 +268,7 @@ module.exports = config({
                 children: [
                   "HowtoForceCVWhenBanned",
                   "Frontbackend",
+                  "SDN",
                 ],
               },
               {
