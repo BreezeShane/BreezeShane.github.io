@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Jan 2022 12:50:35 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Jan 2022 12:50:35 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 13:01:33 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 13:01:33 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -474,7 +474,7 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
 H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
 c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>2</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>}</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>⩾</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1.</span></span></span></span></span></p>
 <h2 id="关于p值的讨论"> 关于p值的讨论</h2>
-<details><summary>当$p=0$时</summary>
+<details><summary>当p=0时</summary>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
 3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
 10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
@@ -482,9 +482,9 @@ c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></spa
 -7 1c-4.667 0-9.167-1.833-13.5-5.5S337 184 337 178c0-12.667 15.667-32.333 47-59
 H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
 c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span>[</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span><span>=</span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>0</span><span>]</span></span></span></span></span></p>
-<i>Not supported content</i>：这里的$L_{0}$范数并非通常意义上的范数（不满足三角不等式或次可加性）。
+<i>Not supported content</i>：这里的 $L_0$ 范数并非通常意义上的范数（因为不满足三角不等式或次可加性）。
 </details>
-<details><summary>当$p=1$时</summary>
+<details><summary>当p=1时</summary>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
 3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
 10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
@@ -494,7 +494,7 @@ H213l-171-1c-8.667-6-13-12.333-13-19 0-4.667 4.333-11.333 13-20h359
 c-16-25.333-24-45-24-59z'/></svg></span></span></span></span></span></span></span><span><span>∥</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>∣</span></span></span></span></span></p>
 <p>该距离又称曼哈顿距离。</p>
 </details>
-<details><summary>当$p=2$时</summary>
+<details><summary>当p=2时</summary>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∥</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
 3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
 10.667 11 18 0 6-1 10-3 12s-6.667 5-14 9c-28.667 14.667-53.667 35.667-75 63
@@ -508,7 +508,7 @@ c-4-3.333-8.333-7.667-13 -13l-13-13l77-155 77-156c66 199.333 139 419.667
 219 661 l218 661zM702 80H400000v40H742z'/></svg></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span></span></span></span></span></p>
 <p>该距离又以欧氏距离而知名。</p>
 </details>
-<details><summary>当$p\rightarrow\infty$时</summary>
+<details><summary>当p→∞时</summary>
 <p>当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>+</span><span>∞</span></span></span></span>时，</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span>∣∣</span><span><span><span><span style="height:0.714em;"><span style="top:-3em;"><span style="height:3em;"></span><span>x</span></span><span style="top:-3em;"><span style="height:3em;"></span><span style="left:-0.20772em;"><span style="height:0.714em;width:0.471em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.471em' height='0.714em' style='width:0.471em' viewBox='0 0 471 714' preserveAspectRatio='xMinYMin'><path d='M377 20c0-5.333 1.833-10 5.5-14S391 0 397 0c4.667 0 8.667 1.667 12 5
 3.333 2.667 6.667 9 10 19 6.667 24.667 20.333 43.667 41 57 7.333 4.667 11
@@ -920,6 +920,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:14:16 GMT</pubDate>
     </item>
     <item>
+      <title>期望、方差和协方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">期望、方差和协方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:14:25 GMT</pubDate>
+    </item>
+    <item>
       <title>条件概率及其链式法则</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</guid>
@@ -932,13 +939,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
       <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
       <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>期望、方差和协方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">期望、方差和协方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:14:25 GMT</pubDate>
     </item>
     <item>
       <title>独立性和条件独立性</title>
@@ -1594,64 +1594,6 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
       <enclosure url="https://breezeshane.github.io/images/v2-6be6e2ef3d15c4b10c2a943e9bf4db70_b.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>WGAN with Gradient Penalty</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">WGAN with Gradient Penalty</source>
-      <pubDate>Tue, 18 May 2021 08:44:36 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
-<h2 id="结果"> 结果</h2>
-<p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
-<p><img src="/images/2021-04-26_01-11.png" alt="" /></p>
-<p><img src="/images/2021-04-26_10-54.png" alt="" /></p>
-<p>可以看得出来它表现优良，绝大部分点都聚集在各自给定的黄点周围，足见WGAN-GP表现的优异。</p>
-<p><img src="/images/newplot.png" alt="" /></p>
-<p>从图像中可以看出来，Loss-D损失函数值不断上升，这说明生成器已经开始成功欺骗了判别器，并且Loss-G损失函数值也在不断下降，说明生成器的仿真度越来越高，生成的数据越来越逼真，也越来越容易欺骗判别器。</p>
-<p>上一篇文章比较详细系统地剖析了WGAN，这里就不多做赘述。WGAN以切片形式处理数据时出现了一些问题，比如训练不稳定、准确率不高、梯度爆炸或消失，还有切片参数设置困难等问题。「切片参数设置困难指的是切片上下限难以合适设定，过小则容易将网络转化成二值网络，过大则不起作用。」为了解决这些，有人提出了改良WGAN的一种方法——增加惩罚项。</p>
-<h2 id="解决"> 解决～</h2>
-<p>为了解决以上的问题，WGAN又有了新的进展，这个新版WGAN不需要权重裁切，采取了加入惩罚项的方式。新版WGAN目标函数定义如下：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:2.27195em;vertical-align:-0.9119499999999999em;"></span><span>λ</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span><span><span><span style="height:-0.6105579999999999em;"><span style="top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.9119499999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>d</span><span>x</span><span>}</span></span></span></span></span></p>
-<p>根据<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义显然有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>[</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>]</span></span></span></span>成立，因此对于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∀</span><span>x</span><span>,</span><span style="margin-right:1em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>。求积分的形式又可以写成期望的形式，因此该公式又可以写成：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)}</span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>是输入数据的分布。</p>
-<p>而对于采样的过程，新版WGAN给出的方案是依次从两个分布中各选取一个样本，然后连接两个样本，并在该线段上任意采取一点作为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>。正是有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>的存在，梯度变化就被约束而平缓变化了。</p>
-<p>不过在实现中我们没有直接使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span></span></span></span>的形式，因为这个无法直接计算，我们采用的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span></span></span></span>。这意味着我们正要求<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1，到这里你可能还不明白为什么这样。</p>
-<p>首先一定要清晰的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的存在就是为了增大损失函数的值，那么根据上面给的表达式，不难看出，当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>尽可能大，而<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>尽可能小的时候损失函数的值必然会尽可能大。这时再回顾<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义，我们会发现这样的变化会导致<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1。到此为止，我们总算清楚为何要如此做法了。</p>
-<p>于是我们最终的损失函数就出炉了：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1141079999999999em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>]}</span></span></span></span></span></p>
-<hr>
-<h2 id="实现"> 实现！</h2>
-<p><strong>「注」：以下一切操作均基于Original GAN而修改！</strong></p>
-<div><pre><code><span>def</span> <span>weights_init</span><span>(</span>m<span>)</span><span>:</span>
-    <span>if</span> <span>isinstance</span><span>(</span>m<span>,</span> nn<span>.</span>Linear<span>)</span><span>:</span>
-        <span># m.weight.data.normal_(0.0, 0.02)</span>
-        nn<span>.</span>init<span>.</span>kaiming_normal_<span>(</span>m<span>.</span>weight<span>)</span>
-        m<span>.</span>bias<span>.</span>data<span>.</span>fill_<span>(</span><span>0</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><pre><code><span>def</span> <span>gradient_penalty</span><span>(</span>D<span>,</span> x_r<span>,</span> x_f<span>)</span><span>:</span>
-    t <span>=</span> torch<span>.</span>rand<span>(</span>batchsz<span>,</span> <span>1</span><span>)</span><span>.</span>cuda<span>(</span><span>)</span>
-    t <span>=</span> t<span>.</span>expand_as<span>(</span>x_r<span>)</span>
-    mid <span>=</span> t <span>*</span> x_r <span>+</span> <span>(</span><span>1</span> <span>-</span> t<span>)</span> <span>*</span> x_f
-    mid<span>.</span>requires_grad_<span>(</span><span>)</span>
-    
-    pred <span>=</span> D<span>(</span>mid<span>)</span>
-    grads <span>=</span> autograd<span>.</span>grad<span>(</span>outputs<span>=</span>pred<span>,</span> \
-                          inputs<span>=</span>mid<span>,</span> \
-                          grad_outputs<span>=</span>torch<span>.</span>ones_like<span>(</span>pred<span>)</span><span>,</span> \
-                          create_graph<span>=</span><span>True</span><span>,</span> \
-                          retain_graph<span>=</span><span>True</span><span>,</span> \
-                          only_inputs<span>=</span><span>True</span><span>)</span><span>[</span><span>0</span><span>]</span>
-    
-    gp <span>=</span> torch<span>.</span><span>pow</span><span>(</span>grads<span>.</span>norm<span>(</span><span>2</span><span>,</span> dim<span>=</span><span>1</span><span>)</span> <span>-</span> <span>1</span><span>,</span> <span>2</span><span>)</span><span>.</span>mean<span>(</span><span>)</span>
-    
-    <span>return</span> gp
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>定义完这两个函数之后需要在main()中<code>loss_D = loss_r + loss_f</code>改成<code>loss_D = loss_r + loss_f + 0.2 * gp</code>，其中0.2是一种超参数，可以自行调整；并且在这行代码前面加上<code>gp = gradient_penalty(D, x_r, x_f.detach())</code>，并且在定义G、D变量的后面加上<code>G.apply(weights_init</code>和<code>D.apply(weights_init)</code>这两行代码。</p>
-<p>这样我们就完成了WGAN-gp的实现，完整代码请点击这里--&gt;<a href="https://github.com/BreezeShane/Unsupervised-Learning/blob/master/WGAN-gp.py" target="_blank" rel="noopener noreferrer">·</a></p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/wgan-gp.png" type="image/png"/>
-    </item>
-    <item>
       <title>Wasserstein Divergence for GANs</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/</guid>
@@ -1779,6 +1721,64 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
 <p>这花了我三四天的功夫，终于是改完了这一堆bug，都不知道经历了多少辛酸，真是一言难尽……不过这是我尝试复现并获得成功的第一篇论文，心里还是蛮自豪的，之前遭的罪吃的苦也就不算什么了！只希望往后继续学习的话会顺利一些吧！</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/wgan-div.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>WGAN with Gradient Penalty</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">WGAN with Gradient Penalty</source>
+      <pubDate>Tue, 18 May 2021 08:44:36 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
+<h2 id="结果"> 结果</h2>
+<p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
+<p><img src="/images/2021-04-26_01-11.png" alt="" /></p>
+<p><img src="/images/2021-04-26_10-54.png" alt="" /></p>
+<p>可以看得出来它表现优良，绝大部分点都聚集在各自给定的黄点周围，足见WGAN-GP表现的优异。</p>
+<p><img src="/images/newplot.png" alt="" /></p>
+<p>从图像中可以看出来，Loss-D损失函数值不断上升，这说明生成器已经开始成功欺骗了判别器，并且Loss-G损失函数值也在不断下降，说明生成器的仿真度越来越高，生成的数据越来越逼真，也越来越容易欺骗判别器。</p>
+<p>上一篇文章比较详细系统地剖析了WGAN，这里就不多做赘述。WGAN以切片形式处理数据时出现了一些问题，比如训练不稳定、准确率不高、梯度爆炸或消失，还有切片参数设置困难等问题。「切片参数设置困难指的是切片上下限难以合适设定，过小则容易将网络转化成二值网络，过大则不起作用。」为了解决这些，有人提出了改良WGAN的一种方法——增加惩罚项。</p>
+<h2 id="解决"> 解决～</h2>
+<p>为了解决以上的问题，WGAN又有了新的进展，这个新版WGAN不需要权重裁切，采取了加入惩罚项的方式。新版WGAN目标函数定义如下：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:2.27195em;vertical-align:-0.9119499999999999em;"></span><span>λ</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span><span><span><span style="height:-0.6105579999999999em;"><span style="top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.9119499999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>d</span><span>x</span><span>}</span></span></span></span></span></p>
+<p>根据<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义显然有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>[</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>]</span></span></span></span>成立，因此对于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∀</span><span>x</span><span>,</span><span style="margin-right:1em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>。求积分的形式又可以写成期望的形式，因此该公式又可以写成：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)}</span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>是输入数据的分布。</p>
+<p>而对于采样的过程，新版WGAN给出的方案是依次从两个分布中各选取一个样本，然后连接两个样本，并在该线段上任意采取一点作为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>。正是有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>的存在，梯度变化就被约束而平缓变化了。</p>
+<p>不过在实现中我们没有直接使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span></span></span></span>的形式，因为这个无法直接计算，我们采用的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span></span></span></span>。这意味着我们正要求<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1，到这里你可能还不明白为什么这样。</p>
+<p>首先一定要清晰的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的存在就是为了增大损失函数的值，那么根据上面给的表达式，不难看出，当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>尽可能大，而<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>尽可能小的时候损失函数的值必然会尽可能大。这时再回顾<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义，我们会发现这样的变化会导致<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1。到此为止，我们总算清楚为何要如此做法了。</p>
+<p>于是我们最终的损失函数就出炉了：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1141079999999999em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>]}</span></span></span></span></span></p>
+<hr>
+<h2 id="实现"> 实现！</h2>
+<p><strong>「注」：以下一切操作均基于Original GAN而修改！</strong></p>
+<div><pre><code><span>def</span> <span>weights_init</span><span>(</span>m<span>)</span><span>:</span>
+    <span>if</span> <span>isinstance</span><span>(</span>m<span>,</span> nn<span>.</span>Linear<span>)</span><span>:</span>
+        <span># m.weight.data.normal_(0.0, 0.02)</span>
+        nn<span>.</span>init<span>.</span>kaiming_normal_<span>(</span>m<span>.</span>weight<span>)</span>
+        m<span>.</span>bias<span>.</span>data<span>.</span>fill_<span>(</span><span>0</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><pre><code><span>def</span> <span>gradient_penalty</span><span>(</span>D<span>,</span> x_r<span>,</span> x_f<span>)</span><span>:</span>
+    t <span>=</span> torch<span>.</span>rand<span>(</span>batchsz<span>,</span> <span>1</span><span>)</span><span>.</span>cuda<span>(</span><span>)</span>
+    t <span>=</span> t<span>.</span>expand_as<span>(</span>x_r<span>)</span>
+    mid <span>=</span> t <span>*</span> x_r <span>+</span> <span>(</span><span>1</span> <span>-</span> t<span>)</span> <span>*</span> x_f
+    mid<span>.</span>requires_grad_<span>(</span><span>)</span>
+    
+    pred <span>=</span> D<span>(</span>mid<span>)</span>
+    grads <span>=</span> autograd<span>.</span>grad<span>(</span>outputs<span>=</span>pred<span>,</span> \
+                          inputs<span>=</span>mid<span>,</span> \
+                          grad_outputs<span>=</span>torch<span>.</span>ones_like<span>(</span>pred<span>)</span><span>,</span> \
+                          create_graph<span>=</span><span>True</span><span>,</span> \
+                          retain_graph<span>=</span><span>True</span><span>,</span> \
+                          only_inputs<span>=</span><span>True</span><span>)</span><span>[</span><span>0</span><span>]</span>
+    
+    gp <span>=</span> torch<span>.</span><span>pow</span><span>(</span>grads<span>.</span>norm<span>(</span><span>2</span><span>,</span> dim<span>=</span><span>1</span><span>)</span> <span>-</span> <span>1</span><span>,</span> <span>2</span><span>)</span><span>.</span>mean<span>(</span><span>)</span>
+    
+    <span>return</span> gp
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>定义完这两个函数之后需要在main()中<code>loss_D = loss_r + loss_f</code>改成<code>loss_D = loss_r + loss_f + 0.2 * gp</code>，其中0.2是一种超参数，可以自行调整；并且在这行代码前面加上<code>gp = gradient_penalty(D, x_r, x_f.detach())</code>，并且在定义G、D变量的后面加上<code>G.apply(weights_init</code>和<code>D.apply(weights_init)</code>这两行代码。</p>
+<p>这样我们就完成了WGAN-gp的实现，完整代码请点击这里--&gt;<a href="https://github.com/BreezeShane/Unsupervised-Learning/blob/master/WGAN-gp.py" target="_blank" rel="noopener noreferrer">·</a></p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/wgan-gp.png" type="image/png"/>
     </item>
     <item>
       <title>Wasserstein Generative Adversarial Networks</title>
@@ -6663,7 +6663,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6688,7 +6688,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6703,7 +6703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -7222,7 +7222,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7245,21 +7245,10 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>博客主页</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
-<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
-<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -7267,7 +7256,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7283,11 +7272,22 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>博客主页</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
+<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
+<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>幻灯片页</title>
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -7335,18 +7335,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:25:16 GMT</pubDate>
     </item>
     <item>
-      <title>冒泡排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">冒泡排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:41 GMT</pubDate>
-    </item>
-    <item>
       <title>树表查找</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/TreeTableLookup/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/TreeTableLookup/</guid>
       <source url="https://breezeshane.github.io/rss.xml">树表查找</source>
       <pubDate>Sun, 23 Jan 2022 01:25:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>冒泡排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">冒泡排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:41 GMT</pubDate>
     </item>
     <item>
       <title>桶排序</title>
@@ -7384,18 +7384,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:26:08 GMT</pubDate>
     </item>
     <item>
-      <title>基数排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">基数排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:26:24 GMT</pubDate>
-    </item>
-    <item>
       <title>快速排序</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">快速排序</source>
       <pubDate>Sun, 23 Jan 2022 01:26:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>基数排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">基数排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:26:24 GMT</pubDate>
     </item>
     <item>
       <title>选择排序</title>
@@ -7410,159 +7410,6 @@ $$
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">希尔排序</source>
       <pubDate>Sun, 23 Jan 2022 01:26:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>双链表</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">双链表</source>
-      <pubDate>Thu, 14 Oct 2021 19:26:31 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
-<p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
-<p>结构代码的定义：</p>
-<div><pre><code><span>struct</span> <span>node</span> <span>{</span>
-    <span>int</span> data <span>;</span>
-    <span>struct</span> <span>node</span> <span>*</span>llink<span>,</span> <span>*</span>rlink <span>;</span>
-<span>}</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>如果希望对双链表做一次封装，可以额外使用如下的代码：</p>
-<div><pre><code><span>struct</span> <span>Hnode</span> <span>{</span>
-    <span>struct</span> <span>node</span> <span>*</span>head<span>,</span> <span>*</span>tail<span>;</span>
-<span>}</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>双链表的出现是为了解决单链表不能直接访问前驱的问题。</p>
-<h2 id="双向炼表的基本操作与实现"> 双向炼表的基本操作与实现</h2>
-<h3 id="创建"> 创建</h3>
-<p><strong>实现思路</strong>：</p>
-<p>创建好相关的封装，并在此基础上创建双链表中的头结点，彼此相连构建成一个空的双链表。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>struct</span> <span>Hnode</span> <span>*</span><span>createDlist</span><span>(</span><span>)</span> <span>{</span>
-    <span>struct</span> <span>Hnode</span><span>*</span> HEAD <span>=</span> <span>(</span><span>struct</span> <span>Hnode</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>Hnode</span><span>)</span><span>)</span><span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-    headNode<span>-></span>data <span>=</span> <span>0</span><span>;</span>
-    headNode<span>-></span>llink <span>=</span> <span>NULL</span><span>;</span>
-    headNode<span>-></span>rlink <span>=</span> <span>NULL</span><span>;</span>
-    HEAD<span>-></span>head <span>=</span> headNode<span>;</span>
-    HEAD<span>-></span>tail <span>=</span> headNode<span>;</span>
-    <span>return</span> HEAD<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：该函数仅做有限的操作，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该函数申请的空间大小与用户输入规模不相关，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="插入"> 插入</h3>
-<p><strong>实现思路</strong>：</p>
-<p>如果双链表为空，则需完成如下的操作：</p>
-<ol>
-<li>头结点指向新结点</li>
-<li>新结点左指针指向头结点</li>
-<li>封装的尾指针指向尾结点</li>
-</ol>
-<p>如果双链表非空，则需按照如下顺序执行：</p>
-<ol>
-<li>头结点后继的左指针指向新结点</li>
-<li>新结点右指针指向头结点后继</li>
-<li>新结点左指针指向头结点</li>
-<li>头结点右指针指向新结点</li>
-</ol>
-<p><strong>「注意」</strong>：该情况下第四点必须要在第一、二点之后做，其他顺序任意调整即可。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>void</span> <span>insertDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>,</span> <span>int</span> insData<span>)</span> <span>{</span>
-    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> list<span>-></span>head<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> newNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-    newNode<span>-></span>data <span>=</span> insData<span>;</span>
-
-    <span>if</span> <span>(</span>headNode <span>==</span> list<span>-></span>tail<span>)</span><span>{</span>
-        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
-        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
-        list<span>-></span>tail <span>=</span> newNode<span>;</span>
-    <span>}</span> <span>else</span> <span>{</span>
-        headNode<span>-></span>rlink<span>-></span>llink <span>=</span> newNode<span>;</span>
-        newNode<span>-></span>rlink <span>=</span> headNode<span>-></span>rlink<span>;</span>
-        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
-        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
-    <span>}</span>
-    headNode<span>-></span>data<span>++</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p><strong>时间复杂度</strong>：该插入操作执行次数与用户输入规模不相关，每一次插入都是固定执行这些语句，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该插入操作只需要申请固定变量所占的空间大小，因此认为该操作空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="删除"> 删除</h3>
-<p><strong>实现思路</strong>：</p>
-<p>遍历每一个结点，找到要删除的数据时，将其前驱的右指针指向该结点的后继，其后继的左指针指向该结点的前驱，然后释放该空间。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>int</span> <span>deleteData</span><span>(</span><span>struct</span> <span>Hnode</span>  <span>*</span>list<span>,</span> <span>int</span> delData<span>)</span> <span>{</span>
-    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
-    <span>while</span> <span>(</span>watcher<span>)</span> <span>{</span>
-        <span>if</span> <span>(</span>watcher<span>-></span>data <span>==</span> delData<span>)</span><span>{</span>
-            toDel <span>=</span> watcher<span>;</span>
-            watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
-            watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
-            <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
-            <span>return</span> <span>1</span><span>;</span>
-        <span>}</span>
-        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
-    <span>}</span>
-    <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p><strong>时间复杂度</strong>：该操作执行次数与用户输入的规模线性相关，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="输出"> 输出</h3>
-<p><strong>实现思路</strong>：</p>
-<p>遍历每一个结点并输出，终止条件应该是指针为空时。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>void</span> <span>printDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
-    <span>//输出双向循环链表中各数据元素的值，每输出一个数据元素换行</span>
-    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
-    <span>while</span><span>(</span>watcher<span>)</span><span>{</span>
-        <span>printf</span><span>(</span><span>"%d\n"</span><span>,</span> watcher<span>-></span>data<span>)</span><span>;</span>
-        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：该操作与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="销毁"> 销毁</h3>
-<p><strong>实现思路</strong>：</p>
-<p>遍历每一个结点，执行删除操作，删除操作与上面的删除指定数据的结点思路是一致的。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>int</span> <span>destroyDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
-    <span>int</span> delNum <span>=</span> <span>0</span><span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
-    <span>while</span> <span>(</span>watcher<span>-></span>rlink<span>)</span><span>{</span>
-        toDel <span>=</span> watcher<span>;</span>
-        watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
-        watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
-        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
-        <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
-        delNum<span>++</span><span>;</span>
-        list<span>-></span>head<span>-></span>data<span>--</span><span>;</span>
-    <span>}</span>
-    <span>free</span><span>(</span>list<span>-></span>head<span>)</span><span>;</span>
-    <span>free</span><span>(</span>list<span>-></span>tail<span>)</span><span>;</span>
-    list<span>-></span>head <span>=</span> list<span>-></span>tail <span>=</span> <span>NULL</span><span>;</span>
-    delNum<span>++</span><span>;</span>
-    <span>return</span> delNum<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div><p><strong>时间复杂度</strong>：由于需要遍历用户输入的所有数据，执行次数与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：由于删除操作只需要使用固定的变量空间，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h2 id="双向链表优缺点"> 双向链表优缺点</h2>
-<p><strong>优点</strong>：</p>
-<ol>
-<li>可以找到前驱和后继，向前遍历和向后遍历。</li>
-<li>在当前结点前面、后面插入操作方便</li>
-<li>针对前驱、后继以及结点本身的删除操作方便。</li>
-</ol>
-<p><strong>缺点</strong>：</p>
-<ol>
-<li>增加删除结点操作复杂。</li>
-<li>较单链表需要占据更多的指针空间。</li>
-<li>存储密度较单链表低。</li>
-</ol>
-]]></content:encoded>
     </item>
     <item>
       <title>循环链表</title>
@@ -7723,6 +7570,159 @@ $$
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：详细分析请查看单链表查询，这里直接给出结果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
 <p><strong>空间复杂度</strong>：详细分析请查看单链表查询，这里直接给出结果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h3 id="关于循环链表的一些问题"> <a href="">关于循环链表的一些问题</a></h3>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>双链表</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">双链表</source>
+      <pubDate>Thu, 14 Oct 2021 19:26:31 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
+<p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
+<p>结构代码的定义：</p>
+<div><pre><code><span>struct</span> <span>node</span> <span>{</span>
+    <span>int</span> data <span>;</span>
+    <span>struct</span> <span>node</span> <span>*</span>llink<span>,</span> <span>*</span>rlink <span>;</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>如果希望对双链表做一次封装，可以额外使用如下的代码：</p>
+<div><pre><code><span>struct</span> <span>Hnode</span> <span>{</span>
+    <span>struct</span> <span>node</span> <span>*</span>head<span>,</span> <span>*</span>tail<span>;</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>双链表的出现是为了解决单链表不能直接访问前驱的问题。</p>
+<h2 id="双向炼表的基本操作与实现"> 双向炼表的基本操作与实现</h2>
+<h3 id="创建"> 创建</h3>
+<p><strong>实现思路</strong>：</p>
+<p>创建好相关的封装，并在此基础上创建双链表中的头结点，彼此相连构建成一个空的双链表。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>struct</span> <span>Hnode</span> <span>*</span><span>createDlist</span><span>(</span><span>)</span> <span>{</span>
+    <span>struct</span> <span>Hnode</span><span>*</span> HEAD <span>=</span> <span>(</span><span>struct</span> <span>Hnode</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>Hnode</span><span>)</span><span>)</span><span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+    headNode<span>-></span>data <span>=</span> <span>0</span><span>;</span>
+    headNode<span>-></span>llink <span>=</span> <span>NULL</span><span>;</span>
+    headNode<span>-></span>rlink <span>=</span> <span>NULL</span><span>;</span>
+    HEAD<span>-></span>head <span>=</span> headNode<span>;</span>
+    HEAD<span>-></span>tail <span>=</span> headNode<span>;</span>
+    <span>return</span> HEAD<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：该函数仅做有限的操作，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该函数申请的空间大小与用户输入规模不相关，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="插入"> 插入</h3>
+<p><strong>实现思路</strong>：</p>
+<p>如果双链表为空，则需完成如下的操作：</p>
+<ol>
+<li>头结点指向新结点</li>
+<li>新结点左指针指向头结点</li>
+<li>封装的尾指针指向尾结点</li>
+</ol>
+<p>如果双链表非空，则需按照如下顺序执行：</p>
+<ol>
+<li>头结点后继的左指针指向新结点</li>
+<li>新结点右指针指向头结点后继</li>
+<li>新结点左指针指向头结点</li>
+<li>头结点右指针指向新结点</li>
+</ol>
+<p><strong>「注意」</strong>：该情况下第四点必须要在第一、二点之后做，其他顺序任意调整即可。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>void</span> <span>insertDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>,</span> <span>int</span> insData<span>)</span> <span>{</span>
+    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> list<span>-></span>head<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> newNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+    newNode<span>-></span>data <span>=</span> insData<span>;</span>
+
+    <span>if</span> <span>(</span>headNode <span>==</span> list<span>-></span>tail<span>)</span><span>{</span>
+        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
+        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
+        list<span>-></span>tail <span>=</span> newNode<span>;</span>
+    <span>}</span> <span>else</span> <span>{</span>
+        headNode<span>-></span>rlink<span>-></span>llink <span>=</span> newNode<span>;</span>
+        newNode<span>-></span>rlink <span>=</span> headNode<span>-></span>rlink<span>;</span>
+        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
+        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
+    <span>}</span>
+    headNode<span>-></span>data<span>++</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p><strong>时间复杂度</strong>：该插入操作执行次数与用户输入规模不相关，每一次插入都是固定执行这些语句，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该插入操作只需要申请固定变量所占的空间大小，因此认为该操作空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="删除"> 删除</h3>
+<p><strong>实现思路</strong>：</p>
+<p>遍历每一个结点，找到要删除的数据时，将其前驱的右指针指向该结点的后继，其后继的左指针指向该结点的前驱，然后释放该空间。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>int</span> <span>deleteData</span><span>(</span><span>struct</span> <span>Hnode</span>  <span>*</span>list<span>,</span> <span>int</span> delData<span>)</span> <span>{</span>
+    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
+    <span>while</span> <span>(</span>watcher<span>)</span> <span>{</span>
+        <span>if</span> <span>(</span>watcher<span>-></span>data <span>==</span> delData<span>)</span><span>{</span>
+            toDel <span>=</span> watcher<span>;</span>
+            watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
+            watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
+            <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
+            <span>return</span> <span>1</span><span>;</span>
+        <span>}</span>
+        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
+    <span>}</span>
+    <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p><strong>时间复杂度</strong>：该操作执行次数与用户输入的规模线性相关，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="输出"> 输出</h3>
+<p><strong>实现思路</strong>：</p>
+<p>遍历每一个结点并输出，终止条件应该是指针为空时。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>void</span> <span>printDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
+    <span>//输出双向循环链表中各数据元素的值，每输出一个数据元素换行</span>
+    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
+    <span>while</span><span>(</span>watcher<span>)</span><span>{</span>
+        <span>printf</span><span>(</span><span>"%d\n"</span><span>,</span> watcher<span>-></span>data<span>)</span><span>;</span>
+        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：该操作与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="销毁"> 销毁</h3>
+<p><strong>实现思路</strong>：</p>
+<p>遍历每一个结点，执行删除操作，删除操作与上面的删除指定数据的结点思路是一致的。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>int</span> <span>destroyDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
+    <span>int</span> delNum <span>=</span> <span>0</span><span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
+    <span>while</span> <span>(</span>watcher<span>-></span>rlink<span>)</span><span>{</span>
+        toDel <span>=</span> watcher<span>;</span>
+        watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
+        watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
+        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
+        <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
+        delNum<span>++</span><span>;</span>
+        list<span>-></span>head<span>-></span>data<span>--</span><span>;</span>
+    <span>}</span>
+    <span>free</span><span>(</span>list<span>-></span>head<span>)</span><span>;</span>
+    <span>free</span><span>(</span>list<span>-></span>tail<span>)</span><span>;</span>
+    list<span>-></span>head <span>=</span> list<span>-></span>tail <span>=</span> <span>NULL</span><span>;</span>
+    delNum<span>++</span><span>;</span>
+    <span>return</span> delNum<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div><p><strong>时间复杂度</strong>：由于需要遍历用户输入的所有数据，执行次数与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：由于删除操作只需要使用固定的变量空间，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h2 id="双向链表优缺点"> 双向链表优缺点</h2>
+<p><strong>优点</strong>：</p>
+<ol>
+<li>可以找到前驱和后继，向前遍历和向后遍历。</li>
+<li>在当前结点前面、后面插入操作方便</li>
+<li>针对前驱、后继以及结点本身的删除操作方便。</li>
+</ol>
+<p><strong>缺点</strong>：</p>
+<ol>
+<li>增加删除结点操作复杂。</li>
+<li>较单链表需要占据更多的指针空间。</li>
+<li>存储密度较单链表低。</li>
+</ol>
 ]]></content:encoded>
     </item>
     <item>
@@ -8430,18 +8430,18 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
-      <title>极限反转数问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
-    </item>
-    <item>
       <title>约瑟夫问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
       <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>极限反转数问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
     </item>
     <item>
       <title>顺序线性表的一些经典问题</title>
@@ -9943,122 +9943,6 @@ rfkill: Cannot get wiphy information
 ]]></content:encoded>
     </item>
     <item>
-      <title>记一次局域网搭建私人云盘的过程</title>
-      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
-      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
-      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h2 id="过程"> 过程</h2>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
-<h2 id="还没结束"> 还没结束</h2>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-<div><p>错误指正</p>
-<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
-<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
-<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
-<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
-    </item>
-    <item>
       <title>Manjaro Linux</title>
       <link>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
       <guid>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
@@ -11320,6 +11204,122 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
 <p>第二大问题是<strong>显示器扩展问题</strong>，这个问题我已经忍了很久，到现在一直没办法彻底修复，甚至连问题出现在哪里都没能真正了解清楚。经过我花较长时间使用各种方式排查，已经排除掉硬件问题， 问题已经可以确定是出现在系统配置这里的。每一次的短暂修复都只是治标不治本，我也发现，其中修复的方式多是通过回退系统内核来完成，因此很难不怀疑问题就出现在系统内核这里。个人分析认为和GCC更新有比较大的关系：更新GCC导致重新编译后的系统内核较之前的兼容性要差一些，其他项目软件还未来得及做好适配。其中NVIDIA驱动的问题最突出，经过<code>sudo journalctl -f</code>和<code>nvidia-smi stats</code>这两个命令检查之后发现，有几次是插入HDMI后显卡有一点相应但后来索性没有反应，又有几次是完全无响应，表现的问题很奇怪，但大概率是驱动和内核没有做好兼容性适配。修复的方法也很玄学，是使用一个外来的正常系统接入电脑启动后就表现正常，即使后来再回到本机系统也是如此。无独有偶，VirtualBox也遇到了问题，经过系统更新后无法启动原有的虚拟机，也正是因为内核发生了某种变化导致设备UUID发生了变动，从而导致VirtualBox不能通过权限检查，久久修复无果，只好<code>/remake</code>......</p>
 <p>出现的这些问题很耽误工作，也很影响心情，它现在令我很不满，因此我也很快就要弃掉Manjaro转到其它的Linux发行版了。</p>
 <p>我是喜欢折腾，但是我不喜欢在有事要忙的时候还不得不为这些问题折腾，我需要的是一个稳定高效的Linux。</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
+    </item>
+    <item>
+      <title>记一次局域网搭建私人云盘的过程</title>
+      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
+      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
+      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h2 id="过程"> 过程</h2>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
+<h2 id="还没结束"> 还没结束</h2>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+<div><p>错误指正</p>
+<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
+<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
+<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
+<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
@@ -13099,7 +13099,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -13133,7 +13133,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -13143,7 +13143,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13168,7 +13168,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13195,15 +13195,6 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
 <p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
 </div>
 </div>]]></content:encoded>
-    </item>
-    <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -13236,97 +13227,23 @@ background-size: cover;
 ]]></content:encoded>
     </item>
     <item>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Slide page</title>
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 25 Jan 2022 12:45:49 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 13:00:11 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>在受限的网站里强制复制粘贴</title>
-      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
-      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
-      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
-<blockquote>
-<p>参考：</p>
-<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
-<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
-<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
-<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
-</blockquote>
-<h2 id="背景"> 背景</h2>
-<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
-<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
-<h2 id="实现方法"> 实现方法</h2>
-<h3 id="插件大法"> 插件大法</h3>
-<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
-<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
-<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
-<h3 id="查看源码大法"> 查看源码大法</h3>
-<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
-<blockquote>
-<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
-</blockquote>
-<h3 id="console操作大法"> Console操作大法</h3>
-<h4 id="全文复制"> 全文复制</h4>
-<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
-<p>如果你遇到如下形式的输出：</p>
-<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
-<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
-<p>写Shell文件，输入如下代码：</p>
-<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
-<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
-<h4 id="选中区域复制"> 选中区域复制</h4>
-<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
-<ol>
-<li>打开开发者工具</li>
-<li>选中网页中要复制的文字</li>
-<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
-</ol>
-<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
-<h3 id="打印预览大法"> 打印预览大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
-<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
-<h3 id="终极杀招"> 终极杀招</h3>
-<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
-<h2 id="补充的小知识"> 补充的小知识</h2>
-<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
-<h3 id="javascript实现方式"> JavaScript实现方式</h3>
-<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-  <span>return</span> <span>false</span><span>;</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
-  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
-    <span>return</span> <span>false</span><span>;</span>
-  <span>}</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
-<div><pre><code><span>body</span> <span>{</span>
-  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
-  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
-  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
-  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
-  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
-  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
-<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
     </item>
     <item>
       <title>SDN入门基础</title>
@@ -13639,6 +13556,89 @@ background-size: cover;
 <p><em>未完待续</em>……</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
+    </item>
+    <item>
+      <title>在受限的网站里强制复制粘贴</title>
+      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
+      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
+      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
+<blockquote>
+<p>参考：</p>
+<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
+<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
+<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
+<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
+</blockquote>
+<h2 id="背景"> 背景</h2>
+<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
+<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
+<h2 id="实现方法"> 实现方法</h2>
+<h3 id="插件大法"> 插件大法</h3>
+<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
+<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
+<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
+<h3 id="查看源码大法"> 查看源码大法</h3>
+<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
+<blockquote>
+<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
+</blockquote>
+<h3 id="console操作大法"> Console操作大法</h3>
+<h4 id="全文复制"> 全文复制</h4>
+<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
+<p>如果你遇到如下形式的输出：</p>
+<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
+<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
+<p>写Shell文件，输入如下代码：</p>
+<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
+<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
+<h4 id="选中区域复制"> 选中区域复制</h4>
+<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+<ol>
+<li>打开开发者工具</li>
+<li>选中网页中要复制的文字</li>
+<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+</ol>
+<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
+<h3 id="打印预览大法"> 打印预览大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
+<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
+<h3 id="终极杀招"> 终极杀招</h3>
+<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
+<h2 id="补充的小知识"> 补充的小知识</h2>
+<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
+<h3 id="javascript实现方式"> JavaScript实现方式</h3>
+<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
+  <span>return</span> <span>false</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
+  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
+    <span>return</span> <span>false</span><span>;</span>
+  <span>}</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
+<div><pre><code><span>body</span> <span>{</span>
+  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
+  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
+  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
+  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
+  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
+  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
+<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
     </item>
     <item>
       <title>简单的网页前后端搭建过程</title>
