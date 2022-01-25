@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Jan 2022 03:37:07 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Jan 2022 03:37:07 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 03:49:16 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 03:49:16 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -6426,7 +6426,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6451,7 +6451,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6466,7 +6466,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6985,7 +6985,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7008,7 +7008,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7019,7 +7019,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7039,7 +7039,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7050,7 +7050,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8193,18 +8193,18 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
-      <title>极限反转数问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
-    </item>
-    <item>
       <title>约瑟夫问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
       <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>极限反转数问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
     </item>
     <item>
       <title>顺序线性表的一些经典问题</title>
@@ -12823,7 +12823,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -12857,7 +12857,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -12867,7 +12867,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -12892,7 +12892,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -12955,7 +12955,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -12964,7 +12964,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 25 Jan 2022 03:36:13 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 03:48:24 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -13000,10 +13000,9 @@ background-size: cover;
 <p>在出现SDN之前的传统网络出现的问题比较多，一般都是缺了什么或者担心什么问题，就新添加一个东西专门解决，以至于后期网络堆叠繁重冗余。</p>
 <details><summary>问题一：传统网络管理和部署非常麻烦</summary>
 <p>对于一个庞大的网络来说，首先显而易见的是网络厂商杂、设备类型多、设备数量多、命令不一致，极大地加重了部署的难度，管理起来十分繁琐。</p>
-<blockquote>
 <p>我们首先要知道网络设备之间是如何协同工作的：</p>
 <ol>
-<li>网络设备之间的沟通主要通过网络协议「交换、路由、标签、安全等协议」来实现，大体的工作流程都是按照  <code>邻居建立</code>-&gt;<code>信息共享</code>-&gt;<code>路径选择</code>  这三个步骤来实现的，是很多协议设计的逻辑基础。</li>
+<li>网络设备之间的沟通主要通过网络协议「交换、路由、标签、安全等协议」来实现，大体的工作流程都是按照  <code>邻居建立</code>-信息共享<code>-路径选择</code>  这三个步骤来实现的，是很多协议设计的逻辑基础。</li>
 <li>大部分的传统网络是采用典型的分布式架构，设备和设备之间以“接力棒”的方式交互本地信息，而后建立数据库信息，再根据路径选择算法进行最优路径的选择，其中最具代表性的算法是SPF算法。</li>
 <li>每个设备会进行独立计算，各自都有自己独立的计算设备和转发设备。</li>
 <li>协议是互联网的基础。</li>
@@ -13011,14 +13010,11 @@ background-size: cover;
 <p>那么如果网络发生变动，又应该如何进行交互：</p>
 <ol>
 <li>当网络发生动荡时，网络设备会将故障信息以“接力棒”的方式不断告知下一个邻居设备，然后将故障路径信息删除。</li>
-<li>网络收敛过程中，有可能出现冗余的路径通告信息。</li>
-</ol>
-<p>如果遇到流量暴涨拓扑膨胀时：</p>
-<ol>
+<li>网络收敛过程中，有可能出现冗余的路径通告信息。
+如果遇到流量暴涨拓扑膨胀时：</li>
 <li>随着云计算、大数据、移动互联网等技术发展，流量不断翻番，使得底层网络的体积膨胀，压力增大；网络体积越大，需要收敛的时间越长，等。</li>
 <li>在所有的网络类型中，数据中心网「互联网公司」、电信网「运营商」的网络压力最大，需要变革的意愿最强烈。</li>
 </ol>
-</blockquote>
 </details>
 <details><summary>问题二：分布式网络架构瓶颈凸显</summary>
 <p>从问题一中可知，传统网络的三大特征是独立计算、接力棒交互、分布式架构，如今这三方面都可以看到瓶颈日益凸显。</p>
@@ -13035,7 +13031,7 @@ background-size: cover;
 <li>全网流量可视化是带宽智能调配的基础。</li>
 </ol>
 </details>
-<details><summary>问题三：流量控制是棘手难题！</summary>
+<details><summary>问题三：流量控制是棘手难题</summary>
 <p>问题二中提到的带宽静态分配、难以流量可视化的情况正是导致流量控制十分棘手的关键所在。</p>
 <p>在传统网络中，我们既不能自定义设备的转发策略，也不能将软件运行在设备上，因为：</p>
 <ol>
@@ -13080,12 +13076,18 @@ background-size: cover;
 </table>
 <h2 id="sdn的三大特性"> SDN的三大特性</h2>
 <ol>
-<li>网络开放可编程
-SDN为网络用户提供了丰富的可编程API，用户可以通过南向接口编程网络设备，用户在控制器上面编写自己的网络应用程序。</li>
-<li>数控分离
-将网络控制平面从数据平面中解耦合。传统的网络设备控制部分与数据处理部分是绑定在一起的，SDN实现了数控分离，网络控制平面与数据平面之间通过南向接口分离开来，不再相互依赖。这样做的好处是：用户不再受限于设备厂商，对网络设备有更多的自主权。另外控制平面与数据平面可以独立完成体系结构的演进，类似于计算机工业的Wintel模式，处理器和操作系统的技术演进不用互相依赖。</li>
-<li>逻辑上集中控制
-传统的网络设备管理、控制和编程是分布式思路，SDN提倡集中式的管理和控制，通过控制器完成网络设备和整个网络的抽象，用户可以通过编写软件的方式在控制器上实现自己的网络业务和方案。</li>
+<li>
+<p><strong>网络开放可编程</strong></p>
+<p>SDN为网络用户提供了丰富的可编程API，用户可以通过南向接口编程网络设备，用户在控制器上面编写自己的网络应用程序。</p>
+</li>
+<li>
+<p><strong>数控分离</strong></p>
+<p>将网络控制平面从数据平面中解耦合。传统的网络设备控制部分与数据处理部分是绑定在一起的，SDN实现了数控分离，网络控制平面与数据平面之间通过南向接口分离开来，不再相互依赖。这样做的好处是：用户不再受限于设备厂商，对网络设备有更多的自主权。另外控制平面与数据平面可以独立完成体系结构的演进，类似于计算机工业的Wintel模式，处理器和操作系统的技术演进不用互相依赖。</p>
+</li>
+<li>
+<p><strong>逻辑上集中控制</strong></p>
+<p>传统的网络设备管理、控制和编程是分布式思路，SDN提倡集中式的管理和控制，通过控制器完成网络设备和整个网络的抽象，用户可以通过编写软件的方式在控制器上实现自己的网络业务和方案。</p>
+</li>
 </ol>
 <h2 id="sdn的分层体系结构"> SDN的分层体系结构</h2>
 <p><img src="/images/SDN/sdn-architecture.png" alt="" /></p>
@@ -13114,8 +13116,8 @@ SDN为网络用户提供了丰富的可编程API，用户可以通过南向接�
 <p>应用层通过API方式与SDN控制器通讯。与南向接口不同，现在北向接口还缺少业界公认的标准，实现方案思路有的从用户角度出发、有的从运营商角度出发、有的从产品能力角度出发。技术风格上，部分传统的网络设备厂商倾向于在现有的设备上提供编程接口供业务App调用，许多上层应用的开发者也比较倾向于采用 REST API 接口的形式。</p>
 </details>
 <h2 id="sdn数据平面"> SDN数据平面</h2>
-<p>::: note 传统网络数据平面</p>
 <p><img src="/images/SDN/20190512150552556.png" alt="" /></p>
+<p>::: note 传统网络数据平面</p>
 <p>数据平面主要执行网络控制逻辑，数据包的处理主要通过查询由控制平面所生成的FIB表 来完成。包处理流程。</p>
 <p>传统网络数据平面的特点:
 – 数据转发处理都是协议相关的；
@@ -13123,17 +13125,29 @@ SDN为网络用户提供了丰富的可编程API，用户可以通过南向接�
 <p>:::</p>
 <p>数据平面负责数据处理、转发和状态收集等。其核心设备为交换机，可以是物理交换机，也可以是虚拟交换机。不同于传统网络转发设备，应用于SDN中的转发设备将数据平面与控制平面完全解耦，所有数据包的控制策略由远端的控制器通过南向接口协议下发，网络的配置管理同样也由控制器完成，这大大提高了网络管控的效率。交换设备只保留数据平面，专注于数据包的高速转发，降低了交换设备的复杂度。</p>
 <p>本质上来说，决定SDN可编程能力的因素在于数据平面的可编程性，所以就有了通用可编程数据平面OpenFlow Switch。通用可编程数据平面支持用户通过软件编程的方式任意定义数据平面的能力，包括数据包的解析、处理等功能。</p>
-<p>SDN数据平面的特点:
-– 处理流程中的：解析（Parser）、转发（Forwarding）和调度 （Scheduling）都是可编程、协议无关的；
-– 传统网络设备的二层或三层转发表抽象成流表；</p>
+<p>SDN数据平面的特点:</p>
+<ul>
+<li>处理流程中的：解析（Parser）、转发（Forwarding）和调度 （Scheduling）都是可编程、协议无关的；</li>
+<li>传统网络设备的二层或三层转发表抽象成流表；</li>
+</ul>
 <h2 id="sdn控制平面及sdn控制器实现原理"> SDN控制平面及SDN控制器实现原理</h2>
 <p>SDN控制平面主要由一个或者多个控制器组成，是作为数据控制分离的SDN的操作系统的存在。一方面，控制器通过南向接口协议对底层网络交换设备进行集中管理、状态监测、转发决策以处理和调度数据平面的流量；另一方面，控制器通过北向接口向上层应用开放多个层次的可编程能力，允许网络用户根据特定的应用场景灵活的制定各种网络策略。</p>
 <p>而控制器的设计目标是通过对底层网络进行完整的抽象，以允许开发者根据业务需求设计出各式各样的网络应用。</p>
 <h3 id="控制器需求"> 控制器需求</h3>
+<ul>
+<li>
 <p>在广域网部署SDN，单个控制器所面临的网络规模根据场景不同而不同。</p>
+</li>
+<li>
 <p>在IPRAN的移动接入场景，在一个城市，目前的规模已经达到2万台设备，未来会更多。</p>
+</li>
+<li>
 <p>对于目前典型的骨干网和城域网，设备规模从几百台2000台，主要压力是边缘接入业务路由的计算。</p>
+</li>
+<li>
 <p>在数据中心解决方案场景，采用OVERLAY方式完成网络虚拟化功能。这种网络虚拟化是在数据中心服务器上直接启动一个软件交换机，然后使用VXLAN技术，直接构建海量租户的虚拟二层网络。</p>
+</li>
+</ul>
 <h3 id="sdn控制器现网迁移"> SDN控制器现网迁移</h3>
 <p>迁移演进方式有多种，其中一种是SDN网络的部署可能先在某些局部网络部署，这个单独的SDN网络需要和传统的分布式网络互通，这就需要SDN控制器能够支持传统的一些网络业务协议，比如BGP进行互通。</p>
 <h3 id="sdn控制器与控制平台的关系"> SDN控制器与控制平台的关系</h3>
@@ -13196,7 +13210,7 @@ SDN为网络用户提供了丰富的可编程API，用户可以通过南向接�
 <p>通道的建立过程分为二层网络的建立和三层网络的建立：</p>
 <p>二层网络可以采用MSTP协议来协助破坏建立二层连接。这种情况的主要应用场景是数据中心控制器，控制器和交换机可以部署在同一个子网内，这样它们之间可以通过二层寻址，而不需要通过三层寻址。为了隔离控制器和转发器通讯与其他用户业务之间的通信，建议把他们之间的通信划分到一个独立的VLAN内部。</p>
 <p>三层网络可以采用传统的IGP来进行路由学习和打通控制通道。在数据中心内部，有时可以采用二层网络来完成控制器和转发器之间的控制通道，但当数据中心网络规模很大时也需要三层网络技术来解决控制器和转发器之间通信通道的建立。在控制器和转发器之间运行IGP，此时的控制器就是一台普通的路由器，可以通过IGP学习到拓扑并生成互联路由，这样一来，控制器和转发器之间的通信关系就如同一个传统分布式网络，从而保持了控制器和转发器之间的高可靠连通性。同时，控制器不是一个普通路由器，可以通过配置IGP（比如ISIS协议中的OVERLOAD功能）来阻止用户业务流量进入控制器。当然，所谓控制器不能转发用户流量可以说是一个限制，但在某些特定场景下这些限制也可以去掉，比如小规模网络中，客户可能希望在某台路由器上直接把控制器软件运行在里面，此时这台控制器本身也同时是一台路由器。</p>
-<p><kbd>「注意」</kbd>：三层网络下控制器其实和传统路由器有着一样的功能，但是要组织流量转发到控制器，很多IGP中有类似的功能来阻止这一点。</p>
+<i>Not supported content</i>三层网络下控制器其实和传统路由器有着一样的功能，但是要组织流量转发到控制器，很多IGP中有类似的功能来阻止这一点。
 <p>刚刚说的是通过传统分布式控制协议来让控制器学习并生成路由表并下发给转发器，在这种模式下，如果路由表里不存在相应的路由则报文被直接丢弃处理，这个就是IP转发理念。但是控制实现架构中，还有一种技术是流触发生成路由表，也就是说，对于一个转发表中不存在转发表数据的用户流进入转发器时，转发器需要把这个报文递交给控制器，转发器根据这个报文来生成一个转发表下发给转发器，使得该用户流的下一个报文进入系统时就可以命中转发表进行转发了。从安全性角度看，流触发生成路由表容易造成流量攻击，因此流触发技术不是一个合适的技术，也不符合IP技术的核心理念，仅仅在某些极其特殊场景下使用，并且要做好流攻击阻断工作。</p>
 <p>还有一些场景下：控制器需要穿越某些网络去控制远程网络，一个简单的方案就是在控制器和转发器之间建立一个隧道，并在这个隧道上启动IGP。
 用以上描述方法建立的控制通道，当网络发生状态变化时，由于采用了传统的分布式控制网络技术作为控制通道建立的技术，所以能够达到任何时刻只要拓扑上有路连接，通信上就能够打通的要求，同时故障感知到的收敛时间也都在1s以内。</p>
