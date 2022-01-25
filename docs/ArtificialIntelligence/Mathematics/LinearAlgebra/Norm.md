@@ -75,34 +75,7 @@ $$
 
 :::
 
-::: details 当$p\rightarrow\infty$时
 
-当$p\rightarrow+\infty$时，
-
-$$
-||\vec{x}||_{p}=\lim_{p\rightarrow+\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\max_{i}|x_i|
-$$
-
-当$p\rightarrow-\infty$时，
-
-$$
-||\vec{x}||_{p}=\lim_{p\rightarrow -\infty}(\sum^{n}_{i=1}|x_i|^p)^{1/p} =\min_{i}|x_i|
-$$
-
-该距离被称作无穷范数或最大范数。而且该距离也有另外一个名称：切比雪夫距离。
-
-因为切比雪夫距离定义为：
-
-若有两个向量或两个点p和q，其坐标分别为$p_{i}$和$q_i$，则有
-
-$$
-\begin{aligned}
-D_{\rm{Chebyshev}}(p,q)&:=\max_{i}(|p_{i}-q_{i}|) \\
-&= \lim_{k\to\infty}\bigg(\sum_{i=1}^{n}\left|p_{i}-q_{i}\right|^{k}\bigg)^{1/k}
-\end{aligned}
-$$
-
-:::
 
 以上的$L_p$范数系都是在衡量向量的大小，如果想衡量矩阵的大小，则需要使用矩阵范数。
 
@@ -274,4 +247,50 @@ Frobenuis范数是机器学习领域中常用的矩阵范数。
 
 :::
 
+## 一致范数
 
+一个$K^{m \times n}$上矩阵范数$\| \cdot \|_{ab}$称为与$K^n$上向量范数$\| \cdot \|_{a}$以及$K^m$上向量范数$\| \cdot \|_{b}$一致，如果
+
+$$
+\|Ax\|_b \leq \|A\|_{ab} \|x\|_a \quad
+\forall A \in K^{m \times n}, x \in K^n
+$$
+根据定义，所有诱导范数是一致范数。
+
+## 范数的等价
+
+对任何两个向量范数$||·||_\alpha$和$||·||_\beta$，我们有
+$$
+r\left\|A\right\|_\alpha\leq\left\|A\right\|_\beta\leq s\left\|A\right\|_\alpha \quad
+\exists\,r,s \in R_+,\,\forall A \in K^{m \times n}
+$$
+
+换句话说，它们是等价的范数；它们在$K^{m \times n}$上诱导了相同的拓扑。
+
+此外，当$A\in \mathbb{R}^{n\times n}$，则对任何向量范数$||·||$，存在惟一一个正数k使得$k||A||$是一个（服从乘法）矩阵范数。
+
+如果不存在其它矩阵范数$||·||_\beta$满足$||·||_\beta≤||·||_\alpha$，则称该矩阵范数$||·||_\alpha$为“极小的”，。
+
+::: tip 范数等价的例子
+
+对矩阵$A\in\mathbb{R}^{m\times n}$如下不等式成立：
+
+$$
+\begin{aligned} 
+&\|A\|_2\le\|A\|_F\le\sqrt{n}\|A\|_2 \\
+&\|A\|_{\text{max}} \le \|A\|_2 \le \sqrt{mn}\|A\|_{\text{max}} \\
+&\frac{1}{\sqrt{n}}\|A\|_\infty\le\|A\|_2\le\sqrt{m}\|A\|_\infty \\
+&\frac{1}{\sqrt{m}}\|A\|_1\le\|A\|_2\le\sqrt{n}\|A\|_1 \\
+\end{aligned}
+$$
+这里的$||·||_p$表示由向量p-范数诱导的矩阵范数。
+
+:::
+
+::: tip 向量范数之间另一个有用的不等式
+
+$$
+\|A\|_{2}\leq {\sqrt  {\|A\|_{1}\|A\|_{\infty }}}
+$$
+
+:::
