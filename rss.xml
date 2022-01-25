@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 25 Jan 2022 04:03:00 GMT</pubDate>
-    <lastBuildDate>Tue, 25 Jan 2022 04:03:00 GMT</lastBuildDate>
+    <pubDate>Tue, 25 Jan 2022 04:20:53 GMT</pubDate>
+    <lastBuildDate>Tue, 25 Jan 2022 04:20:53 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -711,6 +711,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:15:09 GMT</pubDate>
     </item>
     <item>
+      <title>结构化概率模型</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
+    </item>
+    <item>
       <title>贝叶斯规则</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</guid>
@@ -730,6 +737,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/</guid>
       <source url="https://breezeshane.github.io/rss.xml">连续性变量的技术细节</source>
       <pubDate>Sun, 23 Jan 2022 01:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>随机变量</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">随机变量</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:34 GMT</pubDate>
     </item>
     <item>
       <title>无监督学习介绍与入门</title>
@@ -915,13 +929,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 </ol>
 </section>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>随机变量</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">随机变量</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:34 GMT</pubDate>
     </item>
     <item>
       <title>Enlighten GAN</title>
@@ -6419,7 +6426,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6444,7 +6451,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6459,7 +6466,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6978,7 +6985,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7001,7 +7008,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7012,7 +7019,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7032,7 +7039,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7043,7 +7050,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -7103,13 +7110,6 @@ $$
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">冒泡排序</source>
       <pubDate>Sun, 23 Jan 2022 01:25:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>结构化概率模型</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
     </item>
     <item>
       <title>桶排序</title>
@@ -8358,150 +8358,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <enclosure url="https://breezeshane.github.io/images/nQueens.png" type="image/png"/>
     </item>
     <item>
-      <title>Git Commands</title>
-      <link>https://breezeshane.github.io/Git_Commands/</link>
-      <guid>https://breezeshane.github.io/Git_Commands/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Git Commands</source>
-      <pubDate>Sun, 08 Nov 2020 17:27:09 GMT</pubDate>
-      <content:encoded><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
-<p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
-<h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
-<p>首先，第一次使用git的时候，操作稍稍麻烦一些，但做完之后，就是一劳永逸的事啦！</p>
-<ol>
-<li>按下Super键+R，打开运行对话框，输入powershell，点击运行。</li>
-<li>首先要选择你的存储目录（以后的文件都要放在这里的~如果换文件夹需要重新做）</li>
-<li>选择好你的目录后，在powershell里输入 <code>cd (你的文件路径)</code></li>
-<li>输入 <code>git init</code>进行初始化</li>
-<li>/* 可以输入 <code>ls</code>来查看当前目录下所有文件，如果想查看被隐藏的文件需要输入 <code>ls -s</code> */</li>
-<li>输入 <code>git remote add (Your repository's name) (Your repository's Url)</code>//通常Your repository's Url就是在你的GitHub上打开你的repository后的链接地址<strong>还要再加上 .git</strong></li>
-<li>连接成功后，由于你第一次使用，需要先登录，则要执行以下两行指令：<div><pre><code>git config --global user.name &quot;(Your User name)&quot;
-git config --global user.email &quot;***********@***&quot;
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div></li>
-<li>然后就可以创建你的readme文件啦，需要输入 <code>echo &quot;All you wanna say&quot; &gt; readme.md</code></li>
-<li>接着输入 <code>git status</code></li>
-<li>看到返回给你的红字之后，输入 <code>git add --all</code></li>
-<li>再次输入 <code>git status</code></li>
-<li>你会发现原来红色的字都绿了......</li>
-<li><strong>注意中间会弹出一个对话框，让你输入你的GitHub用户名及密码，输入完毕登录以后，就可以了。</strong></li>
-<li>每次上传之前都要养成良好的记录习惯~输入 <code>git commit -m &quot;All you wanna say&quot;</code></li>
-<li>这时候再输入 <code>git push --set-upstream (Your repository's name) master</code></li>
-<li>当然上面的master也可以换成别的分支。另外应该知道，这里的(Your repository's name)是你在本地命名的仓库名，与GitHub上的仓库名没有必然联系。</li>
-<li>最后，你会发现上传成功，那么你赶快去刷新你的GitHub吧！</li>
-</ol>
-<div><p>重大变更</p>
-<p><a href="https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/" target="_blank" rel="noopener noreferrer">点击这里</a>查看官方公告</p>
-<p>很明显GitHub官方在2021年12月13日开始停用用户名验证了，这也是我在当天尝试上传时遇到的问题，如今这个问题的解决办法就是使用SSH密钥来配置，只有配置好这个才能正常上传。</p>
-</div>
-<h2 id="git配置ssh密钥"> Git配置SSH密钥</h2>
-<p>自从GitHub取消了用户名密码验证以后，我们常用的也只剩下了SSH，要使用这个还需要稍微配置一下，不过不算麻烦。</p>
-<div><pre><code>ssh-keygen -t rsa -C <span>"addr.of.your@email.com"</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>然后可以默认不输入任何信息，一路回车，这样就可以生成了SSH密钥，我们再获取一下公用密钥内容，执行 <code>cat ~/.ssh/id_rsa.pub</code>，再把输出的信息复制一下。</p>
-<p>GitHUb上SSH配置路线如下：点击右上角用户后，在出现的菜单中点击Settings，然后在左侧栏中点击SSH and GPG keys，再点击右侧的New SSH key即可新建SSH密钥，把刚才复制的内容粘贴到这里即可。Title根据自己的需要自定即可。</p>
-<h2 id="git-repository名字忘记了怎么办"> Git repository名字忘记了怎么办？</h2>
-<p>你很有可能建立了多个仓库，仓库名太多容易记不过来，有时候又容易忘记，该怎么办啊？别急，山人自有妙计：</p>
-<p>输入 <code>git remote -v</code></p>
-<p>这时候你会发现，你的所有的repository名字以及它对应的Url都出现啦！</p>
-<h2 id="git上传时不小心使用git-add-all把本不希望添加的文件上传了-但还好没有提交也没做commit-那么这时候你该怎么办"> Git上传时不小心使用git add --all把本不希望添加的文件上传了，但还好没有提交也没做commit，那么这时候你该怎么办？</h2>
-<p>可以输入 <code>git rm --cached (filename)</code>
-如果不行，试试这个 <code>git rm -f --cached (filename)</code></p>
-<h2 id="git-上传文件被拒绝该怎么办"> Git 上传文件被拒绝该怎么办？</h2>
-<p>输入 <code>git pull --rebase (Your repository's name) master</code>然后再push一下就好啦！</p>
-<h2 id="git-需要走代理怎么办"> Git 需要走代理怎么办？</h2>
-<div><pre><code><span># git config --global http.proxy http://127.0.0.1:1080</span>
-<span># git config --global https.proxy https://127.0.0.1:1080</span>
-<span># 如果你像上面那样设置过代理的话需要执行这两行指令：</span>
-<span>git</span> config --global --unset http.proxy
-<span>git</span> config --global --unset https.proxy
-
-<span># 1086 改为自己的 socks5 监听端口</span>
-<span>git</span> config --global http.https://github.com.proxy socks5://127.0.0.1:1086
-<span>git</span> config --global https.https://github.com.proxy socks5://127.0.0.1:1086
-<span># 1080 改为自己的 http 监听端口</span>
-<span>git</span> config --global http.https://github.com.proxy https://127.0.0.1:1080
-<span>git</span> config --global https.https://github.com.proxy https://127.0.0.1:1080
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><h2 id="manjaro-每次上传总是需要输入用户名和密码的解决方案"> Manjaro 每次上传总是需要输入用户名和密码的解决方案</h2>
-<p>目前看到的解决方案是进入到项目目录里添加本地凭证即可。执行：</p>
-<div><pre><code>git config --global credential.helper store
-# 这个指令会在用户路径下生成.gitconfig文件并指添加相应的配置内容。
-# 用户路径是指windows: C:/Users/username、mac os x: /Users/username和linux: /home/username
-git pull
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>然后你只需要再输入一次用户名和密码就可以生效了！</p>
-<h2 id="如何理解git-add"> 如何理解git add . ?</h2>
-<p><code>git add .</code>表示将当前目录下所有的文件都加载到暂存区内，和 <code>git add --all</code>等效。</p>
-<h2 id="git如何删除远程仓库"> Git如何删除远程仓库？</h2>
-<p><code>git remote rm NAME</code>即可删除掉不再需要的远程仓库，为了避免歧义强调一下：对GitHub服务器上的仓库毫无影响。</p>
-<h2 id="git如何创建服务器并多人协作"> Git如何创建服务器并多人协作？</h2>
-<blockquote>
-<p>注：创建服务器一般由项目负责人来完成此过程。</p>
-</blockquote>
-<ol>
-<li>
-<p>首先要在GitHub上准备好项目仓库</p>
-</li>
-<li>
-<p>在本地进入到项目根路径下，执行 <code>git init --bare</code>来创建一个裸服务器</p>
-</li>
-<li>
-<p>执行 <code>git clone PROJECT_PATH</code>来从裸服务器将版本库克隆至本地，以便开始后续工作。PROJECT_PATH就是项目的绝对路径。</p>
-</li>
-<li>
-<p>在本地编写好自己负责的项目部分</p>
-</li>
-<li>
-<p>执行 <code>git remote</code>确定服务器所在之后执行 <code>git push ORIGIN master</code>来推送版本至服务器上。</p>
-<p><code>&lt;font color=&quot;red&quot;&gt;</code>注意从此开始服务器创建完毕并正式投入使用，接下来将讲述如何使用。<code>&lt;/font&gt;</code></p>
-</li>
-<li>
-<p>开始的第一件事是执行 <code>git pull</code>来将项目拉取下来，以免出现版本冲突问题。</p>
-</li>
-<li>
-<p>在本地编写好自己负责的项目部分</p>
-</li>
-<li>
-<p>执行 <code>git remote</code>确定服务器所在之后执行 <code>git push ORIGIN master</code>来推送版本至服务器上。</p>
-</li>
-</ol>
-<p>应该注意的是，当甲正在开发项目的时候，乙完成了工作并成功上传到服务器上，这时候甲想直接执行上传就会失败，因为乙上传之后服务器的版本更新了，此时和甲当前的版本不同，因此甲在上传之前就要先执行 <code>git pull</code>来更新版本，然后才能继续上传。当然，用多了的话，你也会发现 <code>git remote</code>这个是不需要每次都执行的，仅在你不知道有哪些服务器的情况下才有必要执行。</p>
-<h2 id="git如何更好地多人协作"> Git如何更好地多人协作？</h2>
-<p>看过上一节的教程，不难发现，如果同时开发的人员有多个的话，这样的工作模式是会经常发生冲突的，比如A、B两人合作完成一个项目，A有一个新功能需要实现，但需要花半个月的时间，现在一周过去了，A并不能写完这个功能，但如果就这样提交上去，会导致B无法正常完成项目，因为项目中有并不由B负责的代码没写完，导致B无法进行开发调试；而如果不提交的话，又要面临丢失每日进度的风险，这是每一个程序员都不能接受的。</p>
-<p>那么怎么样才能更好地进行协作呢？Git有一个非常好的功能——分支。</p>
-<p>分支，顾名思义，就是从主干中分出的支线。我们刚才那一系列操作其实都是在针对master主分支上进行操作，而为了更好协作，我们就需要建立一个新的分支，这样就可以安心自己开发而不必担心打扰其他合作人员。「好在Git是自由的，任何一个程序员都可以拥有自己的分支来进行任何的开发，而不干扰master主分支正常使用。」</p>
-<p>我们来查看当前所在的分支，执行 <code>git branch</code>，*所在的地方就表示当前所在的分支。</p>
-<p>现在我们要创建新的分支，就要执行 <code>git branch NEW_BRANCH</code>，这样就可以创建一个名为NEW_BRANCH的分支。</p>
-<p>要使用该分支，我们需要先切换到这个分支，就需要执行 <code>git checkout NEW_BRANCH</code>来切换到NEW_BRANCH分支这里。</p>
-<p>接下来就可以自由进行开发而不再担心会打扰到他人正常工作了。</p>
-<p>那么当我们完成了各自分支上的任务，又如何整合到一起呢？我们先切回到master主分支上，<code>git checkout master</code></p>
-<p>然后我们来执行 <code>git merge NEW_BRANCH</code>来将NEW_BRANCH合并到master主分支上。</p>
-<p>如果项目完成收工的话，或者因为一些原因某分支不再需要了的话，我们可以执行 <code>git branch -d NEW_BRANCH</code>来删除NEW_BRANCH分支。</p>
-<p>如果想看一下提交的历史记录，可以执行 <code>git log</code>来查看。</p>
-<center>以上教程对于多人协作来说已基本够用。</center>
-<h2 id="git如何撤回所有的commit"> Git如何撤回所有的Commit？</h2>
-<p>在终端输入 <code>git reset --soft HEAD^</code>就可以撤销一次申请。有几次提交就可以重复执行几次。</p>
-<h2 id="git-add如何取消所有的文件"> Git add如何取消所有的文件？</h2>
-<p>在终端输入 <code>git reset HEAD .</code>就可以取消暂存所有文件。</p>
-<h2 id="git有些东西根本不想上传-怎么办"> Git有些东西根本不想上传，怎么办？</h2>
-<p>在项目目录下新建一个文件，命名为 <code>.gitignore</code>，并写入不希望添加的文件(夹)：</p>
-<div><pre><code>Content		<span>#忽略掉Content目录</span>
-__cache__/*	<span>#忽略掉__cache__下的所有文件</span>
-dust.txt	<span>#忽略掉dust.txt文件</span>
-lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h2 id="git如何下载指定版本"> Git如何下载指定版本？</h2>
-<p>最近帮朋友跑实验，发现模型和代码不匹配，于是我需要去找之前的代码来适应这个模型，就很自然地想到去翻看Commit History了，最后我找到需要的历史代码了，那要怎么下载回来？</p>
-<p>首先你需要浏览这个Commit的file，直接点击<kbd>&lt;&gt;</kbd>即可。</p>
-<p>然后需要看左侧的分支编号，记住这个编号。</p>
-<p>接着在本地选好位置后先执行<code>git clone git@xxxx.git</code>来clone下来。</p>
-<p>然后执行<code>git checkout &lt;Commit_ID&gt;</code>，这里的<code>&lt;Commit_ID&gt;</code>就是刚才要记的分支编号。</p>
-<p>在此基础上再新建分支，执行<code>git checkout -b &lt;NEW_BRANCH_NAME&gt;</code>。</p>
-<p>这样你就可以发现，切换版本成功了。👍</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/git.png" type="image/png"/>
-    </item>
-    <item>
       <title>Arcolinux &amp; AwesomeWM</title>
       <link>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</link>
       <guid>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</guid>
@@ -9471,6 +9327,150 @@ python -m visdom.server <span>&amp;</span>
 python Generative<span>\</span> Adversaria<span>\</span> Networks.py
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Git Commands</title>
+      <link>https://breezeshane.github.io/Git_Commands/</link>
+      <guid>https://breezeshane.github.io/Git_Commands/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Git Commands</source>
+      <pubDate>Sun, 08 Nov 2020 17:27:09 GMT</pubDate>
+      <content:encoded><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
+<p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
+<h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
+<p>首先，第一次使用git的时候，操作稍稍麻烦一些，但做完之后，就是一劳永逸的事啦！</p>
+<ol>
+<li>按下Super键+R，打开运行对话框，输入powershell，点击运行。</li>
+<li>首先要选择你的存储目录（以后的文件都要放在这里的~如果换文件夹需要重新做）</li>
+<li>选择好你的目录后，在powershell里输入 <code>cd (你的文件路径)</code></li>
+<li>输入 <code>git init</code>进行初始化</li>
+<li>/* 可以输入 <code>ls</code>来查看当前目录下所有文件，如果想查看被隐藏的文件需要输入 <code>ls -s</code> */</li>
+<li>输入 <code>git remote add (Your repository's name) (Your repository's Url)</code>//通常Your repository's Url就是在你的GitHub上打开你的repository后的链接地址<strong>还要再加上 .git</strong></li>
+<li>连接成功后，由于你第一次使用，需要先登录，则要执行以下两行指令：<div><pre><code>git config --global user.name &quot;(Your User name)&quot;
+git config --global user.email &quot;***********@***&quot;
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div></li>
+<li>然后就可以创建你的readme文件啦，需要输入 <code>echo &quot;All you wanna say&quot; &gt; readme.md</code></li>
+<li>接着输入 <code>git status</code></li>
+<li>看到返回给你的红字之后，输入 <code>git add --all</code></li>
+<li>再次输入 <code>git status</code></li>
+<li>你会发现原来红色的字都绿了......</li>
+<li><strong>注意中间会弹出一个对话框，让你输入你的GitHub用户名及密码，输入完毕登录以后，就可以了。</strong></li>
+<li>每次上传之前都要养成良好的记录习惯~输入 <code>git commit -m &quot;All you wanna say&quot;</code></li>
+<li>这时候再输入 <code>git push --set-upstream (Your repository's name) master</code></li>
+<li>当然上面的master也可以换成别的分支。另外应该知道，这里的(Your repository's name)是你在本地命名的仓库名，与GitHub上的仓库名没有必然联系。</li>
+<li>最后，你会发现上传成功，那么你赶快去刷新你的GitHub吧！</li>
+</ol>
+<div><p>重大变更</p>
+<p><a href="https://github.blog/2020-12-15-token-authentication-requirements-for-git-operations/" target="_blank" rel="noopener noreferrer">点击这里</a>查看官方公告</p>
+<p>很明显GitHub官方在2021年12月13日开始停用用户名验证了，这也是我在当天尝试上传时遇到的问题，如今这个问题的解决办法就是使用SSH密钥来配置，只有配置好这个才能正常上传。</p>
+</div>
+<h2 id="git配置ssh密钥"> Git配置SSH密钥</h2>
+<p>自从GitHub取消了用户名密码验证以后，我们常用的也只剩下了SSH，要使用这个还需要稍微配置一下，不过不算麻烦。</p>
+<div><pre><code>ssh-keygen -t rsa -C <span>"addr.of.your@email.com"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后可以默认不输入任何信息，一路回车，这样就可以生成了SSH密钥，我们再获取一下公用密钥内容，执行 <code>cat ~/.ssh/id_rsa.pub</code>，再把输出的信息复制一下。</p>
+<p>GitHUb上SSH配置路线如下：点击右上角用户后，在出现的菜单中点击Settings，然后在左侧栏中点击SSH and GPG keys，再点击右侧的New SSH key即可新建SSH密钥，把刚才复制的内容粘贴到这里即可。Title根据自己的需要自定即可。</p>
+<h2 id="git-repository名字忘记了怎么办"> Git repository名字忘记了怎么办？</h2>
+<p>你很有可能建立了多个仓库，仓库名太多容易记不过来，有时候又容易忘记，该怎么办啊？别急，山人自有妙计：</p>
+<p>输入 <code>git remote -v</code></p>
+<p>这时候你会发现，你的所有的repository名字以及它对应的Url都出现啦！</p>
+<h2 id="git上传时不小心使用git-add-all把本不希望添加的文件上传了-但还好没有提交也没做commit-那么这时候你该怎么办"> Git上传时不小心使用git add --all把本不希望添加的文件上传了，但还好没有提交也没做commit，那么这时候你该怎么办？</h2>
+<p>可以输入 <code>git rm --cached (filename)</code>
+如果不行，试试这个 <code>git rm -f --cached (filename)</code></p>
+<h2 id="git-上传文件被拒绝该怎么办"> Git 上传文件被拒绝该怎么办？</h2>
+<p>输入 <code>git pull --rebase (Your repository's name) master</code>然后再push一下就好啦！</p>
+<h2 id="git-需要走代理怎么办"> Git 需要走代理怎么办？</h2>
+<div><pre><code><span># git config --global http.proxy http://127.0.0.1:1080</span>
+<span># git config --global https.proxy https://127.0.0.1:1080</span>
+<span># 如果你像上面那样设置过代理的话需要执行这两行指令：</span>
+<span>git</span> config --global --unset http.proxy
+<span>git</span> config --global --unset https.proxy
+
+<span># 1086 改为自己的 socks5 监听端口</span>
+<span>git</span> config --global http.https://github.com.proxy socks5://127.0.0.1:1086
+<span>git</span> config --global https.https://github.com.proxy socks5://127.0.0.1:1086
+<span># 1080 改为自己的 http 监听端口</span>
+<span>git</span> config --global http.https://github.com.proxy https://127.0.0.1:1080
+<span>git</span> config --global https.https://github.com.proxy https://127.0.0.1:1080
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><h2 id="manjaro-每次上传总是需要输入用户名和密码的解决方案"> Manjaro 每次上传总是需要输入用户名和密码的解决方案</h2>
+<p>目前看到的解决方案是进入到项目目录里添加本地凭证即可。执行：</p>
+<div><pre><code>git config --global credential.helper store
+# 这个指令会在用户路径下生成.gitconfig文件并指添加相应的配置内容。
+# 用户路径是指windows: C:/Users/username、mac os x: /Users/username和linux: /home/username
+git pull
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>然后你只需要再输入一次用户名和密码就可以生效了！</p>
+<h2 id="如何理解git-add"> 如何理解git add . ?</h2>
+<p><code>git add .</code>表示将当前目录下所有的文件都加载到暂存区内，和 <code>git add --all</code>等效。</p>
+<h2 id="git如何删除远程仓库"> Git如何删除远程仓库？</h2>
+<p><code>git remote rm NAME</code>即可删除掉不再需要的远程仓库，为了避免歧义强调一下：对GitHub服务器上的仓库毫无影响。</p>
+<h2 id="git如何创建服务器并多人协作"> Git如何创建服务器并多人协作？</h2>
+<blockquote>
+<p>注：创建服务器一般由项目负责人来完成此过程。</p>
+</blockquote>
+<ol>
+<li>
+<p>首先要在GitHub上准备好项目仓库</p>
+</li>
+<li>
+<p>在本地进入到项目根路径下，执行 <code>git init --bare</code>来创建一个裸服务器</p>
+</li>
+<li>
+<p>执行 <code>git clone PROJECT_PATH</code>来从裸服务器将版本库克隆至本地，以便开始后续工作。PROJECT_PATH就是项目的绝对路径。</p>
+</li>
+<li>
+<p>在本地编写好自己负责的项目部分</p>
+</li>
+<li>
+<p>执行 <code>git remote</code>确定服务器所在之后执行 <code>git push ORIGIN master</code>来推送版本至服务器上。</p>
+<p><code>&lt;font color=&quot;red&quot;&gt;</code>注意从此开始服务器创建完毕并正式投入使用，接下来将讲述如何使用。<code>&lt;/font&gt;</code></p>
+</li>
+<li>
+<p>开始的第一件事是执行 <code>git pull</code>来将项目拉取下来，以免出现版本冲突问题。</p>
+</li>
+<li>
+<p>在本地编写好自己负责的项目部分</p>
+</li>
+<li>
+<p>执行 <code>git remote</code>确定服务器所在之后执行 <code>git push ORIGIN master</code>来推送版本至服务器上。</p>
+</li>
+</ol>
+<p>应该注意的是，当甲正在开发项目的时候，乙完成了工作并成功上传到服务器上，这时候甲想直接执行上传就会失败，因为乙上传之后服务器的版本更新了，此时和甲当前的版本不同，因此甲在上传之前就要先执行 <code>git pull</code>来更新版本，然后才能继续上传。当然，用多了的话，你也会发现 <code>git remote</code>这个是不需要每次都执行的，仅在你不知道有哪些服务器的情况下才有必要执行。</p>
+<h2 id="git如何更好地多人协作"> Git如何更好地多人协作？</h2>
+<p>看过上一节的教程，不难发现，如果同时开发的人员有多个的话，这样的工作模式是会经常发生冲突的，比如A、B两人合作完成一个项目，A有一个新功能需要实现，但需要花半个月的时间，现在一周过去了，A并不能写完这个功能，但如果就这样提交上去，会导致B无法正常完成项目，因为项目中有并不由B负责的代码没写完，导致B无法进行开发调试；而如果不提交的话，又要面临丢失每日进度的风险，这是每一个程序员都不能接受的。</p>
+<p>那么怎么样才能更好地进行协作呢？Git有一个非常好的功能——分支。</p>
+<p>分支，顾名思义，就是从主干中分出的支线。我们刚才那一系列操作其实都是在针对master主分支上进行操作，而为了更好协作，我们就需要建立一个新的分支，这样就可以安心自己开发而不必担心打扰其他合作人员。「好在Git是自由的，任何一个程序员都可以拥有自己的分支来进行任何的开发，而不干扰master主分支正常使用。」</p>
+<p>我们来查看当前所在的分支，执行 <code>git branch</code>，*所在的地方就表示当前所在的分支。</p>
+<p>现在我们要创建新的分支，就要执行 <code>git branch NEW_BRANCH</code>，这样就可以创建一个名为NEW_BRANCH的分支。</p>
+<p>要使用该分支，我们需要先切换到这个分支，就需要执行 <code>git checkout NEW_BRANCH</code>来切换到NEW_BRANCH分支这里。</p>
+<p>接下来就可以自由进行开发而不再担心会打扰到他人正常工作了。</p>
+<p>那么当我们完成了各自分支上的任务，又如何整合到一起呢？我们先切回到master主分支上，<code>git checkout master</code></p>
+<p>然后我们来执行 <code>git merge NEW_BRANCH</code>来将NEW_BRANCH合并到master主分支上。</p>
+<p>如果项目完成收工的话，或者因为一些原因某分支不再需要了的话，我们可以执行 <code>git branch -d NEW_BRANCH</code>来删除NEW_BRANCH分支。</p>
+<p>如果想看一下提交的历史记录，可以执行 <code>git log</code>来查看。</p>
+<center>以上教程对于多人协作来说已基本够用。</center>
+<h2 id="git如何撤回所有的commit"> Git如何撤回所有的Commit？</h2>
+<p>在终端输入 <code>git reset --soft HEAD^</code>就可以撤销一次申请。有几次提交就可以重复执行几次。</p>
+<h2 id="git-add如何取消所有的文件"> Git add如何取消所有的文件？</h2>
+<p>在终端输入 <code>git reset HEAD .</code>就可以取消暂存所有文件。</p>
+<h2 id="git有些东西根本不想上传-怎么办"> Git有些东西根本不想上传，怎么办？</h2>
+<p>在项目目录下新建一个文件，命名为 <code>.gitignore</code>，并写入不希望添加的文件(夹)：</p>
+<div><pre><code>Content		<span>#忽略掉Content目录</span>
+__cache__/*	<span>#忽略掉__cache__下的所有文件</span>
+dust.txt	<span>#忽略掉dust.txt文件</span>
+lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h2 id="git如何下载指定版本"> Git如何下载指定版本？</h2>
+<p>最近帮朋友跑实验，发现模型和代码不匹配，于是我需要去找之前的代码来适应这个模型，就很自然地想到去翻看Commit History了，最后我找到需要的历史代码了，那要怎么下载回来？</p>
+<p>首先你需要浏览这个Commit的file，直接点击<kbd>&lt;&gt;</kbd>即可。</p>
+<p>然后需要看左侧的分支编号，记住这个编号。</p>
+<p>接着在本地选好位置后先执行<code>git clone git@xxxx.git</code>来clone下来。</p>
+<p>然后执行<code>git checkout &lt;Commit_ID&gt;</code>，这里的<code>&lt;Commit_ID&gt;</code>就是刚才要记的分支编号。</p>
+<p>在此基础上再新建分支，执行<code>git checkout -b &lt;NEW_BRANCH_NAME&gt;</code>。</p>
+<p>这样你就可以发现，切换版本成功了。👍</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/git.png" type="image/png"/>
     </item>
     <item>
       <title>记将旧电脑改建成服务器的过程</title>
@@ -10971,25 +10971,24 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
-      <title>Manjaro Linux</title>
+      <title>记一次局域网搭建私人云盘的过程</title>
       <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
       <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Manjaro Linux</source>
+      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
       <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="记一次局域网搭建私人云盘的过程"> 记一次局域网搭建私人云盘的过程</h2>
-<blockquote>
+      <content:encoded><![CDATA[<blockquote>
 <p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
 </blockquote>
-<h3 id="过程"> 过程</h3>
+<h2 id="过程"> 过程</h2>
 <p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
 <p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用<code>$MAIN</code>来表示这个地址。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
 <div><pre><code><span>cd</span> <span>$MAIN</span>
 <span>mkdir</span> MySQL-Database
 <span>mkdir</span> Redis
 <span>mkdir</span> NextCloud
 
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                          
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
 --privileged<span>=</span>true --name mysql <span>\</span>
 -v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
 -e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
@@ -10997,17 +10996,17 @@ mysql
 
 <span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
 
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                    
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
 --privileged<span>=</span>true --name redis <span>\</span>
 -v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                       
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
 redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
 <span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
 
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                       
---name nextcloud <span>\</span>              
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
 --restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>          
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
 -v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
 -v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
 -v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
@@ -11016,21 +11015,21 @@ docker run -d -p <span>8088</span>:80 <span>\</span>
 --link redis:redis <span>\</span>
 nextcloud
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过<code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令<code>--link mysql:mysql</code>，和<code>:</code>后面的<code>mysql</code>有关。</p>
-<h3 id="还没结束"> 还没结束</h3>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
+<h2 id="还没结束"> 还没结束</h2>
 <p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
 <div><pre><code><span>cd</span> <span>$MAIN</span>
 <span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改<code>trusted_domains</code>这一项，添加：</p>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
 <div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
 </code></pre>
 <div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
 <p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
 <div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
 </code></pre>
-<div><span>1</span><br></div></div><h3 id="「注意」"> 「注意」</h3>
+<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
 <p>上面的docker命令中各参数的含义如下：</p>
 <blockquote>
 <ol>
@@ -11039,11 +11038,51 @@ nextcloud
 <li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
 <li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
 <li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数<code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
 <li>-e：设置环境变量</li>
 <li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
 </ol>
 </blockquote>
+<div><p>错误指正</p>
+<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
+<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
+<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
+<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
@@ -12823,7 +12862,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -12857,7 +12896,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -12867,7 +12906,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -12892,7 +12931,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -12955,7 +12994,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -12964,7 +13003,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 25 Jan 2022 04:01:55 GMT</pubDate>
+      <pubDate>Tue, 25 Jan 2022 04:20:01 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
