@@ -82,7 +82,7 @@ $$
 T: \underbrace{V^{*}\times \dots \times V^{*}}_{p{\text{ 個}}}\times \underbrace{V\times \dots \times V}_{q{\text{ 個}}} \mapsto \mathbb{R},
 $$
 
-其中$V$是矢量空间，$V^∗$是其对偶空间。
+其中$V$是矢量空间，$V^*$是其对偶空间。
 
 张量不随参照系的坐标变换（其实就是基向量变化）而变化。
 

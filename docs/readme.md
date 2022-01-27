@@ -4,6 +4,7 @@ home: true
 icon: home
 title: Blog Home
 heroImage: /Breeze Shane.jpg
+heroImageStyle: Record<border-radius, 50%>
 bgImage: /images/Wallpapers/f1c4821284cdaca190622113da9a8f1e.jpg
 heroText: 𝕭𝖗𝖊𝖊𝖟𝖊 𝕾𝖍𝖆𝖓𝖊 𝕭𝖑𝖔𝖌
 tagline: You can put your slogan here

@@ -294,6 +294,7 @@ module.exports = config({
         blog: {
             name: "𝕭𝖗𝖊𝖊𝖟𝖊 𝕾𝖍𝖆𝖓𝖊",
             avatar: "/Breeze Shane.jpg",
+            roundAvatar: true,
             intro: "/about/",
             sidebarDisplay: "mobile",
             links: {

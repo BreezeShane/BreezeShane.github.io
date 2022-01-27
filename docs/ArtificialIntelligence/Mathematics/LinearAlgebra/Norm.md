@@ -45,17 +45,17 @@ $$
 
 ## 关于p值的讨论
 
-::: details 当$p=0$时
+::: details 当p=0时
 
 $$
 \lVert\vec{x}\rVert_{0}=\sum^{n}_{i=1}[x_i \neq 0]
 $$
 
-<Badge text="「注意」" type="warn"/>：这里的$L_{0}$范数并非通常意义上的范数（不满足三角不等式或次可加性）。
+<Badge text="「注意」" type="warn" />：这里的 $L_0$ 范数并非通常意义上的范数（因为不满足三角不等式或次可加性）。
 
 :::
 
-::: details 当$p=1$时
+::: details 当p=1时
 
 $$
 \lVert\vec{x}\rVert_{1}=\sum^{n}_{i=1}|x_i|
@@ -65,7 +65,7 @@ $$
 
 :::
 
-::: details 当$p=2$时
+::: details 当p=2时
 
 $$
 \lVert\vec{x}\rVert_{2}=\sqrt{\sum^{n}_{i=1}|x_i|^2}
@@ -75,7 +75,7 @@ $$
 
 :::
 
-::: details 当$p\rightarrow\infty$时
+::: details 当p→∞时
 
 当$p\rightarrow+\infty$时，
 
@@ -108,6 +108,7 @@ $$
 
 
 ## 矩阵范数
+
 矩阵范数，又称矩阵模，是将一定的矩阵空间建立为赋范向量空间时为矩阵装备的范数。
 
 赋范向量空间是拓扑向量空间中的基本种类。通过赋予向量空间（线性空间）以范数，建立拓扑结构。考虑系数域$\mathbb{K}$（$\mathbb{K}$可以是实数域$\mathbb{R}$或复数域$\mathbb{C}$等）上的所有$m \times n$矩阵所构成的向量空间$\mathcal{M}_{m, n}(\mathbb{K})$。这是一个有$m n$维的$\mathbb {K}$-向量空间。可以如同对其他的有限维$\mathbb {K}$-向量空间一样，为矩阵空间$\mathcal{M}_{m, n}(\mathbb{K})$装备范数。这样的范数称为$\mathcal{M}_{m, n}(\mathbb{K})$上的一个矩阵范数。
@@ -139,13 +140,13 @@ $$
 考虑从向量空间$V = \mathbb{K}^m$映射到$W = \mathbb{K}^n$的所有线性映射的构成的空间：$\mathcal{L}_{m, n}(\mathbb{K})$。设$V$和$W$中分别装备了两个向量范数$| \cdot |_V$和$| \cdot |_W$，则可以定义$\mathcal{L}_{m, n}(\mathbb{K})$上的算子范数$| \cdot |_\mathcal{L}$：
 
 $$
-\forall A\in {\mathcal  {L}}_{{m,n}}({\mathbb  {K}})|A|_{{\mathcal  {L}}}=\max\{|A(x)|_{W}\;;\;\;x\in V,\;\;|x|_{V}\leqslant 1\}
+\forall A\in \mathcal{L}_{m,n}(\mathbb{K})|A|_{\mathcal{L}}=\max\{|A(x)|_{W}\;;\;\;x\in V,\;\;|x|_{V}\leqslant 1\}
 $$
 
 而给定了基底后，每个从$V$映射到$W$的线性映射都可以用一个$m\times n$的矩阵来表示，所以同样地可以定义$\mathcal{M}_{m, n}(\mathbb{K})$上的非负映射$| \cdot |_\mathcal{M}$：
 
 $$
-{\displaystyle \forall A\in {\mathcal {M}}_{m,n}(\mathbb {K} )|A|_{\mathcal {M}}=\max\{|Ax|_{W}\;;\;\;x\in V,\;\;|x|_{V}\leqslant 1\}}
+\forall A\in {\mathcal{M}}_{m,n}(\mathbb{K})|A|_{\mathcal{M}}=\max\{|Ax|_{W}\;;\;\;x\in V,\;\;|x|_{V}\leqslant 1\}
 $$
 
 可以验证，$| \cdot |_\mathcal{M}$满足矩阵范数的定义，因此是一个矩阵范数。这个矩阵范数被称为是由向量空间范数诱导的矩阵范数，可以看作是算子范数在由有限维向量空间之间线性映射组成的空间上的特例。如果$m = n$，所对应的矩阵空间就是$n$阶方块矩阵空间$\mathcal{M}_{n}(\mathbb{K})$。这时可以验证，诱导范数$| \cdot |_\mathcal{M}$满足一致性条件。
@@ -157,7 +158,7 @@ $$
 当$V$和$W$中装备的向量范数都是$p$-范数的时候，诱导的矩阵范数也称为矩阵的诱导$p$-范数。具体来说就是：
 
 $$
-{\displaystyle \left|A\right|_{p}=\max \limits _{x\neq 0}{\frac {\left|Ax\right|_{p}}{\left|x\right|_{p}}}=\max \limits _{x\neq 0}{\frac {\left(\sum _{i=1}^{m}|\sum _{j=1}^{n}a_{ij}x_{j}|^{p}\right)^{1/p}}{\left(\sum _{j=1}^{n}|x_{j}|^{p}\right)^{1/p}}}}
+\left|A\right|_{p}=\max \limits _{x\neq 0}{\frac {\left|Ax\right|_{p}}{\left|x\right|_{p}}}=\max \limits _{x\neq 0}{\frac {\left(\sum _{i=1}^{m}|\sum _{j=1}^{n}a_{ij}x_{j}|^{p}\right)^{1/p}}{\left(\sum _{j=1}^{n}|x_{j}|^{p}\right)^{1/p}}}
 $$
 
 在$p=1$和$p\rightarrow\infty$的情况下，其范数可以以下方式计算：
@@ -180,7 +181,7 @@ $$
 任何诱导的矩阵范数都满足此不等式
 
 $$
-\left | A \right | \ge \rho(A) \quad\text{其中$\rho(A)$是$A$的谱半径。}
+\left | A \right | \ge \rho(A) \quad\text{其中} \rho(A)\text{是}A\text{的谱半径。}
 $$
 
 事实上，可以证明$\rho(A)$是A的所有诱导范数的下界。
@@ -188,7 +189,7 @@ $$
 此外，我们有
 
 $$
-\lim _{{r\rightarrow \infty }}|A^{r}|^{{1/r}}=\rho (A)
+\lim_{r\rightarrow\infty}|A^r|^{1/r}=\rho(A)
 $$
 
 :::
@@ -200,7 +201,7 @@ $$
 举例说明，使用向量的p-范数，我们得到：
 
 $$
-\Vert A\Vert _{p}={\Big (}\sum _{i=1}^{m}\sum _{j=1}^{n}|a_{ij}|^{p}{\Big )}^{1/p}
+\Vert A\Vert _{p}={\Big (}\sum _{i=1}^{m}\sum _{j=1}^{n}|a_{ij}|^{p}{\Big)}^{1/p}
 $$
 
 <Badge text="注" type="error" />：不要把矩阵元p-范数与诱导p-范数混淆。
@@ -212,7 +213,7 @@ $$
 对$p = 2$，这称为弗罗贝尼乌斯范数（Frobenius norm）或希尔伯特-施密特范数（Hilbert–Schmidt norm），不过后面这个术语通常只用于希尔伯特空间。这个范数可用不同的方式定义：
 
 $$
-|A|_F=\sqrt{\sum_{i=1}^m\sum_{j=1}^n |a_{ij}|^2}=\sqrt{\operatorname{trace}(A^{{}^*} A)}=\sqrt{\sum_{i=1}^{\min\{m,\,n\}} \sigma_{i}^2}
+|A|_F=\sqrt{\sum_{i=1}^m\sum_{j=1}^n|a_{ij}|^2}=\sqrt{\operatorname{trace}(A^*A)}=\sqrt{\sum_{i=1}^{\min\{m,\,n\}} \sigma_{i}^2}
 $$
 
 这里$A^*$表示A的共轭转置，$σ_i$是A的奇异值，并使用了迹函数。弗罗贝尼乌斯范数与$K_n$上欧几里得范数非常类似，来自所有矩阵的空间上一个内积。
@@ -248,15 +249,17 @@ $$
 最常见的情形是$p = 1, 2, \infty$。$p = 2$得出弗罗贝尼乌斯范数，前面已经介绍过了。$p \rightarrow \infty$得出谱范数，这是由向量2-范数诱导的矩阵范数（见下）。最后，p = 1得出迹范数(核范数)，定义为
 
 $$
-|A|_{{{\text{tr}}}}=\operatorname {trace}({\sqrt  {A^{*}A}})=\sum _{{i=1}}^{{\min\{m,\,n\}}}\sigma _{{i}}
+|A|_{\text{tr}}=\operatorname{trace}(\sqrt{A^*A})=\sum_{i=1}^{\min\{m,\,n\}}\sigma _{i}
 $$
 
 <Badge text="知识补充" type="tip" />：
 
 在线性代数中，酉矩阵（又译作幺正矩阵，英语：Unitary Matrix）是一个$n×n$复数方块矩阵$U$，其满足以下性质：
+
 $$
-{\displaystyle U^{*}U=UU^{*}=I_{n}}
+{ U^{*}U=UU^{*}=I_{n}}
 $$
+
 其中$U^*$是$U$的共轭转置，$I_n$是$n×n$的单位矩阵。
 
 换句话说，酉矩阵的逆矩阵，就是其共轭转置：
@@ -264,6 +267,7 @@ $$
 $$
 U^{-1}=U^{*}
 $$
+
 酉矩阵是实数上的正交矩阵，在复数的推广。
 
 :::
