@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Jan 2022 11:27:10 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Jan 2022 11:27:10 GMT</lastBuildDate>
+    <pubDate>Fri, 28 Jan 2022 11:42:57 GMT</pubDate>
+    <lastBuildDate>Fri, 28 Jan 2022 11:42:57 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -934,13 +934,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:14:55 GMT</pubDate>
     </item>
     <item>
-      <title>概率分布</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
-    </item>
-    <item>
       <title>独立性和条件独立性</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</guid>
@@ -953,6 +946,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
       <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
       <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>概率分布</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
     </item>
     <item>
       <title>贝叶斯规则</title>
@@ -6663,7 +6663,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6688,7 +6688,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6703,7 +6703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -7222,7 +7222,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7245,7 +7245,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7256,7 +7256,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7276,7 +7276,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7287,7 +7287,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -13099,7 +13099,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -13133,7 +13133,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -13143,7 +13143,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13168,7 +13168,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13231,7 +13231,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -13240,7 +13240,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Fri, 28 Jan 2022 11:26:10 GMT</pubDate>
+      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -13574,24 +13574,24 @@ background-size: cover;
 </li>
 </ol>
 <h2 id="sdn在广域网中应用场景分析"> SDN在广域网中应用场景分析</h2>
-<p>::: detail 在广域网多条链路之间可实现流量均衡调度</p>
+<details><summary>在广域网多条链路之间可实现流量均衡调度</summary>
 <p>在广域网上，由于用户的分布不均、各业务并发特性不同等原因，经常存在流量不均衡现象，广域网链路目的端通常是城域网或者是云IDC，其用户规模及业务数量存在巨大的差异，几条链路上容易出现流量不均衡情况，严重时部分链路接近拥塞而其余的链路还处于轻载状况，这种情况经常发生在传输网的一级干线、二级干线以及云IDC之间的互联链路上。</p>
 <p>链路流量不均衡的情况涉及路由问题、具体业务应用层以及链路的质量等诸多复杂的问题，同时，在云计算、大数据、移动互联网快速普及应用时代，流量的瞬间动态变化极快，要进行人工干预是不可行的，因此一直是困扰运营商建设运维技术人员的难题。</p>
 <p>在广域网上引入SDN智能化管理器，利用 SDN 智能化全局管控的能力实时收集广域网中各条链路的状态信息，来监控网络状态，计算链路的利用率及带宽使用情况，动态的从交换机、路由器中获取网络状态，为数据包计算出最优的、无碰撞的路径，并动态的调整路由以避免网络拥塞，从而实现广域网传输链路流量的负载均衡。同时还可以利用 SDN 智能化管理，动态地改变带宽，加速广域网链路数据的传输。</p>
-<p>:::</p>
-<p>::: detail 利用SDN可优化广域网链路利用率</p>
+</details>
+<details><summary>利用SDN可优化广域网链路利用率</summary>
 <p>目前，根据通信端到端的网络峰值预测路径和通道网络带宽。交换机、路由器的容量静态固定，根据路由器上行链路失效来重组路由，路径选择会出现重复，资源出现竞争，导致重试和再次失效。网络利用率通常小于 30%。</p>
 <p>利用SDN改进后，具备网络需求和网络组织的全局视图，可对所有流量计算出最佳最明确的路径，确定数据包的网络行为，从而减少保护性带宽的需要，一旦出现故障，可根据错误导向，改变到另一张预先计算好的网络路径。更高的网络利用率和更快的网络收敛，只需少量的资源即可获得更高的网络质量，网络利用率可稳定在70%以上。</p>
 <p>在骨干网中有诸多的业务需要按需动态地提供网络能力，如云数据中心之间平时估计需要的带宽不要太大就能支撑日常的业务运行，但是当有如虚拟机迁移，存储数据复制等业务时就需要很大带宽才能满足业务需要，两个IDC之间就需要随时间动态调整之间的网络流量带宽。</p>
 <p>传统模式是根据IDC之间端到端流量的峰值，来设计固定速率的网络带宽，从而导致了严重低下的带宽利用率;而引入SDN后，通过在网格交汇节点中加入基于OpenFlow的交换机，云服务平台根据需求，通过SDN的控制层，随时随地对网络流量带宽容量进行重新分配，从而保证网络带宽的性能。相对于传统预留空间方式，新模式为关键的通信事务节省约65%左右的容量。</p>
 <p>在广域网中可实现多层次的网络管理，采用SDN前，IP网络与传输网络分离，网络需通过不同的工具和不同的技术组合进行管理。采用SDN后，以统一集中、最优化为驱动力对流量进行控制，使得流量在网络上流转总是恰到好处;网络传输变为动态，主要通过IP进行交互;对与网络流量的优化，SDN 会有选择性地切入，通过重新配合和连接新网络端口来增加带宽，提升性能，减少传统网络割接带来的影响。</p>
-<p>:::</p>
-<p>::: detail 利用SDN可有效提升广域网的服务质量</p>
+</details>
+<details><summary>利用SDN可有效提升广域网的服务质量</summary>
 <p>目前广域网的服务内容、应用系统、服务层与网络紧耦合，移动网、WiFi网络、固定宽带等不同领域的网络紧耦合，资源利用率低或性能差。</p>
 <p>利用SDN改进后，控制层具有全局的网络组织视图，并可把该信息提供给应用服务层，同时可在用户端与IDC 及具体服务器之间，选择最佳链路。只需少量的资源即可获得更高的服务质量，聚合多种技术来提供服务，优化了如QoS、能耗、利用率等多个方面的性能。</p>
 <p>在感知网络中服务器负载均衡这中应用场景，目前，服务器负载均衡方式是从服务器集群中，根据服务器的可用性和当前资源利用率，选择服务器分担负载，而不考虑网络因素，这样会导致所选服务器是空闲的，但网络路径拥塞。 使用SDN后，可以通过感知网络负载的应用以及SDN控制器，选择一条拥有足够容量的网络路径，从而实现端到端的负载均衡，该场景特别适用于对时延敏感的业务，使其获得更好的业务响应时间，有效提升用户的业务体验。</p>
 <p>现阶段，在广域网中全面部署SDN还不太现实，SDN标准尚未统一，针对广域网的需求缺乏体系化标准化，可使用的主流厂家解决方案差异性大，私有协议多，跨厂家互通难度大，现阶段只能结合特定的需求选择特定的厂商SDN控制器，随着SDN技术的不断完善，在广域网中引入SDN技术应用将会全面展开，广域网的性能必定会得到很好的优化，会更好的为当下快速发展的云计算、大数据、物联网等业务应用提供更加良好的服务。</p>
-<p>:::</p>
+</details>
 <h2 id="sdn的典型应用"> SDN的典型应用</h2>
 <ol>
 <li>
@@ -13604,16 +13604,16 @@ background-size: cover;
 <p>容器网络因其服务和POD内外隔离的特性，软件定义的CNI网络在社区中已有众多方案（如Flannel和Calico）。华云数据SDN作为云原生的CNI（也处于Hyper Cycle中的Peak附近），其容器网络方案支持与安超虚拟机，VMware虚拟机的互相连通和统一管理。</p>
 </li>
 <li>
-<p>NFV和网络安全
-因网络被软件定义，因此网络流量调度有了更为柔性的方式。同时，一些服务，如安全服务也可以从硬件中脱离出来云化，紧密的配合SDN提供虚拟网络安全服务，如当处于安全资源池的安全实例检测到威胁的时候，会通过调用管理接口通知CloudSuite通过下发安全组等方式阻断威胁。</p>
-<p>::: detail 意义</p>
+<p>NFV和网络安全</p>
+<p>因网络被软件定义，因此网络流量调度有了更为柔性的方式。同时，一些服务，如安全服务也可以从硬件中脱离出来云化，紧密的配合SDN提供虚拟网络安全服务，如当处于安全资源池的安全实例检测到威胁的时候，会通过调用管理接口通知CloudSuite通过下发安全组等方式阻断威胁。</p>
+<details><summary>意义</summary>
 <p>此方案充分将安全服务云化，云内运行的安全实例可以同时保护东西向和南北向的流量，避免了硬件安全往往拘泥于南北向边界的问题。</p>
 <p>同时安全实例弹性较强，可以方便的支持升级，灵活部署更高规格的服务，不受硬件影响。扩充和减少服务实例也可以在安全中心中直接操作即可达成，免去硬件配置的繁琐。</p>
 <p>流量镜像方案不影响业务的正常流量，即使安全实例出现服务中断等情况，正常业务仍然可以正常运行。业务流量也避免了“发卡弯”等不必要的转发过程。</p>
-<p>:::</p>
+</details>
 </li>
 </ol>
-<h2 id="sdn与sd-wan的区别"> <i>Not supported content</i>：SDN与SD-WAN的区别</h2>
+<h2 id="sdn与sd-wan的区别"> SDN与SD-WAN的区别<i>Not supported content</i></h2>
 <p>SD-WAN 是一种技术，它使用 SDN 概念跨 WAN 分配网络流量，以自动确定最有效的方式来路由进出分支机构和数据中心站点的流量。</p>
 <p>SDN 和 SD-WAN 有相似之处，例如，它们都将控制平面和数据平面分开，并且都支持额外的虚拟网络功能的实现。</p>
 <p>两者的不同之处在于：</p>
