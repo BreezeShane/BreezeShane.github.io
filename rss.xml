@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 28 Jan 2022 11:42:57 GMT</pubDate>
-    <lastBuildDate>Fri, 28 Jan 2022 11:42:57 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Jan 2022 01:57:29 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Jan 2022 01:57:29 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -340,6 +340,305 @@
 </ol>
 <p>当然远不止上面这些，像Pydev、Sublime Text、Vim、GNU/Emacs、Atom、IDLE、Thonny等等都可以用来写Python。</p>
 <p>不过我更推荐使用PyCharm、DataSpell和Jupyter系列的，PyCharm和DataSpell的功能非常强大，而Jupyter系列一方面是基于Web页面设计的，另一方面则是可以做到分块分阶段输出结果，还可以局部运行代码，也值得一试。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Intelligent Software Defined Networking</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/ISDN/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/ISDN/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Intelligent Software Defined Networking</source>
+      <pubDate>Sat, 29 Jan 2022 07:08:35 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>温馨提示</p>
+<p>阅读本文之前需要先了解SDN，如果你还没有读过<a href="https://breezeshane.github.io/Web/SDN/" target="_blank" rel="noopener noreferrer">SDN入门基础</a>，请先读这篇。</p>
+<p>本文参考论文：李可欣, 王兴伟, 易波, 等. 智能软件定义网络[J]. 软件学报, 2020, 32(1): 118-136.</p>
+<p>链接：http://www.jos.org.cn/jos/article/abstract/6120</p>
+</div>
+<p>::: note 论文结论</p>
+<p>本文对人工智能技术应用于软件定义网络进行了综述性分析与研究.首先对人工智能技术与软件定义网络的背景进行讨论,分别对以上两个方向的研究现状进行详细的论述,分层次地描述人工智能应用于软件定义网络数据平面、控制平面以及应用平面的相关研究.然后从应用背景及标准化的角度,详细讨论了目前人工智能应用于 SDN 智能路由优化方法、网络安全智能方法以及基于人工智能流量工程的相关研究,比较以上研究领域内现有方法的优缺点,并给出目前较为权威的国际标准化组织对基于人工智能的 SDN 标准化定义.最后总结基于人工智能的 SDN 在高质量数据、跨域通信、可扩展性以及网络安全预测方面所面临的挑战,并在此基础上讨论基于人工智能的 SDN 与一些新兴领域,包括 5G、网络功能虚拟化、物联网、边缘计算、信息中心网络以及无线网络领域结合的发展趋势.综上所述,人工智能的相关算法在 SDN 网络中的应用研究非常广泛,同时面临着许多挑战,然而这些挑战却推动着 SDN 向着更好的方向发展.希望通过本文的讨论和探索,为基于人工智能的 SDN 网络的发展和更加智能化的网络的实现开辟一条新的途径.</p>
+<p>:::</p>
+<h2 id="基于人工智能的sdn各平面动机研究"> 基于人工智能的SDN各平面动机研究</h2>
+<h3 id="数据平面"> 数据平面</h3>
+<p><strong>数据平面相关技术研究包括两个方面:交换机设计研究和转发规则研究.交换机设计研究包括设计可扩展的快速转发设备,实现设备在灵活匹配规则的基础上能够快速转发数据流;其次是转发规则的相关研究,包括考虑解决突发情况的转发规则,例如规则失效后的一致性更新问题等.</strong></p>
+<p>着重发展软件交换机,将一些在软件上实现的服务从硬件交换机转移到软件上,不仅可以降低成本,而且使网络配置更加灵活,从而打开了硬件厂商垄断市场的壁垒.</p>
+<div><p>相关信息</p>
+<p>国际软件交换机论坛给出如下定义:软件交换机是基于分组网利用程控软件提供呼叫控制功能的设备和系统,能够提供更多的数据包处理方式.</p>
+</div>
+<p><strong>基于数据平面转发规则的研究方向主要包括两方面:开发新的南向接口协议或提出智能协议.</strong></p>
+<p>SDN 控制平面与数据平面分离,给网络管理提供统一的编程接口,并使网络更加灵活.但是上述控制平面与数据平面分离的方式需要借助 OpenFlow 交换机和控制器之间频繁交互各种控制器南向接口消息,过于频繁的信息交互,给控制器的处理能力、数据通路处理时延、南向接口的信道带宽等性能提出很高的要求.</p>
+<p>于此Zheng 等人提出一种基于流量特征的南向接口技术,针对网络流量分布不均衡的特征,重点关注仅占据少量网络带宽但却种类繁多的小流,消除了冗余路径,降低了传输时延,优化了控制器南向接口交互开销.Ba 等人研究发现,具有树状拓扑的数据中心网络存在类似的问题,他们提出一个网络范围的电源管理器和若干相关启发式算法,动态打开/关闭网络元素,以满足不同的流量负载.</p>
+<div><p>提示</p>
+<p>上述对于协议的研究仅限于启发式算法,启发式算法虽然在一定程度上可以对路由或流量起到智能控制的作用,但却增加了数据平面的计算负担,因此,基于数据平面的各种算法仍须考虑日益增长的数据规模,通过降低计算复杂度来节约能耗.</p>
+</div>
+<h3 id="控制平面"> 控制平面</h3>
+<p>目前,对于控制器的研究大致分为如下几个方面:</p>
+<ol>
+<li>
+<p><strong>分布控制器研究</strong></p>
+<p>单一集中控制存在单点失效问题,限制网络的可伸缩性;另一方面,在大规模网络中,单一集中控制在其他域与交换机之间存在的延迟处理问题略显乏力,因此,大多采用分布式控制器解决上述问题;</p>
+</li>
+<li>
+<p><strong>控制器安全研究</strong></p>
+<p>控制器是 SDN 网络的核心,从安全角度来看,SDN 网络架构的集中性和开放性在提高整个网络灵活性的同时,也为 SDN 网络安全带来巨大的隐患.传统 SDN 控制器安全防护的方法大多采用基于 OpenFlow 流进行流量监控和入侵检测,利用 SDN 的优势实现算法的改善和性能的优化.但是,以上方法都忽略了历史数据蕴含的安全信息,也无法预防未来安全攻击.通过引入人工智能算法,可以构建 SDN 网络安全模型,实现控制平面的智能优化.</p>
+</li>
+</ol>
+<p>由于网络状态与人类的行为规律密切相关,因此可以通过人工智能技术对网络覆盖、用户分布、业务等人类行为特点进行综合分析,预测流量负载,提高带宽利用率,降低网络损耗,实现全网负载均衡.例如：</p>
+<ol>
+<li>Tang 等人提出一种新的基于深度学习的流量负载预测算法,用于预测未来网络中的流量负载和堵塞,并在此基础上,结合深度学习的信道分配算法(deep learning based partially channel assignment algorithm,简称 DLPOCA)解决信道智能分配到 SDN-IoT 网络中的各个链路问题,智能地避免潜在的拥塞,快速地在 SDN-IoT 中分配合适的信道.</li>
+<li>Leguay 等人通过探究 SDN 与机器学习的一些算法,发掘 SDN 运行计算密集型机器学习工具,并以集中方式解决复杂优化问题的潜力.另一方面,通过在控制平面引入人工智能技术,可以根据历史数据对攻击者和合法用户进行分类,并根据其特点有效识别攻击者,有效保障 SDN 控制平面安全.</li>
+<li>Nanda 等人提出在 SDN 控制器定义安全规则,使用机器学习算法根据历史网络攻击范例,预测将要被攻击的主机,通过阻塞整个子网来限制潜在攻击者的访问.</li>
+</ol>
+<div><p>提示</p>
+<p>目前,应用于控制平面基于人工智能网络安全方法中仍缺少实时反馈对攻击评估的考虑,仅针对历史数据不能准确识别新的攻击进行分析.</p>
+</div>
+<h3 id="应用平面"> 应用平面</h3>
+<p>SDN 的应用平面包含若干个应用,这些应用可以通过可编程方式,通过北向接口把需要请求的网络行为提交给控制器.</p>
+<p>基于应用平面的研究大体分为开发北向接口和开发 SDN 应用.</p>
+<p>Google B4 架构无法有效地处理动态流量问题.而人工智能的相关技术结合 SDN,可以很好地解决上述问题.例如：</p>
+<ol>
+<li>Shi 等人提出一种基于深度学习的流量鲁棒最优的新特性优化方法和特征选择算法,该方法利用删除网络流量数据集中无关的特性来保证对称性,然后,基于深度学习生成应用于该特征的相应模型.但是互联网流量具有复杂非线性特征,现有的特征选择(featureselection,简称 FS)技术对流量分类不具有很强的鲁棒性,不能可靠地为机器学习(machine learning,简称 ML)算法提供最优、最稳定的特征保证.为了解决上述问题,Shi 等人在现有算法的基础上提出一种新的特征提取和选择方法:首先,利用小波前导多重分形形式化,从流量流中提取多重分形特征来描述流量流;然后,将基于主成分分析的 FS 方法应用于这些多重分形特征,去除不相关和冗余特征后,得到需要的特征.</li>
+<li>其他研究包括通过比较贝叶斯网络、决策树和多层感知器等方法不同类型的互联网流量和内容交付流量进行基于流的分类,调查不同的流量分类性能所依赖的训练数据量,得出贝叶斯网络和决策树等适合互联网高速流量分类的结果.</li>
+</ol>
+<h2 id="关键技术及研究方法"> 关键技术及研究方法</h2>
+<h3 id="智能路由优化方法"> 智能路由优化方法</h3>
+<div><p>问题焦点</p>
+<p>路由是网络的一项基本功能,在 SDN 网络中,控制器通过修改交换机的流表来控制流量的路由,引导交换机丢弃一个流量或将其路由到指定路径.低效率的路由策略会导致数据丢失、负载不均衡以及资源浪费等情况,因此,优秀的路由策略对于网络数据传输具有重要意义.目前,路由策略大部分基于最短路径优先策略或启发式算法做出优化或改进.</p>
+</div>
+<p>对于智能软件定义网络下的路由研究包括路由策略优化和软件定义路由研究两个方面:</p>
+<h4 id="策略优化"> 策略优化</h4>
+<p>SDN 是为了解决由于集中管理困难、供应商依赖以及进程改变导致网络复杂增加等问题而提出的.在目前的 SDN 网络中,路由算法多为基于 Dijkstra 算法,选择最短的流路径来传递数据包.但仅考虑路径的长短而不考虑带宽开销等其他参数,会在大量的流量进入网络时导致网络拥塞.为了解决上述问题,研究人员考虑结合人工智能方法规划路由算法.</p>
+<ol>
+<li>
+<p>Mhdawi 等人在中型混合软件定义的网络数据中心环境中开发智能功率降低决策路由协议(intelligent power reduction decision routing protocol,简称 IPRDR),该算法根据计算的公制值,以最优功率路径将大流量路由到高索引设备,并对其进行聚合和隔离.</p>
+<p>::: warn 存在的问题</p>
+<p>该算法并不适用于更大功率情况的优化,无法管理和控制多个传统数据中心站点位置.</p>
+<p>:::</p>
+</li>
+<li>
+<p>Kim 等人提出一种基于 Q-learning 的 SDN 高效路由以防止网络拥塞的机制,该方法通过使用预定义的阈值和 Q-learning 路由算法重新选择路径和改变流表,可以极大地改善网络拥塞.</p>
+<p>::: warn 存在的问题</p>
+<p>该方法仅适用于固定流量生成模式和带宽大小的情况,为了满足更复杂的网络状况,需要考虑更多的复杂、可扩展的因素.</p>
+<p>:::</p>
+</li>
+<li>
+<p>Pasca 等人从流量优先级的角度优化路由策略,认为流量应有优先级,率先完成优先级高的流量调度可以有效地避免多个流争抢有限资源的状况.在此基础上,提出一种应用程序感知的多路径包转发框架,该框架集成了机器学习和 SDN,使用机器学习算法对每个流进行优先级排序,并使用 SDN 根据流优先级和网络状态将其路由.</p>
+<p>::: warn 存在的问题</p>
+<p>该算法在执行多路径分配时,未将用户的使用经验和一些 QoS 需求考虑在应用的分类步骤中.</p>
+<p>:::</p>
+</li>
+<li>
+<p>针对传统的路由协议没有从历史经验中学习网络异常此类问题,Mao 等人提出一种新的基于实时深度学习的智能网络流量控制方法,利用具有独特输入和输出特性的深度卷积神经网络(deep convolutional neural networks,简称 DCNNs)来表示所考虑的无线网状网络(wireless mesh network,简称 WMN)主干网,以降低平均延迟和丢包率.</p>
+</li>
+</ol>
+<h4 id="软件定义路由"> 软件定义路由</h4>
+<p>软件定义路由器(software defined routing,简称 SDR)也称为可编程路由器,它提供了一个具有易扩展性和可编程性的具有成本效益的包处理平台.目前有许多学者致力于 SDR 的研究,例如:</p>
+<ol>
+<li>
+<p>Mao 等人采用监督的 DBA 计算后续节点与边缘路由器的流量模式作为输入、基于深度学习的路由表构造方法.仿真实验结果显示,基于深度学习方法的路由方法的确能够极大地改善主干路由的控制.
+::: warn</p>
+<p>该方法并未考虑网络层的安全问题.</p>
+<p>:::</p>
+</li>
+<li>
+<p>Geyer 等人提出了基于图的深度学习生成分布路由协议方法,与 Mao 等人的方法相比,该方法独立于拓扑的底层结构,因此应用于更广泛的网络拓扑.</p>
+</li>
+</ol>
+<p>SDR 为网络设备编程实现不同目标提供了灵活性,并消除了对第三方供应商特定硬件的需求.</p>
+<h3 id="网络安全智能方法"> 网络安全智能方法</h3>
+<div><p>问题焦点</p>
+<p>SDN 以中央控制器来管理整个网络,以简化网络管理工作.这种管理机制在为用户提供良好的网络可编程性的同时,也使整个网络的核心暴露在攻击者面前,攻击者仅通过编码的形式就可以访问网络的中心,使 SDN网络时刻面临攻击的危险,降低了整个网络的安全性.</p>
+</div>
+<p>Wang 等人对 SDN 网络安全机制进行了综述,分析归纳了 SDN 中存在的典型的安全威胁问题.他们分别从 SDN 安全控制器的开发、控制器可组合安全模块库的开发和部署、控制器 DoS/DDoS 攻击防御方法、流规则的合法性和一致性检测、北向接口和应用安全性等多个方面详尽地探讨了 SDN 安全.SDN 控制器的全局网络视图简化了网络流量的收集和分析,此外,SDN 的可编程性使网络在检测到攻击时拥有立即做出反应的能力.</p>
+<p>在 SDN 网络中,基于人工智能的入侵检测已有很多研究,如入侵检测和 DDoS 攻击检测:</p>
+<h4 id="入侵检测"> 入侵检测</h4>
+<p>入侵检测的目的是识别访问是否正常,通过将流量分类为正常流和攻击流,拦截异常访问,保证网络安全.人工智能方法用一组属性和关联标签来说明每个流,基于属性的类型,确定用于异常检测的相关技术.例如:</p>
+<p>Sanda 等人利用机器学习算法的预测输出,定义 SDN 控制器的安全规则,以防止恶意用户访问网络.他们分别使用 C4.5、决策表、贝叶斯网络和朴素贝叶斯算法这 4 种机器学习方法,根据历史数据预测攻击的主机.
+::: warn 存在的问题</p>
+<p>在利用人工智能方法分类访问流的方法中,仅可以解决特定的攻击或提出具体的防御方法,并没有解决检测和控制恶意或可疑流量等基本需求.</p>
+<p>:::</p>
+<p>此外,SDN 控制器中仍存在许多尚未发现的漏洞,攻击者可以利用这些漏洞继续威胁 SDN.因此,创建一个全面的安全设计,可以抵御 SDN 中的各种漏洞,以防御各种潜在的攻击.为了解决上述问题:</p>
+<ol>
+<li>Song 等人提出一种基于 SDN 和机器学习技术的感知实时威胁的网络入侵检测系统,引入入侵响应系统,该系统使用反应式路由进行 SDN 中的影响分析,在 SDN 中的一个开源项目中实现原型,并使用网络公开归档数据和实时数据评估所提出的系统.</li>
+<li>Anderson 等人提出了基于 SDN 网络的异常检测、分类和缓解框架ATLANTIC,该框架包括一个负责监控流量的轻量级阶段和一个负责异常分类和缓解的重量级阶段:轻量级阶段利用信息论计算流表熵的偏差,重量级阶段利用 SVM 算法对异常流量进行分类.根据不同量级,使用不同方法对流量异常进行分类,通过使用所收集的信息,以特定方式处理每个流量配置文件,阻止恶意流量.</li>
+</ol>
+<h4 id="ddos-攻击"> DDoS 攻击</h4>
+<div><p>问题焦点</p>
+<p>DDoS 攻击是 SDN 网络安全的一大威胁.DDoS 攻击的目标是:通过使用许多傀儡机同时发送大量假请求来耗尽系统资源,从而无力满足合法用户的请求.在 SDN 网络中,DDoS 攻击会耗尽数据平面和控制平面的网络、存储和计算资源,使 SDN 网络不可用.因此,DDoS 攻击检测对于 SDN 网络的正常运行至关重要.应用人工智能技术,根据与流量特征相关的某些功能区分网络流量,并将其分类为恶意或良性,以减轻对 SDN 控制器或交换机的入侵和 DDoS 攻击.</p>
+</div>
+<p>Niyaz 等人将系统构建为 SDN 控制器上的网络应用程序,使用深度学习算法减少从网络数据包头部导出的大量特征的情况,在 SDN 环境中,提出了一种基于深度学习的多向量 DDoS 检测系统.</p>
+<p>::: warn 存在的问题</p>
+<p>上述算法均不具备从原始字节中直接提取特征的能力,而是从派生的特征中降低特征维度.</p>
+<p>:::</p>
+<hr>
+<p>Chen 等人从 SDN 控制器角度入手,结合分类器 XGBoost 改进决策树方法,利用收集的流数据包数据集进行 DDoS 检测.</p>
+<p>::: warn 存在的问题</p>
+<p>截止到目前,基于 SDN 的 DDoS 流量检测仍然无法满足 DDoS 攻击检测的应用特定要求.其中,DDoS 攻击检测的流量阈值可能因应用而异,然而现有的解决方案没有实现任何机制来满足这一重要需求并设定相应的约束条件.此外,利用 SDN 进行 DDoS 流量检测通常采用单个控制器作为解决方案,这不仅会造成网络流量的瓶颈,还会导致 SDN 网络出现单点故障.虽然 SDN 可以整合分布式平台,集中控制整个网络,但现有的解决方案还没有充分发挥它的潜力.</p>
+<p>:::</p>
+<h3 id="基于人工智能的流量工程"> 基于人工智能的流量工程</h3>
+<p>流量工程(traffic engineering,简称 TE)是通过动态分析,预测和调节传输数据的行为来优化数据网络性能的重要机制.迄今为止,结合 SDN 研究的大部分工作都集中在开发 SDN 架构上,而不是为 SDN 开发 TE 工具.SDN大幅度地简化网络管理,降低运营成本,促进了当前和未来网络的创新和发展.SDN 的这些独特功能为新的 TE 技术提供了巨大的动力,利用相应技术,可以更好地进行流量控制和管理全局网络视图、状态和流模式特征.</p>
+<p><strong>基于 SDN 的流量工程的优势在于:</strong></p>
+<ol>
+<li>互联网应用程序要求底层网络架构能够实时地做出反应,并且可以针对大量流量进行扩展.该架构应该能够对来自不同应用的各种流量类型进行分类,并在非常短的时间内,为每种流量类型提供合适的特定服务;</li>
+<li>其次,面对云计算的快速增长以及大规模数据中心的需求,合适的网络管理应该能够提高资源利用率以获得更好的系统性能.</li>
+</ol>
+<div><p>意义</p>
+<p>因此,迫切需要新的网络架构和更智能和高效的 TE 工具.结合人工智能技术识别不同的流量类型,为 SDN 网络提供一种细粒度的网络管理方法,网络运营商可以更有效地处理不同的业务和分配网络资源,通过预测流量动态变化情况,设计相应的应对策略,实现高效、准确的网络优化.</p>
+</div>
+<p>基于人工智能的流量工程大致分为流量的分类识别以及动态流量调度优化,下面将对基于人工智能流量工程方法的相关研究进行简要概述.</p>
+<h4 id="流量分类"> 流量分类</h4>
+<p>基于 SDN 的数据流在不同的情境下具有不同的特征,目前有两种分类方式:</p>
+<ol>
+<li>
+<p>将流量分为大象流和老鼠流,大象流是大量持续的流,而老鼠流是小量且短时间的流;</p>
+<p><strong>在数据中心,80%的流量是老鼠流,但是 20%的大象流却占据了 80%的带宽,因此,识别大象流和老鼠流对于准确识别数据中心流量、实现适宜的网络流量调度具有重要的意义.</strong></p>
+<div><p>出现的问题</p>
+<p>SDN 通过流量控制为数据中心网络提供灵活的管理,然而这种细粒度管理在数据和控制平面之间消耗了大量带宽,造成基于 SDN 的数据中心的可扩展性的瓶颈.“大象和老鼠现象”表明:只有非常少的大象流量承载了数据中心的大部分字节,因此它可以通过检测和重新路由大象流以提高管理水平.但是,用于大象流检测的现有机制面临着高带宽消耗和检测时间过长的挑战.</p>
+</div>
+<p>为了解决上述问题,Tang 等人提出一种有效的采样和分类方法(efficient sampling and classification approach,简称 ESCA)应用于大象流的检测.在第 1 阶段,ESCA 通过估计大象流的到达时间间隔,并使用过滤流表过滤掉冗余样本来提高采样效率;在第 2 阶段,ESCA 基于数据流之间的相关性,使用新的监督分类算法对样本进行分类.通过这两个阶段来实现大象流的检测.因为过滤了冗余部分数据,因此降低了整个系统的带宽消耗与计算时间.</p>
+<p>::: warn 存在的问题</p>
+<p>一方面无法满足 SDN 数据中心和校园网的粒度需求;</p>
+<p>另一方面,巨大的计算开销降低了测量框架的可扩展性.</p>
+<p>:::</p>
+</li>
+<li>
+<p>根据 QoS 将流量分类.</p>
+<p><strong>QoS 感知的流量分类旨在识别流量的 QoS 类.</strong></p>
+<p>随着 Internet 上应用程序的指数级增长,要识别所有的应用程序是困难和不切实际的.但是,应用程序可以根据其 QoS 需求(如延迟、抖动和丢失率)划分为不同的 QoS 类.许多不同的应用程序可能属于一个 QoS 类,因此,根据流量的 QoS 要求对流量进行分类是一种更为有效的方法.</p>
+<p>应用人工智能算法可以实现:</p>
+<ol>
+<li>多维关键绩效指标(key performance indicators,简称 KPI)分析,并发现新的相关性,执行根本原因分析并预测 QoS 违规行为;</li>
+<li>实施数据清理技术,以处理不完整、丢失或损坏的数据;</li>
+<li>支持强大且可扩展的架构,可从虚拟和现实世界中收集数据.因此,人工智能算法能够满足大数据情境下的 QoS 预测,发现规则间更多的相关性.</li>
+</ol>
+</li>
+</ol>
+<h4 id="流量调度"> 流量调度</h4>
+<div><p>出现的问题</p>
+<p>现代网络中,高时空流量的可变性需要网络不断改变处理策略,以保持接近最佳网络性能.Geyer 等人提出,当前的电信网络在许多不同的平面和时间尺度上表现出内在的可变性,例如光纤意外失效、无线信道质量因多径衰落而快速波动等.同时,智能手机和平板电脑作为用户的主要互联网接入设备的使用也越来越多,使得流量需求随着内容受欢迎的程度而发生改变,这些因素及其他因素导致了流量需求在时间和空间上的频繁且较大的波动.由此可知,流量具有变异和波动的属性.</p>
+</div>
+<p><strong>任务目标</strong>：为了保证网络的稳定,需要在不同输入(即网络和流量)状况保持系统的良好性能.此外,考虑到出现流量涌流的状况,系统的实际性能并不总是遵循优化模型预测的性能.因此,在线网络优化(online networking optimize,简称 ONO)必须满足在实际流量情况与预测情况产生偏差时,大多数预测的流量状况的性能处于最优或至少稳定的状态.</p>
+<p><strong>当前的解决方案</strong>：在 SDN 网络中的流表匹配策略能够体现网络流量的动态处理情况,基于分类方法,Su 等人对包的结构进行分析,提出一种基于字段的数据包的匹配模型 F-OpenFlow.该方法提出通过分组匹配字段提高表项匹配概率的方法,利用元空间搜索分析现有网络中流表的结构,找到同类型的匹配规则,并利用元空间方法将分析模型与字典树集成,处理动态网络中的字段,得到相应的规则并匹配对应的策略,实现了高效、准确的网络优化.但是上述方法并没有利用以往的历史数据进行匹配,导致分析消息位置和流表之间的关系不够准确,不能保证能够提高流表的命中率和匹配速度.</p>
+<h4 id="流量预测"> 流量预测</h4>
+<p><strong>前置条件「保证可行性」</strong>：网络流量具有自相似性、多尺度性、长程依赖性和高度非线性的特性(如泊松模型和高斯模型建模的不足),这些统计特性决定了流量的可预测性.</p>
+<p><strong>准备条件「需要的依赖」</strong>：对于大多数网络操作管理任务,如流量计算、短时流量调度或重路由、长期容量规划、网络设计和网络异常检测,拥有准确和及时的流量数据是必不可少的.例如:当网络发生拥塞时,传统的路由协议不能立即响应以调整流量分布,导致高延迟、丢包和抖动等情况发生.尤其在高容量流量检测和 DDoS 预测方面,由于早期预警,基于主动预测的方法将更快.同样,在网络被显著影响后,预测网络拥塞比通过测量来检测拥塞的被动方法更有效.</p>
+<ol>
+<li>
+<p>Azzouni 等人提出了一种称为 NeuRoute 的动态路由框架.在 NeuRoute 中,长短时记忆模块(long short term memory,简称 LSTM)被用来估计未来的网络流量.该方法通过输入网络状态和估计的网络流量,以启发式算法计算得到的相应路由解为输出,对神经网络模型进行训练.</p>
+</li>
+<li>
+<p>Polson 等人开发出深度学习模型来预测流量,其主要贡献是开发出结合使用 l 正则化和一系列双曲面正切层的线性模型,解决预测流量中自由流量、故障、恢复和拥堵之间急剧的非线性过渡的问题,并证明了深度学习架构可以捕捉到这些非线性的时空效应.</p>
+</li>
+</ol>
+<p><strong>设想道路</strong>：通过深度学习的方法预测流量,在获取网络流量数据的同时进行流量预测,从而实现智能路由.</p>
+<div><p>提示</p>
+<p>尽管人工智能方法可以解决流量预测问题,但是很难说在任何情况下,一种方法明显优于其他方法.其中一个原因是:所提出的模型是利用少量单独的特定流量数据开发的,并且流量预测方法的准确性取决于嵌入在所收集的流量数据中的流量特征.此外,一般而言,将神经网络相关算法应用于流量预测,该模型的预测能力和鲁棒性都会优于一般模型.总体来说,现有的流量预测方法主要使用浅层流量预测模型,并且依旧不能满足许多实际应用.</p>
+</div>
+<h2 id="未来挑战"> 未来挑战</h2>
+<h3 id="高质量数据"> 高质量数据</h3>
+<div><p>背景</p>
+<p>尽管拥有成熟的大数据处理技术以及基于人工智能的数据分析技术,但是人工智能算法是由图像处理领域而不是网络领域提出的,大多数算法不能直接迁移和使用于网络场景.网络数据并不完全符合人工智能算法的数据格式要求,为了将人工智能应用于网络,需要事先将网络数据翻译成矩阵或向量的形式.</p>
+</div>
+<p>因此,将人工智能应用于 SDN 进行准确分类预测的前提是,训练准确、高质量的数据以弥补分析数据格式、数据编制等方面的不足.</p>
+<p>::: warn 目前存在的问题</p>
+<p>一方面,关于 SDN 网络数据集大小、SDN 网络特征以及基于人工智能 SDN 网络模型还未成型;</p>
+<p>另一方面,高质量的数据只能靠人工清洗,没有公开的数据集便于研究人员实验,因此需要各方力量整合出高质量的公开网络数据集.</p>
+<p>:::</p>
+<h3 id="跨域通信"> 跨域通信</h3>
+<p>::: warn 出现的问题</p>
+<p>多控制器的出现,是为了解决网络规模扩大而产生的交换机和控制器之间复杂度增高的弊端.有研究证明,跨域信息共享有利于提高网络性能.但跨域数据流的传输需要多个控制器,这样的跨域设计打破了原有的 SDN模块化.为了兼顾多控制器以及网络复杂度的增加,传统的优化方法已不足以对网络进行优化.</p>
+<p>尽管人工智能算法可以用于跨层网络优化,分析收集到的域间信息,包括数据链路层信息、应用平面信息等信息优化网络,例如路由机制、拥塞控制和负载均衡等等,但是基于多层递归网络的跨层优化方法一方面由于跨域通信没有成熟的模型以便于下一步研究,另一方面,跨域通信涉及的参数太多,往往牵一发而动全身,缺少真正适用于域间通信的优化算法.</p>
+<p>尽管多目标优化算法能够在较少参数的情况下解决上述问题,但在真实情况中,多目标优化算法就会因为参数太多而导致 Pareto 非支配问题失效,从而致使整个优化方法失效.</p>
+<p>:::</p>
+<p><strong>因此,尽早建立域间通信问题模型以及优化方法,是目前研究的重点.</strong></p>
+<h3 id="可扩展性"> 可扩展性</h3>
+<div><p>出现的问题</p>
+<p>SDN 带来的优势为网络开发带来更多的机遇,但在实践过程中却遇到了很多屏障,例如:随着网络规模的扩大,为了扩展平面需要增加控制器的数量分担任务以提升集中控制器的性能,但是随着控制器数量的增加,又会带来控制器的放置以及动态调控的问题.</p>
+</div>
+<div><p>当下解决方案</p>
+<p>考虑采用多级强化学习方案,其中,根控制器为高级学习代理,局部控制器为低级学习代理.每个低层学习代理根据其本地网络状态信息学习如何对域内的流量进行路由,从而做出最优决策;而高层学习代理则基于整个网络的全局视图来处理域间的流量.为了缩短系统响应时间,根控制器可以周期性地将训练好的强化学习模型部署到本地控制器上.训练后的强化模型将指导本地控制器直接处理域间的流量.</p>
+</div>
+<p><strong>意义</strong>：多级强化学习方案不仅降低了业务流的处理延迟,而且提高了 SDN 网络的可扩展性.</p>
+<p>::: warn 面临的问题</p>
+<p>基于强化学习方案尽管考虑将控制器分级来提高 SDN 可扩展性,但是目前,研究仍仅限于理论,并没有实际的场景验证算法的实用性,因此应考虑实际情况以保证整个系统的鲁棒性.</p>
+<p>:::</p>
+<h3 id="安全预测"> 安全预测</h3>
+<div><p>出现的问题</p>
+<p>尽管通过历史数据可以构建一个成熟的模型来预测下一次攻击,但是恶意攻击者很少以相同的方式来完成,他们会不断尝试创建新的攻击以逃避控制器检测.在这种情况下,使用历史数据来训练人工智能模型不是检测攻击的有效方法,因为要为此创建新的攻击.</p>
+</div>
+<p>为了解决上述问题,可以采用两种解决方式：</p>
+<ol>
+<li>一种是生成式对抗网络(generative adversarial network,简称 GAN)GAN 可以根据历史数据生成可能的新攻击数据.利用生成的新数据和历史数据对机器学习模型进行训练,训练后的机器学习(machine learning,简称 ML)模型可以检测已知的攻击和可能的新攻击.基于攻击检测,控制器能够提前修改交换机中的流表,防止网络攻击,限制控制平面与数据平面之间的通信;</li>
+<li>另一种方法采用先验-后验经验模型,先验经验和后验经验可以在模型中分别代表网络历史数据信息和检测过程中实时反馈的信息.这种方法保留了历史信息对控制器检测的影响,同时在模型中考虑了实时反馈信息以更正模型.这种方法能够准确、实时地分析网络攻击,以确保网络不会因为陷入新的攻击而造成严重的后果.</li>
+</ol>
+<h2 id="不同网络场景应用"> 不同网络场景应用</h2>
+<h3 id="_5g"> 5G</h3>
+<p>5G 除了具有特定的性能要求外,还需要支持异构服务、设备和接入网.SDN 减少了网络节点之间的控制信令,增强了网络的负载均衡和移动
+性管理以及提高网络控制的灵活性.</p>
+<p><a href="https://arxiv.org/abs/1801.03824" target="_blank" rel="noopener noreferrer">Nayak A, Jha P, Karandikar K. A centralized SDN architecture for the 5G cellular network. arXiv Preprint arXiv: 1801.03824, 2018.</a>提出了一种基于 SDN 的集中式无线网络控制器,用于控制核心网络中的多节点和网关.</p>
+<p>基于 SDN 的 5G 网络可塑架构旨在满足新一代服务和设备的功能和性能要求,关键特性是灵活性,需要有效地支持异构服务集,包括机器类型通信和物联网通信.这些应用程序在端到端延迟、可靠性和可伸缩性方面增加了具有挑战性的目标.</p>
+<p>为了应对 5G 移动网络中异构的无线环境、网络管理的复杂性、不断增长的移动通信需求和多样化的服务需求带来的挑战,人工智能技术应被用于在移动中部署更多的智能网络中.</p>
+<h3 id="网络功能虚拟化"> 网络功能虚拟化</h3>
+<p>网络功能虚拟化 (network function virtualization, 简 称 NFV) 允许在网络中部署虚拟网络功能 (virtualnetwork functions,简称 VNFs),以增强性能、安全性和管理.通过 VNF 将网络功能与底层专用硬件解耦,使网络体系结构更加灵活.VNFs 是在商业现实设备上运行的软件中实现的,可由 ISDN 控制器集中控制.</p>
+<div><p>意义</p>
+<p>与传统的由专用硬件设备实现的网络功能相比,VNFs 具有显著降低运营和资本支出、提高服务敏捷性的潜力.随着 VNF 的应用,有许多相关性的研究成为促进网络灵活性和成本效率的重要服务.例如:</p>
+<p>强化学习用于根据资源使用情况动态创建服务功能链(service function chain,简称 SFC)以支持高效的服务提供.</p>
+</div>
+<p>结合人工智能思想,可以将 SDNFV 的在线路由问题描述为线性规划模型,并基于该架构,根据网络中的资源条件获得需要的延迟、负载、带资源利用率等数据,促进动态服务提供和网络资源利用优化.例如,将网络功能分配问题描述为一个两阶段的 Stackelberg 博弈,其中,服务器作为网络功能的卖家,用户作为网络功能的买家,应用强化学习算法得到了最优的网络函数分配策略.</p>
+<h3 id="物联网"> 物联网</h3>
+<div><p>背景</p>
+<p>物联网(Internet of things,简称 IoT)已成为一种全球网络基础设施,通过使用异构(有线/无线)通信技术连接大量不同的异构设备.由于这些设备的高移动性和广泛覆盖,不同类型的无线电接入技术已广泛用于 IoT.</p>
+</div>
+<p><strong>异构通信技术和设备基础结构的复杂性涉及到许多关键问题</strong>：</p>
+<ol>
+<li>随着设备数量的增加,交换机的流量负载可能变得非常繁重,并且需要将多个信道适当地分配给链路.此外,异构设备在数据感知和收集方面具有不同的策略,这导致会发生突发流量到达交换机不均匀的情况.</li>
+<li>异构设备在数据感知和收集方面具有不同的策略,这导致会发生突发流量到达交换机不均匀的情况.</li>
+</ol>
+<p>为了更好地适应异构大规模 IoT,智能软件定义网络成为将分布式异构设备连接到集中共享工作系统的新颖的解决方案,我们称这样的方案为智能 SDN-IoT.</p>
+<p>在智能 SDN-IoT 中,各种设备广泛部署在传感平面中,由传感平面收集的所有传感数据通过数据平面中的交换机转发传送到网关,利用人工智能技术结合部分重叠信道分配解决自适应的分配信道问题,以确保无线网络中的通信服务质量.</p>
+<h3 id="边缘计算"> 边缘计算</h3>
+<div><p>背景</p>
+<p>边缘计算(edge computing,简称 EC)将计算和存储推至网络边缘.在边缘计算中,“边缘”定义为沿着数据源和云数据中心之间路径的任何计算和网络资源.</p>
+</div>
+<p>智能 SDN 与边缘计算结合,可以使如下领域受益:</p>
+<ol>
+<li>高分辨率和有效控制</li>
+<li>灵活性和创新的低障碍</li>
+<li>以服务为中心的实施</li>
+<li>虚拟机流动性</li>
+<li>适应性</li>
+<li>互操作性</li>
+<li>低成本解决方案</li>
+<li>范围的多样性</li>
+</ol>
+<p>::: warn 存在的问题</p>
+<p>智能 SDN 及其当前事实上的 OpenFlow 标准化都不够成熟,无法处理所指出的所有可能的用例和管理操作.由于需求正在快速变化,即使是基于基础架构即服务的相对更为标准的域也在不断发展.面对越来越复杂的需求,仅部署支持 SDN 的网络设备将无法轻松实现将 SDN 集成到现有网络中.另一方面,硬件投资成本非常昂贵,因此,支持智能 SDN 的硬件无法在功能和部署方面达到所需水平.</p>
+<p>:::</p>
+<p>而利用人工智能技术提供更精细的控制粒度与抽象粒度,在用例和管理上提供了更多的可能性.</p>
+<h3 id="信息中心网络"> 信息中心网络</h3>
+<p>信息中心网络(information-centric networking,简称 ICN)是一种通过名称向用户提供对内容的访问,而不是在主机之间提供通信信道的架构.</p>
+<div><p>意义</p>
+<p>ICN 集成 SDN 特征将网络的控制平面和数据平面分开,使网络能够从全局视图进行编程和集中控制.结合 ICN 和 SDN 的集成框架 SDN-ICN 有利于利用 ICN 中数据平面的数据独立性和 SDN 中控制平面的集中控制,更好地控制全局网络.</p>
+<p>首先,ICN 中不受地址限制的内容在网络层作为独立实体进行路由和转发,SDN 中的集中调度可以优化网络资源的分配.在 SDN-ICN 中存在大量计算节点,利用人工智能能够与 ICN 同时学习,降低了 ICN 因处理数据而造成的时延.因此,由于使用分散在各种 SDN 节点上的丰富计算资源,可以解决人工智能模型训练过程中由于计算时间产生的挑战.</p>
+<p>其次,基于全局视图中数据的收集和分析的统一,可以实现具有更高精度导向的流特征的多尺度流量预测.分布式 SDN 中的多个交换机收集所请求的目标内容的特征,其包含固有的时空和社交相关性,深度学习网络可以在全局视图中理解这些功能.</p>
+<p>然后,由于其深度学习网络的无监督学习能力,可以找到内容流行度的分布模式,并且不会错过该模式的微小变化以提高预测的准确性.</p>
+<p>最重要的是,SDN-ICN 可以重新配置深度学习网络的结构.由于 SDN 的可编程性和 SDN 控制器在全局视图中控制网络的能力,每层中的隐藏层和神经元都可以轻松调整.</p>
+</div>
+<p><strong>受益于这种可编程网络,我们可以通过网络轻松部署各种网络模型,以解决 SDN-ICN 模型中遇到的计算问题.</strong></p>
+<h3 id="无线网络"> 无线网络</h3>
+<p>无线网络(wireless network,简称 WN)由许多节点组成,通过无线信道进行传输.与有线网络不同,无线网络的信道总是随着用户的移动性、信道衰落和干扰而发生改变.</p>
+<p>::: warn 出现的问题</p>
+<p>在移动用户密集的无线网络中,由于小区规模小,信道容量变化更加难以处理.基于 SDN 的集成解决方案能够支持密集无线网络中的用户移动性,因此,传统和新兴无线环境中的无线软件定义网络(wireless software defined networking,简称 WSDN)引发了对 WSDN 架构中固有安全性的担忧.WSDN 范例遇到与有线 SDN 框架非常相似的安全问题,无线介质带来了额外的攻击手段,并为攻击者提供了瞄准控制平面、数据转发元件以及各个无线应用的机会.</p>
+<p>:::</p>
+<div><p>优势</p>
+<p>控制器功能仍然是一个中心故障点,可以动态地移动到网络中的不同服务器,使得潜在的攻击者难以破坏控制平面.</p>
+<p>全局网络可见性为安全管理员提供了一个中心优势,可以根据需要观察实时流量统计信息并更改安全策略.</p>
+<p>此外,WSDN 环境可以利用各个节点的能力,在网络的不同部分之间实现安全链,以实现分层安全模型,而不会使单个网络实体负担过重.</p>
+</div>
+<div><p>解决思路</p>
+<p>如果适当使用现有的集中式 WSDN 设计,可将框架本身转变为可编程安全屏障,其包括可以改变功能的可编程数据平面设备.</p>
+<p>将人工智能的相关技术与 WSDN 结合,以解决 WSDN 的安全问题,整合历史数据分析预测恶意攻击,能够准确、有效地提升 WSDN 的安全可靠性.</p>
+<p>在 WSDN 中,机器学习算法对于管理大量异构传感器节点、优化每个节点的资源利用率、灵活且高效地调度通信链路起着至关重要的作用.</p>
+</div>
+<p>目前,无线传感器网络中的路由优化、节点聚类与数据聚合、事件检测与查询处理、定位、入侵检测、故障检测等问题都采用了机器学习技术.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -934,6 +1233,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:14:55 GMT</pubDate>
     </item>
     <item>
+      <title>概率分布</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
+    </item>
+    <item>
       <title>独立性和条件独立性</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</guid>
@@ -946,13 +1252,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
       <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
       <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>概率分布</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
     </item>
     <item>
       <title>贝叶斯规则</title>
@@ -6663,7 +6962,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6688,7 +6987,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6703,7 +7002,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -7222,7 +7521,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7245,7 +7544,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7256,7 +7555,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7276,7 +7575,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7287,7 +7586,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8451,13 +8750,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:28:18 GMT</pubDate>
     </item>
     <item>
-      <title>单链表的一些经典问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
-    </item>
-    <item>
       <title>N皇后问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</guid>
@@ -8593,6 +8885,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <h2 id="源代码-n-queens-problem"> 源代码--&gt;<a href="https://github.com/BreezeShane/MySummary/blob/master/C%2B%2B/N-Queens%20Problem/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.cpp" target="_blank" rel="noopener noreferrer">N Queens Problem</a></h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/nQueens.png" type="image/png"/>
+    </item>
+    <item>
+      <title>单链表的一些经典问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -12731,521 +13030,6 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>关于Vcomputer如何实现循环的哲学问题</title>
-      <link>https://breezeshane.github.io/VComputer/</link>
-      <guid>https://breezeshane.github.io/VComputer/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
-      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
-<hr>
-<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
-<blockquote>
-<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
-</blockquote>
-<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
-<blockquote>
-<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
-</blockquote>
-<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
-<div><pre><code>2001
-2101
-2201
-2301
-240A
-2501
-8418
-5002
-5112
-5323
-5553
-830C
-9000
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
-<ol>
-<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
-<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
-<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
-<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
-<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
-</ol>
-<hr>
-<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Windows10 快捷键大全</title>
-      <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
-      <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Windows10 快捷键大全</source>
-      <pubDate>Thu, 19 Nov 2020 14:33:27 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
-<h2 id="_2020-11-19"> 2020/11/19</h2>
-<hr>
-<p>今年高考结束后的暑假，我买来笔记本电脑。从此我开始使用了Win10，以我个人的使用习惯，我喜欢且经常使用快捷键，因此在初次使用系统的时候我都会花时间了解并尽力记住快捷键。个人认为，经常使用快捷键会提高你的工作效率，而且也会为你增加不少逼格！说不定你随便敲敲快捷键，就真的有人把你当成大佬咯~以下是Windows10的快捷键的列举讲解：</p>
-<hr>
-<hr>
-<hr>
-<blockquote>
-<p>贴靠窗口：Win + 左/右 &gt;  Win + 上/下 &gt; 窗口可以变为 1/4 大小放置在屏幕 4 个角落。</p>
-</blockquote>
-<blockquote>
-<p>创建新的虚拟桌面：Win + Ctrl + D。</p>
-</blockquote>
-<blockquote>
-<p>关闭当前虚拟桌面：Win + Ctrl + F4。</p>
-</blockquote>
-<blockquote>
-<p>切换虚拟桌面：Win + Ctrl + 左/右。</p>
-</blockquote>
-<blockquote>
-<p>Win + R 打开运行对话框</p>
-</blockquote>
-<blockquote>
-<p>Win + Q 快速打开搜索</p>
-</blockquote>
-<blockquote>
-<p>Win + I 快速打开Win10设置栏</p>
-</blockquote>
-<blockquote>
-<p>Win+ ↑：最大化窗口（与开始屏幕应用无关）Win+ ↓：最小化窗口（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+ SHIFT +↑：垂直拉伸窗口，宽度不变（与开始屏幕应用无关）Win+ SHIFT +↓：垂直缩小窗口，宽度不变（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+SHIFT+←：将活动窗口移至左侧显示器 （与开始屏幕应用无关）Win+SHIFT+→：将活动窗口移至右侧显示器（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+ P：演示设置</p>
-</blockquote>
-<blockquote>
-<p>Win+ Home：最小化所有窗口，第二次键击恢复窗口（不恢复开始屏幕应用）</p>
-</blockquote>
-<blockquote>
-<p>Win+ 数字键：打开或切换位于任务栏指定位置的程序</p>
-</blockquote>
-<blockquote>
-<p>Win+Shift+数字键：打开位于任务栏指定位置程序的新实例</p>
-</blockquote>
-<blockquote>
-<p>Win+B：光标移至通知区域</p>
-</blockquote>
-<blockquote>
-<p>Win+Break：显示“系统属性”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win+Ctrl+F：搜索计算机（如果你在网络上）</p>
-</blockquote>
-<blockquote>
-<p>Win+G：打开游戏屏幕录制</p>
-</blockquote>
-<blockquote>
-<p>Win+L：锁住电脑或切换用户</p>
-</blockquote>
-<blockquote>
-<p>Win+M：最小化所有窗口</p>
-</blockquote>
-<blockquote>
-<p>Win+Shift+M：在桌面恢复所有最小化窗口（不恢复开始屏幕应用）</p>
-</blockquote>
-<blockquote>
-<p>Win+R：打开“运行”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win+T：切换任务栏上的程序</p>
-</blockquote>
-<blockquote>
-<p>Win+U：打开轻松使用</p>
-</blockquote>
-<blockquote>
-<p>Win+F1：打开Windows帮助和支持</p>
-</blockquote>
-<blockquote>
-<p>Win+N：插件新笔记（OneNote）</p>
-</blockquote>
-<blockquote>
-<p>Win+S：打开屏幕截图工具（OneNote）</p>
-</blockquote>
-<blockquote>
-<p>Win+空格键：切换输入语言和键盘布局</p>
-</blockquote>
-<blockquote>
-<p>Win+O：禁用屏幕翻转</p>
-</blockquote>
-<blockquote>
-<p>Win+，：临时查看桌面</p>
-</blockquote>
-<blockquote>
-<p>Win+V：打开剪贴板</p>
-</blockquote>
-<blockquote>
-<p>Win+PgUp：将开始屏幕或开始屏幕应用移至左侧显示器</p>
-</blockquote>
-<blockquote>
-<p>Win+PgDown：将开始屏幕或开始屏幕应用移至右侧显示器</p>
-</blockquote>
-<blockquote>
-<p>Win+.：打开表情输入</p>
-</blockquote>
-<blockquote>
-<p>Win+K：打开蓝牙连接设备</p>
-</blockquote>
-<blockquote>
-<p>Win+H：（与麦克风有关的未知功能）</p>
-</blockquote>
-<blockquote>
-<p>Win+W：打开附加功能（截图、手写板）</p>
-</blockquote>
-<blockquote>
-<p>Win+X：快捷菜单</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Home 最小化除活动窗口之外的所有窗口(传统桌面)</p>
-</blockquote>
-<blockquote>
-<p>开始屏幕直接输入任何字符，开始屏幕下可直接搜索进行搜索</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Pause 显示“系统属性”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Page Up 在多监视器设置中将开始屏幕移动至左监视器</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Page Down 在多监视器设置中将开始屏幕移动至右监视器</p>
-</blockquote>
-<blockquote>
-<p>Win键 + W 打开所选设置的“搜索”个性分类</p>
-</blockquote>
-<blockquote>
-<p>Alt + Win键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的右键菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向右键 将光标移动到下一个字符的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向左键 将光标移动到上一个字词的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向下键 将光标移动到下一个段落的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向上键 将光标移动到上一个段落的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 加某个箭头键 选择一块文本Shift 加任意箭头键 在窗口中或桌面上选择多个项目，或者在文档中选择文本</p>
-</blockquote>
-<blockquote>
-<p>F3 搜索文件或文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+Enter 显示所选项的属性</p>
-</blockquote>
-<blockquote>
-<p>Alt+空格键 为活动窗口打开快捷方式菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+F4 关闭活动文档(在允许同时打开多个文档的程序中)</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+鼠标滚轮 更改图标大小</p>
-</blockquote>
-<blockquote>
-<p>Alt+Esc 以项目打开的顺序循环切换项目</p>
-</blockquote>
-<blockquote>
-<p>F6 在窗口中或桌面上循环切换屏幕元素</p>
-</blockquote>
-<blockquote>
-<p>F4 在 Win资源管理器中显示地址栏列表</p>
-</blockquote>
-<blockquote>
-<p>Shift+F10 显示选定项目的快捷菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Esc 打开“开始”菜单</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 显示相应的菜单</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 执行菜单命令(或其他有下划线的命令)</p>
-</blockquote>
-<blockquote>
-<p>F10 激活活动程序中的菜单栏向右键 打开右侧的下一个菜单或者打开子菜单向左键 打开左侧.的下一个菜单或者关闭子菜单</p>
-</blockquote>
-<blockquote>
-<p>F5(或 Ctrl+R) 刷新活动窗口</p>
-</blockquote>
-<blockquote>
-<p>Alt+向上键 在 Win资源管理器中查看上一级文件夹</p>
-</blockquote>
-<blockquote>
-<p>Esc 取消当前任务</p>
-</blockquote>
-<blockquote>
-<p>插入 CD 时按住 Shift 阻止 CD 自动播放</p>
-</blockquote>
-<blockquote>
-<p>左 Alt+Shift 在启用多种输入语言时切换输入语言</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 在启用多个键盘布局时切换键盘布局 右或左</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 更改从右到左阅读语言的文本阅读方向</p>
-</blockquote>
-<blockquote>
-<p>Win资源管理器中的快捷键</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+N 打开新窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+W 关闭当前窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+N 新建文件夹</p>
-</blockquote>
-<blockquote>
-<p>End 显示活动窗口的底端</p>
-</blockquote>
-<blockquote>
-<p>Home 显示活动窗口的顶端</p>
-</blockquote>
-<blockquote>
-<p>F11 最大化或最小化活动窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+句点 顺时针旋转图片</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+逗号 逆时针旋转图片</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的星号 (*) 显示所选文件夹下的所有子文件夹</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的加号 (+) 显示所选文件夹的内容</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的减号 (-) 折叠选定的文件夹 向左键 折叠当前选项(如果它处于展开状态)，或者选择其父文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+Enter 打开所选项目的“属性”对话框Alt+P 显示预览窗格Alt+向左键 查看上一个文件夹</p>
-</blockquote>
-<blockquote>
-<p>Backspace (退格键) 向上，返回父文件夹</p>
-</blockquote>
-<blockquote>
-<p>向右键 显示当前选项(如果它处于折叠状态)，或者选择第一个子文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+向右键 查看下一个文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+向上键 查看父文件夹</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+E 显示所选文件夹上面的所有文件夹</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+鼠标滚轮 更改文件和文件夹图标的大小和外观</p>
-</blockquote>
-<blockquote>
-<p>Alt+D 选择地址栏</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+E 选择搜索框</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+F 选择搜索框</p>
-</blockquote>
-<blockquote>
-<p>在对话框中使用的快捷键</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Tab 在选项卡上向前移动</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+Tab 在选项卡上向后移动</p>
-</blockquote>
-<blockquote>
-<p>Tab 在选项上向前移动</p>
-</blockquote>
-<blockquote>
-<p>Shift+Tab 在选项上向后移动</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 执行与该字母匹配的命令(或选择选项)Enter</p>
-</blockquote>
-<blockquote>
-<p>对于许多选定命令代替单击鼠标</p>
-</blockquote>
-<blockquote>
-<p>空格键 如果活动选项是复选框，则选中或清除该复选框 箭头键 如果活动选项是一组选项按钮，则选择某个按钮F1 显示帮助F4 显示活动列表中的项目Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹</p>
-</blockquote>
-<hr>
-<hr>
-<hr>
-<p>未完待续.     .    .   .  . .</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>𝕬𝖇𝖔𝖚𝖙</title>
-      <link>https://breezeshane.github.io/about/</link>
-      <guid>https://breezeshane.github.io/about/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
-<p>【代号】和风曦日</p>
-<p>【本体】Bug</p>
-<p>【性别】男</p>
-<p>【战斗经验】没有战斗经验</p>
-<p>【出身地】不明</p>
-<p>【生日】本人表示遗忘</p>
-<p>【种族】萨卡兹</p>
-<p>【身高】163cm</p>
-<p>【矿石病感染情况】</p>
-<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
-<h2 id="综合体检测试"> 综合体检测试</h2>
-<p>【物理强度】普通</p>
-<p>【战场机动】普通</p>
-<p>【生理耐受】普通</p>
-<p>【战术规划】普通</p>
-<p>【战斗技巧】普通</p>
-<p>【源石技艺适应性】卓越</p>
-<h2 id="客观履历"> 客观履历</h2>
-<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
-<h2 id="临床诊断分析"> 临床诊断分析</h2>
-<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
-<p>【体细胞与源石融合率】12%</p>
-<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
-<p>【血液源石结晶密度】0.5µ/L</p>
-<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Intro Page</title>
-      <link>https://breezeshane.github.io/intro/</link>
-      <guid>https://breezeshane.github.io/intro/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Custom Layout</title>
-      <link>https://breezeshane.github.io/layout/</link>
-      <guid>https://breezeshane.github.io/layout/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
-      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
-<div><p>注意</p>
-<p>This is just a demo, you should add styles according to your own needs.</p>
-
-
-</div>
-<template #page-top><p>Page top content</p>
-</template><template #page-bottom><p>Page bottom content</p>
-</template><template #content-top><p>Content top content</p>
-</template><template #content-bottom><p>Content bottom content</p>
-</template><template #navbar-start><p>Navbar start content</p>
-</template><template #navbar-center><p>Navbar center content</p>
-</template><template #navbar-end><p>Navbar end content</p>
-</template><template #sidebar-top><p>Sidebar top content</p>
-</template><template #sidebar-center><p>Sidebar center content</p>
-</template><template #sidebar-bottom><p>Sidebar bottom content</p>
-</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>友情链接</title>
-      <link>https://breezeshane.github.io/links/</link>
-      <guid>https://breezeshane.github.io/links/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
-      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
-<div id="1" style="width:128px;height:256px;">
-<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
-<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
-</div>
-<div id="2" style="width:128px;height:256px;">
-<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
-<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
-</div>
-<div id="3" style="width:128px;height:256px;">
-<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
-</div>
-<div id="4" style="width:128px;height:256px;">
-<a href="https://blog.pommespeter.com"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
-<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
-</div>
-<div id="5" style="width:128px;height:256px;">
-<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
-<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
-</div>
-<div id="6" style="width:128px;height:256px;">
-<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
-<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
-</div>
-</div>]]></content:encoded>
-    </item>
-    <item>
-      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
-      <link>https://breezeshane.github.io/qap/</link>
-      <guid>https://breezeshane.github.io/qap/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
-      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
-      <content:encoded><![CDATA[<center>
-    <font color="#fa8c35" size="5">
-    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
-    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
-    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
-    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
-    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
-    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
-    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
-    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
-    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
-    </font>
-</center>
-<style>
-.page{
-margin:0 auto;
-background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
-background-position: center center;
-background-attachment: fixed;
-background-size: cover;
-}
-</style>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Slide page</title>
-      <link>https://breezeshane.github.io/slides/</link>
-      <guid>https://breezeshane.github.io/slides/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Fri, 28 Jan 2022 11:41:54 GMT</pubDate>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
       <title>SDN入门基础</title>
       <link>https://breezeshane.github.io/Web/SDN/</link>
       <guid>https://breezeshane.github.io/Web/SDN/</guid>
@@ -13639,6 +13423,477 @@ background-size: cover;
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
     </item>
     <item>
+      <title>Windows10 快捷键大全</title>
+      <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
+      <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Windows10 快捷键大全</source>
+      <pubDate>Thu, 19 Nov 2020 14:33:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
+<h2 id="_2020-11-19"> 2020/11/19</h2>
+<hr>
+<p>今年高考结束后的暑假，我买来笔记本电脑。从此我开始使用了Win10，以我个人的使用习惯，我喜欢且经常使用快捷键，因此在初次使用系统的时候我都会花时间了解并尽力记住快捷键。个人认为，经常使用快捷键会提高你的工作效率，而且也会为你增加不少逼格！说不定你随便敲敲快捷键，就真的有人把你当成大佬咯~以下是Windows10的快捷键的列举讲解：</p>
+<hr>
+<hr>
+<hr>
+<blockquote>
+<p>贴靠窗口：Win + 左/右 &gt;  Win + 上/下 &gt; 窗口可以变为 1/4 大小放置在屏幕 4 个角落。</p>
+</blockquote>
+<blockquote>
+<p>创建新的虚拟桌面：Win + Ctrl + D。</p>
+</blockquote>
+<blockquote>
+<p>关闭当前虚拟桌面：Win + Ctrl + F4。</p>
+</blockquote>
+<blockquote>
+<p>切换虚拟桌面：Win + Ctrl + 左/右。</p>
+</blockquote>
+<blockquote>
+<p>Win + R 打开运行对话框</p>
+</blockquote>
+<blockquote>
+<p>Win + Q 快速打开搜索</p>
+</blockquote>
+<blockquote>
+<p>Win + I 快速打开Win10设置栏</p>
+</blockquote>
+<blockquote>
+<p>Win+ ↑：最大化窗口（与开始屏幕应用无关）Win+ ↓：最小化窗口（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+ SHIFT +↑：垂直拉伸窗口，宽度不变（与开始屏幕应用无关）Win+ SHIFT +↓：垂直缩小窗口，宽度不变（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+SHIFT+←：将活动窗口移至左侧显示器 （与开始屏幕应用无关）Win+SHIFT+→：将活动窗口移至右侧显示器（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+ P：演示设置</p>
+</blockquote>
+<blockquote>
+<p>Win+ Home：最小化所有窗口，第二次键击恢复窗口（不恢复开始屏幕应用）</p>
+</blockquote>
+<blockquote>
+<p>Win+ 数字键：打开或切换位于任务栏指定位置的程序</p>
+</blockquote>
+<blockquote>
+<p>Win+Shift+数字键：打开位于任务栏指定位置程序的新实例</p>
+</blockquote>
+<blockquote>
+<p>Win+B：光标移至通知区域</p>
+</blockquote>
+<blockquote>
+<p>Win+Break：显示“系统属性”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win+Ctrl+F：搜索计算机（如果你在网络上）</p>
+</blockquote>
+<blockquote>
+<p>Win+G：打开游戏屏幕录制</p>
+</blockquote>
+<blockquote>
+<p>Win+L：锁住电脑或切换用户</p>
+</blockquote>
+<blockquote>
+<p>Win+M：最小化所有窗口</p>
+</blockquote>
+<blockquote>
+<p>Win+Shift+M：在桌面恢复所有最小化窗口（不恢复开始屏幕应用）</p>
+</blockquote>
+<blockquote>
+<p>Win+R：打开“运行”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win+T：切换任务栏上的程序</p>
+</blockquote>
+<blockquote>
+<p>Win+U：打开轻松使用</p>
+</blockquote>
+<blockquote>
+<p>Win+F1：打开Windows帮助和支持</p>
+</blockquote>
+<blockquote>
+<p>Win+N：插件新笔记（OneNote）</p>
+</blockquote>
+<blockquote>
+<p>Win+S：打开屏幕截图工具（OneNote）</p>
+</blockquote>
+<blockquote>
+<p>Win+空格键：切换输入语言和键盘布局</p>
+</blockquote>
+<blockquote>
+<p>Win+O：禁用屏幕翻转</p>
+</blockquote>
+<blockquote>
+<p>Win+，：临时查看桌面</p>
+</blockquote>
+<blockquote>
+<p>Win+V：打开剪贴板</p>
+</blockquote>
+<blockquote>
+<p>Win+PgUp：将开始屏幕或开始屏幕应用移至左侧显示器</p>
+</blockquote>
+<blockquote>
+<p>Win+PgDown：将开始屏幕或开始屏幕应用移至右侧显示器</p>
+</blockquote>
+<blockquote>
+<p>Win+.：打开表情输入</p>
+</blockquote>
+<blockquote>
+<p>Win+K：打开蓝牙连接设备</p>
+</blockquote>
+<blockquote>
+<p>Win+H：（与麦克风有关的未知功能）</p>
+</blockquote>
+<blockquote>
+<p>Win+W：打开附加功能（截图、手写板）</p>
+</blockquote>
+<blockquote>
+<p>Win+X：快捷菜单</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Home 最小化除活动窗口之外的所有窗口(传统桌面)</p>
+</blockquote>
+<blockquote>
+<p>开始屏幕直接输入任何字符，开始屏幕下可直接搜索进行搜索</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Pause 显示“系统属性”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Page Up 在多监视器设置中将开始屏幕移动至左监视器</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Page Down 在多监视器设置中将开始屏幕移动至右监视器</p>
+</blockquote>
+<blockquote>
+<p>Win键 + W 打开所选设置的“搜索”个性分类</p>
+</blockquote>
+<blockquote>
+<p>Alt + Win键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的右键菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向右键 将光标移动到下一个字符的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向左键 将光标移动到上一个字词的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向下键 将光标移动到下一个段落的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向上键 将光标移动到上一个段落的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 加某个箭头键 选择一块文本Shift 加任意箭头键 在窗口中或桌面上选择多个项目，或者在文档中选择文本</p>
+</blockquote>
+<blockquote>
+<p>F3 搜索文件或文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+Enter 显示所选项的属性</p>
+</blockquote>
+<blockquote>
+<p>Alt+空格键 为活动窗口打开快捷方式菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+F4 关闭活动文档(在允许同时打开多个文档的程序中)</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+鼠标滚轮 更改图标大小</p>
+</blockquote>
+<blockquote>
+<p>Alt+Esc 以项目打开的顺序循环切换项目</p>
+</blockquote>
+<blockquote>
+<p>F6 在窗口中或桌面上循环切换屏幕元素</p>
+</blockquote>
+<blockquote>
+<p>F4 在 Win资源管理器中显示地址栏列表</p>
+</blockquote>
+<blockquote>
+<p>Shift+F10 显示选定项目的快捷菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Esc 打开“开始”菜单</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 显示相应的菜单</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 执行菜单命令(或其他有下划线的命令)</p>
+</blockquote>
+<blockquote>
+<p>F10 激活活动程序中的菜单栏向右键 打开右侧的下一个菜单或者打开子菜单向左键 打开左侧.的下一个菜单或者关闭子菜单</p>
+</blockquote>
+<blockquote>
+<p>F5(或 Ctrl+R) 刷新活动窗口</p>
+</blockquote>
+<blockquote>
+<p>Alt+向上键 在 Win资源管理器中查看上一级文件夹</p>
+</blockquote>
+<blockquote>
+<p>Esc 取消当前任务</p>
+</blockquote>
+<blockquote>
+<p>插入 CD 时按住 Shift 阻止 CD 自动播放</p>
+</blockquote>
+<blockquote>
+<p>左 Alt+Shift 在启用多种输入语言时切换输入语言</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 在启用多个键盘布局时切换键盘布局 右或左</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 更改从右到左阅读语言的文本阅读方向</p>
+</blockquote>
+<blockquote>
+<p>Win资源管理器中的快捷键</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+N 打开新窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+W 关闭当前窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+N 新建文件夹</p>
+</blockquote>
+<blockquote>
+<p>End 显示活动窗口的底端</p>
+</blockquote>
+<blockquote>
+<p>Home 显示活动窗口的顶端</p>
+</blockquote>
+<blockquote>
+<p>F11 最大化或最小化活动窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+句点 顺时针旋转图片</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+逗号 逆时针旋转图片</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的星号 (*) 显示所选文件夹下的所有子文件夹</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的加号 (+) 显示所选文件夹的内容</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的减号 (-) 折叠选定的文件夹 向左键 折叠当前选项(如果它处于展开状态)，或者选择其父文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+Enter 打开所选项目的“属性”对话框Alt+P 显示预览窗格Alt+向左键 查看上一个文件夹</p>
+</blockquote>
+<blockquote>
+<p>Backspace (退格键) 向上，返回父文件夹</p>
+</blockquote>
+<blockquote>
+<p>向右键 显示当前选项(如果它处于折叠状态)，或者选择第一个子文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+向右键 查看下一个文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+向上键 查看父文件夹</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+E 显示所选文件夹上面的所有文件夹</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+鼠标滚轮 更改文件和文件夹图标的大小和外观</p>
+</blockquote>
+<blockquote>
+<p>Alt+D 选择地址栏</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+E 选择搜索框</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+F 选择搜索框</p>
+</blockquote>
+<blockquote>
+<p>在对话框中使用的快捷键</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Tab 在选项卡上向前移动</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+Tab 在选项卡上向后移动</p>
+</blockquote>
+<blockquote>
+<p>Tab 在选项上向前移动</p>
+</blockquote>
+<blockquote>
+<p>Shift+Tab 在选项上向后移动</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 执行与该字母匹配的命令(或选择选项)Enter</p>
+</blockquote>
+<blockquote>
+<p>对于许多选定命令代替单击鼠标</p>
+</blockquote>
+<blockquote>
+<p>空格键 如果活动选项是复选框，则选中或清除该复选框 箭头键 如果活动选项是一组选项按钮，则选择某个按钮F1 显示帮助F4 显示活动列表中的项目Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹</p>
+</blockquote>
+<hr>
+<hr>
+<hr>
+<p>未完待续.     .    .   .  . .</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>𝕬𝖇𝖔𝖚𝖙</title>
+      <link>https://breezeshane.github.io/about/</link>
+      <guid>https://breezeshane.github.io/about/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
+<p>【代号】和风曦日</p>
+<p>【本体】Bug</p>
+<p>【性别】男</p>
+<p>【战斗经验】没有战斗经验</p>
+<p>【出身地】不明</p>
+<p>【生日】本人表示遗忘</p>
+<p>【种族】萨卡兹</p>
+<p>【身高】163cm</p>
+<p>【矿石病感染情况】</p>
+<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
+<h2 id="综合体检测试"> 综合体检测试</h2>
+<p>【物理强度】普通</p>
+<p>【战场机动】普通</p>
+<p>【生理耐受】普通</p>
+<p>【战术规划】普通</p>
+<p>【战斗技巧】普通</p>
+<p>【源石技艺适应性】卓越</p>
+<h2 id="客观履历"> 客观履历</h2>
+<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
+<h2 id="临床诊断分析"> 临床诊断分析</h2>
+<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
+<p>【体细胞与源石融合率】12%</p>
+<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
+<p>【血液源石结晶密度】0.5µ/L</p>
+<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Intro Page</title>
+      <link>https://breezeshane.github.io/intro/</link>
+      <guid>https://breezeshane.github.io/intro/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Layout</title>
+      <link>https://breezeshane.github.io/layout/</link>
+      <guid>https://breezeshane.github.io/layout/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
+      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
+<div><p>注意</p>
+<p>This is just a demo, you should add styles according to your own needs.</p>
+
+
+</div>
+<template #page-top><p>Page top content</p>
+</template><template #page-bottom><p>Page bottom content</p>
+</template><template #content-top><p>Content top content</p>
+</template><template #content-bottom><p>Content bottom content</p>
+</template><template #navbar-start><p>Navbar start content</p>
+</template><template #navbar-center><p>Navbar center content</p>
+</template><template #navbar-end><p>Navbar end content</p>
+</template><template #sidebar-top><p>Sidebar top content</p>
+</template><template #sidebar-center><p>Sidebar center content</p>
+</template><template #sidebar-bottom><p>Sidebar bottom content</p>
+</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>友情链接</title>
+      <link>https://breezeshane.github.io/links/</link>
+      <guid>https://breezeshane.github.io/links/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
+      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
+<div id="1" style="width:128px;height:256px;">
+<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
+<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
+</div>
+<div id="2" style="width:128px;height:256px;">
+<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
+<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
+</div>
+<div id="3" style="width:128px;height:256px;">
+<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
+</div>
+<div id="4" style="width:128px;height:256px;">
+<a href="https://blog.pommespeter.com"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
+<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
+</div>
+<div id="5" style="width:128px;height:256px;">
+<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
+<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
+</div>
+<div id="6" style="width:128px;height:256px;">
+<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
+<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
+</div>
+</div>]]></content:encoded>
+    </item>
+    <item>
+      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
+      <link>https://breezeshane.github.io/qap/</link>
+      <guid>https://breezeshane.github.io/qap/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
+      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
+      <content:encoded><![CDATA[<center>
+    <font color="#fa8c35" size="5">
+    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
+    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
+    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
+    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
+    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
+    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
+    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
+    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
+    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
+    </font>
+</center>
+<style>
+.page{
+margin:0 auto;
+background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+</style>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Slide page</title>
+      <link>https://breezeshane.github.io/slides/</link>
+      <guid>https://breezeshane.github.io/slides/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
+      <pubDate>Sat, 29 Jan 2022 01:56:29 GMT</pubDate>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
       <title>在受限的网站里强制复制粘贴</title>
       <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
       <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
@@ -13865,6 +14120,50 @@ patch_request_class<span>(</span>app<span>)</span>
 </blockquote>
 <p>最后将整个前后端写好之后，就可以正常执行了！</p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>关于Vcomputer如何实现循环的哲学问题</title>
+      <link>https://breezeshane.github.io/VComputer/</link>
+      <guid>https://breezeshane.github.io/VComputer/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
+      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
+<hr>
+<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
+<blockquote>
+<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
+</blockquote>
+<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
+<blockquote>
+<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
+</blockquote>
+<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
+<div><pre><code>2001
+2101
+2201
+2301
+240A
+2501
+8418
+5002
+5112
+5323
+5553
+830C
+9000
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
+<ol>
+<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
+<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
+<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
+<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
+<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
+</ol>
+<hr>
+<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
     </item>
   </channel>
 </rss>
