@@ -101,7 +101,7 @@ $$
 最后我们选取其等价形式，就可以得到最终的目标函数：
 
 $$
-f_D(x)=\max_w \mathbb{E}_{x\sim P_{data}(x)}\log[D_w(x_{data})^i]+\mathbb{E}_{x\sim P_{g}(x)}\log[1-D_w(x_g)]^j
+f_D(x)=\max_w \big\{\mathbb{E}_{x\sim P_{data}(x)}\log[D_w(x_{data})^i]+\mathbb{E}_{x\sim P_{g}(x)}\log[1-D_w(x_g)]^j \big\}
 $$
 
 :::
