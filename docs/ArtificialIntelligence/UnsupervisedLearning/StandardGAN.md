@@ -15,8 +15,6 @@ excerpt: 本文主要讲述了原始生成对抗网络的数学原理及其实�
 mathjax: true
 ---
 
-#  Generative Adversarial Networks
-
 > **经过接受GAN的洗礼，我感觉我整个人都变得“睿智”了。。。**
 
 ## 一、什么是GAN？
