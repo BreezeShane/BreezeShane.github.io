@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 29 Jan 2022 02:10:39 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Jan 2022 02:10:39 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Jan 2022 03:11:02 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Jan 2022 03:11:02 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -1105,6 +1105,31 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 <h2 id="范数"> 范数</h2>
 <p>详细请查看<a href="./../../Mathematics/Norm.html">此处</a></p>
 <h2 id="特殊类型的矩阵和向量"> 特殊类型的矩阵和向量</h2>
+<h3 id="对角矩阵"> 对角矩阵</h3>
+<p><strong>对角矩阵</strong>(Diagonal Matrix)只在主对角线上含有非零元素，其他位置都是0。</p>
+<p>形式上矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">D</span></span></span></span>是对角矩阵，当且仅当对于所有的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span><span>=</span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span style="margin-right:0.05724em;">j</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>0</span><span style="margin-right:1em;"></span><span>∀</span><span>i</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>1</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>2</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>n</span><span>}</span></span></span></span>。</p>
+<p>单位矩阵是对角矩阵的特殊形式。</p>
+<p>对于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>ia</span><span style="margin-right:0.03588em;">g</span><span>(</span><span style="margin-right:0.03588em;">v</span><span>)</span></span></span></span>，表示的是对角元素由向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">v</span></span></span></span>中元素给定的一个对角方阵。</p>
+<div><p>提示</p>
+<p>对角矩阵受到关注的部分原因是对角矩阵的乘法计算很高效。我们有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>ia</span><span style="margin-right:0.03588em;">g</span><span>(</span><span style="margin-right:0.03588em;">v</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.03588em;">v</span><span style="margin-right:0.2222222222222222em;"></span><span>⊙</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>。</p>
+<p>另外计算对角方阵的逆矩阵也十分高效。对角方阵的逆矩阵存在，当且仅当对角元素为非零值。在这种情况下，我们有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>d</span><span>ia</span><span style="margin-right:0.03588em;">g</span><span>(</span><span style="margin-right:0.03588em;">v</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.2942079999999998em;vertical-align:-0.44509999999999994em;"></span><span>d</span><span>ia</span><span style="margin-right:0.03588em;">g</span><span>([</span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.655em;"><span style="height:3em;"></span><span><span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:-0.03588em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.44509999999999994em;"><span></span></span></span></span></span><span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.655em;"><span style="height:3em;"></span><span><span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.03588em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.44509999999999994em;"><span></span></span></span></span></span><span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>]</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>)</span></span></span></span></p>
+<p>很多情况下，我们可以根据任意矩阵到处一些通用的机器学习算法，但通过将一些矩阵限制为对角矩阵，我们可以得到计算代价较低的并且简明扼要的算法。</p>
+</div>
+<div><p>暂时不太懂的地方</p>
+<p>不是所有的对角矩阵都是方阵。长方形的矩阵也有可能是对角矩阵。非方阵的对角矩阵没有逆矩阵，但我们仍然可以高效地计算它们的乘积。对于一个长方形对角矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">D</span></span></span></span>而言，乘法<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">D</span><span>x</span></span></span></span>会涉及到<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>中每个元素的缩放，如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">D</span></span></span></span>是瘦长型矩阵，那么在缩放后的末尾添加一些零；如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">D</span></span></span></span>是宽胖型矩阵，那么在缩放后去掉最后一些元素。</p>
+</div>
+<h3 id="对称矩阵"> 对称矩阵</h3>
+<p>对称（symmetric）矩阵是转置和自己相等的矩阵，即<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span>A</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span>。</p>
+<p>当某些不依赖参数顺序的双参数函数生成元素时，对称矩阵经常会出现。例如，如果 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>是一个距离度量矩阵，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>表示点<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span>到点<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.85396em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05724em;">j</span></span></span></span>的距离，那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.05724em;">j</span><span>,</span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>，因为距离函数是对称的。</p>
+<h3 id="单位向量"> 单位向量</h3>
+<p>单位向量（Unit Vector）是具有单位范数（Unit Norm）的向量：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∣∣</span><span>x</span><span>∣</span><span><span>∣</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span></p>
+<h3 id="正交"> 正交</h3>
+<p>如果 <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.043548em;vertical-align:-0.19444em;"></span><span><span>x</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.03588em;">y</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span>，那么向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>和向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">y</span></span></span></span>互相正交（orthogonal）。如果两个向量都有非零范数，那么这两个向量之间的夹角是90度。在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>中，至多有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个范数非零向量互相正交。如果这些向量不仅互相正交，并且范数都为1，那么我们称它们是标准正交（Orthonormal）。</p>
+<p>正交矩阵（Orthonormal Matrix）是指行向量和列向量是分别标准正交的方阵：
+<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span>A</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span>A</span><span><span>A</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">I</span></span></span></span>，这意味着<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8141079999999999em;vertical-align:0em;"></span><span><span>A</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−1</span></span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span>A</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span></p>
+<div><p>提示</p>
+<p>之所以正交矩阵受到关注是因为求逆计算代价小。我们需要注意正交矩阵的定义。反直觉地，正交矩阵的行向量不仅是正交的，还是标准正交的。对于行向量或列向量互相正交但不是标准正交的矩阵没有对应的专有术语。</p>
+</div>
 <h2 id="行列式"> 行列式</h2>
 <p>记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>det</span><span>(</span><span>A</span><span>)</span></span></span></span>，是一个将方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68611em;vertical-align:0em;"></span><span>A</span></span></span></span>映射到实数的函数，等于矩阵所有特征值的乘积。</p>
 <h2 id="对角元"> 对角元</h2>
@@ -6958,7 +6983,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6983,7 +7008,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6998,7 +7023,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -7517,7 +7542,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7540,7 +7565,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7551,7 +7576,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7571,7 +7596,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7582,7 +7607,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -7672,6 +7697,13 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:26:04 GMT</pubDate>
     </item>
     <item>
+      <title>归并排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">归并排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:26:08 GMT</pubDate>
+    </item>
+    <item>
       <title>快速排序</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</guid>
@@ -7684,13 +7716,6 @@ $$
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">基数排序</source>
       <pubDate>Sun, 23 Jan 2022 01:26:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>归并排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">归并排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:26:08 GMT</pubDate>
     </item>
     <item>
       <title>选择排序</title>
@@ -8678,6 +8703,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <p><strong>另一方面来说</strong>，临时变量的写法是将这个临时变量交给操作系统来管理，程序员将无法控制它，这意味着可能在某些时候系统认为它已失去作用，这时它将被回收，而这会导致此后如果再访问使用它将成为非法行为。但使用指针变量写法可以保证你申请的空间不会被意外回收，你拥有管理它的一切权限。</p>
 <center><font size="6" color="#f2be45"><strong>综上所述，我们认为<br>使用指针变量的写法要优于使用临时变量写法。</strong></font></center>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>2-3树</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">2-3树</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:27 GMT</pubDate>
     </item>
     <item>
       <title>B+树</title>
@@ -13736,7 +13768,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -13770,7 +13802,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -13780,7 +13812,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13805,7 +13837,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13868,7 +13900,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -13877,10 +13909,93 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 29 Jan 2022 02:09:28 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 03:09:54 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>在受限的网站里强制复制粘贴</title>
+      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
+      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
+      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
+<blockquote>
+<p>参考：</p>
+<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
+<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
+<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
+<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
+</blockquote>
+<h2 id="背景"> 背景</h2>
+<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
+<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
+<h2 id="实现方法"> 实现方法</h2>
+<h3 id="插件大法"> 插件大法</h3>
+<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
+<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
+<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
+<h3 id="查看源码大法"> 查看源码大法</h3>
+<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
+<blockquote>
+<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
+</blockquote>
+<h3 id="console操作大法"> Console操作大法</h3>
+<h4 id="全文复制"> 全文复制</h4>
+<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
+<p>如果你遇到如下形式的输出：</p>
+<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
+<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
+<p>写Shell文件，输入如下代码：</p>
+<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
+<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
+<h4 id="选中区域复制"> 选中区域复制</h4>
+<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+<ol>
+<li>打开开发者工具</li>
+<li>选中网页中要复制的文字</li>
+<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+</ol>
+<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
+<h3 id="打印预览大法"> 打印预览大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
+<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
+<h3 id="终极杀招"> 终极杀招</h3>
+<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
+<h2 id="补充的小知识"> 补充的小知识</h2>
+<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
+<h3 id="javascript实现方式"> JavaScript实现方式</h3>
+<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
+  <span>return</span> <span>false</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
+  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
+    <span>return</span> <span>false</span><span>;</span>
+  <span>}</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
+<div><pre><code><span>body</span> <span>{</span>
+  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
+  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
+  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
+  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
+  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
+  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
+<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
     </item>
     <item>
       <title>简单的网页前后端搭建过程</title>
@@ -14028,89 +14143,6 @@ patch_request_class<span>(</span>app<span>)</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>在受限的网站里强制复制粘贴</title>
-      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
-      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
-      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
-<blockquote>
-<p>参考：</p>
-<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
-<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
-<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
-<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
-</blockquote>
-<h2 id="背景"> 背景</h2>
-<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
-<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
-<h2 id="实现方法"> 实现方法</h2>
-<h3 id="插件大法"> 插件大法</h3>
-<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
-<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
-<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
-<h3 id="查看源码大法"> 查看源码大法</h3>
-<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
-<blockquote>
-<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
-</blockquote>
-<h3 id="console操作大法"> Console操作大法</h3>
-<h4 id="全文复制"> 全文复制</h4>
-<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
-<p>如果你遇到如下形式的输出：</p>
-<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
-<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
-<p>写Shell文件，输入如下代码：</p>
-<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
-<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
-<h4 id="选中区域复制"> 选中区域复制</h4>
-<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
-<ol>
-<li>打开开发者工具</li>
-<li>选中网页中要复制的文字</li>
-<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
-</ol>
-<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
-<h3 id="打印预览大法"> 打印预览大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
-<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
-<h3 id="终极杀招"> 终极杀招</h3>
-<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
-<h2 id="补充的小知识"> 补充的小知识</h2>
-<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
-<h3 id="javascript实现方式"> JavaScript实现方式</h3>
-<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-  <span>return</span> <span>false</span><span>;</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
-  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
-    <span>return</span> <span>false</span><span>;</span>
-  <span>}</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
-<div><pre><code><span>body</span> <span>{</span>
-  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
-  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
-  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
-  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
-  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
-  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
-<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
-    </item>
-    <item>
       <title>关于Vcomputer如何实现循环的哲学问题</title>
       <link>https://breezeshane.github.io/VComputer/</link>
       <guid>https://breezeshane.github.io/VComputer/</guid>
@@ -14153,13 +14185,6 @@ patch_request_class<span>(</span>app<span>)</span>
 <p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
-    </item>
-    <item>
-      <title>2-3树</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">2-3树</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
