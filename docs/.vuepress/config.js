@@ -153,6 +153,7 @@ module.exports = config({
                     children: [
                     ],
                   },
+                  "ISDN",
               ],
             },
             {
