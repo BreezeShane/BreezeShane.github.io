@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 29 Jan 2022 11:40:37 GMT</pubDate>
-    <lastBuildDate>Sat, 29 Jan 2022 11:40:37 GMT</lastBuildDate>
+    <pubDate>Sat, 29 Jan 2022 11:57:11 GMT</pubDate>
+    <lastBuildDate>Sat, 29 Jan 2022 11:57:11 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -1704,7 +1704,7 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
 <p>接着我们将总似然函数最大化得到：</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.7386959999999999em;"><span style="top:-2.4530000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">D</span></span></span><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>∗∗∗</span></span></span></span></span><span>​</span></span><span><span style="height:0.247em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.9401660000000005em;vertical-align:-1.277669em;"></span><span><span><span><span style="height:0.43056em;"><span style="top:-2.4em;margin-left:0em;"><span style="height:3em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span>{</span></span><span style="margin-right:0.16666666666666666em;"></span><span><span><span><span style="height:1.6624970000000003em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.311105em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span><span>n</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>[</span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span><span>x</span><span><span><span><span style="height:0.33610799999999996em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>d</span><span>a</span><span>t</span><span>a</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>)</span><span><span><span><span style="height:0.8746639999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span>]</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:3.0762740000000006em;vertical-align:-1.4137769999999998em;"></span><span><span><span><span style="height:1.6624970000000006em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span style="margin-right:0.05724em;">j</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.311105em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span><span>n</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:1.4137769999999998em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>[</span><span>1</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.224674em;vertical-align:-0.35001em;"></span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span><span>x</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span><span>]</span><span><span><span><span style="height:0.874664em;"><span style="top:-3.1130000000000004em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.05724em;">j</span></span></span></span></span></span></span></span><span><span>}</span></span></span></span></span></span></p>
 <p>最后我们选取其等价形式，就可以得到最终的目标函数：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.5746639999999998em;vertical-align:-0.7em;"></span><span><span><span><span style="height:0.43056em;"><span style="top:-2.4em;margin-left:0em;"><span style="height:3em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span>E</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3448em;"><span style="top:-2.3487714285714287em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>d</span><span>a</span><span>t</span><span>a</span></span></span></span></span><span>​</span></span><span><span style="height:0.15122857142857138em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>[</span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span><span>x</span><span><span><span><span style="height:0.33610799999999996em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>d</span><span>a</span><span>t</span><span>a</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>)</span><span><span><span><span style="height:0.8746639999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span>]</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span>E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span style="margin-right:0.03588em;">g</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>[</span><span>1</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.160772em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span><span>x</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span><span>]</span><span><span><span><span style="height:0.874664em;"><span style="top:-3.1130000000000004em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.05724em;">j</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.5746639999999998em;vertical-align:-0.7em;"></span><span><span><span><span style="height:0.43056em;"><span style="top:-2.4em;margin-left:0em;"><span style="height:3em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span>{</span></span><span><span>E</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3448em;"><span style="top:-2.3487714285714287em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>d</span><span>a</span><span>t</span><span>a</span></span></span></span></span><span>​</span></span><span><span style="height:0.15122857142857138em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>[</span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span><span>x</span><span><span><span><span style="height:0.33610799999999996em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>d</span><span>a</span><span>t</span><span>a</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>)</span><span><span><span><span style="height:0.8746639999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span></span></span></span></span><span>]</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span>E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span style="margin-right:0.03588em;">g</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>[</span><span>1</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.224674em;vertical-align:-0.35001em;"></span><span><span style="margin-right:0.02778em;">D</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.02778em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02691em;">w</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span><span>x</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span><span>]</span><span><span><span><span style="height:0.874664em;"><span style="top:-3.1130000000000004em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.05724em;">j</span></span></span></span></span></span></span></span><span><span>}</span></span></span></span></span></span></p>
 </div>
 <p>并且针对期望的求法有这个公式（后面推导要用到）：</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">E</span><span>[</span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.22225em;vertical-align:-0.86225em;"></span><span style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span style="margin-right:0.16666666666666666em;"></span><span>p</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span>d</span><span>x</span></span></span></span></span></p>
@@ -7000,7 +7000,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7025,7 +7025,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7040,7 +7040,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -7559,7 +7559,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7582,7 +7582,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7593,7 +7593,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7613,7 +7613,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7624,7 +7624,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8788,6 +8788,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:28:18 GMT</pubDate>
     </item>
     <item>
+      <title>单链表的一些经典问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
+    </item>
+    <item>
       <title>N皇后问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</guid>
@@ -9067,13 +9074,6 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>这样你就可以发现，切换版本成功了。👍</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/git.png" type="image/png"/>
-    </item>
-    <item>
-      <title>单链表的一些经典问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
     </item>
     <item>
       <title>Arcolinux &amp; AwesomeWM</title>
@@ -13785,7 +13785,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -13819,7 +13819,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -13829,7 +13829,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13854,7 +13854,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13917,7 +13917,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -13926,7 +13926,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 29 Jan 2022 11:39:39 GMT</pubDate>
+      <pubDate>Sat, 29 Jan 2022 11:56:05 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
