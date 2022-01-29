@@ -30,7 +30,7 @@ GAN，Generative Adversarial Networks的简称，译名为生成对抗网络。�
 
 学习过程中的第一个GAN是2014年提出的最原始的GAN，其运行效果如下图：
 
-![2021-04-26_15-58](https://breezeshane.github.io/images/2021-04-26_15-58.png)
+![](/images/2021-04-26_15-58.png)
 
  不难发现它表（GAN）现（de）糟（piào）糕（liàng），出现了严重的欠拟合和过拟合，实在让人大跌眼镜。
 
@@ -125,9 +125,10 @@ V(G,D)&=\int_xp_r(x)\log(D(x))dx+\int_zp_z(z)\log(1-D(G(z)))dz\\
 &\therefore\lambda=\frac{\varphi}{\varphi+\psi}\text{即}D(x)=\frac{p_r(x)}{p_r(x)+p_g(x)}
 \end{align*}
 $$
-「注」：Pr(x)和Pg(x)在每一个确定的x中都有确定的常数，因此求导时被看作常量。
 
-![](https://breezeshane.github.io/images/2021-04-24_20-10.png)
+「注」：$P_r(x)$和$P_g(x)$在每一个确定的x中都有确定的常数，因此求导时被看作常量。
+
+![](/images/2021-04-24_20-10.png)
 
 判别器的推导完成，需要做的是后续的损失函数的推导，用到了JS散度和KL散度的问题，这里给出相应定义：
 
@@ -141,7 +142,7 @@ $$
 
 这两者的图像如下：
 
-![](https://breezeshane.github.io/images/2021-04-24_21-04.png)
+![](/images/2021-04-24_21-04.png)
 
 需要的损失函数是关于JS散度的，确定这一表达式，损失函数才能真正落实使用。
 
