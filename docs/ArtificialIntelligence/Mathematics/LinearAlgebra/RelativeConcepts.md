@@ -11,10 +11,7 @@ categories:
 tags: 
  - Aritficial Intelligence
  - Mathematics
-article: false
 ---
-## 标量、向量、矩阵和张量
-
 ### 标量
 
 又称**纯量**，是只有大小、没有方向、可用实数表示的一个量。
@@ -120,7 +117,7 @@ $$
 
 对于$diag(v)$，表示的是对角元素由向量$v$中元素给定的一个对角方阵。
 
-::: tip 
+::: tip
 
 对角矩阵受到关注的部分原因是对角矩阵的乘法计算很高效。我们有$diag(v)=v\odot x$。
 
