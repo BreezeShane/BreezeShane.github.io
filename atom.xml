@@ -6,7 +6,7 @@
   <author>
     <name>Breeze Shane</name>
   </author>
-  <updated>2022-01-29T13:03:12.513Z</updated>
+  <updated>2022-02-21T13:10:17.909Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://breezeshane.github.io/atom.xml"/>
   <link rel="alternate" href="https://breezeshane.github.io/"/>
@@ -25,7 +25,7 @@
     <title type="html">有关人工智能与机器学习领域的概况</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/AIOverview/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="人工智能是什么"> 人工智能是什么？</h2>
 <p>关于人工智能的定义在学术界一直尚存争议，原因也无非是因为实在难以给智能下定义。</p>
 <p>目前比较广泛的说法是：<strong>人工智能是一门研究、开发用于模拟、延伸和扩展人的智能的理论方法技术及应用的一门技术科学。</strong></p>
@@ -171,7 +171,7 @@
     <title type="html">估计、偏差和方差</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -185,7 +185,7 @@
     <title type="html">促使深度学习发展的挑战</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -199,7 +199,7 @@
     <title type="html">学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -213,7 +213,7 @@
     <title type="html">容量、过拟合和欠拟合</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AE%B9%E9%87%8F%E3%80%81%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AC%A0%E6%8B%9F%E5%90%88/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AE%B9%E9%87%8F%E3%80%81%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AC%A0%E6%8B%9F%E5%90%88/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -227,7 +227,7 @@
     <title type="html">无监督学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -241,7 +241,7 @@
     <title type="html">最大似然估计</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -255,7 +255,7 @@
     <title type="html">构建机器学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -269,7 +269,7 @@
     <title type="html">监督学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -283,7 +283,7 @@
     <title type="html">贝叶斯统计</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -297,7 +297,7 @@
     <title type="html">超参数和验证集</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -311,7 +311,7 @@
     <title type="html">随机梯度下降</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -325,7 +325,7 @@
     <title type="html">「实例」线性最小二乘</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%5B%E5%AE%9E%E4%BE%8B%5D%E7%BA%BF%E6%80%A7%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%5B%E5%AE%9E%E4%BE%8B%5D%E7%BA%BF%E6%80%A7%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -339,7 +339,7 @@
     <title type="html">上溢和下溢</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E4%B8%8A%E6%BA%A2%E5%92%8C%E4%B8%8B%E6%BA%A2/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E4%B8%8A%E6%BA%A2%E5%92%8C%E4%B8%8B%E6%BA%A2/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -353,7 +353,7 @@
     <title type="html">基于梯度的优化方法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E5%9F%BA%E4%BA%8E%E6%A2%AF%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E5%9F%BA%E4%BA%8E%E6%A2%AF%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -367,7 +367,7 @@
     <title type="html">病态条件</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -381,7 +381,7 @@
     <title type="html">约束优化</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -395,7 +395,7 @@
     <title type="html">前言</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<p>该系列下所有内容均来自书籍《Deep Learning》的译作《深度学习》，即业界内俗称的“花书”。该系列主要用于记录本人的读书笔记，并会在一些地方做延伸讨论，增加一些内容。</p>
 <div><p>相关信息</p>
 <p>需要掌握的数学知识「线性代数、概率论等」位于Mathematics栏目下，此栏目不作重复性描述。</p>
@@ -414,7 +414,7 @@
     <title type="html">入门机器学习的安装与配置</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="你可能有配备"> 你可能有配备？</h2>
 <p>或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入 <code>inxi -G</code>来查看电脑的显卡配备信息。可能你不懂什么是显卡？</p>
 <blockquote>
@@ -488,7 +488,7 @@
     <title type="html">Intelligent Software Defined Networking</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/ISDN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/ISDN/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<div><p>温馨提示</p>
 <p>阅读本文之前需要先了解SDN，如果你还没有读过<a href="https://breezeshane.github.io/Web/SDN/" target="_blank" rel="noopener noreferrer">SDN入门基础</a>，请先读这篇。</p>
 <p>本文参考论文：李可欣, 王兴伟, 易波, 等. 智能软件定义网络[J]. 软件学报, 2020, 32(1): 118-136.</p>
@@ -790,7 +790,7 @@
     <title type="html">同余式及其性质</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/CongruenceExpression/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/CongruenceExpression/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>若一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>a</span></span></span></span>被一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除的时候得到的商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和唯一的一个余数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>，另一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>b</span></span></span></span>也被<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除时得到商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，得到的唯一余数也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>（其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.78041em;vertical-align:-0.13597em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>），即</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:3.0000299999999998em;vertical-align:-1.25003em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>a</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>b</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
@@ -872,7 +872,7 @@
     <title type="html">Moore-Penrose伪逆</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -886,7 +886,7 @@
     <title type="html">向量范数与矩阵范数</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Norm/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Norm/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="向量范数"> 向量范数</h2>
 <p>向量范数具有“长度”概念，是一个函数，其为向量空间内的所有向量赋予非零的正长度或大小。</p>
 <p>假设V是域F上的向量空间；V的半范数是一个函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>;</span><span style="margin-right:0.16666666666666666em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>(</span><span>x</span><span>)</span></span></span></span>，满足：</p>
@@ -1205,7 +1205,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关的简单运算</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
 <h2 id="矩阵加法"> 矩阵加法</h2>
 <h2 id="矩阵乘法"> 矩阵乘法</h2>
@@ -1224,7 +1224,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关名词的概念</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h3 id="标量"> 标量</h3>
 <p>又称<strong>纯量</strong>，是只有大小、没有方向、可用实数表示的一个量。</p>
 <p>实际上标量就是实数，“标量”这个称法只是为了区别于向量。</p>
@@ -1326,7 +1326,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">「实例」主成分分析</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1340,7 +1340,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">奇异值分解</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1354,7 +1354,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">特征分解</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<div><p>定义</p>
 <p>线性代数中，特征分解（Eigendecomposition），又称谱分解（Spectral decomposition）是将矩阵分解为由其特征值和特征向量表示的矩阵之积的方法。需要注意只有对可对角化矩阵才可以施以特征分解。</p>
 </div>
@@ -1407,7 +1407,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Lipschitz Continuity</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="利普希茨连续-lipschitz-continuity"> 利普希茨连续——Lipschitz Continuity</h1>
 <blockquote>
 <p>参考资料：<a href="https://zh.wikipedia.org/wiki/%E5%88%A9%E6%99%AE%E5%B8%8C%E8%8C%A8%E9%80%A3%E7%BA%8C" target="_blank" rel="noopener noreferrer">利普希茨连续 - 维基百科</a></p>
@@ -1471,7 +1471,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">信息论</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1485,7 +1485,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见函数及其性质</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1499,7 +1499,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见概率分布</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1513,7 +1513,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">期望、方差和协方差</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1527,7 +1527,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">条件概率及其链式法则</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1541,7 +1541,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">概率分布</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1552,24 +1552,10 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">结构化概率模型</title>
-    <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</id>
-    <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-23T01:15:13.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">独立性和条件独立性</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1580,10 +1566,24 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">结构化概率模型</title>
+    <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</id>
+    <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-01-23T01:15:13.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">贝叶斯规则</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1597,7 +1597,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">边缘概率</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1611,7 +1611,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">连续性变量的技术细节</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1625,7 +1625,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">随机变量</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1639,7 +1639,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">无监督学习介绍与入门</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="什么是无监督学习"> 什么是无监督学习？</h2>
 <p>无监督学习是机器学习的一种训练方式「或者是学习方式」。无监督学习的概念是相对有监督学习而言的。</p>
 <blockquote>
@@ -1831,7 +1831,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Enlighten GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="应用领域及背景"> 应用领域及背景</h2>
 <p>该项目是应用在图像修复领域的低照度增强方向，是致力于将日常生活中常见的各种难以用肉眼感知特征的低照度场景增强到能够方便、舒适地观察内容的场景。</p>
 <center>该项目迄今为止仍是无监督学习方法低照度增强的SOTA。</center>
@@ -1889,7 +1889,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Low Light Metrics</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="low-light-metrics"> Low Light Metrics</h1>
 <h2 id="content"> Content</h2>
 <p>本文记录了LPIPS、SSIM、MAE、MSE、PSNR、NIQE和NIMA共计七个低照度指标，除了介绍相关背景、意义，也会提及算法实现的大致过程。</p>
@@ -2018,7 +2018,7 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
     <title type="html">Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>经过接受GAN的洗礼，我感觉我整个人都变得“睿智”了。。。</strong></p>
 </blockquote>
@@ -2293,7 +2293,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Divergence for GANs</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wasserstein-divergence-for-gans"> Wasserstein Divergence for GANs</h1>
 <blockquote>
 <p>參考自：</p>
@@ -2428,7 +2428,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">WGAN with Gradient Penalty</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
 <h2 id="结果"> 结果</h2>
 <p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
@@ -2492,7 +2492,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>首推这篇博客，本文内容多参考自此。<a href="https://www.cnblogs.com/Allen-rg/p/10305125.html" target="_blank" rel="noopener noreferrer">WGAN (原理解析)</a></p>
 <p>本文也另外参考了这篇<a href="https://lotabout.me/2018/WGAN/" target="_blank" rel="noopener noreferrer">博客</a></p>
@@ -2640,7 +2640,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <title type="html">多灾多难的博客搭建过程</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="blog-building"> Blog Building</h1>
 <blockquote>
 <p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
@@ -2768,7 +2768,7 @@ FATAL {
     <title type="html">Changing Blog Theme</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="to-change-my-blog-theme"> To Change My Blog Theme</h1>
 <blockquote>
 <p>参考文档：</p>
@@ -3196,7 +3196,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">用Shell脚本创建新文章</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前言"> 前言</h2>
 <p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
 <h2 id="实现"> 实现？</h2>
@@ -3398,7 +3398,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">LaTeX公式</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>参考内容：</p>
 <p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener noreferrer">MathJax basic tutorial and quick reference</a></p>
@@ -4523,7 +4523,7 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
     <title type="html">Markdown语法杂记</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="markdown语法杂记"> Markdown语法杂记</h1>
 <hr>
 <blockquote>
@@ -7405,7 +7405,7 @@ import torch as pd
     <title type="html">组件禁用</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/disable/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/disable/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -7432,14 +7432,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/encrypt/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7452,14 +7452,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/markdown/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -7931,14 +7931,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/page/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/page/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -7994,7 +7994,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8018,14 +8018,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/home/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/home/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8036,14 +8036,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://breezeshane.github.io/CourseOfBlog/layout/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/layout/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8063,14 +8063,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8081,30 +8081,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">幻灯片页</title>
-    <id>https://breezeshane.github.io/CourseOfBlog/slides/</id>
-    <link href="https://breezeshane.github.io/CourseOfBlog/slides/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
-    <content type="html"><![CDATA[
-<i>Not supported content</i>]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">二叉搜索树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8115,10 +8099,26 @@ $$
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">幻灯片页</title>
+    <id>https://breezeshane.github.io/CourseOfBlog/slides/</id>
+    <link href="https://breezeshane.github.io/CourseOfBlog/slides/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <content type="html"><![CDATA[
+<i>Not supported content</i>]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-02-21T13:09:10.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">分块查找</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8132,7 +8132,7 @@ $$
     <title type="html">斐波那契搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/FibonacciSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/FibonacciSearch/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8146,7 +8146,7 @@ $$
     <title type="html">哈希搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8160,7 +8160,7 @@ $$
     <title type="html">插值搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8174,7 +8174,7 @@ $$
     <title type="html">顺序搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/SequentialSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/SequentialSearch/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8188,7 +8188,7 @@ $$
     <title type="html">树表查找</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/TreeTableLookup/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/TreeTableLookup/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8202,7 +8202,7 @@ $$
     <title type="html">冒泡排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8216,7 +8216,7 @@ $$
     <title type="html">桶排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8230,7 +8230,7 @@ $$
     <title type="html">计数排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8244,7 +8244,7 @@ $$
     <title type="html">堆排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8258,7 +8258,7 @@ $$
     <title type="html">插入排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8272,7 +8272,7 @@ $$
     <title type="html">归并排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8286,7 +8286,7 @@ $$
     <title type="html">快速排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8300,7 +8300,7 @@ $$
     <title type="html">基数排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8314,7 +8314,7 @@ $$
     <title type="html">选择排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/SelectionSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/SelectionSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8328,7 +8328,7 @@ $$
     <title type="html">希尔排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8342,7 +8342,7 @@ $$
     <title type="html">循环链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/CircularLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/CircularLinkedList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>循环链表，即令单链表尾结点的指针指向链表的头结点。</p>
 <p>结构代码的定义：「本质上与单链表的结构体定义并无差异」</p>
@@ -8510,7 +8510,7 @@ $$
     <title type="html">双链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -8670,7 +8670,7 @@ $$
     <title type="html">队列与循环队列</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Queue/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Queue/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>队列是限制结点插入操作固定在一端进行,而结点的删除操作固定在另一端进行的一种特殊线性表，特殊在于它操作受限，仅能使用入队、出队操作。</p>
 <p>如图所示：</p>
@@ -8777,7 +8777,7 @@ DataType <span>computeNum</span><span>(</span>PseqQueue Q<span>)</span><span>{</
     <title type="html">顺序线性表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SequentialLinearList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>顺序线性表是数据结构算法中最简单的一种结构，它的组成成分如下：</p>
@@ -8980,10 +8980,119 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">顺序线性栈</title>
+    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/</id>
+    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
+<p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
+<h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
+<p>顾名思义，就是使用顺序线性表来实现栈的功能。</p>
+<p>结构体定义如下：</p>
+<div><pre><code><span>typedef</span> <span>int</span> DataType<span>;</span>
+<span>struct</span> <span>seqStack</span> <span>{</span>
+  <span>int</span> MAXNUM<span>;</span>
+  <span>int</span> top<span>;</span>
+  DataType <span>*</span>element<span>;</span>
+<span>}</span><span>;</span>
+
+<span>typedef</span> <span>struct</span> <span>seqStack</span><span>*</span> PseqStack<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="顺序线性栈的基本操作与实现"> 顺序线性栈的基本操作与实现</h2>
+<h3 id="创建"> 创建</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>PseqStack <span>createNullStack_seq</span><span>(</span><span>int</span> m<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> m <span>&lt;=</span> <span>0</span> <span>)</span> <span>return</span> <span>NULL</span><span>;</span>
+    PseqStack stack <span>=</span> <span>(</span>PseqStack<span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>seqStack</span><span>)</span><span>)</span><span>;</span>
+    stack<span>-></span>MAXNUM <span>=</span> m<span>;</span>
+    stack<span>-></span>top <span>=</span> <span>0</span><span>;</span>
+    stack<span>-></span>element <span>=</span> <span>(</span>DataType<span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span>DataType<span>)</span> <span>*</span> stack<span>-></span>MAXNUM<span>)</span><span>;</span>
+    <span>return</span> stack<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="入栈"> 入栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code><span>int</span> <span>isNullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>!</span>L <span>)</span>  <span>return</span> <span>-</span><span>1</span><span>;</span> 
+    <span>else</span> <span>if</span> <span>(</span> L<span>-></span>top <span>-</span> <span>1</span> <span>&lt;</span> <span>0</span><span>)</span> <span>return</span> <span>1</span><span>;</span>
+    <span>else</span> <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+
+
+<span>//第三关 </span>
+<span>int</span> <span>isFullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> L<span>-></span>top <span>==</span> L<span>-></span>MAXNUM <span>)</span> <span>return</span> <span>1</span><span>;</span>
+    <span>else</span> <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+
+
+<span>//第四关</span>
+<span>int</span> <span>push_seq</span><span>(</span>PseqStack L <span>,</span>DataType x<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>||</span> <span>isFullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
+    <span>else</span> <span>{</span>
+      L<span>-></span>element<span>[</span>L<span>-></span>top<span>]</span> <span>=</span> x<span>;</span>
+      L<span>-></span>top<span>++</span><span>;</span>
+      <span>return</span> <span>1</span><span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="出栈"> 出栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>DataType <span>pop_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>!</span><span>(</span>L<span>-></span>top<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
+    <span>int</span> temp <span>=</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span> <span>1</span><span>]</span><span>;</span>
+    L<span>-></span>top<span>--</span><span>;</span>
+    <span>return</span> temp<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="读取栈顶元素"> 读取栈顶元素</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>DataType <span>top_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+  <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
+  <span>return</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span><span>1</span><span>]</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="销毁栈"> 销毁栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code><span>int</span> <span>destroystack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
+    <span>free</span><span>(</span>L<span>-></span>element<span>)</span><span>;</span>
+    <span>return</span> L<span>-></span>top<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h2 id="顺序线性栈的优缺点"> 顺序线性栈的优缺点</h2>
+<p><strong>优点</strong>：</p>
+<p><strong>缺点</strong>：</p>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2021-12-22T16:45:35.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">单向链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
@@ -9171,119 +9280,10 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">顺序线性栈</title>
-    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/</id>
-    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
-<p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
-<h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
-<p>顾名思义，就是使用顺序线性表来实现栈的功能。</p>
-<p>结构体定义如下：</p>
-<div><pre><code><span>typedef</span> <span>int</span> DataType<span>;</span>
-<span>struct</span> <span>seqStack</span> <span>{</span>
-  <span>int</span> MAXNUM<span>;</span>
-  <span>int</span> top<span>;</span>
-  DataType <span>*</span>element<span>;</span>
-<span>}</span><span>;</span>
-
-<span>typedef</span> <span>struct</span> <span>seqStack</span><span>*</span> PseqStack<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="顺序线性栈的基本操作与实现"> 顺序线性栈的基本操作与实现</h2>
-<h3 id="创建"> 创建</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>PseqStack <span>createNullStack_seq</span><span>(</span><span>int</span> m<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> m <span>&lt;=</span> <span>0</span> <span>)</span> <span>return</span> <span>NULL</span><span>;</span>
-    PseqStack stack <span>=</span> <span>(</span>PseqStack<span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>seqStack</span><span>)</span><span>)</span><span>;</span>
-    stack<span>-></span>MAXNUM <span>=</span> m<span>;</span>
-    stack<span>-></span>top <span>=</span> <span>0</span><span>;</span>
-    stack<span>-></span>element <span>=</span> <span>(</span>DataType<span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span>DataType<span>)</span> <span>*</span> stack<span>-></span>MAXNUM<span>)</span><span>;</span>
-    <span>return</span> stack<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="入栈"> 入栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code><span>int</span> <span>isNullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>!</span>L <span>)</span>  <span>return</span> <span>-</span><span>1</span><span>;</span> 
-    <span>else</span> <span>if</span> <span>(</span> L<span>-></span>top <span>-</span> <span>1</span> <span>&lt;</span> <span>0</span><span>)</span> <span>return</span> <span>1</span><span>;</span>
-    <span>else</span> <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-
-
-<span>//第三关 </span>
-<span>int</span> <span>isFullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> L<span>-></span>top <span>==</span> L<span>-></span>MAXNUM <span>)</span> <span>return</span> <span>1</span><span>;</span>
-    <span>else</span> <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-
-
-<span>//第四关</span>
-<span>int</span> <span>push_seq</span><span>(</span>PseqStack L <span>,</span>DataType x<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>||</span> <span>isFullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
-    <span>else</span> <span>{</span>
-      L<span>-></span>element<span>[</span>L<span>-></span>top<span>]</span> <span>=</span> x<span>;</span>
-      L<span>-></span>top<span>++</span><span>;</span>
-      <span>return</span> <span>1</span><span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="出栈"> 出栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>DataType <span>pop_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>!</span><span>(</span>L<span>-></span>top<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
-    <span>int</span> temp <span>=</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span> <span>1</span><span>]</span><span>;</span>
-    L<span>-></span>top<span>--</span><span>;</span>
-    <span>return</span> temp<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="读取栈顶元素"> 读取栈顶元素</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>DataType <span>top_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-  <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
-  <span>return</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span><span>1</span><span>]</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="销毁栈"> 销毁栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code><span>int</span> <span>destroystack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
-    <span>free</span><span>(</span>L<span>-></span>element<span>)</span><span>;</span>
-    <span>return</span> L<span>-></span>top<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h2 id="顺序线性栈的优缺点"> 顺序线性栈的优缺点</h2>
-<p><strong>优点</strong>：</p>
-<p><strong>缺点</strong>：</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2021-12-22T16:45:35.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">链式栈</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSingleLinkedList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="链式栈的定义"> 链式栈的定义</h2>
@@ -9309,7 +9309,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">底层原因</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Statement/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Statement/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="指针变量写法"> 指针变量写法</h2>
 <div><pre><code>PseqList <span>createNullList_seq</span><span>(</span><span>int</span> m<span>)</span><span>{</span>
     <span>if</span> <span>(</span> <span>!</span>m <span>)</span>
@@ -9368,7 +9368,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">2-3树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9382,7 +9382,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">B+树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/B+Tree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/B+Tree/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9396,7 +9396,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">B树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BTree/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9410,7 +9410,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">二叉树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BinaryTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BinaryTree/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>二叉树是一颗有序树，它由</p>
 ]]></content>
@@ -9427,7 +9427,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">红黑树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9441,7 +9441,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">括号匹配问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/BracketMatching/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/BracketMatching/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9455,7 +9455,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">约瑟夫问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9469,7 +9469,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">极限反转数问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9483,7 +9483,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">顺序线性表的一些经典问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9497,7 +9497,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">N皇后问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题</h2>
 <p>下图所示为4皇后问题。n皇后问题：在n×n的棋盘上安置n个皇后，要求任意两个皇后均不在同一行、同一列、同一对角线上，要求设计算法求解总共有多少方案。</p>
 <p><img src="/images/nQueens.png" alt="" /></p>
@@ -9637,24 +9637,10 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">单链表的一些经典问题</title>
-    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</id>
-    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-23T01:28:23.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">Git Commands</title>
     <id>https://breezeshane.github.io/Git_Commands/</id>
     <link href="https://breezeshane.github.io/Git_Commands/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
 <p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
 <h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
@@ -9801,10 +9787,24 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">单链表的一些经典问题</title>
+    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</id>
+    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-01-23T01:28:23.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">Arcolinux &amp; AwesomeWM</title>
     <id>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</id>
     <link href="https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 <code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
 </blockquote>
@@ -10498,7 +10498,7 @@ URxvt.boldItalicFont:     	    xft:MesloLGS NF-20
     <title type="html">Shell全自动安装与部署Anaconda</title>
     <id>https://breezeshane.github.io/Linux/AutoIAC/</id>
     <link href="https://breezeshane.github.io/Linux/AutoIAC/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
 <h2 id="实现思路"> 实现思路</h2>
@@ -10788,7 +10788,7 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
     <title type="html">记将旧电脑改建成服务器的过程</title>
     <id>https://breezeshane.github.io/Linux/BuildingServer/</id>
     <link href="https://breezeshane.github.io/Linux/BuildingServer/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
 <h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
@@ -10910,7 +10910,7 @@ rfkill: Cannot get wiphy information
     <title type="html">Magic SysRq 组合键功能表</title>
     <id>https://breezeshane.github.io/Linux/MagicSysRq/</id>
     <link href="https://breezeshane.github.io/Linux/MagicSysRq/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<div><p>说明</p>
 <p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
 </div>
@@ -11034,7 +11034,7 @@ rfkill: Cannot get wiphy information
     <title type="html">Manjaro Linux</title>
     <id>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
     <link href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="manjaro-linux"> Manjaro Linux</h1>
 <p>终于考完试了！在大学第一个寒假到来之际，我决定入坑Linux系统，并花了很长时间挑选系统（深度选择困难患者），终于，我选择了Manjaro Linux，希望它<sub>不会让人失望</sub>！</p>
 <h2 id="_1-windows10-manjaro-linux深度指北"> 1.Windows10+Manjaro Linux深度指北</h2>
@@ -12305,7 +12305,7 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
     <title type="html">记一次局域网搭建私人云盘的过程</title>
     <id>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</id>
     <link href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
 </blockquote>
@@ -12427,7 +12427,7 @@ nextcloud
     <title type="html">Linux Shell 编程学习与实战</title>
     <id>https://breezeshane.github.io/Linux/Shells/</id>
     <link href="https://breezeshane.github.io/Linux/Shells/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="模拟输入组合键ctrl-anykey"> 模拟输入组合键<kbd>Ctrl</kbd>+<kbd>AnyKey</kbd></h2>
 <p>在<a href="./AutoIAC.html">上一篇笔记</a>中我提到没能将输入内容送入指定的进程PID，但在了解到这一点之前我学到了如下的一些内容：</p>
 <div><pre><code><span>echo</span> <span>$$</span> <span># 这个是显示当前进程的PID。</span>
@@ -13592,7 +13592,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
     <title type="html">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
     <id>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
     <link href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
 <h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
 <p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
@@ -13697,7 +13697,7 @@ vncserver :1
     <title type="html">Building Up Servicer</title>
     <id>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</id>
     <link href="https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
 <h2 id="怎么做"> 怎么做？</h2>
@@ -13763,7 +13763,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">Crawler</title>
     <id>https://breezeshane.github.io/Python/Crawler/</id>
     <link href="https://breezeshane.github.io/Python/Crawler/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
 <h2 id="前言"> 前言</h2>
 <p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
@@ -13857,10 +13857,577 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">简单的网页前后端搭建过程</title>
+    <id>https://breezeshane.github.io/Web/Frontbackend/</id>
+    <link href="https://breezeshane.github.io/Web/Frontbackend/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
+<h3 id="html"> HTML</h3>
+<p><strong>HTML设置字体：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
+<span><span><span>&lt;/</span>form</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
+<h3 id="css"> CSS</h3>
+<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
+<p>CSS选择器：</p>
+<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
+<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
+<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
+<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
+<span>background-position</span><span>:</span> center center<span>;</span>
+<span>background-attachment</span><span>:</span> fixed<span>;</span>
+<span>background-size</span><span>:</span> cover<span>;</span>
+<span>margin</span><span>:</span> 0<span>;</span>
+<span>position</span><span>:</span> relative<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
+<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
+<span>top</span><span>:</span> 50%<span>;</span>
+<span>left</span><span>:</span> 50%<span>;</span>
+<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
+<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
+<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
+<h3 id="javascript"> JavaScript</h3>
+<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
+<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
+    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
+    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
+    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
+	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
+
+    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
+	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
+
+    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
+        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
+        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
+        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
+            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
+            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
+        <span>}</span>
+        file_num <span>=</span> fileList<span>.</span>length
+        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
+            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
+                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
+            <span>}</span>
+            <span>// 以下定义了前端传输的相关信息。</span>
+            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
+                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
+                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
+                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
+                processData<span>:</span> <span>false</span><span>,</span> 
+                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
+                contentType<span>:</span> <span>false</span><span>,</span>
+                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
+                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
+                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
+                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
+                    <span>//后续的两行代码则是修改相应控件的数据。</span>
+                <span>}</span><span>,</span>
+                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
+                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
+                <span>}</span>
+            <span>}</span><span>)</span>
+        <span>}</span>
+    <span>}</span><span>)</span><span>;</span>
+
+    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
+        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
+        <span>// 直接触发选择文件的点击事件。</span>
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
+<p>使用后端flask之前需要先做好配置：</p>
+<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
+<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
+
+app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
+<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
+    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
+<blockquote>
+<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
+</blockquote>
+<p>调用flask_uploads包后要做如下的配置：</p>
+<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
+configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
+patch_request_class<span>(</span>app<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
+<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
+<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
+<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
+    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
+    file_urls <span>=</span> <span>[</span><span>]</span>
+    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
+    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
+        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
+        fileList<span>.</span>append<span>(</span>filename<span>)</span>
+        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
+    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
+    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
+    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
+<p>「注」：以上所有代码都是项目的主要部分。</p>
+</blockquote>
+<p>最后将整个前后端写好之后，就可以正常执行了！</p>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2021-08-15T15:02:00.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
+    <title type="html">在受限的网站里强制复制粘贴</title>
+    <id>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</id>
+    <link href="https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
+<blockquote>
+<p>参考：</p>
+<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
+<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
+<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
+<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
+</blockquote>
+<h2 id="背景"> 背景</h2>
+<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
+<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
+<h2 id="实现方法"> 实现方法</h2>
+<h3 id="插件大法"> 插件大法</h3>
+<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
+<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
+<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
+<h3 id="查看源码大法"> 查看源码大法</h3>
+<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
+<blockquote>
+<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
+</blockquote>
+<h3 id="console操作大法"> Console操作大法</h3>
+<h4 id="全文复制"> 全文复制</h4>
+<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
+<p>如果你遇到如下形式的输出：</p>
+<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
+<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
+<p>写Shell文件，输入如下代码：</p>
+<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
+<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
+<h4 id="选中区域复制"> 选中区域复制</h4>
+<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+<ol>
+<li>打开开发者工具</li>
+<li>选中网页中要复制的文字</li>
+<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+</ol>
+<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
+<h3 id="打印预览大法"> 打印预览大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
+<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
+<h3 id="终极杀招"> 终极杀招</h3>
+<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
+<h2 id="补充的小知识"> 补充的小知识</h2>
+<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
+<h3 id="javascript实现方式"> JavaScript实现方式</h3>
+<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
+  <span>return</span> <span>false</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
+  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
+    <span>return</span> <span>false</span><span>;</span>
+  <span>}</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
+<div><pre><code><span>body</span> <span>{</span>
+  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
+  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
+  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
+  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
+  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
+  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
+<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div>]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2021-05-14T17:11:00.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
+    <title type="html">Windows10 快捷键大全</title>
+    <id>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</id>
+    <link href="https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <content type="html"><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
+<h2 id="_2020-11-19"> 2020/11/19</h2>
+<hr>
+<p>今年高考结束后的暑假，我买来笔记本电脑。从此我开始使用了Win10，以我个人的使用习惯，我喜欢且经常使用快捷键，因此在初次使用系统的时候我都会花时间了解并尽力记住快捷键。个人认为，经常使用快捷键会提高你的工作效率，而且也会为你增加不少逼格！说不定你随便敲敲快捷键，就真的有人把你当成大佬咯~以下是Windows10的快捷键的列举讲解：</p>
+<hr>
+<hr>
+<hr>
+<blockquote>
+<p>贴靠窗口：Win + 左/右 &gt;  Win + 上/下 &gt; 窗口可以变为 1/4 大小放置在屏幕 4 个角落。</p>
+</blockquote>
+<blockquote>
+<p>创建新的虚拟桌面：Win + Ctrl + D。</p>
+</blockquote>
+<blockquote>
+<p>关闭当前虚拟桌面：Win + Ctrl + F4。</p>
+</blockquote>
+<blockquote>
+<p>切换虚拟桌面：Win + Ctrl + 左/右。</p>
+</blockquote>
+<blockquote>
+<p>Win + R 打开运行对话框</p>
+</blockquote>
+<blockquote>
+<p>Win + Q 快速打开搜索</p>
+</blockquote>
+<blockquote>
+<p>Win + I 快速打开Win10设置栏</p>
+</blockquote>
+<blockquote>
+<p>Win+ ↑：最大化窗口（与开始屏幕应用无关）Win+ ↓：最小化窗口（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+ SHIFT +↑：垂直拉伸窗口，宽度不变（与开始屏幕应用无关）Win+ SHIFT +↓：垂直缩小窗口，宽度不变（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+SHIFT+←：将活动窗口移至左侧显示器 （与开始屏幕应用无关）Win+SHIFT+→：将活动窗口移至右侧显示器（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+ P：演示设置</p>
+</blockquote>
+<blockquote>
+<p>Win+ Home：最小化所有窗口，第二次键击恢复窗口（不恢复开始屏幕应用）</p>
+</blockquote>
+<blockquote>
+<p>Win+ 数字键：打开或切换位于任务栏指定位置的程序</p>
+</blockquote>
+<blockquote>
+<p>Win+Shift+数字键：打开位于任务栏指定位置程序的新实例</p>
+</blockquote>
+<blockquote>
+<p>Win+B：光标移至通知区域</p>
+</blockquote>
+<blockquote>
+<p>Win+Break：显示“系统属性”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win+Ctrl+F：搜索计算机（如果你在网络上）</p>
+</blockquote>
+<blockquote>
+<p>Win+G：打开游戏屏幕录制</p>
+</blockquote>
+<blockquote>
+<p>Win+L：锁住电脑或切换用户</p>
+</blockquote>
+<blockquote>
+<p>Win+M：最小化所有窗口</p>
+</blockquote>
+<blockquote>
+<p>Win+Shift+M：在桌面恢复所有最小化窗口（不恢复开始屏幕应用）</p>
+</blockquote>
+<blockquote>
+<p>Win+R：打开“运行”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win+T：切换任务栏上的程序</p>
+</blockquote>
+<blockquote>
+<p>Win+U：打开轻松使用</p>
+</blockquote>
+<blockquote>
+<p>Win+F1：打开Windows帮助和支持</p>
+</blockquote>
+<blockquote>
+<p>Win+N：插件新笔记（OneNote）</p>
+</blockquote>
+<blockquote>
+<p>Win+S：打开屏幕截图工具（OneNote）</p>
+</blockquote>
+<blockquote>
+<p>Win+空格键：切换输入语言和键盘布局</p>
+</blockquote>
+<blockquote>
+<p>Win+O：禁用屏幕翻转</p>
+</blockquote>
+<blockquote>
+<p>Win+，：临时查看桌面</p>
+</blockquote>
+<blockquote>
+<p>Win+V：打开剪贴板</p>
+</blockquote>
+<blockquote>
+<p>Win+PgUp：将开始屏幕或开始屏幕应用移至左侧显示器</p>
+</blockquote>
+<blockquote>
+<p>Win+PgDown：将开始屏幕或开始屏幕应用移至右侧显示器</p>
+</blockquote>
+<blockquote>
+<p>Win+.：打开表情输入</p>
+</blockquote>
+<blockquote>
+<p>Win+K：打开蓝牙连接设备</p>
+</blockquote>
+<blockquote>
+<p>Win+H：（与麦克风有关的未知功能）</p>
+</blockquote>
+<blockquote>
+<p>Win+W：打开附加功能（截图、手写板）</p>
+</blockquote>
+<blockquote>
+<p>Win+X：快捷菜单</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Home 最小化除活动窗口之外的所有窗口(传统桌面)</p>
+</blockquote>
+<blockquote>
+<p>开始屏幕直接输入任何字符，开始屏幕下可直接搜索进行搜索</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Pause 显示“系统属性”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Page Up 在多监视器设置中将开始屏幕移动至左监视器</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Page Down 在多监视器设置中将开始屏幕移动至右监视器</p>
+</blockquote>
+<blockquote>
+<p>Win键 + W 打开所选设置的“搜索”个性分类</p>
+</blockquote>
+<blockquote>
+<p>Alt + Win键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的右键菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向右键 将光标移动到下一个字符的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向左键 将光标移动到上一个字词的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向下键 将光标移动到下一个段落的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向上键 将光标移动到上一个段落的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 加某个箭头键 选择一块文本Shift 加任意箭头键 在窗口中或桌面上选择多个项目，或者在文档中选择文本</p>
+</blockquote>
+<blockquote>
+<p>F3 搜索文件或文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+Enter 显示所选项的属性</p>
+</blockquote>
+<blockquote>
+<p>Alt+空格键 为活动窗口打开快捷方式菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+F4 关闭活动文档(在允许同时打开多个文档的程序中)</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+鼠标滚轮 更改图标大小</p>
+</blockquote>
+<blockquote>
+<p>Alt+Esc 以项目打开的顺序循环切换项目</p>
+</blockquote>
+<blockquote>
+<p>F6 在窗口中或桌面上循环切换屏幕元素</p>
+</blockquote>
+<blockquote>
+<p>F4 在 Win资源管理器中显示地址栏列表</p>
+</blockquote>
+<blockquote>
+<p>Shift+F10 显示选定项目的快捷菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Esc 打开“开始”菜单</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 显示相应的菜单</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 执行菜单命令(或其他有下划线的命令)</p>
+</blockquote>
+<blockquote>
+<p>F10 激活活动程序中的菜单栏向右键 打开右侧的下一个菜单或者打开子菜单向左键 打开左侧.的下一个菜单或者关闭子菜单</p>
+</blockquote>
+<blockquote>
+<p>F5(或 Ctrl+R) 刷新活动窗口</p>
+</blockquote>
+<blockquote>
+<p>Alt+向上键 在 Win资源管理器中查看上一级文件夹</p>
+</blockquote>
+<blockquote>
+<p>Esc 取消当前任务</p>
+</blockquote>
+<blockquote>
+<p>插入 CD 时按住 Shift 阻止 CD 自动播放</p>
+</blockquote>
+<blockquote>
+<p>左 Alt+Shift 在启用多种输入语言时切换输入语言</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 在启用多个键盘布局时切换键盘布局 右或左</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 更改从右到左阅读语言的文本阅读方向</p>
+</blockquote>
+<blockquote>
+<p>Win资源管理器中的快捷键</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+N 打开新窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+W 关闭当前窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+N 新建文件夹</p>
+</blockquote>
+<blockquote>
+<p>End 显示活动窗口的底端</p>
+</blockquote>
+<blockquote>
+<p>Home 显示活动窗口的顶端</p>
+</blockquote>
+<blockquote>
+<p>F11 最大化或最小化活动窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+句点 顺时针旋转图片</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+逗号 逆时针旋转图片</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的星号 (*) 显示所选文件夹下的所有子文件夹</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的加号 (+) 显示所选文件夹的内容</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的减号 (-) 折叠选定的文件夹 向左键 折叠当前选项(如果它处于展开状态)，或者选择其父文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+Enter 打开所选项目的“属性”对话框Alt+P 显示预览窗格Alt+向左键 查看上一个文件夹</p>
+</blockquote>
+<blockquote>
+<p>Backspace (退格键) 向上，返回父文件夹</p>
+</blockquote>
+<blockquote>
+<p>向右键 显示当前选项(如果它处于折叠状态)，或者选择第一个子文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+向右键 查看下一个文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+向上键 查看父文件夹</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+E 显示所选文件夹上面的所有文件夹</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+鼠标滚轮 更改文件和文件夹图标的大小和外观</p>
+</blockquote>
+<blockquote>
+<p>Alt+D 选择地址栏</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+E 选择搜索框</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+F 选择搜索框</p>
+</blockquote>
+<blockquote>
+<p>在对话框中使用的快捷键</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Tab 在选项卡上向前移动</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+Tab 在选项卡上向后移动</p>
+</blockquote>
+<blockquote>
+<p>Tab 在选项上向前移动</p>
+</blockquote>
+<blockquote>
+<p>Shift+Tab 在选项上向后移动</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 执行与该字母匹配的命令(或选择选项)Enter</p>
+</blockquote>
+<blockquote>
+<p>对于许多选定命令代替单击鼠标</p>
+</blockquote>
+<blockquote>
+<p>空格键 如果活动选项是复选框，则选中或清除该复选框 箭头键 如果活动选项是一组选项按钮，则选择某个按钮F1 显示帮助F4 显示活动列表中的项目Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹</p>
+</blockquote>
+<hr>
+<hr>
+<hr>
+<p>未完待续.     .    .   .  . .</p>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2020-11-19T14:33:27.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">SDN入门基础</title>
     <id>https://breezeshane.github.io/Web/SDN/</id>
     <link href="https://breezeshane.github.io/Web/SDN/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<div><p>参考链接</p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&amp;mid=209513316&amp;idx=1&amp;sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd" target="_blank" rel="noopener noreferrer">《SDN软件定义网络从入门到精通》导论课</a>
 <a href="http://www.keyunict.com/news/news-271.html" target="_blank" rel="noopener noreferrer">SDN的主要分层结构</a>
@@ -14245,6 +14812,12 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
 <p>SD-WAN在消费级宽带互联网上使用基于应用程序的路由系统，与对SDN至关重要的多协议标签交换(MPLS)相比，这可实现更好的质量性能和更低的每兆字节成本。</p>
 </li>
 </ol>
+<h2 id="sdn-未来可能的应用"> SDN 未来可能的应用</h2>
+<ol>
+<li>SDN-LAN</li>
+<li>SDN-WAN</li>
+<li>SDN-DCN</li>
+</ol>
 ]]></content>
     <author>
       <name>Breeze Shane</name>
@@ -14256,336 +14829,10 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">Windows10 快捷键大全</title>
-    <id>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</id>
-    <link href="https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
-<h2 id="_2020-11-19"> 2020/11/19</h2>
-<hr>
-<p>今年高考结束后的暑假，我买来笔记本电脑。从此我开始使用了Win10，以我个人的使用习惯，我喜欢且经常使用快捷键，因此在初次使用系统的时候我都会花时间了解并尽力记住快捷键。个人认为，经常使用快捷键会提高你的工作效率，而且也会为你增加不少逼格！说不定你随便敲敲快捷键，就真的有人把你当成大佬咯~以下是Windows10的快捷键的列举讲解：</p>
-<hr>
-<hr>
-<hr>
-<blockquote>
-<p>贴靠窗口：Win + 左/右 &gt;  Win + 上/下 &gt; 窗口可以变为 1/4 大小放置在屏幕 4 个角落。</p>
-</blockquote>
-<blockquote>
-<p>创建新的虚拟桌面：Win + Ctrl + D。</p>
-</blockquote>
-<blockquote>
-<p>关闭当前虚拟桌面：Win + Ctrl + F4。</p>
-</blockquote>
-<blockquote>
-<p>切换虚拟桌面：Win + Ctrl + 左/右。</p>
-</blockquote>
-<blockquote>
-<p>Win + R 打开运行对话框</p>
-</blockquote>
-<blockquote>
-<p>Win + Q 快速打开搜索</p>
-</blockquote>
-<blockquote>
-<p>Win + I 快速打开Win10设置栏</p>
-</blockquote>
-<blockquote>
-<p>Win+ ↑：最大化窗口（与开始屏幕应用无关）Win+ ↓：最小化窗口（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+ SHIFT +↑：垂直拉伸窗口，宽度不变（与开始屏幕应用无关）Win+ SHIFT +↓：垂直缩小窗口，宽度不变（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+SHIFT+←：将活动窗口移至左侧显示器 （与开始屏幕应用无关）Win+SHIFT+→：将活动窗口移至右侧显示器（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+ P：演示设置</p>
-</blockquote>
-<blockquote>
-<p>Win+ Home：最小化所有窗口，第二次键击恢复窗口（不恢复开始屏幕应用）</p>
-</blockquote>
-<blockquote>
-<p>Win+ 数字键：打开或切换位于任务栏指定位置的程序</p>
-</blockquote>
-<blockquote>
-<p>Win+Shift+数字键：打开位于任务栏指定位置程序的新实例</p>
-</blockquote>
-<blockquote>
-<p>Win+B：光标移至通知区域</p>
-</blockquote>
-<blockquote>
-<p>Win+Break：显示“系统属性”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win+Ctrl+F：搜索计算机（如果你在网络上）</p>
-</blockquote>
-<blockquote>
-<p>Win+G：打开游戏屏幕录制</p>
-</blockquote>
-<blockquote>
-<p>Win+L：锁住电脑或切换用户</p>
-</blockquote>
-<blockquote>
-<p>Win+M：最小化所有窗口</p>
-</blockquote>
-<blockquote>
-<p>Win+Shift+M：在桌面恢复所有最小化窗口（不恢复开始屏幕应用）</p>
-</blockquote>
-<blockquote>
-<p>Win+R：打开“运行”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win+T：切换任务栏上的程序</p>
-</blockquote>
-<blockquote>
-<p>Win+U：打开轻松使用</p>
-</blockquote>
-<blockquote>
-<p>Win+F1：打开Windows帮助和支持</p>
-</blockquote>
-<blockquote>
-<p>Win+N：插件新笔记（OneNote）</p>
-</blockquote>
-<blockquote>
-<p>Win+S：打开屏幕截图工具（OneNote）</p>
-</blockquote>
-<blockquote>
-<p>Win+空格键：切换输入语言和键盘布局</p>
-</blockquote>
-<blockquote>
-<p>Win+O：禁用屏幕翻转</p>
-</blockquote>
-<blockquote>
-<p>Win+，：临时查看桌面</p>
-</blockquote>
-<blockquote>
-<p>Win+V：打开剪贴板</p>
-</blockquote>
-<blockquote>
-<p>Win+PgUp：将开始屏幕或开始屏幕应用移至左侧显示器</p>
-</blockquote>
-<blockquote>
-<p>Win+PgDown：将开始屏幕或开始屏幕应用移至右侧显示器</p>
-</blockquote>
-<blockquote>
-<p>Win+.：打开表情输入</p>
-</blockquote>
-<blockquote>
-<p>Win+K：打开蓝牙连接设备</p>
-</blockquote>
-<blockquote>
-<p>Win+H：（与麦克风有关的未知功能）</p>
-</blockquote>
-<blockquote>
-<p>Win+W：打开附加功能（截图、手写板）</p>
-</blockquote>
-<blockquote>
-<p>Win+X：快捷菜单</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Home 最小化除活动窗口之外的所有窗口(传统桌面)</p>
-</blockquote>
-<blockquote>
-<p>开始屏幕直接输入任何字符，开始屏幕下可直接搜索进行搜索</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Pause 显示“系统属性”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Page Up 在多监视器设置中将开始屏幕移动至左监视器</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Page Down 在多监视器设置中将开始屏幕移动至右监视器</p>
-</blockquote>
-<blockquote>
-<p>Win键 + W 打开所选设置的“搜索”个性分类</p>
-</blockquote>
-<blockquote>
-<p>Alt + Win键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的右键菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向右键 将光标移动到下一个字符的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向左键 将光标移动到上一个字词的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向下键 将光标移动到下一个段落的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向上键 将光标移动到上一个段落的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 加某个箭头键 选择一块文本Shift 加任意箭头键 在窗口中或桌面上选择多个项目，或者在文档中选择文本</p>
-</blockquote>
-<blockquote>
-<p>F3 搜索文件或文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+Enter 显示所选项的属性</p>
-</blockquote>
-<blockquote>
-<p>Alt+空格键 为活动窗口打开快捷方式菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+F4 关闭活动文档(在允许同时打开多个文档的程序中)</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+鼠标滚轮 更改图标大小</p>
-</blockquote>
-<blockquote>
-<p>Alt+Esc 以项目打开的顺序循环切换项目</p>
-</blockquote>
-<blockquote>
-<p>F6 在窗口中或桌面上循环切换屏幕元素</p>
-</blockquote>
-<blockquote>
-<p>F4 在 Win资源管理器中显示地址栏列表</p>
-</blockquote>
-<blockquote>
-<p>Shift+F10 显示选定项目的快捷菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Esc 打开“开始”菜单</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 显示相应的菜单</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 执行菜单命令(或其他有下划线的命令)</p>
-</blockquote>
-<blockquote>
-<p>F10 激活活动程序中的菜单栏向右键 打开右侧的下一个菜单或者打开子菜单向左键 打开左侧.的下一个菜单或者关闭子菜单</p>
-</blockquote>
-<blockquote>
-<p>F5(或 Ctrl+R) 刷新活动窗口</p>
-</blockquote>
-<blockquote>
-<p>Alt+向上键 在 Win资源管理器中查看上一级文件夹</p>
-</blockquote>
-<blockquote>
-<p>Esc 取消当前任务</p>
-</blockquote>
-<blockquote>
-<p>插入 CD 时按住 Shift 阻止 CD 自动播放</p>
-</blockquote>
-<blockquote>
-<p>左 Alt+Shift 在启用多种输入语言时切换输入语言</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 在启用多个键盘布局时切换键盘布局 右或左</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 更改从右到左阅读语言的文本阅读方向</p>
-</blockquote>
-<blockquote>
-<p>Win资源管理器中的快捷键</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+N 打开新窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+W 关闭当前窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+N 新建文件夹</p>
-</blockquote>
-<blockquote>
-<p>End 显示活动窗口的底端</p>
-</blockquote>
-<blockquote>
-<p>Home 显示活动窗口的顶端</p>
-</blockquote>
-<blockquote>
-<p>F11 最大化或最小化活动窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+句点 顺时针旋转图片</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+逗号 逆时针旋转图片</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的星号 (*) 显示所选文件夹下的所有子文件夹</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的加号 (+) 显示所选文件夹的内容</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的减号 (-) 折叠选定的文件夹 向左键 折叠当前选项(如果它处于展开状态)，或者选择其父文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+Enter 打开所选项目的“属性”对话框Alt+P 显示预览窗格Alt+向左键 查看上一个文件夹</p>
-</blockquote>
-<blockquote>
-<p>Backspace (退格键) 向上，返回父文件夹</p>
-</blockquote>
-<blockquote>
-<p>向右键 显示当前选项(如果它处于折叠状态)，或者选择第一个子文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+向右键 查看下一个文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+向上键 查看父文件夹</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+E 显示所选文件夹上面的所有文件夹</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+鼠标滚轮 更改文件和文件夹图标的大小和外观</p>
-</blockquote>
-<blockquote>
-<p>Alt+D 选择地址栏</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+E 选择搜索框</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+F 选择搜索框</p>
-</blockquote>
-<blockquote>
-<p>在对话框中使用的快捷键</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Tab 在选项卡上向前移动</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+Tab 在选项卡上向后移动</p>
-</blockquote>
-<blockquote>
-<p>Tab 在选项上向前移动</p>
-</blockquote>
-<blockquote>
-<p>Shift+Tab 在选项上向后移动</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 执行与该字母匹配的命令(或选择选项)Enter</p>
-</blockquote>
-<blockquote>
-<p>对于许多选定命令代替单击鼠标</p>
-</blockquote>
-<blockquote>
-<p>空格键 如果活动选项是复选框，则选中或清除该复选框 箭头键 如果活动选项是一组选项按钮，则选择某个按钮F1 显示帮助F4 显示活动列表中的项目Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹</p>
-</blockquote>
-<hr>
-<hr>
-<hr>
-<p>未完待续.     .    .   .  . .</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2020-11-19T14:33:27.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">𝕬𝖇𝖔𝖚𝖙</title>
     <id>https://breezeshane.github.io/about/</id>
     <link href="https://breezeshane.github.io/about/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -14619,14 +14866,14 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://breezeshane.github.io/intro/</id>
     <link href="https://breezeshane.github.io/intro/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -14636,14 +14883,14 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://breezeshane.github.io/layout/</id>
     <link href="https://breezeshane.github.io/layout/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -14668,14 +14915,14 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">友情链接</title>
     <id>https://breezeshane.github.io/links/</id>
     <link href="https://breezeshane.github.io/links/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -14708,14 +14955,14 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
     <id>https://breezeshane.github.io/qap/</id>
     <link href="https://breezeshane.github.io/qap/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<center>
     <font color="#fa8c35" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
@@ -14752,7 +14999,7 @@ background-size: cover;
     <title type="html">Blog Home</title>
     <id>https://breezeshane.github.io/</id>
     <link href="https://breezeshane.github.io/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content>
     <author>
@@ -14761,14 +15008,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://breezeshane.github.io/slides/</id>
     <link href="https://breezeshane.github.io/slides/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -14777,240 +15024,193 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-29T13:01:36.000Z</published>
+    <published>2022-02-21T13:09:10.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">在受限的网站里强制复制粘贴</title>
-    <id>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</id>
-    <link href="https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
-    <content type="html"><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
-<blockquote>
-<p>参考：</p>
-<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
-<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
-<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
-<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
-</blockquote>
-<h2 id="背景"> 背景</h2>
-<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
-<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
-<h2 id="实现方法"> 实现方法</h2>
-<h3 id="插件大法"> 插件大法</h3>
-<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
-<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
-<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
-<h3 id="查看源码大法"> 查看源码大法</h3>
-<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
-<blockquote>
-<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
-</blockquote>
-<h3 id="console操作大法"> Console操作大法</h3>
-<h4 id="全文复制"> 全文复制</h4>
-<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
-<p>如果你遇到如下形式的输出：</p>
-<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
-<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
-<p>写Shell文件，输入如下代码：</p>
-<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
-<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
-<h4 id="选中区域复制"> 选中区域复制</h4>
-<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+    <title type="html">数据库</title>
+    <id>https://breezeshane.github.io/Web/DataBase/</id>
+    <link href="https://breezeshane.github.io/Web/DataBase/"/>
+    <updated>2022-02-21T13:09:10.000Z</updated>
+    <content type="html"><![CDATA[<p><strong>数据库</strong>，又称为数据管理系统，是以一定方式储存在一起、能予多个用户共享、具有尽可能小的冗余度、与应用程序彼此独立的数据集合。</p>
+<h2 id="分类"> 分类</h2>
+<p><strong>关系型数据库</strong>，是指采用了关系模型来组织数据的数据库，其以行和列的形式存储数据，以便于用户理解，关系型数据库这一系列的行和列被称为表，一组表组成了数据库。用户通过查询来检索数据库中的数据，而查询是一个用于限定数据库中某些区域的执行代码。</p>
+<p>关系模型可以简单理解为二维表格模型，而一个关系型数据库就是由二维表及其之间的关系组成的一个数据组织。</p>
+<details><summary>关系型数据库特点</summary>
 <ol>
-<li>打开开发者工具</li>
-<li>选中网页中要复制的文字</li>
-<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+<li><strong>存储方式</strong>：传统的关系型数据库采用表格的储存方式，数据以行和列的方式进行存储，要读取和查询都十分方便。</li>
+<li><strong>存储结构</strong>：关系型数据库按照结构化的方法存储数据，每个数据表都必须对各个字段定义好（也就是先定义好表的结构），再根据表的结构存入数据，这样做的好处就是由于数据的形式和内容在存入数据之前就已经定义好了，所以整个数据表的可靠性和稳定性都比较高，但带来的问题就是一旦存入数据后，如果需要修改数据表的结构就会十分困难。</li>
+<li><strong>存储规范</strong>：关系型数据库为了避免重复、规范化数据以及充分利用好存储空间，把数据按照最小关系表的形式进行存储，这样数据管理的就可以变得很清晰、一目了然，当然这主要是一张数据表的情况。如果是多张表情况就不一样了，由于数据涉及到多张数据表，数据表之间存在着复杂的关系，随着数据表数量的增加，数据管理会越来越复杂。</li>
+<li><strong>扩展方式</strong>：由于关系型数据库将数据存储在数据表中，数据操作的瓶颈出现在多张数据表的操作中，而且数据表越多这个问题越严重，如果要缓解这个问题，只能提高处理能力，也就是选择速度更快性能更高的计算机，这样的方法虽然可以一定的拓展空间，但这样的拓展空间一定有非常有限的，也就是关系型数据库只具备纵向扩展能力。</li>
+<li><strong>查询方式</strong>：关系型数据库采用结构化查询语言（即SQL）来对数据库进行查询，SQL早已获得了各个数据库厂商的支持，成为数据库行业的标准，它能够支持数据库的CRUD（增加，查询，更新，删除）操作，具有非常强大的功能，SQL可以采用类似索引的方法来加快查询操作。</li>
+<li><strong>规范化</strong>：在数据库的设计开发过程中开发人员通常会面对同时需要对一个或者多个数据实体（包括数组、列表和嵌套数据）进行操作，这样在关系型数据库中，一个数据实体一般首先要分割成多个部分，然后再对分割的部分进行规范化，规范化以后再分别存入到多张关系型数据表中，这是一个复杂的过程。好消息是随着软件技术的发展，相当多的软件开发平台都提供一些简单的解决方法，例如，可以利用ORM层（也就是对象关系映射）来将数据库中对象模型映射到基于SQL的关系型数据库中去以及进行不同类型系统的数据之间的转换。</li>
+<li><strong>事务性</strong>：关系型数据库强调ACID规则（原子性（Atomicity）、一致性（Consistency）、隔离性（Isolation）、持久性（Durability）），可以满足对事务性要求较高或者需要进行复杂数据查询的数据操作，而且可以充分满足数据库操作的高性能和操作稳定性的要求。并且关系型数据库十分强调数据的强一致性，对于事务的操作有很好的支持。关系型数据库可以控制事务原子性细粒度，并且一旦操作有误或者有需要，可以马上回滚事务。</li>
+<li><strong>读写性能</strong>：关系型数据库十分强调数据的一致性，并为此降低读写性能付出了巨大的代价，虽然关系型数据库存储数据和处理数据的可靠性很不错，但一旦面对海量数据的处理的时候效率就会变得很差，特别是遇到高并发读写的时候性能就会下降的非常厉害。</li>
+<li><strong>授权方式</strong>：关系型数据库常见的有Oracle，SQLServer，DB2，Mysql，除了Mysql大多数的关系型数据库如果要使用都需要支付一笔价格高昂的费用，即使是免费的Mysql性能也受到了诸多的限制。</li>
 </ol>
-<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
-<h3 id="打印预览大法"> 打印预览大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
-<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
-<h3 id="终极杀招"> 终极杀招</h3>
-<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
-<h2 id="补充的小知识"> 补充的小知识</h2>
-<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
-<h3 id="javascript实现方式"> JavaScript实现方式</h3>
-<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-  <span>return</span> <span>false</span><span>;</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
-  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
-    <span>return</span> <span>false</span><span>;</span>
-  <span>}</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
-<div><pre><code><span>body</span> <span>{</span>
-  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
-  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
-  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
-  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
-  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
-  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
-<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div>]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2021-05-14T17:11:00.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">简单的网页前后端搭建过程</title>
-    <id>https://breezeshane.github.io/Web/Frontbackend/</id>
-    <link href="https://breezeshane.github.io/Web/Frontbackend/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
-<h3 id="html"> HTML</h3>
-<p><strong>HTML设置字体：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
-<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
-<span><span><span>&lt;/</span>form</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
-<h3 id="css"> CSS</h3>
-<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
-<p>CSS选择器：</p>
-<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
-<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
-<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
-<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
-<span>background-position</span><span>:</span> center center<span>;</span>
-<span>background-attachment</span><span>:</span> fixed<span>;</span>
-<span>background-size</span><span>:</span> cover<span>;</span>
-<span>margin</span><span>:</span> 0<span>;</span>
-<span>position</span><span>:</span> relative<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
-<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
-<span>top</span><span>:</span> 50%<span>;</span>
-<span>left</span><span>:</span> 50%<span>;</span>
-<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
-<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
-<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
-<h3 id="javascript"> JavaScript</h3>
-<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
-<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
-    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
-    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
-    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
-	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
-
-    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
-	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
-
-    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
-        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
-        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
-        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
-            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
-            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
-        <span>}</span>
-        file_num <span>=</span> fileList<span>.</span>length
-        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
-            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
-        <span>}</span> <span>else</span> <span>{</span>
-            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
-                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
-            <span>}</span>
-            <span>// 以下定义了前端传输的相关信息。</span>
-            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
-                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
-                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
-                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
-                processData<span>:</span> <span>false</span><span>,</span> 
-                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
-                contentType<span>:</span> <span>false</span><span>,</span>
-                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
-                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
-                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
-                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
-                    <span>//后续的两行代码则是修改相应控件的数据。</span>
-                <span>}</span><span>,</span>
-                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
-                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
-                <span>}</span>
-            <span>}</span><span>)</span>
-        <span>}</span>
-    <span>}</span><span>)</span><span>;</span>
-
-    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
-        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
-        <span>// 直接触发选择文件的点击事件。</span>
-    <span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
-<p>使用后端flask之前需要先做好配置：</p>
-<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
-<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
-
-app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
-<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
-    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
-<blockquote>
-<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
-</blockquote>
-<p>调用flask_uploads包后要做如下的配置：</p>
-<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
-configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
-patch_request_class<span>(</span>app<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
-<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
-<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
-<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
-    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
-    file_urls <span>=</span> <span>[</span><span>]</span>
-    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
-    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
-        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
-        fileList<span>.</span>append<span>(</span>filename<span>)</span>
-        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
-    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
-    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
-    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
-<p>「注」：以上所有代码都是项目的主要部分。</p>
-</blockquote>
-<p>最后将整个前后端写好之后，就可以正常执行了！</p>
+</details>
+<p>非关系型数据库（NoSQL数据库）</p>
+<ol>
+<li>
+<p><strong>文档数据库</strong>——这些数据库通常将每个键与称为文档的复杂数据结构配对。文档可以包含键数组对、键值对甚至嵌套文档。</p>
+<p>示例：MongoDB、Apache CouchDB、ArangoDB、Couchbase、Cosmos DB、IBM Domino、MarkLogic、OrientDB。</p>
+</li>
+<li>
+<p><strong>键值存储</strong>——每个单独的项都存储为键值对。键值存储是所有NoSQL数据库中最简单的数据库。</p>
+<p>示例：Redis,Memcached,Apache Ignite,Riak。</p>
+</li>
+<li>
+<p><strong>宽列存储</strong>——这些类型的数据库针对大型数据集上的查询进行了优化，它们将数据列存储在一起，而不是行。</p>
+<p>示例：Cassandra，Hbase，Scylla。</p>
+</li>
+<li>
+<p><strong>图形存储</strong>——这些存储关于图形、网络的信息，例如社会关系、路线图、交通链接。</p>
+<p>示例：Neo4j，AllegroGraph。</p>
+</li>
+</ol>
+<details><summary>非关系型数据库特点</summary>
+<p>对于NoSQL并没有一个明确的范围和定义，但是他们都普遍存在下面一些共同特征：</p>
+<ol>
+<li><strong>易扩展</strong>：NoSQL数据库种类繁多，但是一个共同的特点都是去掉关系数据库的关系型特性。数据之间无关系，这样就非常容易扩展。无形之间，在架构的层面上带来了可扩展的能力。</li>
+<li><strong>大数据量，高性能</strong>：NoSQL数据库都具有非常高的读写性能，尤其在大数据量下，同样表现优秀。这得益于它的无关系性，数据库的结构简单。一般MySQL使用Query Cache。NoSQL的Cache是记录级的，是一种细粒度的Cache，所以NoSQL在这个层面上来说性能就要高很多。</li>
+<li><strong>灵活的数据模型</strong>：NoSQL无须事先为要存储的数据建立字段，随时可以存储自定义的数据格式。而在关系数据库里，增删字段是一件非常麻烦的事情。如果是非常大数据量的表，增加字段简直就是——个噩梦。这点在大数据量的Web 2.0时代尤其明显。</li>
+<li><strong>高可用</strong>：NoSQL在不太影响性能的情况，就可以方便地实现高可用的架构。比如Cassandra、HBase模型，通过复制模型也能实现高可用。</li>
+</ol>
+</details>
+<div><p>提示</p>
+<p>非关系型数据库的实质：非关系型数据库产品是传统关系型数据库的功能阉割版本，通过减少用不到或很少用的功能，来大幅度提高产品性能。</p>
+</div>
+<h2 id="关系型与非关系型数据库的比较"> 关系型与非关系型数据库的比较</h2>
+<ol>
+<li>成本:Nosql数据库很容易部署，基本上是开源软件，无需像Oracle那样花费大量成本购买，比关系数据库便宜。</li>
+<li>查询速度:Nosql数据库将数据存储在高速缓存中，不需要对SQL层进行分析。关系数据库在硬盘上存储数据，自然的查询速度远比Nosql数据库慢。</li>
+<li>存储数据的格式：Nosql的存储格式是key,value形式、文档形式、图片形式等等，所以可以存储基础类型以及对象或者是集合等各种格式，而数据库则只支持基础类型。</li>
+<li>扩展性：关系型数据库有类似join这样的多表查询机制的限制导致扩展很艰难。Nosql基于键值对，数据之间没有耦合性，所以非常容易水平扩展。</li>
+<li>持久存储：Nosql不使用于持久存储，海量数据的持久存储，还是需要关系型数据库</li>
+<li>数据一致性：非关系数据库通常强调数据的最终一致性，而不是像关系数据库那样强烈的数据一致性，以及从非关系数据库读取的数据可能仍处于中间状态，Nosql不提供对事务的处理。</li>
+</ol>
+<h2 id="特点"> 特点</h2>
+<ol>
+<li>
+<p>数据结构化数据库系统实现整体数据的结构化，这是数据库的主要特征之一，也是数据库系统与文件系统的本质区别。</p>
+</li>
+<li>
+<p>数据的共享性高，冗余度低，易扩充数据库的数据不再面向某个应用而是面向整个系统，因此可以被多个用户、多个应用、用多种不同的语言共享使用。由于数据面向整个系统，是有结构的数据，不仅可以被多个应用共享使用，而且容易增加新的应用，这就使得数据库系统易于扩充，我们称之为弹性大。</p>
+</li>
+<li>
+<p>数据独立性高数据独立性包括数据的物理独立性和数据的逻辑独立性。数据库管理系统的模式结构和二级映像功能保证了数据库中的数据具有很高的物理独立性和逻辑独立性。</p>
+</li>
+<li>
+<p>数据由DBMS统一管理和控制数据库的共享是并发的共享，即多个用户可以同时存取数据库中的数据甚至可以同时存取数据库中同一个数据。为此，DBMS必须提供统一的数据控制功能，包括数据的安全性保护，数据的完整性检查，并发控制和数据库恢复。</p>
+</li>
+</ol>
+<h2 id="作用"> 作用</h2>
+<ol>
+<li>实现数据共享：数据共享包含所有用户可同时存取数据库中的数据，也包括用户可以用各种方式通过接口使用数据库，并提供数据共享。</li>
+<li>减少数据的冗余度：同文件系统相比，由于数据库实现了数据共享，从而避免了用户各自建立应用文件。减少了大量重复数据，减少了数据冗余，维护了数据的一致性。</li>
+</ol>
+<div><p>注意</p>
+<p>任何一种性能优良的数据库系统都是不可能避免数据冗余的，因为冗余的数据也是日后进行数据库恢复的技术手段之一。</p>
+</div>
+<h2 id="数据抽象"> 数据抽象</h2>
+<p>数据抽象主要是为了向用户屏蔽复杂性。一共分为三层：</p>
+<ol>
+<li>物理层，物理层的数据抽象主要描述了数据在物理层面是怎么存储的数据，主要是数据库的供应商来研究。</li>
+<li>逻辑层，逻辑层的数据抽象主要描述了数据库中存储着什么数据，这些数据之间有什么关系，这主要是开发人员或者是数据库管理员考虑的，逻辑层的用户不需要去知道我的数据具体是怎么样子存储的。</li>
+<li>视图层，在一些数据库系统中，往往数据库是非常庞大的，而我们用户只关心庞大的数据库中的某一个小部分，视图层描述着庞大的数据库中的一部分，作为一个视图，由于大型数据库中的数据非常多而且具有着多样性，这就不可避免的产生了复杂性，视图层的抽象的定义正是为了给只需要访问一部分数据库的用户提供与系统的交互的简单性。</li>
+</ol>
+<div><p>视图</p>
+<p>数据库为用户在视图层提供一个个的视图，可以隐藏数据库的复杂性，因为如果用户只需要某一部分的数据，那么只需要把那部分拿出来单独作为一个视图提供给用户就好了，用户不用关心这一部分数据与数据库系统中其他数据的关系，而且视图还可以起到不让用户访问某一些数据的作用，可以对数据库的安全性有所保障。</p>
+</div>
+<h2 id="实例和模式"> 实例和模式</h2>
+<p><strong>实例</strong>：数据库会随着时间的推移而发生数据的更改或者是结构的更改，在某一时刻数据库中所有数据的集合。</p>
+<div><p>提示</p>
+<p>数据库实例状态是数据库实例的运行情况。</p>
+</div>
+<p><strong>模式</strong>：数据库的总体设计被称为模式，是数据库中全体数据的结构以及特征的描述，是所有用户的公共视图。</p>
+<h2 id="数据库的三级模式结构"> 数据库的三级模式结构</h2>
+<ol>
+<li>
+<p><strong>外模式</strong>(反映了数据库系统的用户观)</p>
+<p>外模式又称子模式或用户模式，对应于用户级。它是某个或某几个用户所看到的数据库的数据视图，是与某一应用有关的数据的逻辑表示。外模式是从模式导出的一个子集，包含模式中允许特定用户使用的那部分数据。用户可以通过外模式描述语言来描述、定义对应于用户的数据记录(外模式)，也可以利用数据操纵语言(Data Manipulation Language，DML)对这些数据记录进行操作。</p>
+</li>
+<li>
+<p><strong>概念模式</strong>（反映了数据库系统的整体观）</p>
+<p>概念模式又称模式或逻辑模式，对应于概念级。它是由数据库设计者综合所有用户的数据，按照统一的观点构造的全局逻辑结构，是对数据库中全部数据的逻辑结构和特征的总体描述，是所有用户的公共数据视图(全局视图)。它是由数据库管理系统提供的数据模式描述语言(Data Description Language，DDL)来描述、定义的。</p>
+</li>
+<li>
+<p><strong>内模式</strong>（反映了数据库系统的存储观）</p>
+<p>内模式又称存储模式，对应于物理级。它是数据库中全体数据的内部表示或底层描述，是数据库最低一级的逻辑描述，它描述了数据在存储介质上的存储方式和物理结构，对应着实际存储在外存储介质上的数据库。内模式由内模式描述语言来描述、定义的。</p>
+</li>
+</ol>
+<h2 id="数据库的两级映射"> 数据库的两级映射</h2>
+<p>数据库系统在三级模式之间提供了两级映像：模式/内模式的映像、外模式/模式的映像。</p>
+<ul>
+<li>模式/内模式的映像：实现概念模式到内模式之间的相互转换。</li>
+<li>外模式/模式的映像：实现外模式到概念模式之间的相互转换。</li>
+</ul>
+<div><p>提示</p>
+<p>数据的独立性是指数据与程序独立，将数据的定义从程序中分离出来，由DBMS（数据库管理系统）负责数据的存储，从而简化应用程序，大大减少应用程序编制的工作量。</p>
+<p>数据的独立性是由DBMS的二级映像功能来保证的。数据的独立性包括数据的物理独立性和数据的逻辑独立性。</p>
+</div>
+<details><summary>数据的物理独立性和逻辑独立性</summary>
+<p><strong>数据的物理独立性</strong>是指当数据库的内模式发生改变时，数据的的逻辑结构不变。由于应用程序处理的只是数据的逻辑结构，这样物理独立性可以保证，当数据的物理结构改变了，应用程序不用改变。但是，为了保证应用程序能够正确执行，需要修改概念模式/内模式之间的映像。</p>
+<p><strong>数据的逻辑独立性</strong>是指用户的应用程序与数据库结构是相互独立的。数据的逻辑结构发生变化后，用户程序也可以不修改。但是，为了保证应用程序能够正确执行，需要修改外模式/概念模式之间的映像。</p>
+</details>
+<h2 id="数据模型"> 数据模型</h2>
+<p><strong>数据模型</strong>是对现实世界数据特征的抽象。数据模型是用来描述数据、组织数据和对数据进行操作的。</p>
+<div><p>分类</p>
+<ol>
+<li>
+<p><strong>概念模型</strong>：是按用户的观点来对数据和信息建模，主要用于数据库设计，也称信息模型，用于信息世界的建模，是现实世界到信息世界的第一层抽象，是数据库设计人员进行数据库设计的有力工具，也是数据库设计人员和用户之间进行交流的语言。</p>
+</li>
+<li>
+<p><strong>逻辑模型</strong>：主要包括层次模型、网状模型、关系模型、面向对象数据模型和对象关系数据模型、半结构化数据模型等。它是按计算机系统的观点对数据建模，主要用于数据库管理系统的实现。</p>
+</li>
+<li>
+<p><strong>物理模型</strong>：描述数据在系统内部的表示方式和存取方式，或在磁盘上的存储方式和存取方法。物理模型的具体实现是数据库管理系统的任务，数据库设计人员要了解和选择物理模型，最终用户则不必考虑物理级的细节。</p>
+</li>
+</ol>
+</div>
+<p><strong>数据模型的三要素</strong>：</p>
+<ol>
+<li>数据结构：是所研究的对象类型的集合，是对系统的静态特性的描述。</li>
+<li>数据操作：是指对数据库中各种对象（型）的实例（值）允许进行的操作的集合，包括操作及有关的操作规则，是对系统动态特性的描述。</li>
+<li>数据的约束条件：是完整性规则的集合，完整性规则是给定的数据模型中数据及其联系所具有的制约和依存规则，用以限定符合数据模型的数据库状态以及状态的变化，以保证数据的正确、有效、相容。</li>
+</ol>
+<h2 id="数据库系统的核心-数据管理系统"> 数据库系统的核心——数据管理系统</h2>
+<p>数据库管理系统(Database Management System，DBMS)是一个能够科学地组织和存储数据，高效地获取和维护数据的系统软件，是位于用户与操作系统之间的数据管理软件。</p>
+<div><p>主要功能</p>
+<ol>
+<li><strong>数据定义功能</strong>：数据库管理系统提供数据定义语言(DDL)，用户可以通过它可以方便地对数据库中的数据对象的组成与结构进行定义；</li>
+<li><strong>数据组织、存储和管理功能</strong>：数据库管理系统要分类组织、存储和管理数据，包括数据字典，用户数据、数据的存取路径等。要确定以何种文件结构和存取方式在存储上组织这些数据，如何实现数据之间的联系；数据组织和存储的基本目标是提高存储空间利用率和方便存取，提供多种存取方法来提高存取效率；</li>
+<li><strong>数据操纵功能</strong>：数据库系统管理系统还提供数据操纵语言(Data Manipulation Language，DML)，用户可以使用它来操纵数据，实现对数据库的基本操作，如查询、插入、删除和修改等；</li>
+<li><strong>数据库的事务管理和运行管理</strong>：数据库在建立、运用和维护时由数据库管理系统统一管理和控制，以保证事务的正确运行，保证数据的安全性、完整性、多用户对数据的并发使用及发生故障后的系统恢复；</li>
+<li><strong>数据库的建立和维护功能</strong>：包括数据库初始数据的输入和转换功能，数据库的转储、恢复功能，数据库的重组织功能和性能监视、分析功能等，这些功能通常由一些使用程序或管理工具完成的。</li>
+<li><strong>数据库的传输功能</strong>：DBMS提供处理数据的传输，实现用户程序与DBMS之间的通信，通常与操作系统协调完成。</li>
+<li><strong>与其他软件系统的通信功能</strong>。</li>
+</ol>
+</div>
+<details><summary>关系数据库管理系统的完整性控制机制应具有哪三方面的功能？</summary>
+<ol>
+<li>定义功能，即提供定义完整性约束条件的机制；</li>
+<li>检查功能，即检查用户发出的操作请求是否违背了完整性约束条件；</li>
+<li>违约反应：如果发现用户的操作请求使数据违背了完整性约束条件，则采取一定的动作来保证数据的完整性。</li>
+</ol>
+</details>
+<h2 id="数据库系统组成"> 数据库系统组成</h2>
+<ol>
+<li>数据库（Database，DB）是指长期存储在计算机内的，有组织，可共享的数据的集合。数据库中的数据按一定的数学模型组织、描述和存储，具有较小的冗余，较高的数据独立性和易扩展性，并可为各种用户共享。</li>
+<li>硬件：构成计算机系统的各种物理设备，包括存储所需的外部设备。硬件的配置应满足整个数据库系统的需要。</li>
+<li>软件：包括操作系统、数据库管理系统及应用程序。数据库管理系统（Database Management System，DBMS）是数据库系统的核心软件，是在操作系统的支持下工作，解决如何科学地组织和存储数据，如何高效获取和维护数据的系统软件。其主要功能包括：数据定义功能、数据操纵功能、数据库的运行管理和数据库的建立与维护。</li>
+<li>人员：主要有4类。第一类为系统分析员和数据库设计人员：系统分析员负责应用系统的需求分析和规范说明，他们和用户及数据库管理员一起确定系统的硬件配置，并参与数据库系统的概要设计。数据库设计人员负责数据库中数据的确定、数据库各级模式的设计。第二类为应用程序员，负责编写使用数据库的应用程序。这些应用程序可对数据进行检索、建立、删除或修改。第三类为最终用户，他们利用系统的接口或查询语言访问数据库。第四类用户是数据库管理员（data base administrator，DBA），负责数据库的总体信息控制。DBA的具体职责包括：具体数据库中的信息内容和结构，决定数据库的存储结构和存取策略，定义数据库的安全性要求和完整性约束条件，监控数据库的使用和运行，负责数据库的性能改进、数据库的重组和重构，以提高系统的性能。</li>
+</ol>
+<h2 id="数据库管理员"> 数据库管理员</h2>
+<p><strong>数据库管理员</strong>（Database Administrator，简称DBA），是从事管理和维护数据库管理系统(DBMS)的相关工作人员的统称，属于运维工程师的一个分支，主要负责业务数据库从设计、测试到部署交付的全生命周期管理。</p>
+<p>DBA的核心目标是保证数据库管理系统的稳定性、安全性、完整性和高性能。</p>
+<div><p>提示</p>
+<p>数据库管理员（Database Administrator, DBA）一般是由业务水平较高、资历较深的人员担任。</p>
+</div>
 ]]></content>
     <author>
       <name>Breeze Shane</name>
@@ -15018,14 +15218,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2021-08-15T15:02:00.000Z</published>
+    <published>2022-02-21T18:59:43.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">关于Vcomputer如何实现循环的哲学问题</title>
     <id>https://breezeshane.github.io/VComputer/</id>
     <link href="https://breezeshane.github.io/VComputer/"/>
-    <updated>2022-01-29T13:01:36.000Z</updated>
+    <updated>2022-02-21T13:09:10.000Z</updated>
     <content type="html"><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
 <hr>
 <p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
