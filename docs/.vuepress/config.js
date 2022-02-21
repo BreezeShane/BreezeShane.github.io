@@ -270,6 +270,7 @@ module.exports = config({
                   "HowtoForceCVWhenBanned",
                   "Frontbackend",
                   "SDN",
+                  "DataBase",
                 ],
               },
               {
