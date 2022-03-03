@@ -110,7 +110,7 @@ LOAD DATA INFILE 'PATH_TO_MY_FILE' INTO TABLE <NAME_OF_TB> FIELDS TERM INATED BY
 
 但就在这里报了错：
 
-::: error
+::: danger
 
 The MySQL server is running with the --secure-file-priv option so it cannot execute this statement.
 
@@ -141,7 +141,7 @@ NULL：表示禁止，不接受任何形式的导入。
 
 当我执行`mysql -uroot -p`的时候它给出了如下报错：
 
-::: error
+::: danger
 
 ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2)
 
@@ -149,7 +149,7 @@ ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mys
 
 简单搜索了一下，这个其实意思就是MySQL服务启动失败，因此无法建立联接。当我尝试使用`systemctl status mysqld`来查看日志，接着看到了下面的报错：
 
-::: error
+::: danger
 
 ERROR Found option without preceding group in config file /etc/my.cnf.
 
@@ -172,7 +172,7 @@ LOAD DATA INFILE 'PATH_TO_MY_FILE' INTO TABLE <NAME_OF_TB> FIELDS TERM INATED BY
 
 这回又给出了报错：
 
-::: error
+::: danger
 
 ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides.
 
@@ -182,7 +182,7 @@ ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both
 
 要修改的关键的环境变量是`local_infile`，可以使用`show variables like 'local_infile';`来查看该环境变量的值。果然执行后发现它的值是OFF。因此我需要修改这个环境变量来达到读取文件的目的，执行：`SET GLOBAL local_infile=on;`这样就可以了，于是我再次执行上面的LOAD命令的时候，又遭遇了报错：
 
-::: error
+::: danger
 
 ERROR 13 (HY000): Can't get stat of '/home/breezeshane/AppData/Subjects/Database/product.csv' (OS errno 13 - Permission denied)
 
