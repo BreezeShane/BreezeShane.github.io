@@ -145,6 +145,7 @@ module.exports = config({
                       "WGAN-div",
                       "EnlightenGAN",
                       "LowLightMetrics",
+                      "FGAN",
                     ],
                   },
                   {
@@ -271,6 +272,7 @@ module.exports = config({
                   "Frontbackend",
                   "SDN",
                   "DataBase",
+                  "MySQL",
                 ],
               },
               {
