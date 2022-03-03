@@ -912,3 +912,63 @@ sudo sysctl --load=/etc/sysctl.d/99-sysctl.conf
 当系统中有内核高耗的进程导致系统卡顿时，可以使用 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>F</kbd> Magic SysRq 组合键唤醒 Linux Kernel 的 OOM（out of memory） Killer 杀死这些进程。使用这个组合键可以减少因内存高耗导致重启系统的次数，OMM Killer使用启发算法选取当前系统内存占用最高且不重要的进程进行杀死，所以当系统内存占用不高的情况下还是需要慎用。
 
 有关Magic SysRq的所有功能按键可以[点此查看](./MagicSysRq.md)
+
+### MySQL安装与配置
+
+近期上课需要使用MySQL，因此我需要提前做好配置，特此一记：
+
+安装仅需一步：
+```shell
+sudo pacman -S mysql
+```
+
+然后就可以开始进行配置，按照其输出的内容，我们执行：
+
+```shell
+sudo mysqld --initialize --user=mysql --basedir=/usr --datadir=/var/lib/mysql
+```
+
+::: tip
+
+如果遇到如下报错：
+```shell
+mysqld: Can't create directory '/var/lib/mysql/' (OS errno 17 - File exists)
+2022-03-03T00:15:00.207164Z 0 [Warning] [MY-010915] [Server] 'NO_ZERO_DATE', 'NO_ZERO_IN_DATE' and 'ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode in a future release.
+2022-03-03T00:15:00.207238Z 0 [System] [MY-013169] [Server] /usr/bin/mysqld (mysqld 8.0.28) initializing of server in progress as process 283212
+2022-03-03T00:15:00.209622Z 0 [ERROR] [MY-013236] [Server] The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+2022-03-03T00:15:00.209733Z 0 [ERROR] [MY-010119] [Server] Aborting
+2022-03-03T00:15:00.209929Z 0 [System] [MY-010910] [Server] /usr/bin/mysqld: Shutdown complete (mysqld 8.0.28)  Source distribution.
+```
+
+什么也不用考虑，删除掉`/var/lib/mysql/`这个文件夹即可
+
+:::
+
+命令执行成功后请留意一下输出的内容，这里会给你默认的MySQL用户及其密码，我们需要特别记下这两个。
+
+然后就需要启动MySQL服务，执行这两个命令：
+```shell
+sudo systemctl enable mysqld
+sudo systemctl start mysqld
+```
+
+以普遍的理性而言，这类的密码是反人类的，因此我们需要修改一下登录密码，先执行这个命令来连接数据库：
+
+```shell
+mysql -uroot -p
+```
+
+然后输入刚才记下的那个复杂的密码，便可成功连接。
+
+在这时你执行命令`use mysql;`会得到类似这样的提示：
+
+```mysql
+ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
+```
+
+所以我们可以根据提示执行这个命令：
+```mysql
+ALTER USER 'root'@'localhost' IDENTIFIED WITH mysql_native_password BY '新密码';
+```
+
+这样就可以成功修改密码了，MySQL的安装与配置也到此结束了。
