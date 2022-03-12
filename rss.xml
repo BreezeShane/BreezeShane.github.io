@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 12 Mar 2022 16:07:34 GMT</pubDate>
-    <lastBuildDate>Sat, 12 Mar 2022 16:07:34 GMT</lastBuildDate>
+    <pubDate>Sat, 12 Mar 2022 16:08:26 GMT</pubDate>
+    <lastBuildDate>Sat, 12 Mar 2022 16:08:26 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -159,18 +159,18 @@
       <pubDate>Sun, 23 Jan 2022 01:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>估计、偏差和方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
-    </item>
-    <item>
       <title>学习算法</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
       <source url="https://breezeshane.github.io/rss.xml">学习算法</source>
       <pubDate>Sun, 23 Jan 2022 01:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>估计、偏差和方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
     </item>
     <item>
       <title>容量、过拟合和欠拟合</title>
@@ -194,18 +194,18 @@
       <pubDate>Sun, 23 Jan 2022 01:05:02 GMT</pubDate>
     </item>
     <item>
-      <title>构建机器学习算法</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">构建机器学习算法</source>
-      <pubDate>Sun, 23 Jan 2022 01:05:10 GMT</pubDate>
-    </item>
-    <item>
       <title>监督学习算法</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
       <source url="https://breezeshane.github.io/rss.xml">监督学习算法</source>
       <pubDate>Sun, 23 Jan 2022 01:05:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>构建机器学习算法</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">构建机器学习算法</source>
+      <pubDate>Sun, 23 Jan 2022 01:05:10 GMT</pubDate>
     </item>
     <item>
       <title>贝叶斯统计</title>
@@ -257,13 +257,6 @@
       <pubDate>Sun, 23 Jan 2022 01:06:38 GMT</pubDate>
     </item>
     <item>
-      <title>约束优化</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约束优化</source>
-      <pubDate>Sun, 23 Jan 2022 01:06:46 GMT</pubDate>
-    </item>
-    <item>
       <title>前言</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</guid>
@@ -274,6 +267,13 @@
 <p>需要掌握的数学知识「线性代数、概率论等」位于Mathematics栏目下，此栏目不作重复性描述。</p>
 </div>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>约束优化</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约束优化</source>
+      <pubDate>Sun, 23 Jan 2022 01:06:46 GMT</pubDate>
     </item>
     <item>
       <title>入门机器学习的安装与配置</title>
@@ -1382,18 +1382,18 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:14:55 GMT</pubDate>
     </item>
     <item>
-      <title>概率分布</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
-    </item>
-    <item>
       <title>独立性和条件独立性</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</guid>
       <source url="https://breezeshane.github.io/rss.xml">独立性和条件独立性</source>
       <pubDate>Sun, 23 Jan 2022 01:15:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>概率分布</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">概率分布</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:01 GMT</pubDate>
     </item>
     <item>
       <title>结构化概率模型</title>
@@ -2967,202 +2967,6 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
       <enclosure url="https://breezeshane.github.io/images/theme/welcome-image.jpg" type="image/jpeg"/>
     </item>
     <item>
-      <title>用Shell脚本创建新文章</title>
-      <link>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</link>
-      <guid>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">用Shell脚本创建新文章</source>
-      <pubDate>Sun, 09 May 2021 19:59:21 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="前言"> 前言</h2>
-<p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
-<h2 id="实现"> 实现？</h2>
-<p>最终，我完成了这个小程序，完整的实现代码如下：</p>
-<div><pre><code><span>while</span> <span>getopts</span> <span>":n:t:D:a:i:u:c:b:T:m:d:C:k:l:h"</span> optname
-<span>do</span>
-    <span>case</span> <span>"<span>$optname</span>"</span> <span>in</span>
-    <span>"n"</span><span>)</span>
-        <span>name</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"t"</span><span>)</span>
-       <span>title</span><span>=</span><span>$OPTARG</span>
-       <span>;</span><span>;</span>
-    <span>"D"</span><span>)</span>
-        <span>time</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"a"</span><span>)</span>
-        <span>author</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"i"</span><span>)</span>
-        <span>img</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"u"</span><span>)</span>
-        <span>top</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"c"</span><span>)</span>
-        <span>index_img</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"b"</span><span>)</span>
-        <span>banner_img</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"T"</span><span>)</span>
-        <span>toc</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"m"</span><span>)</span>
-        <span>mathjax</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"d"</span><span>)</span>
-        <span>summary</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"C"</span><span>)</span>
-        <span>categories</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"k"</span><span>)</span>
-        <span>keywords</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"l"</span><span>)</span>
-        <span>tags</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"h"</span><span>)</span>
-        <span>echo</span> -e <span>"Opt<span title="\t">\t</span>Name<span title="\t">\t</span>Description<span title="\n">\n</span>-t<span title="\t">\t</span>title<span title="\t">\t</span>To determine what the article's title is.<span title="\n">\n</span>-D<span title="\t">\t</span>date<span title="\t">\t</span>To write down when you create the article.<span title="\n">\n</span>-a<span title="\t">\t</span>author<span title="\t">\t</span>To record who creates this article.<span title="\n">\n</span>-i<span title="\t">\t</span>image<span title="\t">\t</span>To describe where the image is.<span title="\n">\n</span>-u<span title="\t">\t</span>upest<span title="\t">\t</span>To set whether the article is top or not.<span title="\n">\n</span>-c<span title="\t">\t</span>cover <span title="\t">\t</span>To determine the path of pictures as the cover.<span title="\n">\n</span>-T<span title="\t">\t</span>toc  <span title="\t">\t</span>To set whether the article contains its content.<span title="\n">\n</span>-m<span title="\t">\t</span>mathjax  <span title="\t">\t</span>To determine to use mathjax or not.<span title="\n">\n</span>-d<span title="\t">\t</span>describe<span title="\t">\t</span>To set the abstract of article.<span title="\n">\n</span>-C<span title="\t">\t</span>categories<span title="\t">\t</span>To set  what kind of the article is.<span title="\n">\n</span>-k<span title="\t">\t</span>keywords<span title="\t">\t</span>To set the article's keywords.<span title="\n">\n</span>-l <span title="\t">\t</span>labels  <span title="\t">\t</span>To set the tags of article.<span title="\n">\n</span>-b<span title="\t">\t</span>banner image path<span title="\t">\t</span>To set which picture would be the article background.<span title="\n">\n</span>"</span>
-        <span>exit</span>
-        <span>;</span><span>;</span>
-      *<span>)</span>
-         <span>echo</span> <span>"Unknown optimate, please input 'bash new.sh -h' to learn the usage."</span>
-         <span>exit</span>
-         <span>;</span><span>;</span>
-    <span>esac</span>
-<span>done</span>
-
-<span>echo</span> -e <span>"---<span title="\n">\n</span>title: ${title:-"</span>"<span>}</span><span>\</span>ndate: <span>${time-$(date "+<span>%</span>Y-<span>%</span>m-<span>%</span>d <span>%</span>H<span>:</span><span>%</span>M<span>:</span><span>%</span>S")}</span><span>\</span>nauthor: <span>${author<span>:-</span>"Breeze Shane"}</span><span>\</span>nimg: /source/images/<span>${img<span>:-</span>""}</span><span>\</span>ntop: <span>${top<span>:-</span>"false"}</span><span>\</span>nindex_img: /images/<span>${index_img<span>:-</span>""}</span><span>\</span>nbanner_img: /images/<span>${banner_img<span>:-</span>""}</span><span>\</span>ntoc: <span>${toc<span>:-</span>"true"}</span><span>\</span>nmathjax: <span>${mathjax<span>:-</span>"true"}</span><span>\</span>nsummary: <span>${summary<span>:-</span>""}</span><span>\</span>ncategories: <span>${categories<span>:-</span>""}</span><span>\</span>nkeywords: <span>${keywords<span>:-</span>""}</span><span>\</span>ntags: <span>${tags<span>:-</span>""}</span><span>\</span>n---<span>\</span>n<span>" >> "</span><span>${name<span>:-</span>"new"}</span>".md
-
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br></div></div><h1 id="¿读解"> ¿读解</h1>
-<p>整个程序的大致框架如下：</p>
-<div><pre><code><span>while</span> <span>getopts</span> <span>":n:t:D:a:i:u:c:b:T:m:d:C:k:l:h"</span> optname
-<span>do</span>
-    <span>case</span> <span>"<span>$optname</span>"</span> <span>in</span>
-    <span>"n"</span><span>)</span>
-        <span>name</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"t"</span><span>)</span>
-       <span>title</span><span>=</span><span>$OPTARG</span>
-       <span>;</span><span>;</span>
-    <span>"D"</span><span>)</span>
-        <span>time</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"a"</span><span>)</span>
-        <span>author</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"i"</span><span>)</span>
-        <span>img</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"u"</span><span>)</span>
-        <span>top</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"c"</span><span>)</span>
-        <span>index_img</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"b"</span><span>)</span>
-        <span>banner_img</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"T"</span><span>)</span>
-        <span>toc</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"m"</span><span>)</span>
-        <span>mathjax</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"d"</span><span>)</span>
-        <span>summary</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"C"</span><span>)</span>
-        <span>categories</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"k"</span><span>)</span>
-        <span>keywords</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"l"</span><span>)</span>
-        <span>tags</span><span>=</span><span>$OPTARG</span>
-        <span>;</span><span>;</span>
-    <span>"h"</span><span>)</span>
-        <span>echo</span> -e <span>"......"</span>
-        <span>exit</span>
-        <span>;</span><span>;</span>
-      *<span>)</span>
-         <span>echo</span> <span>"...Error..."</span>
-         <span>exit</span>
-         <span>;</span><span>;</span>
-    <span>esac</span>
-<span>done</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br></div></div><p>使用while循环来遍历输入的每一个参数并接受，在case中设定各种参数的动作。遇到其他未知字符或者参数h则输出错误信息或帮助信息并终止，并专门为-h参数设定了帮助信息，echo开启转义模式需要加上-e参数才行。</p>
-<p>getopts后面的字符串中，第一个:表示遇到错误信息也不输出，保持沉默，后面的各个字母表示各参数的名称，有无:决定了参数是否必须接受输入。比如n:就表示参数n必须接受后面的输入，不输入则报错；而h表示不接受输入（接受也是沉默）。</p>
-<p>注意：</p>
-<ul>
-<li>
-<p>诸如<code>${title:-&quot;&quot;}</code>的写法表示设定参数取变量title的值，如果title变量未被定义，则该参数取默认设定值<code>&quot;&quot;</code>（这对引号表示空）。「其实个人认为理解成Python语句<code>def function(opt1=9,opt2=7)</code>中的opt1和opt2会更快一些，因为从结果上来看其实效果都是一样：设定一个参数，并为之设定默认值。」</p>
-</li>
-<li>
-<p>:-句法——在这个命令中，若前者变量已被定义但是为空值，echo语句将使用后者变量的值。</p>
-<p>:=句法——只有当前者变量已被定义，而且有一个实际的非空值时，整体表达式的值才不会被设置为后者变量的值而继续保持为前者变量的值。「<strong>原博客这里的讲解有小瑕疵，特此更正一下。</strong>」</p>
-<p>:?句法——使用:?句法时，如果前者变量已被定义为非空值，在echo命令中就会使用前者变量的值。如果前者变量已被定义但却没有一个真正的值（也就是说非空）或者完全未被定义，那么在echo命令中就会使用后者变量的值，并且脚本退出执行。</p>
-</li>
-<li>
-<p>这里的变量不需要声明，这是shell脚本的特点。</p>
-</li>
-<li>
-<p>诸如&quot;h&quot;)的写法表示当变量optname为h时。</p>
-</li>
-<li>
-<p>esac表示case语句块的结束。</p>
-</li>
-<li>
-<p>;;表示break。</p>
-</li>
-<li>
-<p>done表示do语句块的结束</p>
-</li>
-<li>
-<p>参数名只能是一个字符，因为诸如<code>-aiuc</code>的长名称参数实际上会被理解为<code>-a -i -u -c</code>，所以请务必保证长度只有一个字符。</p>
-</li>
-</ul>
-<p>最后的输出要像这样实现：</p>
-<div><pre><code><span>echo</span> -e <span>"---<span title="\n">\n</span>title: ${title:-"</span>"<span>}</span><span>\</span>ndate: <span>${time-$(date "+<span>%</span>Y-<span>%</span>m-<span>%</span>d <span>%</span>H<span>:</span><span>%</span>M<span>:</span><span>%</span>S")}</span><span>\</span>nauthor: <span>${author<span>:-</span>"Breeze Shane"}</span><span>\</span>nimg: /source/images/<span>${img<span>:-</span>""}</span><span>\</span>ntop: <span>${top<span>:-</span>"false"}</span><span>\</span>nindex_img: /images/<span>${index_img<span>:-</span>""}</span><span>\</span>nbanner_img: /images/<span>${banner_img<span>:-</span>""}</span><span>\</span>ntoc: <span>${toc<span>:-</span>"true"}</span><span>\</span>nmathjax: <span>${mathjax<span>:-</span>"true"}</span><span>\</span>nsummary: <span>${summary<span>:-</span>""}</span><span>\</span>ncategories: <span>${categories<span>:-</span>""}</span><span>\</span>nkeywords: <span>${keywords<span>:-</span>""}</span><span>\</span>ntags: <span>${tags<span>:-</span>""}</span><span>\</span>n---<span>\</span>n<span>" >> "</span><span>${name<span>:-</span>"new"}</span>".md
-</code></pre>
-<div><span>1</span><br></div></div><p>注意一定要这样写：<code>&quot;${name:-&quot;new&quot;}&quot;.md</code>，而不是写成<code>${name:-&quot;new&quot;}.md</code>或者<code>${name:?&quot;new&quot;}.md</code>等其他各种写法，否则当你输入含有空格的新文章的文件名时会遇到报错信息：模糊的重定向。</p>
-<blockquote>
-<p>在变量周围添加引号似乎是处理“歧义重定向”消息的一种好方法：输入错误时，以及*错误是由于文件名中的空格引起的时，您往往会得到更好的消息，使用引号即可解决。</p>
-</blockquote>
-<p>因此才写作<code>&quot;${name:-&quot;new&quot;}&quot;.md</code>，这样就可以接受含有空格的文件名，不过当你想这样输入的时候需要加引号：</p>
-<div><pre><code><span>bash</span> new.sh -n <span>'New File'</span>
-<span># 或者像下面这样写：</span>
-<span>bash</span> new.sh -n <span>"new file"</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="扩展"> 扩展！</h2>
-<p>在此基础上，你可以添加自己喜欢的功能，比如希望在某一目录下创建新文章，只需要在原来基础上将新文件移动到指定目录即可。</p>
-<div><pre><code><span>mv</span> <span>"${name:-"</span>new<span>"}"</span>.md ./source/_posts/
-</code></pre>
-<div><span>1</span><br></div></div><p>如果你用typora编辑markdown文件，而且你希望创建新文章后立即编辑，可以再加上这一句：</p>
-<div><pre><code>typora ./source/_posts/<span>"${name:-"</span>new<span>"}"</span>.md
-</code></pre>
-<div><span>1</span><br></div></div><p>如果觉得总是要输入路径、脚本名才能执行太过麻烦，还可以创建软链接到系统环境变量来简单执行！</p>
-<div><pre><code><span>sudo</span> <span>ln</span> -s <span>[</span>绝对路径<span>]</span>/<span>[</span>name<span>]</span>  /usr/local/bin/<span>[</span>newName<span>]</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>这样输入newName就可以直接执行自己的脚本文件咯～</p>
-<hr>
-<blockquote>
-<p>本文参考的博客如下：</p>
-<ul>
-<li><a href="https://www.cnblogs.com/fhefh/archive/2011/04/22/2024750.html" target="_blank" rel="noopener noreferrer">linux bash shell之变量替换</a></li>
-<li><a href="https://www.runoob.com/linux/linux-shell-echo.html" target="_blank" rel="noopener noreferrer">Shell echo命令</a></li>
-<li><a href="https://blog.csdn.net/sinat_29100331/article/details/79091323" target="_blank" rel="noopener noreferrer">shell获取系统当前时间并格式化</a></li>
-<li><a href="https://cloud.tencent.com/developer/article/1629932" target="_blank" rel="noopener noreferrer">这样处理shell脚本参数，爽多了！</a></li>
-</ul>
-</blockquote>
-<hr>
-<center>🤣🤣🤣***地球人已经阻拦不了我偷懒了！***🤣🤣🤣</center>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Shell.jpg" type="image/jpeg"/>
-    </item>
-    <item>
       <title>LaTeX公式</title>
       <link>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/</link>
       <guid>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeX/</guid>
@@ -4279,6 +4083,202 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>显示如下：</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:5.40004em;vertical-align:-2.45002em;"></span><span><span></span><span><span><span><span><span><span style="height:2.943em;"><span style="top:-4.943em;"><span style="height:3.427em;"></span><span><span><span><span><span style="height:0.69444em;"><span style="top:-2.3089999999999997em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>∣</span><span>a</span><span>−</span><span>b</span><span>∣</span><span>→</span><span><span>0</span><span><span><span><span style="height:0.7026642857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.966em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:1.427em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>∣</span><span>a</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>b</span><span>∣</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>∣</span><span style="margin-right:0.10764em;">f</span><span>(</span><span>a</span><span>)</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>b</span><span>)</span><span>∣</span></span></span></span><span>​</span></span><span><span style="height:0.936em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.07153em;">K</span></span></span><span style="top:-2.25em;"><span style="height:3.427em;"></span><span><span style="margin-right:1em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.3089999999999997em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>∣</span><span>a</span><span>−</span><span>b</span><span>∣</span><span>→</span><span><span>0</span><span><span><span><span style="height:0.7026642857142857em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>−</span></span></span></span></span></span></span></span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>lim</span></span></span></span><span>​</span></span><span><span style="height:0.966em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:1.427em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>∣</span><span>a</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>b</span><span>∣</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>∣</span><span style="margin-right:0.10764em;">f</span><span>(</span><span>a</span><span>)</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>b</span><span>)</span><span>∣</span></span></span></span><span>​</span></span><span><span style="height:0.936em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.07153em;">K</span></span></span></span><span>​</span></span><span><span style="height:2.443em;"><span></span></span></span></span></span></span></span><span><span><span><span><span style="height:2.95002em;"><span style="top:-1.59999em;"><span style="height:3.15em;"></span><span><span>⎭</span></span></span><span style="top:-1.59199em;"><span style="height:3.15em;"></span><span style="height:0.9159999999999999em;width:0.889em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.889em' height='0.9159999999999999em' style='width:0.889em' viewBox='0 0 889 916' preserveAspectRatio='xMinYMin'><path d='M384 0 H504 V916 H384z M384 0 H504 V916 H384z'/></svg></span></span><span style="top:-3.15001em;"><span style="height:3.15em;"></span><span><span>⎬</span></span></span><span style="top:-4.292009999999999em;"><span style="height:3.15em;"></span><span style="height:0.9159999999999999em;width:0.889em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.889em' height='0.9159999999999999em' style='width:0.889em' viewBox='0 0 889 916' preserveAspectRatio='xMinYMin'><path d='M384 0 H504 V916 H384z M384 0 H504 V916 H384z'/></svg></span></span><span style="top:-5.200019999999999em;"><span style="height:3.15em;"></span><span><span>⎫</span></span></span></span><span>​</span></span><span><span style="height:2.45002em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>用Shell脚本创建新文章</title>
+      <link>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</link>
+      <guid>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">用Shell脚本创建新文章</source>
+      <pubDate>Sun, 09 May 2021 19:59:21 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="前言"> 前言</h2>
+<p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
+<h2 id="实现"> 实现？</h2>
+<p>最终，我完成了这个小程序，完整的实现代码如下：</p>
+<div><pre><code><span>while</span> <span>getopts</span> <span>":n:t:D:a:i:u:c:b:T:m:d:C:k:l:h"</span> optname
+<span>do</span>
+    <span>case</span> <span>"<span>$optname</span>"</span> <span>in</span>
+    <span>"n"</span><span>)</span>
+        <span>name</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"t"</span><span>)</span>
+       <span>title</span><span>=</span><span>$OPTARG</span>
+       <span>;</span><span>;</span>
+    <span>"D"</span><span>)</span>
+        <span>time</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"a"</span><span>)</span>
+        <span>author</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"i"</span><span>)</span>
+        <span>img</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"u"</span><span>)</span>
+        <span>top</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"c"</span><span>)</span>
+        <span>index_img</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"b"</span><span>)</span>
+        <span>banner_img</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"T"</span><span>)</span>
+        <span>toc</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"m"</span><span>)</span>
+        <span>mathjax</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"d"</span><span>)</span>
+        <span>summary</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"C"</span><span>)</span>
+        <span>categories</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"k"</span><span>)</span>
+        <span>keywords</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"l"</span><span>)</span>
+        <span>tags</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"h"</span><span>)</span>
+        <span>echo</span> -e <span>"Opt<span title="\t">\t</span>Name<span title="\t">\t</span>Description<span title="\n">\n</span>-t<span title="\t">\t</span>title<span title="\t">\t</span>To determine what the article's title is.<span title="\n">\n</span>-D<span title="\t">\t</span>date<span title="\t">\t</span>To write down when you create the article.<span title="\n">\n</span>-a<span title="\t">\t</span>author<span title="\t">\t</span>To record who creates this article.<span title="\n">\n</span>-i<span title="\t">\t</span>image<span title="\t">\t</span>To describe where the image is.<span title="\n">\n</span>-u<span title="\t">\t</span>upest<span title="\t">\t</span>To set whether the article is top or not.<span title="\n">\n</span>-c<span title="\t">\t</span>cover <span title="\t">\t</span>To determine the path of pictures as the cover.<span title="\n">\n</span>-T<span title="\t">\t</span>toc  <span title="\t">\t</span>To set whether the article contains its content.<span title="\n">\n</span>-m<span title="\t">\t</span>mathjax  <span title="\t">\t</span>To determine to use mathjax or not.<span title="\n">\n</span>-d<span title="\t">\t</span>describe<span title="\t">\t</span>To set the abstract of article.<span title="\n">\n</span>-C<span title="\t">\t</span>categories<span title="\t">\t</span>To set  what kind of the article is.<span title="\n">\n</span>-k<span title="\t">\t</span>keywords<span title="\t">\t</span>To set the article's keywords.<span title="\n">\n</span>-l <span title="\t">\t</span>labels  <span title="\t">\t</span>To set the tags of article.<span title="\n">\n</span>-b<span title="\t">\t</span>banner image path<span title="\t">\t</span>To set which picture would be the article background.<span title="\n">\n</span>"</span>
+        <span>exit</span>
+        <span>;</span><span>;</span>
+      *<span>)</span>
+         <span>echo</span> <span>"Unknown optimate, please input 'bash new.sh -h' to learn the usage."</span>
+         <span>exit</span>
+         <span>;</span><span>;</span>
+    <span>esac</span>
+<span>done</span>
+
+<span>echo</span> -e <span>"---<span title="\n">\n</span>title: ${title:-"</span>"<span>}</span><span>\</span>ndate: <span>${time-$(date "+<span>%</span>Y-<span>%</span>m-<span>%</span>d <span>%</span>H<span>:</span><span>%</span>M<span>:</span><span>%</span>S")}</span><span>\</span>nauthor: <span>${author<span>:-</span>"Breeze Shane"}</span><span>\</span>nimg: /source/images/<span>${img<span>:-</span>""}</span><span>\</span>ntop: <span>${top<span>:-</span>"false"}</span><span>\</span>nindex_img: /images/<span>${index_img<span>:-</span>""}</span><span>\</span>nbanner_img: /images/<span>${banner_img<span>:-</span>""}</span><span>\</span>ntoc: <span>${toc<span>:-</span>"true"}</span><span>\</span>nmathjax: <span>${mathjax<span>:-</span>"true"}</span><span>\</span>nsummary: <span>${summary<span>:-</span>""}</span><span>\</span>ncategories: <span>${categories<span>:-</span>""}</span><span>\</span>nkeywords: <span>${keywords<span>:-</span>""}</span><span>\</span>ntags: <span>${tags<span>:-</span>""}</span><span>\</span>n---<span>\</span>n<span>" >> "</span><span>${name<span>:-</span>"new"}</span>".md
+
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br></div></div><h1 id="¿读解"> ¿读解</h1>
+<p>整个程序的大致框架如下：</p>
+<div><pre><code><span>while</span> <span>getopts</span> <span>":n:t:D:a:i:u:c:b:T:m:d:C:k:l:h"</span> optname
+<span>do</span>
+    <span>case</span> <span>"<span>$optname</span>"</span> <span>in</span>
+    <span>"n"</span><span>)</span>
+        <span>name</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"t"</span><span>)</span>
+       <span>title</span><span>=</span><span>$OPTARG</span>
+       <span>;</span><span>;</span>
+    <span>"D"</span><span>)</span>
+        <span>time</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"a"</span><span>)</span>
+        <span>author</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"i"</span><span>)</span>
+        <span>img</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"u"</span><span>)</span>
+        <span>top</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"c"</span><span>)</span>
+        <span>index_img</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"b"</span><span>)</span>
+        <span>banner_img</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"T"</span><span>)</span>
+        <span>toc</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"m"</span><span>)</span>
+        <span>mathjax</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"d"</span><span>)</span>
+        <span>summary</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"C"</span><span>)</span>
+        <span>categories</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"k"</span><span>)</span>
+        <span>keywords</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"l"</span><span>)</span>
+        <span>tags</span><span>=</span><span>$OPTARG</span>
+        <span>;</span><span>;</span>
+    <span>"h"</span><span>)</span>
+        <span>echo</span> -e <span>"......"</span>
+        <span>exit</span>
+        <span>;</span><span>;</span>
+      *<span>)</span>
+         <span>echo</span> <span>"...Error..."</span>
+         <span>exit</span>
+         <span>;</span><span>;</span>
+    <span>esac</span>
+<span>done</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br></div></div><p>使用while循环来遍历输入的每一个参数并接受，在case中设定各种参数的动作。遇到其他未知字符或者参数h则输出错误信息或帮助信息并终止，并专门为-h参数设定了帮助信息，echo开启转义模式需要加上-e参数才行。</p>
+<p>getopts后面的字符串中，第一个:表示遇到错误信息也不输出，保持沉默，后面的各个字母表示各参数的名称，有无:决定了参数是否必须接受输入。比如n:就表示参数n必须接受后面的输入，不输入则报错；而h表示不接受输入（接受也是沉默）。</p>
+<p>注意：</p>
+<ul>
+<li>
+<p>诸如<code>${title:-&quot;&quot;}</code>的写法表示设定参数取变量title的值，如果title变量未被定义，则该参数取默认设定值<code>&quot;&quot;</code>（这对引号表示空）。「其实个人认为理解成Python语句<code>def function(opt1=9,opt2=7)</code>中的opt1和opt2会更快一些，因为从结果上来看其实效果都是一样：设定一个参数，并为之设定默认值。」</p>
+</li>
+<li>
+<p>:-句法——在这个命令中，若前者变量已被定义但是为空值，echo语句将使用后者变量的值。</p>
+<p>:=句法——只有当前者变量已被定义，而且有一个实际的非空值时，整体表达式的值才不会被设置为后者变量的值而继续保持为前者变量的值。「<strong>原博客这里的讲解有小瑕疵，特此更正一下。</strong>」</p>
+<p>:?句法——使用:?句法时，如果前者变量已被定义为非空值，在echo命令中就会使用前者变量的值。如果前者变量已被定义但却没有一个真正的值（也就是说非空）或者完全未被定义，那么在echo命令中就会使用后者变量的值，并且脚本退出执行。</p>
+</li>
+<li>
+<p>这里的变量不需要声明，这是shell脚本的特点。</p>
+</li>
+<li>
+<p>诸如&quot;h&quot;)的写法表示当变量optname为h时。</p>
+</li>
+<li>
+<p>esac表示case语句块的结束。</p>
+</li>
+<li>
+<p>;;表示break。</p>
+</li>
+<li>
+<p>done表示do语句块的结束</p>
+</li>
+<li>
+<p>参数名只能是一个字符，因为诸如<code>-aiuc</code>的长名称参数实际上会被理解为<code>-a -i -u -c</code>，所以请务必保证长度只有一个字符。</p>
+</li>
+</ul>
+<p>最后的输出要像这样实现：</p>
+<div><pre><code><span>echo</span> -e <span>"---<span title="\n">\n</span>title: ${title:-"</span>"<span>}</span><span>\</span>ndate: <span>${time-$(date "+<span>%</span>Y-<span>%</span>m-<span>%</span>d <span>%</span>H<span>:</span><span>%</span>M<span>:</span><span>%</span>S")}</span><span>\</span>nauthor: <span>${author<span>:-</span>"Breeze Shane"}</span><span>\</span>nimg: /source/images/<span>${img<span>:-</span>""}</span><span>\</span>ntop: <span>${top<span>:-</span>"false"}</span><span>\</span>nindex_img: /images/<span>${index_img<span>:-</span>""}</span><span>\</span>nbanner_img: /images/<span>${banner_img<span>:-</span>""}</span><span>\</span>ntoc: <span>${toc<span>:-</span>"true"}</span><span>\</span>nmathjax: <span>${mathjax<span>:-</span>"true"}</span><span>\</span>nsummary: <span>${summary<span>:-</span>""}</span><span>\</span>ncategories: <span>${categories<span>:-</span>""}</span><span>\</span>nkeywords: <span>${keywords<span>:-</span>""}</span><span>\</span>ntags: <span>${tags<span>:-</span>""}</span><span>\</span>n---<span>\</span>n<span>" >> "</span><span>${name<span>:-</span>"new"}</span>".md
+</code></pre>
+<div><span>1</span><br></div></div><p>注意一定要这样写：<code>&quot;${name:-&quot;new&quot;}&quot;.md</code>，而不是写成<code>${name:-&quot;new&quot;}.md</code>或者<code>${name:?&quot;new&quot;}.md</code>等其他各种写法，否则当你输入含有空格的新文章的文件名时会遇到报错信息：模糊的重定向。</p>
+<blockquote>
+<p>在变量周围添加引号似乎是处理“歧义重定向”消息的一种好方法：输入错误时，以及*错误是由于文件名中的空格引起的时，您往往会得到更好的消息，使用引号即可解决。</p>
+</blockquote>
+<p>因此才写作<code>&quot;${name:-&quot;new&quot;}&quot;.md</code>，这样就可以接受含有空格的文件名，不过当你想这样输入的时候需要加引号：</p>
+<div><pre><code><span>bash</span> new.sh -n <span>'New File'</span>
+<span># 或者像下面这样写：</span>
+<span>bash</span> new.sh -n <span>"new file"</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="扩展"> 扩展！</h2>
+<p>在此基础上，你可以添加自己喜欢的功能，比如希望在某一目录下创建新文章，只需要在原来基础上将新文件移动到指定目录即可。</p>
+<div><pre><code><span>mv</span> <span>"${name:-"</span>new<span>"}"</span>.md ./source/_posts/
+</code></pre>
+<div><span>1</span><br></div></div><p>如果你用typora编辑markdown文件，而且你希望创建新文章后立即编辑，可以再加上这一句：</p>
+<div><pre><code>typora ./source/_posts/<span>"${name:-"</span>new<span>"}"</span>.md
+</code></pre>
+<div><span>1</span><br></div></div><p>如果觉得总是要输入路径、脚本名才能执行太过麻烦，还可以创建软链接到系统环境变量来简单执行！</p>
+<div><pre><code><span>sudo</span> <span>ln</span> -s <span>[</span>绝对路径<span>]</span>/<span>[</span>name<span>]</span>  /usr/local/bin/<span>[</span>newName<span>]</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这样输入newName就可以直接执行自己的脚本文件咯～</p>
+<hr>
+<blockquote>
+<p>本文参考的博客如下：</p>
+<ul>
+<li><a href="https://www.cnblogs.com/fhefh/archive/2011/04/22/2024750.html" target="_blank" rel="noopener noreferrer">linux bash shell之变量替换</a></li>
+<li><a href="https://www.runoob.com/linux/linux-shell-echo.html" target="_blank" rel="noopener noreferrer">Shell echo命令</a></li>
+<li><a href="https://blog.csdn.net/sinat_29100331/article/details/79091323" target="_blank" rel="noopener noreferrer">shell获取系统当前时间并格式化</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/1629932" target="_blank" rel="noopener noreferrer">这样处理shell脚本参数，爽多了！</a></li>
+</ul>
+</blockquote>
+<hr>
+<center>🤣🤣🤣***地球人已经阻拦不了我偷懒了！***🤣🤣🤣</center>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Shell.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>Markdown语法杂记</title>
@@ -7163,7 +7163,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7188,7 +7188,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7203,7 +7203,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -7722,7 +7722,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7745,10 +7745,21 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客主页</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
+<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
+<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -7756,7 +7767,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7772,32 +7783,14 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>博客主页</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
-<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
-<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>幻灯片页</title>
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>二叉搜索树</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">二叉搜索树</source>
-      <pubDate>Sun, 23 Jan 2022 01:24:37 GMT</pubDate>
     </item>
     <item>
       <title>分块查找</title>
@@ -7805,6 +7798,13 @@ $$
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/</guid>
       <source url="https://breezeshane.github.io/rss.xml">分块查找</source>
       <pubDate>Sun, 23 Jan 2022 01:24:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>二叉搜索树</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">二叉搜索树</source>
+      <pubDate>Sun, 23 Jan 2022 01:24:37 GMT</pubDate>
     </item>
     <item>
       <title>斐波那契搜索</title>
@@ -7856,18 +7856,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:25:49 GMT</pubDate>
     </item>
     <item>
-      <title>计数排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">计数排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:53 GMT</pubDate>
-    </item>
-    <item>
       <title>堆排序</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">堆排序</source>
       <pubDate>Sun, 23 Jan 2022 01:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>计数排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">计数排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:53 GMT</pubDate>
     </item>
     <item>
       <title>插入排序</title>
@@ -8327,6 +8327,191 @@ DataType <span>computeNum</span><span>(</span>PseqQueue Q<span>)</span><span>{</
       <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/Queue.png" type="image/png"/>
     </item>
     <item>
+      <title>单向链表</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">单向链表</source>
+      <pubDate>Sat, 02 Oct 2021 22:21:39 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
+<blockquote>
+<p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
+<p>单链表结构：</p>
+<ol>
+<li>头指针结构：</li>
+<li>头结点结构</li>
+<li>数据结点</li>
+</ol>
+</blockquote>
+<p>如图所示：</p>
+<p><img src="/images/DataStructuresAndAlgorithms/SingleLinkedList.png" alt="" /></p>
+<p>结构定义的代码：</p>
+<div><pre><code><span>struct</span> <span>node</span><span>{</span>
+    <span>int</span> data<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> next<span>;</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h2 id="单链表基本操作与代码实现"> 单链表基本操作与代码实现</h2>
+<h3 id="创建"> 创建</h3>
+<p><strong>实现思路</strong>：</p>
+<p>创建一个空链表，亦是新建一个头指针和一个头结点，创建时注意初始化。</p>
+<p>头指针起指示起点作用，头结点内的数据区域用来存放当前链表的结点总数量「不含头指针和头结点本身」。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>//创建带有头结点的单链表</span>
+<span>struct</span> <span>node</span> <span>*</span><span>mycreateList</span><span>(</span><span>)</span><span>{</span>
+	<span>struct</span> <span>node</span><span>*</span> HEAD <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+	<span>struct</span> <span>node</span><span>*</span> p <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+	p<span>-></span>data <span>=</span> <span>0</span><span>;</span>
+	p<span>-></span>next <span>=</span> <span>NULL</span><span>;</span>
+	HEAD<span>-></span>next <span>=</span> p<span>;</span>
+	<span>if</span> <span>(</span><span>!</span>HEAD <span>||</span> <span>!</span>p<span>)</span> <span>return</span> <span>NULL</span><span>;</span>
+	<span>else</span> <span>return</span> HEAD<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：语句的操作次数与用户的输入规模无关，仅执行常数条语句，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：执行该函数只需申请固定的空间大小，因此可以认为该函数空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="插入"> 插入</h3>
+<h4 id="在表头插入"> 在表头插入</h4>
+<p><strong>实现思路</strong>：</p>
+<p>在头结点和头结点的后一结点之间插入新的结点，考虑到指针和操作系统的特性，有关指针的操作需要注意，应该先由新结点指向头结点的后一结点，然后才能由头结点指向新结点。</p>
+<p><strong>注意</strong>：因为如果先由头结点指向新结点的话，原先头结点指向的原数据域就会完全丢失，丢失到数据流中无法找回。这是因为原数据域的地址我们本来就不知道，现在还没有指针能够指向它，那么想访问这一数据域显然无从下手。另外，这也造成了一个问题：内存泄漏「Memory Leak」，丢失的内存块我们无法访问，自然也就无法释放它，它毫无用处，却还在占用系统资源，只有当主程序运行结束后由操作系统回收才能解决这个问题。</p>
+<blockquote>
+<p>内存泄漏形象的比喻是“操作系统可提供给所有程序使用的内存空间正在被某个程序榨干”，最终结果是程序运行时间越长，占用内存空间越来越多，最终用尽全部内存空间，整个系统崩溃。</p>
+</blockquote>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>void</span> <span>myinsertHead</span><span>(</span><span>struct</span> <span>node</span> <span>*</span> head<span>,</span> <span>int</span> insData <span>)</span><span>{</span>
+	<span>struct</span> <span>node</span><span>*</span> tmp <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+	tmp<span>-></span>data <span>=</span> insData<span>;</span>
+	tmp<span>-></span>next <span>=</span> head<span>-></span>next<span>;</span>
+    head<span>-></span>next <span>=</span> tmp<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：仅作有限个指针值修改等的操作，因此时间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：仅申请了一个结点空间，与用户输入的规模无关，因此时间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h4 id="在表尾插入"> 在表尾插入</h4>
+<p><strong>实现思路</strong>：</p>
+<p>显然在表尾插入，需要先遍历到表尾才能在此基础上做插入。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>void</span> <span>myinsertTail</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>  head <span>,</span> <span>int</span> insData <span>)</span><span>{</span>
+	<span>struct</span> <span>node</span><span>*</span> tmp <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+	tmp<span>-></span>data <span>=</span> insData<span>;</span>
+	tmp<span>-></span>next <span>=</span> <span>NULL</span><span>;</span>
+	<span>struct</span> <span>node</span><span>*</span> pointer <span>=</span> head<span>-></span>next<span>;</span>
+	<span>while</span><span>(</span>pointer<span>-></span>next<span>)</span><span>{</span>
+		pointer<span>=</span>pointer<span>-></span>next<span>;</span>
+	<span>}</span>
+	pointer<span>-></span>next <span>=</span> tmp<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：因为需要从表头开始一直向后遍历直到表尾，因此需要访问<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个结点，最后指针接上新的结点，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：由于只需要申请常数个新变量的空间大小，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="输出"> 输出</h3>
+<p><strong>实现思路</strong>：</p>
+<p>遍历每一个结点，并将该结点对应的真值输出。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>void</span> <span>myprintList</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>L<span>)</span><span>{</span>
+	<span>struct</span> <span>node</span><span>*</span> pointer <span>=</span> L<span>-></span>next<span>-></span>next<span>;</span>
+	<span>while</span><span>(</span>pointer<span>)</span><span>{</span>
+		<span>printf</span><span>(</span><span>"%d\n"</span><span>,</span> pointer<span>-></span>data<span>)</span><span>;</span>
+		pointer <span>=</span> pointer<span>-></span>next<span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p><strong>时间复杂度</strong>：因为需要从表头开始一直向后遍历直到表尾，因此需要访问<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个结点，故时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：由于只需要申请常数个新变量的空间大小，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="逆置"> 逆置</h3>
+<p><strong>实现思路</strong>：</p>
+<p>要将链表中所有结点的顺序逆置，考虑到结点插入方式的特性，选用头插法可以实现</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>//将正序的链表倒序链接</span>
+<span>void</span> <span>reverseList_link</span><span>(</span> <span>struct</span> <span>node</span> <span>*</span>L<span>)</span><span>{</span>
+	<span>struct</span> <span>node</span><span>*</span> tmp <span>=</span> <span>NULL</span><span>;</span>
+	<span>struct</span> <span>node</span><span>*</span> saver <span>=</span> L<span>-></span>next<span>-></span>next<span>-></span>next<span>;</span>
+	<span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> L<span>-></span>next<span>,</span> <span>*</span>tailNode <span>=</span> L<span>-></span>next<span>-></span>next<span>;</span>
+	tailNode<span>-></span>next <span>=</span> <span>NULL</span><span>;</span>
+	<span>while</span><span>(</span>saver<span>)</span><span>{</span>
+		tmp <span>=</span> saver<span>;</span>
+		saver <span>=</span> saver<span>-></span>next<span>;</span>
+		tmp<span>-></span>next <span>=</span> headNode<span>-></span>next<span>;</span>
+        headNode<span>-></span>next <span>=</span> tmp<span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><strong>时间复杂度</strong>：由于要针对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>个数据进行插入操作，因此可以认为时间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：由于插入操作是基于原有空间上进行的，并且申请了有限个常数个的变量空间，因此认为空间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="查询"> 查询</h3>
+<h4 id="查询指定值的索引"> 查询指定值的索引</h4>
+<p><strong>实现思路</strong>：</p>
+<p>查找指定值对应的索引，就需要从表头开始向后遍历，并开始从0计数，找到指定值时返回计得的数，否则返回未找到的信号「如-1等」。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>int</span> <span>locateNode</span><span>(</span> <span>struct</span> <span>node</span> <span>*</span>L<span>,</span> <span>int</span> data<span>)</span><span>{</span>
+    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> L<span>-></span>next<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> linkWatcher <span>=</span> headNode<span>-></span>next<span>;</span>
+    <span>int</span> index <span>=</span> <span>0</span><span>;</span>
+    <span>while</span><span>(</span>linkWatcher<span>)</span><span>{</span>
+        <span>if</span> <span>(</span>linkWatcher<span>-></span>data <span>==</span> data<span>)</span><span>{</span>
+            <span>return</span> index<span>;</span>
+        <span>}</span>
+        linkWatcher <span>=</span> linkWatcher<span>-></span>next<span>;</span>
+        index<span>++</span><span>;</span>
+    <span>}</span>
+    <span>return</span> <span>-</span><span>1</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><strong>时间复杂度</strong>：详情可见线性表的查询分析，时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该操作只需要申请常数个变量，因而空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h4 id="查询指定索引的值"> 查询指定索引的值</h4>
+<p><strong>实现思路</strong>：</p>
+<p>获取用户输入的索引记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>，在有效范围<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>n</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10903em;">N</span><span>)</span></span></span></span>内，从表头开始向后遍历，遍历<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>次后返回指针指向的数据区域的值；若超出范围则返回未找到的信号「如-1等」。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>int</span> <span>locateNode</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>L<span>,</span> <span>int</span> position<span>)</span><span>{</span>
+    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> L<span>-></span>next<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> linkWatcher <span>=</span> headNode<span>-></span>next<span>;</span>
+    <span>if</span> <span>(</span>position <span>&lt;</span> <span>0</span> <span>||</span> position <span>></span> headNode<span>-></span>data<span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
+    <span>for</span> <span>(</span><span>int</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> position<span>;</span> <span>++</span>i<span>)</span> <span>{</span>
+        linkWatcher <span>=</span> linkWatcher<span>-></span>next<span>;</span>
+    <span>}</span>
+    <span>return</span> linkWatcher<span>-></span>data<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p><strong>时间复杂度</strong>：详情可见线性表的查询分析，时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该操作只需要申请常数个变量，因而空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="销毁"> 销毁</h3>
+<p><strong>实现思路</strong>：</p>
+<p>因为链表是分散分布在内存空间中的，不能一次性批量释放，只能顺着链表一节一节地释放。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>int</span> <span>destroyList</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>L<span>)</span> <span>{</span>
+    <span>int</span> deletedNum <span>=</span> <span>0</span><span>;</span>
+    <span>struct</span> <span>node</span> <span>*</span>firstNode <span>=</span> L<span>-></span>next<span>;</span>
+    <span>struct</span> <span>node</span> <span>*</span>tmp <span>=</span> <span>NULL</span><span>;</span>
+    <span>while</span> <span>(</span>firstNode<span>)</span> <span>{</span>
+        tmp <span>=</span> firstNode<span>;</span>
+        firstNode <span>=</span> firstNode<span>-></span>next<span>;</span>
+        <span>free</span><span>(</span>tmp<span>)</span><span>;</span>
+        deletedNum<span>++</span><span>;</span>
+    <span>}</span>
+    <span>return</span> deletedNum<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p><strong>时间复杂度</strong>：该操作执行次数与用户输入规模大小线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该操作只需要在原有数据基础上进行释放空间，仅需要申请有限个变量的空间，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h2 id="单链表的优缺点"> 单链表的优缺点</h2>
+<p><strong>优点</strong>：</p>
+<ol>
+<li>插入、删除操作十分简单高效。</li>
+<li>不需要指定固定的初始化空间大小。</li>
+<li>不会造成内存空间浪费。</li>
+</ol>
+<p><strong>缺点</strong>：</p>
+<ol>
+<li>查询操作低效。</li>
+<li>只能单向遍历，任何一个结点都只能访问其后继，无法访问前驱。</li>
+<li>存储元素较数组需要的内存空间更大。</li>
+</ol>
+<h2 id="单链表对应的一些难题"> 单链表对应的一些难题--&gt;<a href=""></a></h2>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/SingleLinkedList.png" type="image/png"/>
+    </item>
+    <item>
       <title>顺序线性表</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SequentialLinearList/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SequentialLinearList/</guid>
@@ -8525,191 +8710,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <h2 id="线性表对应的一些难题-some-problems-on-sequential-linear-list"> 线性表对应的一些难题--&gt;<a href="">Some Problems on Sequential Linear List</a></h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/SequentialLinearList.png" type="image/png"/>
-    </item>
-    <item>
-      <title>单向链表</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">单向链表</source>
-      <pubDate>Sat, 02 Oct 2021 22:21:39 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
-<blockquote>
-<p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
-<p>单链表结构：</p>
-<ol>
-<li>头指针结构：</li>
-<li>头结点结构</li>
-<li>数据结点</li>
-</ol>
-</blockquote>
-<p>如图所示：</p>
-<p><img src="/images/DataStructuresAndAlgorithms/SingleLinkedList.png" alt="" /></p>
-<p>结构定义的代码：</p>
-<div><pre><code><span>struct</span> <span>node</span><span>{</span>
-    <span>int</span> data<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> next<span>;</span>
-<span>}</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h2 id="单链表基本操作与代码实现"> 单链表基本操作与代码实现</h2>
-<h3 id="创建"> 创建</h3>
-<p><strong>实现思路</strong>：</p>
-<p>创建一个空链表，亦是新建一个头指针和一个头结点，创建时注意初始化。</p>
-<p>头指针起指示起点作用，头结点内的数据区域用来存放当前链表的结点总数量「不含头指针和头结点本身」。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>//创建带有头结点的单链表</span>
-<span>struct</span> <span>node</span> <span>*</span><span>mycreateList</span><span>(</span><span>)</span><span>{</span>
-	<span>struct</span> <span>node</span><span>*</span> HEAD <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-	<span>struct</span> <span>node</span><span>*</span> p <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-	p<span>-></span>data <span>=</span> <span>0</span><span>;</span>
-	p<span>-></span>next <span>=</span> <span>NULL</span><span>;</span>
-	HEAD<span>-></span>next <span>=</span> p<span>;</span>
-	<span>if</span> <span>(</span><span>!</span>HEAD <span>||</span> <span>!</span>p<span>)</span> <span>return</span> <span>NULL</span><span>;</span>
-	<span>else</span> <span>return</span> HEAD<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：语句的操作次数与用户的输入规模无关，仅执行常数条语句，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：执行该函数只需申请固定的空间大小，因此可以认为该函数空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="插入"> 插入</h3>
-<h4 id="在表头插入"> 在表头插入</h4>
-<p><strong>实现思路</strong>：</p>
-<p>在头结点和头结点的后一结点之间插入新的结点，考虑到指针和操作系统的特性，有关指针的操作需要注意，应该先由新结点指向头结点的后一结点，然后才能由头结点指向新结点。</p>
-<p><strong>注意</strong>：因为如果先由头结点指向新结点的话，原先头结点指向的原数据域就会完全丢失，丢失到数据流中无法找回。这是因为原数据域的地址我们本来就不知道，现在还没有指针能够指向它，那么想访问这一数据域显然无从下手。另外，这也造成了一个问题：内存泄漏「Memory Leak」，丢失的内存块我们无法访问，自然也就无法释放它，它毫无用处，却还在占用系统资源，只有当主程序运行结束后由操作系统回收才能解决这个问题。</p>
-<blockquote>
-<p>内存泄漏形象的比喻是“操作系统可提供给所有程序使用的内存空间正在被某个程序榨干”，最终结果是程序运行时间越长，占用内存空间越来越多，最终用尽全部内存空间，整个系统崩溃。</p>
-</blockquote>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>void</span> <span>myinsertHead</span><span>(</span><span>struct</span> <span>node</span> <span>*</span> head<span>,</span> <span>int</span> insData <span>)</span><span>{</span>
-	<span>struct</span> <span>node</span><span>*</span> tmp <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-	tmp<span>-></span>data <span>=</span> insData<span>;</span>
-	tmp<span>-></span>next <span>=</span> head<span>-></span>next<span>;</span>
-    head<span>-></span>next <span>=</span> tmp<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：仅作有限个指针值修改等的操作，因此时间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：仅申请了一个结点空间，与用户输入的规模无关，因此时间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h4 id="在表尾插入"> 在表尾插入</h4>
-<p><strong>实现思路</strong>：</p>
-<p>显然在表尾插入，需要先遍历到表尾才能在此基础上做插入。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>void</span> <span>myinsertTail</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>  head <span>,</span> <span>int</span> insData <span>)</span><span>{</span>
-	<span>struct</span> <span>node</span><span>*</span> tmp <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-	tmp<span>-></span>data <span>=</span> insData<span>;</span>
-	tmp<span>-></span>next <span>=</span> <span>NULL</span><span>;</span>
-	<span>struct</span> <span>node</span><span>*</span> pointer <span>=</span> head<span>-></span>next<span>;</span>
-	<span>while</span><span>(</span>pointer<span>-></span>next<span>)</span><span>{</span>
-		pointer<span>=</span>pointer<span>-></span>next<span>;</span>
-	<span>}</span>
-	pointer<span>-></span>next <span>=</span> tmp<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：因为需要从表头开始一直向后遍历直到表尾，因此需要访问<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个结点，最后指针接上新的结点，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：由于只需要申请常数个新变量的空间大小，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="输出"> 输出</h3>
-<p><strong>实现思路</strong>：</p>
-<p>遍历每一个结点，并将该结点对应的真值输出。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>void</span> <span>myprintList</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>L<span>)</span><span>{</span>
-	<span>struct</span> <span>node</span><span>*</span> pointer <span>=</span> L<span>-></span>next<span>-></span>next<span>;</span>
-	<span>while</span><span>(</span>pointer<span>)</span><span>{</span>
-		<span>printf</span><span>(</span><span>"%d\n"</span><span>,</span> pointer<span>-></span>data<span>)</span><span>;</span>
-		pointer <span>=</span> pointer<span>-></span>next<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p><strong>时间复杂度</strong>：因为需要从表头开始一直向后遍历直到表尾，因此需要访问<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个结点，故时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：由于只需要申请常数个新变量的空间大小，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="逆置"> 逆置</h3>
-<p><strong>实现思路</strong>：</p>
-<p>要将链表中所有结点的顺序逆置，考虑到结点插入方式的特性，选用头插法可以实现</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>//将正序的链表倒序链接</span>
-<span>void</span> <span>reverseList_link</span><span>(</span> <span>struct</span> <span>node</span> <span>*</span>L<span>)</span><span>{</span>
-	<span>struct</span> <span>node</span><span>*</span> tmp <span>=</span> <span>NULL</span><span>;</span>
-	<span>struct</span> <span>node</span><span>*</span> saver <span>=</span> L<span>-></span>next<span>-></span>next<span>-></span>next<span>;</span>
-	<span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> L<span>-></span>next<span>,</span> <span>*</span>tailNode <span>=</span> L<span>-></span>next<span>-></span>next<span>;</span>
-	tailNode<span>-></span>next <span>=</span> <span>NULL</span><span>;</span>
-	<span>while</span><span>(</span>saver<span>)</span><span>{</span>
-		tmp <span>=</span> saver<span>;</span>
-		saver <span>=</span> saver<span>-></span>next<span>;</span>
-		tmp<span>-></span>next <span>=</span> headNode<span>-></span>next<span>;</span>
-        headNode<span>-></span>next <span>=</span> tmp<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><strong>时间复杂度</strong>：由于要针对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>n</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>个数据进行插入操作，因此可以认为时间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：由于插入操作是基于原有空间上进行的，并且申请了有限个常数个的变量空间，因此认为空间复杂度是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="查询"> 查询</h3>
-<h4 id="查询指定值的索引"> 查询指定值的索引</h4>
-<p><strong>实现思路</strong>：</p>
-<p>查找指定值对应的索引，就需要从表头开始向后遍历，并开始从0计数，找到指定值时返回计得的数，否则返回未找到的信号「如-1等」。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>int</span> <span>locateNode</span><span>(</span> <span>struct</span> <span>node</span> <span>*</span>L<span>,</span> <span>int</span> data<span>)</span><span>{</span>
-    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> L<span>-></span>next<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> linkWatcher <span>=</span> headNode<span>-></span>next<span>;</span>
-    <span>int</span> index <span>=</span> <span>0</span><span>;</span>
-    <span>while</span><span>(</span>linkWatcher<span>)</span><span>{</span>
-        <span>if</span> <span>(</span>linkWatcher<span>-></span>data <span>==</span> data<span>)</span><span>{</span>
-            <span>return</span> index<span>;</span>
-        <span>}</span>
-        linkWatcher <span>=</span> linkWatcher<span>-></span>next<span>;</span>
-        index<span>++</span><span>;</span>
-    <span>}</span>
-    <span>return</span> <span>-</span><span>1</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p><strong>时间复杂度</strong>：详情可见线性表的查询分析，时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该操作只需要申请常数个变量，因而空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h4 id="查询指定索引的值"> 查询指定索引的值</h4>
-<p><strong>实现思路</strong>：</p>
-<p>获取用户输入的索引记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>，在有效范围<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>n</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10903em;">N</span><span>)</span></span></span></span>内，从表头开始向后遍历，遍历<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>次后返回指针指向的数据区域的值；若超出范围则返回未找到的信号「如-1等」。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>int</span> <span>locateNode</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>L<span>,</span> <span>int</span> position<span>)</span><span>{</span>
-    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> L<span>-></span>next<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> linkWatcher <span>=</span> headNode<span>-></span>next<span>;</span>
-    <span>if</span> <span>(</span>position <span>&lt;</span> <span>0</span> <span>||</span> position <span>></span> headNode<span>-></span>data<span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
-    <span>for</span> <span>(</span><span>int</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> position<span>;</span> <span>++</span>i<span>)</span> <span>{</span>
-        linkWatcher <span>=</span> linkWatcher<span>-></span>next<span>;</span>
-    <span>}</span>
-    <span>return</span> linkWatcher<span>-></span>data<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p><strong>时间复杂度</strong>：详情可见线性表的查询分析，时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该操作只需要申请常数个变量，因而空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="销毁"> 销毁</h3>
-<p><strong>实现思路</strong>：</p>
-<p>因为链表是分散分布在内存空间中的，不能一次性批量释放，只能顺着链表一节一节地释放。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>int</span> <span>destroyList</span><span>(</span><span>struct</span> <span>node</span> <span>*</span>L<span>)</span> <span>{</span>
-    <span>int</span> deletedNum <span>=</span> <span>0</span><span>;</span>
-    <span>struct</span> <span>node</span> <span>*</span>firstNode <span>=</span> L<span>-></span>next<span>;</span>
-    <span>struct</span> <span>node</span> <span>*</span>tmp <span>=</span> <span>NULL</span><span>;</span>
-    <span>while</span> <span>(</span>firstNode<span>)</span> <span>{</span>
-        tmp <span>=</span> firstNode<span>;</span>
-        firstNode <span>=</span> firstNode<span>-></span>next<span>;</span>
-        <span>free</span><span>(</span>tmp<span>)</span><span>;</span>
-        deletedNum<span>++</span><span>;</span>
-    <span>}</span>
-    <span>return</span> deletedNum<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p><strong>时间复杂度</strong>：该操作执行次数与用户输入规模大小线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该操作只需要在原有数据基础上进行释放空间，仅需要申请有限个变量的空间，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h2 id="单链表的优缺点"> 单链表的优缺点</h2>
-<p><strong>优点</strong>：</p>
-<ol>
-<li>插入、删除操作十分简单高效。</li>
-<li>不需要指定固定的初始化空间大小。</li>
-<li>不会造成内存空间浪费。</li>
-</ol>
-<p><strong>缺点</strong>：</p>
-<ol>
-<li>查询操作低效。</li>
-<li>只能单向遍历，任何一个结点都只能访问其后继，无法访问前驱。</li>
-<li>存储元素较数组需要的内存空间更大。</li>
-</ol>
-<h2 id="单链表对应的一些难题"> 单链表对应的一些难题--&gt;<a href=""></a></h2>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/SingleLinkedList.png" type="image/png"/>
     </item>
     <item>
       <title>顺序线性栈</title>
@@ -8916,13 +8916,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>红黑树</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">红黑树</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:23 GMT</pubDate>
-    </item>
-    <item>
       <title>括号匹配问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/BracketMatching/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/BracketMatching/</guid>
@@ -8930,18 +8923,18 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
+      <title>红黑树</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">红黑树</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:23 GMT</pubDate>
+    </item>
+    <item>
       <title>约瑟夫问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
       <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>极限反转数问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
     </item>
     <item>
       <title>顺序线性表的一些经典问题</title>
@@ -8956,6 +8949,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
       <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>极限反转数问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
     </item>
     <item>
       <title>N皇后问题</title>
@@ -10223,122 +10223,6 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
     </item>
     <item>
-      <title>记将旧电脑改建成服务器的过程</title>
-      <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
-      <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记将旧电脑改建成服务器的过程</source>
-      <pubDate>Tue, 04 Jan 2022 12:27:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
-<p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
-<h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
-<div><pre><code>The system found unauthorized changes on the firmware, operating system of UEFI drivers .
-
-Press [N] to run the next boot device,or enter directly to BIOS Setup if there are no other boot devices installed .
-
-Go to BIOS Setup &gt; Advanced &gt; Boot and change the current boot device into other secured boot devices .
-_
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>它在告诉我系统发现使用了未经授权的变更，要求我使用其他启动盘启动。个人经验推断认为是安全启动是开启状态，因而它会针对授权问题进行检查，于是我把它关掉了，果然就可以启动了。</p>
-<p>进入BIOS后按下<kbd>F7</kbd>进入高级模式，然后切换到启动选项卡(Boot)，下选安全启动选项(Secure Boot)，有密钥管理(Key Management)的子选项，将安全启动密钥(Secure Boot keys)删除掉即可，删除后你会发现安全启动已经关闭了。出来后把系统启动类型修改为其他操作系统。这时重启一下系统就好。这样U盘的启动就能进去了。</p>
-<p>因为我打算将这台机器用作服务器，因此我就应该选择安装ArcoLinuxD版本。正如官网介绍的ArcoLinuxD，没有桌面，没有服务，仅有内核，这正合我的意愿。</p>
-<p>其实是我尝试过安装带桌面版的ArcoLinuxB，但遇到了TLP Startup/shutdown死机问题，多半是显卡驱动问题，但为了绕开这种难解决的问题，我才直接安装ArcoLinuxD。但是奇怪的是，虽然官方介绍的ArcoLinuxD没有桌面系统也没有服务，就是命令行，但是安装的时候却是使用图形界面的，在这里我也同样遇到了TLP卡死问题，于是我就去一查究竟，到底TLP是啥，为什么会卡死？</p>
-<p>后来查询才知道，TLP是Linux下优秀的高级电源管理功能，之所以会卡死，确实是因为硬件设备太过老旧，如今的系统已经不能很好地支持了，准确说是Arch系对老机器的兼容性差。不过，仅仅知道这些，问题还是不能解决，但我最后成功绕开了这个问题，只需要使用Safe Graphics即可正常进入。而后一如既往地，设定系统所在的分区挂载到<code>/</code>下，系统引导分区挂载到<code>/boot/efi</code>下，然后开始安装即可。</p>
-<h2 id="终端无线连接"> 终端无线连接</h2>
-<p>等过许久之后，当我尝试进行初始配置，换pacman镜像源、调整yay镜像源之后尝试系统更新，发现无论如何都是失败，最后我才想起来，ArcoLinuxD并没有网络连接服务，因此我需要先连接上网络，于是我开始花费将近48小时去尝试连接WIFI……</p>
-<p>经过我相当长的时间去查询资料、文档，浏览相关网站后，最后才知道，原来是这样：</p>
-<p>因为系统刚开始是什么都没有的，因此使用的连接方式非常原始，我们采用<code>wpa_supplicant</code>来完成连接。</p>
-<ol>
-<li>
-<p>首先我们要查看无线网卡的相关信息，需要执行<code>iwconfig</code>来查看，注意，从输出信息中找到你的网卡ID，记好它，后面要经常用，如果实在觉得很难记，你可以临时创建一个变量来保存，例：<code>wireless_id=&lt;你的网卡ID&gt;</code>，这样你后面使用的时候就用<code>$wireless_id</code>来代替即可，为了便于描述，后面我都这样写了。</p>
-</li>
-<li>
-<p>通常情况下刚刚使用的系统是没有启动无线网卡的，因此我们要手动启动无线网卡：<code>ip link set $wireless_id up</code>。</p>
-</li>
-<li>
-<p>接下来我们需要扫描当前地点所有的WIFI连接点，执行<code>iwlist $wireless_id scan</code>。</p>
-</li>
-<li>
-<p>确定你要连接的WIFI点后，这时候就需要着手开始连接了。当下我们绝大多数使用的WIFI都是使用WPA/WPA2加密的，少数是开放的，另外一小部分才是使用WEP加密的。由于我要连接的WIFI是使用WPA/WPA2加密的，因此我们使用<code>wpa_supplicant</code>来创建连接。</p>
-<p><em>如果是开放WIFI，只需要使用<code>iwconfig $wireless_id essid &lt;要连接的开放WIFI的SSID&gt;</code>即可；</em></p>
-<p><em>而若是使用WEP加密的，则需要使用<code>iwconfig essid &lt;要连接的WIFI的SSID&gt; key &lt;该WIFI对应的密码&gt;</code>即可；</em></p>
-<p>如果是使用WPA/WPA2加密方式，我们常常能看到这样的教程：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span> <span>></span> /etc/wpa_supplicant.conf
-wpa_supplicant -B -i <span>$wireless_id</span> -c /etc/wpa_supplicant.conf
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>当时我还什么都不懂的时候，就是简单照做一下，结果发现，我根本就无法完成这些，因为我没有这种权限，甚至是我加了sudo，也依然无法完成，报错的原因都是<code>Permission denied</code>。于是我再去四处搜索，看到有人是这样写的：</p>
-<div><pre><code>wpa_supplicant -B -i <span>$wireless_id</span> -c<span>&lt;</span><span>(</span>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span><span>)</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>联系我之前所学的shell编程基础知识就发现，其实我不必非要创建那个wpa_supplicant.conf文件，我只是需要传给wpa_supplicant即可，所以才会使用<code>&lt;(..)</code>来实现。<code>&lt;(..)</code>实际上就是将括号内的命令执行结果输出到<code>/dev/fd/63</code>后再传送给箭头指向的前一个命令。
-当我执行这个命令的时候发现，还是报错，这回的报错是</p>
-<div><pre><code> Successfully initialized wpa_supplicant
- Failed to <span>open</span> config <span>file</span> <span>'/dev/fd/63'</span>, error: No such <span>file</span> or directory
- Failed to <span>read</span> or parse configuration <span>'/dev/fd/63'</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><a href="https://unix.stackexchange.com/questions/279545/failed-to-open-config-file-dev-fd-63-error-no-such-file-or-directory-for-wp" target="_blank" rel="noopener noreferrer">查询</a>之后才知道：</p>
-<blockquote>
-<p>Process substitution &lt;(…) creates a pipe, uses /dev/fd to give a path that's equivalent to the file descriptor where the pipe is, and passes the file name as an argument to the program. Here the program is sudo, and it passes that argument (which is just a string, as far as it's concerned) to wpa_supplicant, which treats it as a file name.</p>
-<p>The problem is that sudo closes all file descriptors except for the standard ones (stdin=0, stdout=1 and stderr=2). The pipe of the process substitution is on another descriptor, which gets closed, so when wpa_supplicant tries to open it, it finds a file that doesn't exist.</p>
-<p>If your sudo policy allows it (closefrom_override option enabled), you can tell it not to close file descriptors. But this is usually not the case.
-其实就是我并没有这个权限去读取那个文件，因此才会认为没有这样的文件，不过他也给出了其他的取代方案，亲自使用行之有效后我做了整合：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -B -i <span>$wireless_id</span> -c /dev/stdin
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>不过我没有试过他给的最后的方案</strong>：</p>
-<div><pre><code><span>sudo</span> <span>bash</span> -c <span>'wpa_supplicant -B -i $wireless_id -c&lt;(wpa_passphrase &lt;SSID> "&lt;SSID-PASSWORD>")'</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>凭经验判断这个应该也是可行的。</p>
-</blockquote>
-<p>但事情还没有完，执行过我做的整合后出现了新的问题：</p>
-<div><pre><code>Successfully initialized wpa_supplicant
-nl80211: Driver does not support authentication/association or connect commands
-nl80211: deinit <span>ifname</span><span>=</span>wlp0s29u1u3 <span>disabled_11b_rates</span><span>=</span><span>0</span>
-wlp0s29u1u3: Failed to initialize driver interface
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>经过查询发现，是我的硬件设施不支持<code>nl80211</code>扩展驱动，而我不做更改的情况下，默认是使用该扩展驱动的，因此我要做出的事必须是更换扩展驱动。后来我上网看到有人说用这个就能行：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wext -B -i <span>$wireless_id</span> -c /dev/stdin
-</code></pre>
-<div><span>1</span><br></div></div><p>还有说用<code>-Dwext</code>，和上一行命令的区别就在于D和wext之间没有空格，但是明显，都失败了，得到的最终报错是：</p>
-<div><pre><code>Successfully initialized wpa_supplicant
-rfkill: Cannot get wiphy information
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>百思不得其解，在网上四处搜索无果，最终我只能去Linux交流群内向高人请教了，经过较长的一段时间错误复现，有高人和我说起了这个<a href="http://manpages.ubuntu.com/manpages/trusty/man8/wpa_supplicant.8.html#available%20drivers" target="_blank" rel="noopener noreferrer">资料</a>，他建议我挨个试试，终于，当我使用Wired扩展驱动后一切都好了起来！</p>
-<p>最终的执行命令是：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wired -B -i <span>$wireless_id</span> -c /dev/stdin
-</code></pre>
-<div><span>1</span><br></div></div><p>思考总结：其实扩展驱动不是瞎试的，出现这一系列的报错原因就是在于驱动和硬件设施不匹配，而我正在使用的是无线网卡<code>MERCURY MW300TV</code>，一款非常老的无线网卡。
-在Google上搜索到的结果如图：</p>
-<p><img src="/images/BuildingServer/2022-01-06_14-59.png" alt="" /></p>
-<p><img src="/images/BuildingServer/2022-01-06_15-01.png" alt="" /></p>
-<p>有关它的名称是这样的：<strong>Mercury USB Wifi MW300TV USB Network Card 2.0 Thunderbolt Ethernet Wifi Router 300Mbps Wifi Adapter USB Wi-fi Video Card WIFI</strong></p>
-<p>显然可知这个无线网卡是以太网连接设备，再参考前面我提到的那个资料：</p>
-<p><img src="/images/BuildingServer/photo_2022-01-06_15-07-15.jpg" alt="" /></p>
-<p>里面写着：</p>
-<blockquote>
-<p><strong>wired</strong>  wpa_supplicant wired Ethernet driver</p>
-</blockquote>
-<p>我这才明白，原来需要以Ethernet Connection方式连接的设备扩展驱动应该选择使用Wired扩展驱动！</p>
-</li>
-<li>
-<p>最后可以考虑可哪瞎ping，试试看你的网络是否正常连接。</p>
-</li>
-</ol>
-<h2 id="虚拟内网穿透"> 虚拟内网穿透</h2>
-<p>接下来就是需要完成远程连接的问题。能够满足我的需求自然就是使用内网穿透工具Zerotier One，其实之前我都有写过，因此重复的部分这里不再赘述，详情可到<a href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/" target="_blank" rel="noopener noreferrer">这里</a>看。</p>
-<p>我写这部分是因为我遇到了问题：即使我能够通过ping在两台机器之间彼此通信，但我依旧不能使用SSH连接，总是被提示Connection refused.</p>
-<p>但经过我一晚上的排查与修复之后，当我看到这个<a href="https://wiki.archlinux.org/title/OpenSSH_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E7%AE%A1%E7%90%86_sshd_%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B" target="_blank" rel="noopener noreferrer">资料</a>时，我才发现问题的根源就在于，我没有启动SSH服务……</p>
-<p>嗯，这很离谱，但正事我们还是要做的，执行：</p>
-<div><pre><code><span>sudo</span> systemctl start sshd
-<span>sudo</span> systemctl <span>enable</span> sshd
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>不过我还是适当做了一下简单的安全设置，编辑<code>/etc/ssh/sshd_config</code>文件，将其中的<code>PermitRootLogin</code>后面的<code>yes</code>修改为<code>no</code>，这样我就可以保证不能以Root身份登录这台服务器了。</p>
-<h2 id="部署nextcloud"> 部署NextCloud</h2>
-<p>详情照做<a href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/" target="_blank" rel="noopener noreferrer">这个</a>就好。</p>
-<h2 id="部署hedgedoc"> 部署Hedgedoc</h2>
-<h2 id="部署思源笔记"> 部署思源笔记</h2>
-<h2 id="改建为局域网dns服务器"> 改建为局域网DNS服务器</h2>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
-    </item>
-    <item>
       <title>Magic SysRq 组合键功能表</title>
       <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
       <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
@@ -10454,6 +10338,122 @@ rfkill: Cannot get wiphy information
 </tbody>
 </table>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>记将旧电脑改建成服务器的过程</title>
+      <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
+      <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记将旧电脑改建成服务器的过程</source>
+      <pubDate>Tue, 04 Jan 2022 12:27:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
+<p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
+<h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
+<div><pre><code>The system found unauthorized changes on the firmware, operating system of UEFI drivers .
+
+Press [N] to run the next boot device,or enter directly to BIOS Setup if there are no other boot devices installed .
+
+Go to BIOS Setup &gt; Advanced &gt; Boot and change the current boot device into other secured boot devices .
+_
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>它在告诉我系统发现使用了未经授权的变更，要求我使用其他启动盘启动。个人经验推断认为是安全启动是开启状态，因而它会针对授权问题进行检查，于是我把它关掉了，果然就可以启动了。</p>
+<p>进入BIOS后按下<kbd>F7</kbd>进入高级模式，然后切换到启动选项卡(Boot)，下选安全启动选项(Secure Boot)，有密钥管理(Key Management)的子选项，将安全启动密钥(Secure Boot keys)删除掉即可，删除后你会发现安全启动已经关闭了。出来后把系统启动类型修改为其他操作系统。这时重启一下系统就好。这样U盘的启动就能进去了。</p>
+<p>因为我打算将这台机器用作服务器，因此我就应该选择安装ArcoLinuxD版本。正如官网介绍的ArcoLinuxD，没有桌面，没有服务，仅有内核，这正合我的意愿。</p>
+<p>其实是我尝试过安装带桌面版的ArcoLinuxB，但遇到了TLP Startup/shutdown死机问题，多半是显卡驱动问题，但为了绕开这种难解决的问题，我才直接安装ArcoLinuxD。但是奇怪的是，虽然官方介绍的ArcoLinuxD没有桌面系统也没有服务，就是命令行，但是安装的时候却是使用图形界面的，在这里我也同样遇到了TLP卡死问题，于是我就去一查究竟，到底TLP是啥，为什么会卡死？</p>
+<p>后来查询才知道，TLP是Linux下优秀的高级电源管理功能，之所以会卡死，确实是因为硬件设备太过老旧，如今的系统已经不能很好地支持了，准确说是Arch系对老机器的兼容性差。不过，仅仅知道这些，问题还是不能解决，但我最后成功绕开了这个问题，只需要使用Safe Graphics即可正常进入。而后一如既往地，设定系统所在的分区挂载到<code>/</code>下，系统引导分区挂载到<code>/boot/efi</code>下，然后开始安装即可。</p>
+<h2 id="终端无线连接"> 终端无线连接</h2>
+<p>等过许久之后，当我尝试进行初始配置，换pacman镜像源、调整yay镜像源之后尝试系统更新，发现无论如何都是失败，最后我才想起来，ArcoLinuxD并没有网络连接服务，因此我需要先连接上网络，于是我开始花费将近48小时去尝试连接WIFI……</p>
+<p>经过我相当长的时间去查询资料、文档，浏览相关网站后，最后才知道，原来是这样：</p>
+<p>因为系统刚开始是什么都没有的，因此使用的连接方式非常原始，我们采用<code>wpa_supplicant</code>来完成连接。</p>
+<ol>
+<li>
+<p>首先我们要查看无线网卡的相关信息，需要执行<code>iwconfig</code>来查看，注意，从输出信息中找到你的网卡ID，记好它，后面要经常用，如果实在觉得很难记，你可以临时创建一个变量来保存，例：<code>wireless_id=&lt;你的网卡ID&gt;</code>，这样你后面使用的时候就用<code>$wireless_id</code>来代替即可，为了便于描述，后面我都这样写了。</p>
+</li>
+<li>
+<p>通常情况下刚刚使用的系统是没有启动无线网卡的，因此我们要手动启动无线网卡：<code>ip link set $wireless_id up</code>。</p>
+</li>
+<li>
+<p>接下来我们需要扫描当前地点所有的WIFI连接点，执行<code>iwlist $wireless_id scan</code>。</p>
+</li>
+<li>
+<p>确定你要连接的WIFI点后，这时候就需要着手开始连接了。当下我们绝大多数使用的WIFI都是使用WPA/WPA2加密的，少数是开放的，另外一小部分才是使用WEP加密的。由于我要连接的WIFI是使用WPA/WPA2加密的，因此我们使用<code>wpa_supplicant</code>来创建连接。</p>
+<p><em>如果是开放WIFI，只需要使用<code>iwconfig $wireless_id essid &lt;要连接的开放WIFI的SSID&gt;</code>即可；</em></p>
+<p><em>而若是使用WEP加密的，则需要使用<code>iwconfig essid &lt;要连接的WIFI的SSID&gt; key &lt;该WIFI对应的密码&gt;</code>即可；</em></p>
+<p>如果是使用WPA/WPA2加密方式，我们常常能看到这样的教程：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span> <span>></span> /etc/wpa_supplicant.conf
+wpa_supplicant -B -i <span>$wireless_id</span> -c /etc/wpa_supplicant.conf
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>当时我还什么都不懂的时候，就是简单照做一下，结果发现，我根本就无法完成这些，因为我没有这种权限，甚至是我加了sudo，也依然无法完成，报错的原因都是<code>Permission denied</code>。于是我再去四处搜索，看到有人是这样写的：</p>
+<div><pre><code>wpa_supplicant -B -i <span>$wireless_id</span> -c<span>&lt;</span><span>(</span>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span><span>)</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>联系我之前所学的shell编程基础知识就发现，其实我不必非要创建那个wpa_supplicant.conf文件，我只是需要传给wpa_supplicant即可，所以才会使用<code>&lt;(..)</code>来实现。<code>&lt;(..)</code>实际上就是将括号内的命令执行结果输出到<code>/dev/fd/63</code>后再传送给箭头指向的前一个命令。
+当我执行这个命令的时候发现，还是报错，这回的报错是</p>
+<div><pre><code> Successfully initialized wpa_supplicant
+ Failed to <span>open</span> config <span>file</span> <span>'/dev/fd/63'</span>, error: No such <span>file</span> or directory
+ Failed to <span>read</span> or parse configuration <span>'/dev/fd/63'</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><a href="https://unix.stackexchange.com/questions/279545/failed-to-open-config-file-dev-fd-63-error-no-such-file-or-directory-for-wp" target="_blank" rel="noopener noreferrer">查询</a>之后才知道：</p>
+<blockquote>
+<p>Process substitution &lt;(…) creates a pipe, uses /dev/fd to give a path that's equivalent to the file descriptor where the pipe is, and passes the file name as an argument to the program. Here the program is sudo, and it passes that argument (which is just a string, as far as it's concerned) to wpa_supplicant, which treats it as a file name.</p>
+<p>The problem is that sudo closes all file descriptors except for the standard ones (stdin=0, stdout=1 and stderr=2). The pipe of the process substitution is on another descriptor, which gets closed, so when wpa_supplicant tries to open it, it finds a file that doesn't exist.</p>
+<p>If your sudo policy allows it (closefrom_override option enabled), you can tell it not to close file descriptors. But this is usually not the case.
+其实就是我并没有这个权限去读取那个文件，因此才会认为没有这样的文件，不过他也给出了其他的取代方案，亲自使用行之有效后我做了整合：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -B -i <span>$wireless_id</span> -c /dev/stdin
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>不过我没有试过他给的最后的方案</strong>：</p>
+<div><pre><code><span>sudo</span> <span>bash</span> -c <span>'wpa_supplicant -B -i $wireless_id -c&lt;(wpa_passphrase &lt;SSID> "&lt;SSID-PASSWORD>")'</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>凭经验判断这个应该也是可行的。</p>
+</blockquote>
+<p>但事情还没有完，执行过我做的整合后出现了新的问题：</p>
+<div><pre><code>Successfully initialized wpa_supplicant
+nl80211: Driver does not support authentication/association or connect commands
+nl80211: deinit <span>ifname</span><span>=</span>wlp0s29u1u3 <span>disabled_11b_rates</span><span>=</span><span>0</span>
+wlp0s29u1u3: Failed to initialize driver interface
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>经过查询发现，是我的硬件设施不支持<code>nl80211</code>扩展驱动，而我不做更改的情况下，默认是使用该扩展驱动的，因此我要做出的事必须是更换扩展驱动。后来我上网看到有人说用这个就能行：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wext -B -i <span>$wireless_id</span> -c /dev/stdin
+</code></pre>
+<div><span>1</span><br></div></div><p>还有说用<code>-Dwext</code>，和上一行命令的区别就在于D和wext之间没有空格，但是明显，都失败了，得到的最终报错是：</p>
+<div><pre><code>Successfully initialized wpa_supplicant
+rfkill: Cannot get wiphy information
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>百思不得其解，在网上四处搜索无果，最终我只能去Linux交流群内向高人请教了，经过较长的一段时间错误复现，有高人和我说起了这个<a href="http://manpages.ubuntu.com/manpages/trusty/man8/wpa_supplicant.8.html#available%20drivers" target="_blank" rel="noopener noreferrer">资料</a>，他建议我挨个试试，终于，当我使用Wired扩展驱动后一切都好了起来！</p>
+<p>最终的执行命令是：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wired -B -i <span>$wireless_id</span> -c /dev/stdin
+</code></pre>
+<div><span>1</span><br></div></div><p>思考总结：其实扩展驱动不是瞎试的，出现这一系列的报错原因就是在于驱动和硬件设施不匹配，而我正在使用的是无线网卡<code>MERCURY MW300TV</code>，一款非常老的无线网卡。
+在Google上搜索到的结果如图：</p>
+<p><img src="/images/BuildingServer/2022-01-06_14-59.png" alt="" /></p>
+<p><img src="/images/BuildingServer/2022-01-06_15-01.png" alt="" /></p>
+<p>有关它的名称是这样的：<strong>Mercury USB Wifi MW300TV USB Network Card 2.0 Thunderbolt Ethernet Wifi Router 300Mbps Wifi Adapter USB Wi-fi Video Card WIFI</strong></p>
+<p>显然可知这个无线网卡是以太网连接设备，再参考前面我提到的那个资料：</p>
+<p><img src="/images/BuildingServer/photo_2022-01-06_15-07-15.jpg" alt="" /></p>
+<p>里面写着：</p>
+<blockquote>
+<p><strong>wired</strong>  wpa_supplicant wired Ethernet driver</p>
+</blockquote>
+<p>我这才明白，原来需要以Ethernet Connection方式连接的设备扩展驱动应该选择使用Wired扩展驱动！</p>
+</li>
+<li>
+<p>最后可以考虑可哪瞎ping，试试看你的网络是否正常连接。</p>
+</li>
+</ol>
+<h2 id="虚拟内网穿透"> 虚拟内网穿透</h2>
+<p>接下来就是需要完成远程连接的问题。能够满足我的需求自然就是使用内网穿透工具Zerotier One，其实之前我都有写过，因此重复的部分这里不再赘述，详情可到<a href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/" target="_blank" rel="noopener noreferrer">这里</a>看。</p>
+<p>我写这部分是因为我遇到了问题：即使我能够通过ping在两台机器之间彼此通信，但我依旧不能使用SSH连接，总是被提示Connection refused.</p>
+<p>但经过我一晚上的排查与修复之后，当我看到这个<a href="https://wiki.archlinux.org/title/OpenSSH_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E7%AE%A1%E7%90%86_sshd_%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B" target="_blank" rel="noopener noreferrer">资料</a>时，我才发现问题的根源就在于，我没有启动SSH服务……</p>
+<p>嗯，这很离谱，但正事我们还是要做的，执行：</p>
+<div><pre><code><span>sudo</span> systemctl start sshd
+<span>sudo</span> systemctl <span>enable</span> sshd
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>不过我还是适当做了一下简单的安全设置，编辑<code>/etc/ssh/sshd_config</code>文件，将其中的<code>PermitRootLogin</code>后面的<code>yes</code>修改为<code>no</code>，这样我就可以保证不能以Root身份登录这台服务器了。</p>
+<h2 id="部署nextcloud"> 部署NextCloud</h2>
+<p>详情照做<a href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/" target="_blank" rel="noopener noreferrer">这个</a>就好。</p>
+<h2 id="部署hedgedoc"> 部署Hedgedoc</h2>
+<h2 id="部署思源笔记"> 部署思源笔记</h2>
+<h2 id="改建为局域网dns服务器"> 改建为局域网DNS服务器</h2>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
     </item>
     <item>
       <title>Manjaro Linux</title>
@@ -12995,50 +12995,6 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
     </item>
     <item>
-      <title>关于Vcomputer如何实现循环的哲学问题</title>
-      <link>https://breezeshane.github.io/VComputer/</link>
-      <guid>https://breezeshane.github.io/VComputer/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
-      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
-<hr>
-<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
-<blockquote>
-<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
-</blockquote>
-<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
-<blockquote>
-<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
-</blockquote>
-<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
-<div><pre><code>2001
-2101
-2201
-2301
-240A
-2501
-8418
-5002
-5112
-5323
-5553
-830C
-9000
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
-<ol>
-<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
-<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
-<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
-<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
-<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
-</ol>
-<hr>
-<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
-    </item>
-    <item>
       <title>Crawler</title>
       <link>https://breezeshane.github.io/Python/Crawler/</link>
       <guid>https://breezeshane.github.io/Python/Crawler/</guid>
@@ -13128,6 +13084,195 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
 <h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>关于Vcomputer如何实现循环的哲学问题</title>
+      <link>https://breezeshane.github.io/VComputer/</link>
+      <guid>https://breezeshane.github.io/VComputer/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
+      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
+<hr>
+<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
+<blockquote>
+<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
+</blockquote>
+<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
+<blockquote>
+<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
+</blockquote>
+<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
+<div><pre><code>2001
+2101
+2201
+2301
+240A
+2501
+8418
+5002
+5112
+5323
+5553
+830C
+9000
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
+<ol>
+<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
+<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
+<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
+<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
+<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
+</ol>
+<hr>
+<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
+    </item>
+    <item>
+      <title>简单的网页前后端搭建过程</title>
+      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
+      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
+      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
+<h3 id="html"> HTML</h3>
+<p><strong>HTML设置字体：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
+<span><span><span>&lt;/</span>form</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
+<h3 id="css"> CSS</h3>
+<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
+<p>CSS选择器：</p>
+<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
+<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
+<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
+<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
+<span>background-position</span><span>:</span> center center<span>;</span>
+<span>background-attachment</span><span>:</span> fixed<span>;</span>
+<span>background-size</span><span>:</span> cover<span>;</span>
+<span>margin</span><span>:</span> 0<span>;</span>
+<span>position</span><span>:</span> relative<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
+<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
+<span>top</span><span>:</span> 50%<span>;</span>
+<span>left</span><span>:</span> 50%<span>;</span>
+<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
+<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
+<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
+<h3 id="javascript"> JavaScript</h3>
+<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
+<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
+    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
+    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
+    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
+	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
+
+    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
+	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
+
+    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
+        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
+        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
+        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
+            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
+            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
+        <span>}</span>
+        file_num <span>=</span> fileList<span>.</span>length
+        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
+            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
+                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
+            <span>}</span>
+            <span>// 以下定义了前端传输的相关信息。</span>
+            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
+                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
+                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
+                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
+                processData<span>:</span> <span>false</span><span>,</span> 
+                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
+                contentType<span>:</span> <span>false</span><span>,</span>
+                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
+                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
+                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
+                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
+                    <span>//后续的两行代码则是修改相应控件的数据。</span>
+                <span>}</span><span>,</span>
+                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
+                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
+                <span>}</span>
+            <span>}</span><span>)</span>
+        <span>}</span>
+    <span>}</span><span>)</span><span>;</span>
+
+    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
+        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
+        <span>// 直接触发选择文件的点击事件。</span>
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
+<p>使用后端flask之前需要先做好配置：</p>
+<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
+<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
+
+app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
+<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
+    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
+<blockquote>
+<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
+</blockquote>
+<p>调用flask_uploads包后要做如下的配置：</p>
+<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
+configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
+patch_request_class<span>(</span>app<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
+<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
+<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
+<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
+    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
+    file_urls <span>=</span> <span>[</span><span>]</span>
+    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
+    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
+        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
+        fileList<span>.</span>append<span>(</span>filename<span>)</span>
+        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
+    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
+    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
+    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
+<p>「注」：以上所有代码都是项目的主要部分。</p>
+</blockquote>
+<p>最后将整个前后端写好之后，就可以正常执行了！</p>
+]]></content:encoded>
     </item>
     <item>
       <title>数据库</title>
@@ -13396,151 +13541,6 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
 </code></pre>
 <div><span>1</span><br></div></div>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
-    </item>
-    <item>
-      <title>简单的网页前后端搭建过程</title>
-      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
-      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
-      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
-<h3 id="html"> HTML</h3>
-<p><strong>HTML设置字体：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
-<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
-<span><span><span>&lt;/</span>form</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
-<h3 id="css"> CSS</h3>
-<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
-<p>CSS选择器：</p>
-<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
-<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
-<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
-<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
-<span>background-position</span><span>:</span> center center<span>;</span>
-<span>background-attachment</span><span>:</span> fixed<span>;</span>
-<span>background-size</span><span>:</span> cover<span>;</span>
-<span>margin</span><span>:</span> 0<span>;</span>
-<span>position</span><span>:</span> relative<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
-<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
-<span>top</span><span>:</span> 50%<span>;</span>
-<span>left</span><span>:</span> 50%<span>;</span>
-<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
-<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
-<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
-<h3 id="javascript"> JavaScript</h3>
-<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
-<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
-    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
-    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
-    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
-	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
-
-    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
-	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
-
-    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
-        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
-        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
-        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
-            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
-            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
-        <span>}</span>
-        file_num <span>=</span> fileList<span>.</span>length
-        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
-            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
-        <span>}</span> <span>else</span> <span>{</span>
-            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
-                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
-            <span>}</span>
-            <span>// 以下定义了前端传输的相关信息。</span>
-            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
-                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
-                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
-                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
-                processData<span>:</span> <span>false</span><span>,</span> 
-                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
-                contentType<span>:</span> <span>false</span><span>,</span>
-                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
-                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
-                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
-                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
-                    <span>//后续的两行代码则是修改相应控件的数据。</span>
-                <span>}</span><span>,</span>
-                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
-                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
-                <span>}</span>
-            <span>}</span><span>)</span>
-        <span>}</span>
-    <span>}</span><span>)</span><span>;</span>
-
-    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
-        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
-        <span>// 直接触发选择文件的点击事件。</span>
-    <span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
-<p>使用后端flask之前需要先做好配置：</p>
-<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
-<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
-
-app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
-<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
-    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
-<blockquote>
-<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
-</blockquote>
-<p>调用flask_uploads包后要做如下的配置：</p>
-<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
-configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
-patch_request_class<span>(</span>app<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
-<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
-<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
-<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
-    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
-    file_urls <span>=</span> <span>[</span><span>]</span>
-    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
-    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
-        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
-        fileList<span>.</span>append<span>(</span>filename<span>)</span>
-        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
-    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
-    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
-    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
-<p>「注」：以上所有代码都是项目的主要部分。</p>
-</blockquote>
-<p>最后将整个前后端写好之后，就可以正常执行了！</p>
-]]></content:encoded>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -14066,6 +14066,40 @@ secure_file_priv =
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
     </item>
     <item>
+      <title>𝕬𝖇𝖔𝖚𝖙</title>
+      <link>https://breezeshane.github.io/about/</link>
+      <guid>https://breezeshane.github.io/about/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
+<p>【代号】和风曦日</p>
+<p>【本体】Bug</p>
+<p>【性别】男</p>
+<p>【战斗经验】没有战斗经验</p>
+<p>【出身地】不明</p>
+<p>【生日】本人表示遗忘</p>
+<p>【种族】萨卡兹</p>
+<p>【身高】163cm</p>
+<p>【矿石病感染情况】</p>
+<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
+<h2 id="综合体检测试"> 综合体检测试</h2>
+<p>【物理强度】普通</p>
+<p>【战场机动】普通</p>
+<p>【生理耐受】普通</p>
+<p>【战术规划】普通</p>
+<p>【战斗技巧】普通</p>
+<p>【源石技艺适应性】卓越</p>
+<h2 id="客观履历"> 客观履历</h2>
+<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
+<h2 id="临床诊断分析"> 临床诊断分析</h2>
+<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
+<p>【体细胞与源石融合率】12%</p>
+<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
+<p>【血液源石结晶密度】0.5µ/L</p>
+<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Windows10 快捷键大全</title>
       <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
       <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
@@ -14386,45 +14420,11 @@ secure_file_priv =
       <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
     </item>
     <item>
-      <title>𝕬𝖇𝖔𝖚𝖙</title>
-      <link>https://breezeshane.github.io/about/</link>
-      <guid>https://breezeshane.github.io/about/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
-<p>【代号】和风曦日</p>
-<p>【本体】Bug</p>
-<p>【性别】男</p>
-<p>【战斗经验】没有战斗经验</p>
-<p>【出身地】不明</p>
-<p>【生日】本人表示遗忘</p>
-<p>【种族】萨卡兹</p>
-<p>【身高】163cm</p>
-<p>【矿石病感染情况】</p>
-<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
-<h2 id="综合体检测试"> 综合体检测试</h2>
-<p>【物理强度】普通</p>
-<p>【战场机动】普通</p>
-<p>【生理耐受】普通</p>
-<p>【战术规划】普通</p>
-<p>【战斗技巧】普通</p>
-<p>【源石技艺适应性】卓越</p>
-<h2 id="客观履历"> 客观履历</h2>
-<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
-<h2 id="临床诊断分析"> 临床诊断分析</h2>
-<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
-<p>【体细胞与源石融合率】12%</p>
-<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
-<p>【血液源石结晶密度】0.5µ/L</p>
-<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Intro Page</title>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -14434,7 +14434,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -14459,7 +14459,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -14522,7 +14522,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -14531,7 +14531,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 12 Mar 2022 16:06:35 GMT</pubDate>
+      <pubDate>Sat, 12 Mar 2022 16:07:30 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
