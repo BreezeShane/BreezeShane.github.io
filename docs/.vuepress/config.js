@@ -97,6 +97,7 @@ module.exports = config({
                       },
                       "CongruenceExpression",
                       "LipschitzContinuity",
+                      "Convex",
                     ],
                   },
                   {

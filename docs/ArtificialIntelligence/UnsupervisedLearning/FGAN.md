@@ -29,9 +29,10 @@ tags:
  - [雅可比矩阵 - 维基](https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5#%E9%9B%85%E5%8F%AF%E6%AF%94%E8%A1%8C%E5%88%97%E5%BC%8F)
  - [【数学基础】第十九课：凸优化进阶](http://shichaoxin.com/2021/04/11/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%AF%BE-%E5%87%B8%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6/)
  - [共轭函数两个性质的证明 - CSDN](https://blog.csdn.net/weixin_42258608/article/details/87610618)
- - [凸函数 - 文再文讲义](https://bicmr.pku.edu.cn/~wenzw/optbook/lect/03_functions_newhyx.pdf)
  - [[cvp02] Convex Function](https://louisyzk.github.io/notes/2019/11/25/CVP02-Convex-Function)
  - [凸优化学习笔记](https://msgsxj.cn/2018/02/23/%E5%87%B8%E4%BC%98%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/)
  - [凸函数 - 简书](https://www.jianshu.com/p/0dcf58715b2b)
 
 :::
+翻了很多相关的博客,还是博主写的比较好.我理解博主的意思,不过我认为其实是定义及其运算并不影响可加性,这是有不等式性质保证的.
+另外博主说的'='含义不一样,我觉得其实应该不是这么理解,F(N)=O(f)就是表示F的渐进上界是函数f,G(N)=O(g)就是表示G的渐进上界是函数g,那么O(f)+O(g)=F(N)+G(N)就理解成F和G两个函数和的渐进上界可以由f和g两函数的线性组合表示,然后等式右边这部分可以用不等式的性质得到右边的不等式.
