@@ -26,6 +26,7 @@ tags:
  - [墨卡托级数](https://zh.wikipedia.org/wiki/%E5%A2%A8%E5%8D%A1%E6%89%98%E7%B4%9A%E6%95%B8)
  - [Open set](https://en.wikipedia.org/wiki/Open_set)
  - [Closed set](https://en.wikipedia.org/wiki/Closed_set)
+ - [方向导数](https://zh.wikipedia.org/wiki/%E6%96%B9%E5%90%91%E5%AF%BC%E6%95%B0)
 
 :::
 
@@ -371,7 +372,7 @@ $$
 :::
 
 闭(下半连续)函数间的简单运算会保持原有性质:
-1. **加法**: 若$f$与$g$均为适当的闭(下半连续)函数,并且$\mathrm{dom} f \cap \mathrm{dom} g \neq \varnothing$,则$f + g$也是闭(下半连续)函数.其中适当函数的条件是为了避免出现未定式$(−\infty)+(+\infty)$的情况;
+1. **加法**: 若$f$与$g$均为适当的闭(下半连续)函数,并且$\mathrm{dom}\,f \cap \mathrm{dom}\,g \neq \varnothing$,则$f + g$也是闭(下半连续)函数.其中适当函数的条件是为了避免出现未定式$(−\infty)+(+\infty)$的情况;
 2. **仿射映射的复合**: 若$f$为闭(下半连续)函数, 则$f(Ax + b)$也为闭(下半连续)函数;
 3. **取上确界**: 若每一个函数$f_α$均为闭(下半连续)函数,则$\sup_\alpha f_\alpha(x)$也为闭(下半连续)函数.
 
@@ -435,7 +436,7 @@ $$
 
 ### 强凸函数
 
-::: 定义1
+::: info 定义1
 
 若存在常数$m > 0$,使得
 
@@ -447,7 +448,7 @@ $$
 
 :::
 
-::: 定义2
+::: info 定义2
 
 若存在常数$m > 0$,使得 $\forall x, y \in \mathrm{dom} \,f$以及$\theta \in (0,1)$,有
 
@@ -537,6 +538,8 @@ $$
 
 结合以上两点可以得到函数$g(t)$是凸函数.
 
+---
+
 **充分性**:先说明$\mathrm{dom}\,f$是凸集.
 
 取$\forall \theta \in [0, 1],\, v = y - x$,以及$t_1=0, t_2=1$.则由$\mathrm{dom}\,g$是凸集可知$\theta t_1 + (1-\theta)t_2 = \theta \cdot 0 + (1-\theta) \cdot 1 \in \mathrm{dom}\,g$
@@ -566,12 +569,159 @@ $$
 而又有
 
 $$
-g(1-\theta) = f(x + (1-\theta)(y-x)) = f(\theta x + (1-\theta)y),
+g(1-\theta) = f(x + (1-\theta)(y-x)) = f(\theta x + (1-\theta)y), \\
+\therefore f(\theta x + (1-\theta)y) \leq \theta f(x) + (1-\theta)f(y)
 $$
 
 这说明$f(x)$是凸函数.故原命题得证.
 
 :::
+
+### 一阶条件
+
+::: info 定理
+
+对于定义在凸集上的可微函数$f$, $f$是凸函数当且仅当
+
+$$
+f(y) \geq f(x) + \nabla f(x)^\top (y-x) \quad \forall x, y \in \mathrm{dom}\,f
+$$
+
+:::
+
+::: details 证明
+
+**必要性**: 设$f$是凸函数,则对于$\forall x, y \in \mathrm{dom}\,f$以及$t \in (0,1)$,有
+
+$$
+\begin{aligned}
+&\qquad tf(y) + (1-t)f(x) \geq f(x+t(y-x)) \\
+&\Rightarrow tf(y) + f(x) - tf(x) \geq f(x+t(y-x)) \\
+&\Rightarrow f(y)  - f(x) \geq \frac{f(x+t(y-x)) - f(x)}{t}
+\end{aligned}
+$$
+
+令$t \to 0$,由极限保号性可得
+
+$$
+f(y)  - f(x) \geq \lim_{t\to 0}\frac{f(x+t(y-x)) - f(x)}{t} = \nabla f(x)^\top (y-x)
+$$
+
+这里最后一个等式成立是由于方向导数的性质:
+
+如果函数$f$在点$\mathbf {x}$处可微，则沿着任意非零向量$\mathbf {v}$的方向导数都存在。则有：
+
+$$
+\nabla_{\mathbf{v}}{f}(\mathbf{x})=\mathrm{D} f_{\mathbf {x} }(\mathbf{v})=\mathbf{v}\cdot\nabla f(\mathbf{x})
+$$
+
+其中$\mathrm{D}f_{\mathbf{x}}$是函数$f$在点$\mathbf{x}$的全微分，为一线性映射；$\nabla$符号表示梯度算子，而“$\cdot$”表示$\mathbb{R}^n$中的内积. (注：在这例子里，如果线性映射$\mathrm{D}f_{\mathbf{x}}$用矩阵表示且选用自然基底的话，$\mathrm {D}f_{\mathbf{x}}=\nabla f({\mathbf{x}})$为$1\times n$的矩阵).
+
+---
+
+**充分性**: 对$\forall x, y \in \mathrm{dom}\,f$以及$\forall t \in (0,1)$, 定义$z = tx+(1-t)y$, 应用两次一阶条件我们有
+
+$$
+\begin{aligned}
+f(x) \geq f(z) + \nabla f(z)^\top (x-z)\qquad &\text{(1)}\\
+f(y) \geq f(z) + \nabla f(z)^\top (y-z)\qquad &\text{(2)}
+\end{aligned}
+$$
+
+令$(1)$乘上$t$,$(2)$乘上$1-t$,相加得
+
+$$
+tf(x) + (1-t)f(y) \geq f(z) + tx + (1-t)y - z = f(z) = f(tx+(1-t)y)
+$$
+
+满足凸函数的定义,因此充分性成立.
+
+:::
+
+### 梯度单调性
+
+::: info 定义
+
+设$f$为可微函数,则$f$为凸函数当且仅当$\mathrm{dom}\,f$为凸集且$\nabla f$为单调映射,
+
+$$
+(\nabla f(x) - \nabla f(y))^\top (x - y) \geq 0, \quad \forall x, y \in \mathrm{dom}\,f
+$$
+
+:::
+
+::: details 证明
+
+**必要性**: 若$f$可微且为凸函数,根据一阶条件,我们有
+
+$$
+\begin{aligned}
+f(x) \geq f(x) + \nabla f(x)^\top (y-x)\qquad &\text{(1)}\\
+f(y) \geq f(y) + \nabla f(y)^\top (x-y)\qquad &\text{(2)}
+\end{aligned}
+$$
+
+$(1) + (2)$得
+
+$$
+\begin{aligned}
+f(x) + f(y) &\geq f(x) + f(y) + \nabla f(x)^\top (y-x) + \nabla f(y)^\top (x-y) \\
+&\Rightarrow 0 \geq \nabla f(x)^\top (y-x) - \nabla f(y)^\top (y-x) \\
+&\Rightarrow 0 \geq (\nabla f(x)^\top - \nabla f(y)^\top)(y-x) \\
+&\Rightarrow (\nabla f(x) - \nabla f(y))^\top(x-y) \geq  0
+\end{aligned}
+$$
+
+---
+
+**充分性**: 若$\nabla f$为单调映射,构造一元辅助函数
+
+$$
+g(t) = f(x+t(y-x)), \quad g^\prime(t) = \nabla f(x+t(y-x))^\top(y-x)
+$$
+
+由$\nabla f$的单调性可知$g^\prime(t) \geq g^\prime(0), \; \forall t \geq 0$.因此
+
+$$
+f(y) = g(1) = g(0) + \int_0^1g^\prime(t) dt \geq g(0) + g^\prime(0) = f(x) + \nabla f(x)^\top(y-x).
+$$
+
+:::
+
+### 上方图
+
+::: info 定理
+
+函数$f(x)$为凸函数当且仅当其上方图$epi\; f$是凸集.
+
+:::
+
+::: details 证明
+
+**必要性**: 若$f(x)$为凸函数,则对$\forall (x_1, y_1), (x_2, y_2) \in epi\; f, t \in [0,1]$,
+
+$$
+ty_1 + (1-t)y_2 \geq tf(x_1) + (1-t) f(x_2) \geq f(tx_1 + (1-t)x_2) \\
+\therefore (tx_1+(1-t)x_2,ty_1 + (1-t)y_2) \in epi\;f\\
+\Rightarrow f(tx_1+(1-t)x_2) \leq tf(x_1) + (1-t)f(x_2)
+$$
+
+---
+
+**充分性**: 若$epi\;f$是凸集,则对$\forall x_1, x_2 \in \mathrm{dom}\,f , t \in [0,1]$,
+
+$$
+\begin{aligned}
+(tx_1+(1-t)x_2, tf(x_1)+(1-t)f(x_2)) \in epi\;f \\
+\Rightarrow f(tx_1+(1-t)x_2) \leq tf(x_1) + (1-t)f(x_2)
+\end{aligned}
+$$
+
+:::
+
+### 二阶条件
+
+### Jensen不等式/琴生不等式
 
 ## 保凸的运算
 
