@@ -900,4 +900,259 @@ $$
 
 ## 保凸的运算
 
+::: info 验证一个函数是否为凸函数的方法
+
+1. 用定义验证(通常将函数限制在一条直线上)
+2. 利用一阶条件和二阶条件
+3. 直接研究$f$的上方图$epi\;f$
+4. 说明$f$可由简单的凸函数通过一些保凸的运算得到
+   - 非负加权和
+   - 与仿射函数的复合
+   - 逐点取最大值
+   - 与标量、向量函数的复合
+   - 取下确界
+   - 透视函数
+
+:::
+
+### 非负加权和与仿射函数的复合
+
+::: info
+
+**非负数乘**: 若$f$是凸函数,则$\alpha f$是凸函数,其中$\alpha\geq0$.
+
+**求和**: 若$f1,f2$是凸函数,则$f1 + f2$是凸函数.
+
+**与仿射函数的复合**: 若$f$是凸函数,则$f(Ax + b)$是凸函数.
+
+:::
+
+**例**: 
+
+线性不等式的对数障碍函数:
+
+$$
+f(x) = -\sum_{i=1}^{m}\log (b_i - a_i^\top x), \mathrm{dom}\;f = \{ x | a_i^\top x < b_i, \, i=1, \dots, m \}
+$$
+
+仿射函数的(任意)范数: $f(x)=||Ax+b||$
+
+### 逐点取最大值
+
+::: info
+
+若$f_1, \dots , f_m$是凸函数,则$f(x)=\max\{ f_1(x), \dots, f_m(x) \}$是凸函数.
+
+:::
+
+**例**:
+
+分段线性函数: 
+
+$$
+f(x)=\max_{i=1,\dots,m}(a_i^\top x + b_i) \; \text{是凸函数.}
+$$
+
+$x \in \mathbb{R}^n$的前$r$个最大分量之和:
+
+$$
+f(x) = x_{[1]} + x_{[2]} + \cdots + x_{[r]} \; \text{是凸函数.}
+$$
+
+其中$x_{[i]}$为$x$的从大到小排列的第$i$个分量,
+
+事实上,$f(x)$可以写成如下多个线性函数取最大值的形式:
+
+$$
+f(x) = \max \{ x_{i_1} + x_{i_2} + \cdots + x_{i_r} | 1 \leq i_1 < i_2 < \cdots < i_r \leq n \}
+$$
+
+### 逐点取上界
+
+::: info
+
+若对每个$y \in \mathcal{A}$,$f(x,y)$是关于$x$的凸函数,则
+
+$$
+g(x) = \sup_{y\in \mathcal{A}}f(x,y) \; \text{是凸函数.}
+$$
+
+:::
+
+**例**:
+
+集合$C$的支撑函数: 
+
+$$
+S_C(x) = \sup_{y\in C}y^\top x \; \text{是凸函数.}
+$$
+
+集合$C$点到给定点$x$的最远距离:
+
+$$
+f(x) = \sup_{y\in C}||x-y||
+$$
+
+对称矩阵$X\in \mathbb{S}^n$的最大特征值:
+
+$$
+\lambda_{\max}(X) = \sup_{||y||_2=1}y^\top Xy
+$$
+
+### 与标量函数的复合
+
+::: info
+
+给定函数$g: \mathbb{R}^n \to \mathbb{R}$和$h: \mathbb{R} \to \mathbb{R}$,
+
+$$
+f(x) = h(g(x))
+$$
+
+若$g$是凸函数,$h$是凸函数,$\hat{h}$单调不减,那么$f$是凸函数.
+
+若$g$是凹函数,$h$是凸函数,$\hat{h}$单调不增,那么$f$是凸函数.
+
+:::
+
+对$n=1$,$g,h$均可微的情形,我们给出简证
+
+$$
+f^{\prime\prime}(x) = h^{\prime\prime}(g(x))g^\prime(x)^2 + h^\prime(g(x))g^{\prime\prime}(x)
+$$
+
+注意: 必须是$\hat{h}$满足单调不减/不增的条件;如果仅是$h$满足单调不减/不增的条件,存在反例.
+
+**推论**:
+
+ - 如果$g$是凸函数,则$\exp g(x)$是凸函数.
+ - 如果$g$是正值凹函数,则$\frac{1}{g(x)}$是凸函数.
+
+### 与向量函数的复合
+
+::: info
+
+给定函数$g: \mathbb{R}^n \to \mathbb{R}$和$h: \mathbb{R} \to \mathbb{R}$,
+
+$$
+f(x) = h(g(x)) = h(g_1(x), g_2(x), \dots, g_k(x))
+$$
+
+若$g$是凸函数,$h$是凸函数,$\hat{h}$关于每个分量单调不减,那么$f$是凸函数.
+
+若$g$是凹函数,$h$是凸函数,$\hat{h}$关于每个分量单调不增,那么$f$是凸函数.
+
+:::
+
+对$n=1$,$g,h$均可微的情形,我们给出简证
+
+$$
+f^{\prime\prime}(x) = g^\prime(x)^\top\nabla^2h(g(x))g^\prime(x) + \nabla h(g(x))^\top g^{\prime\prime}(x)
+$$
+
+**推论**:
+
+ - 如果$g_i$是正值凹函数,则$\sum_{i=1}^{m}\log g_i(x)$是凹函数.
+ - 如果$g_i$是凸函数,则$\log\sum_{i=1}^{m}\exp g_i(x)$是凸函数.
+
+### 取下确界
+
+::: info
+
+若$f(x,y)$关于$(x,y)$征途是凸函数,$C$是凸集,则
+
+$$
+g(x) = \inf_{y\in C}f(x,y) \; \text{是凸函数.}
+$$
+
+:::
+
+**例**:
+
+1. 考虑函数$f(x,y) = x^\top Ax + 2x^\top By + y^\top Cy$,海瑟矩阵满足
+   $$
+   \begin{bmatrix}
+   A & B \\
+   B^\top & C
+   \end{bmatrix}
+   \succeq 0, \quad C \succ 0,
+   $$
+   则$f(x,y)$为凸函数.对$y$求最小值得
+   $$
+   g(x) = \inf_y f(x,y) = x^\top(A-BC^{-1}B^\top)x,
+   $$
+   因此$g$是凸函数.进一步地,$A$的Schur补$A-BC^{-1}B^\top \succeq 0$
+
+
+2. 点$x$到凸集$S$的距离$\mathrm{dist}(x, S) = \inf_{y\in S}||x-y||$是凸函数.
+
+### 透视函数
+
+::: info
+
+定义$f: \mathbb{R}^n \to \mathbb{R}$的透视函数$g: \mathbb{R}^n \times \mathbb{R} \to \mathbb{R}$,
+
+$$
+g(x,t) = tf(\frac{x}{t}), \quad \mathrm{dom}\;g = \Big\{ (x,t) | \frac{x}{t} \in \mathrm{dom}\;f , t > 0 \Big\}
+$$
+
+若$f$是凸函数,则$g$是凸函数.
+
+:::
+
+**例**:
+
+1. $f(x) = x^\top x$是凸函数,因此$g(x,t) = \frac{x^\top x}{t}$是区域$\{ (x,t) | t > 0 \}$上的凸函数.
+2. $f(x) = -\log x$是凸函数,因此相对熵函数$g(x, t) = t\log t - t\log x$是$\mathbb{R}^2_{++}$上的凸函数
+3. 若$f$是凸函数,那么
+   $$
+   g(x) = (c^\top x + d)f(\frac{Ax+b}{c^\top x + d})
+   $$
+   是区域$\{ x | c^\top x + d > 0, \frac{Ax + b}{c^\top x + d} \in \mathrm{dom}\;f \}$上的凸函数.
+
+### 共轭函数
+
+::: info
+
+适当函数$f$的共轭函数定义为
+
+$$
+f^*(y) = \sup_{x \in \mathrm{dom}\;f}(y^\top x - f(x))
+$$
+
+:::
+
+$f^*$恒为凸函数,无论$f$是否是凸函数.
+
+**例**:
+
+1. 负对数$f(x) = -\log x$
+   $$
+   f^*(y) = \sup_{x > 0}(xy + \log x) = 
+   \begin{cases}
+   -1 - \log (-y) & y < 0 \\
+   \infty & \mathrm{Otherwise}.
+   \end{cases}
+   $$
+2. 强凸二次函数$f(x) = \frac{1}{2}x^\top Qx, \; Q\in\mathbb{S}^n_{++}$
+   $$
+   \begin{aligned}
+   f^*(y) 
+   &= \sup_x(y^\top x - \frac{1}{2}x^\top Qx) \\
+   &= \frac{1}{2}y^\top Q^{-1}y
+   \end{aligned}
+   $$
+
 ## 凸函数的推广
+
+### 拟凸函数
+
+### 拟凸、凹函数的例子
+
+### 拟凸函数的性质
+
+### 对数凸函数
+
+### 对数凸、凹函数的性质
+
+### 广义不等式意义下的凸函数
