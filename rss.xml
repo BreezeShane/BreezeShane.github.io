@@ -6,12 +6,19 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Mon, 14 Mar 2022 05:37:33 GMT</pubDate>
-    <lastBuildDate>Mon, 14 Mar 2022 05:37:33 GMT</lastBuildDate>
+    <pubDate>Mon, 14 Mar 2022 08:05:34 GMT</pubDate>
+    <lastBuildDate>Mon, 14 Mar 2022 08:05:34 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
     <category>使用指南</category>
+    <item>
+      <title>估计、偏差和方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
+    </item>
     <item>
       <title>有关人工智能与机器学习领域的概况</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</link>
@@ -159,13 +166,6 @@
       <pubDate>Sun, 23 Jan 2022 01:04:16 GMT</pubDate>
     </item>
     <item>
-      <title>估计、偏差和方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
-    </item>
-    <item>
       <title>学习算法</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
@@ -257,6 +257,13 @@
       <pubDate>Sun, 23 Jan 2022 01:06:38 GMT</pubDate>
     </item>
     <item>
+      <title>约束优化</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约束优化</source>
+      <pubDate>Sun, 23 Jan 2022 01:06:46 GMT</pubDate>
+    </item>
+    <item>
       <title>前言</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</guid>
@@ -267,13 +274,6 @@
 <p>需要掌握的数学知识「线性代数、概率论等」位于Mathematics栏目下，此栏目不作重复性描述。</p>
 </div>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>约束优化</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约束优化</source>
-      <pubDate>Sun, 23 Jan 2022 01:06:46 GMT</pubDate>
     </item>
     <item>
       <title>入门机器学习的安装与配置</title>
@@ -1052,7 +1052,137 @@
 <p>基础Jensen不等式可以视为概率Jensen不等式在两点分布下的特殊情况</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>prob</span></span><span>(</span><span style="margin-right:0.04398em;">z</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">θ</span><span>,</span><span style="margin-right:1em;"></span><span style="margin-right:0.16666666666666666em;"></span><span><span>prob</span></span><span>(</span><span style="margin-right:0.04398em;">z</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.72777em;vertical-align:-0.08333em;"></span><span>1</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">θ</span></span></span></span></span></p>
 <h2 id="保凸的运算"> 保凸的运算</h2>
+<div><p>验证一个函数是否为凸函数的方法</p>
+<ol>
+<li>用定义验证(通常将函数限制在一条直线上)</li>
+<li>利用一阶条件和二阶条件</li>
+<li>直接研究<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>的上方图<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>e</span><span>p</span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span></li>
+<li>说明<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>可由简单的凸函数通过一些保凸的运算得到
+<ul>
+<li>非负加权和</li>
+<li>与仿射函数的复合</li>
+<li>逐点取最大值</li>
+<li>与标量、向量函数的复合</li>
+<li>取下确界</li>
+<li>透视函数</li>
+</ul>
+</li>
+</ol>
+</div>
+<h3 id="非负加权和与仿射函数的复合"> 非负加权和与仿射函数的复合</h3>
+<div><p>相关信息</p>
+<p><strong>非负数乘</strong>: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.0037em;">α</span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数,其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span style="margin-right:0.0037em;">α</span><span style="margin-right:0.2777777777777778em;"></span><span>≥</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span>.</p>
+<p><strong>求和</strong>: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span><span>1</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>2</span></span></span></span>是凸函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span><span>1</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span><span>2</span></span></span></span>是凸函数.</p>
+<p><strong>与仿射函数的复合</strong>: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>A</span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>b</span><span>)</span></span></span></span>是凸函数.</p>
+</div>
+<p><strong>例</strong>:</p>
+<p>线性不等式的对数障碍函数:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.929066em;vertical-align:-1.277669em;"></span><span>−</span><span style="margin-right:0.16666666666666666em;"></span><span><span><span><span style="height:1.6513970000000002em;"><span style="top:-1.872331em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.050005em;"><span style="height:3.05em;"></span><span><span>∑</span></span></span><span style="top:-4.3000050000000005em;margin-left:0em;"><span style="height:3.05em;"></span><span><span><span>m</span></span></span></span></span><span>​</span></span><span><span style="height:1.277669em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>(</span><span><span>b</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1491079999999998em;vertical-align:-0.25em;"></span><span><span>a</span><span><span><span><span style="height:0.8991079999999998em;"><span style="top:-2.4530000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span><span>​</span></span><span><span style="height:0.247em;"><span></span></span></span></span></span></span><span>x</span><span>)</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>dom</span></span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.10764em;">f</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.1491079999999998em;vertical-align:-0.25em;"></span><span>{</span><span>x</span><span>∣</span><span><span>a</span><span><span><span><span style="height:0.8991079999999998em;"><span style="top:-2.4530000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span><span>​</span></span><span><span style="height:0.247em;"><span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span>b</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>m</span><span>}</span></span></span></span></span></p>
+<p>仿射函数的(任意)范数: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∣∣</span><span>A</span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>b</span><span>∣∣</span></span></span></span></p>
+<h3 id="逐点取最大值"> 逐点取最大值</h3>
+<div><p>相关信息</p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>m</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>是凸函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>max</span><span>{</span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.10764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>m</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)}</span></span></span></span>是凸函数.</p>
+</div>
+<p><strong>例</strong>:</p>
+<p>分段线性函数:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.7628799999999998em;vertical-align:-0.863772em;"></span><span><span><span><span style="height:0.43055999999999994em;"><span style="top:-2.3723360000000002em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>i</span><span>=</span><span>1</span><span>,</span><span>…</span><span>,</span><span>m</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.863772em;"><span></span></span></span></span></span><span>(</span><span><span>a</span><span><span><span><span style="height:0.8991079999999998em;"><span style="top:-2.4530000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span><span>​</span></span><span><span style="height:0.247em;"><span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>b</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span><span>是凸函数</span><span>.</span></span></span></span></span></span></p>
+<p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span></span></span></span>的前<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>个最大分量之和:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.9385299999999999em;vertical-align:-0.3551999999999999em;"></span><span><span>x</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>[</span><span>1</span><span>]</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.9385299999999999em;vertical-align:-0.3551999999999999em;"></span><span><span>x</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>[</span><span>2</span><span>]</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>⋯</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.03853em;vertical-align:-0.3551999999999999em;"></span><span><span>x</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>[</span><span style="margin-right:0.02778em;">r</span><span>]</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span><span>是凸函数</span><span>.</span></span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.7857599999999999em;vertical-align:-0.3551999999999999em;"></span><span><span>x</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>[</span><span>i</span><span>]</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>的从大到小排列的第<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span>个分量,</p>
+<p>事实上,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span></span></span></span>可以写成如下多个线性函数取最大值的形式:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.0001em;vertical-align:-0.2501em;"></span><span>max</span><span>{</span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span><span>i</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.83343em;vertical-align:-0.2501em;"></span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span><span>i</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>⋯</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.0001em;vertical-align:-0.2501em;"></span><span><span>x</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span><span>i</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>∣1</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.80952em;vertical-align:-0.15em;"></span><span><span>i</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.80952em;vertical-align:-0.15em;"></span><span><span>i</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>⋯</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.80952em;vertical-align:-0.15em;"></span><span><span>i</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>n</span><span>}</span></span></span></span></span></p>
+<h3 id="逐点取上界"> 逐点取上界</h3>
+<div><p>相关信息</p>
+<p>若对每个<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.7335400000000001em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">y</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span></span></span></span>是关于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>的凸函数,则</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.8248790000000001em;vertical-align:-1.0748790000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.161229em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span>∈</span><span>A</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>sup</span></span></span></span><span>​</span></span><span><span style="height:1.0748790000000001em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span><span>是凸函数</span><span>.</span></span></span></span></span></span></p>
+</div>
+<p><strong>例</strong>:</p>
+<p>集合<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">C</span></span></span></span>的支撑函数:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.05764em;">S</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.07153em;">C</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.9739870000000002em;vertical-align:-1.0748790000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.161229em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span>∈</span><span style="margin-right:0.07153em;">C</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>sup</span></span></span></span><span>​</span></span><span><span style="height:1.0748790000000001em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span><span>是凸函数</span><span>.</span></span></span></span></span></span></p>
+<p>集合<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">C</span></span></span></span>点到给定点<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>的最远距离:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.8248790000000001em;vertical-align:-1.0748790000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.161229em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span>∈</span><span style="margin-right:0.07153em;">C</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>sup</span></span></span></span><span>​</span></span><span><span style="height:1.0748790000000001em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">y</span><span>∣∣</span></span></span></span></span></p>
+<p>对称矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>S</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span></span></span></span>的最大特征值:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>λ</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span><span>m</span><span>a</span><span>x</span></span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.07847em;">X</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.059548em;vertical-align:-1.16044em;"></span><span><span><span><span style="height:0.43056000000000016em;"><span style="top:-2.11456em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>∣∣</span><span style="margin-right:0.03588em;">y</span><span>∣</span><span><span>∣</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span><span>=</span><span>1</span></span></span></span><span style="top:-3.0000000000000004em;"><span style="height:3em;"></span><span><span>sup</span></span></span></span><span>​</span></span><span><span style="height:1.16044em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.03588em;">y</span></span></span></span></span></p>
+<h3 id="与标量函数的复合"> 与标量函数的复合</h3>
+<div><p>相关信息</p>
+<p>给定函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>h</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>,</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>h</span><span>(</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>))</span></span></span></span></span></p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>h</span></span></span></span>是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.9578799999999998em;vertical-align:0em;"></span><span><span><span><span style="height:0.9578799999999998em;"><span style="top:-3em;"><span style="height:3em;"></span><span>h</span></span><span style="top:-3.26344em;"><span style="height:3em;"></span><span style="left:-0.25em;"><span>^</span></span></span></span></span></span></span></span></span></span>单调不减,那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数.</p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是凹函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>h</span></span></span></span>是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.9578799999999998em;vertical-align:0em;"></span><span><span><span><span style="height:0.9578799999999998em;"><span style="top:-3em;"><span style="height:3em;"></span><span>h</span></span><span style="top:-3.26344em;"><span style="height:3em;"></span><span style="left:-0.25em;"><span>^</span></span></span></span></span></span></span></span></span></span>单调不增,那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数.</p>
+</div>
+<p>对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>h</span></span></span></span>均可微的情形,我们给出简证</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.051892em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>′′</span></span></span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.1141079999999999em;vertical-align:-0.25em;"></span><span><span>h</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>′′</span></span></span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>))</span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>′</span></span></span></span></span></span></span></span><span>(</span><span>x</span><span><span>)</span><span><span><span><span style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.051892em;vertical-align:-0.25em;"></span><span><span>h</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>′</span></span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>))</span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>′′</span></span></span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span></p>
+<p>注意: 必须是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.9578799999999998em;vertical-align:0em;"></span><span><span><span><span style="height:0.9578799999999998em;"><span style="top:-3em;"><span style="height:3em;"></span><span>h</span></span><span style="top:-3.26344em;"><span style="height:3em;"></span><span style="left:-0.25em;"><span>^</span></span></span></span></span></span></span></span></span></span>满足单调不减/不增的条件;如果仅是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>h</span></span></span></span>满足单调不减/不增的条件,存在反例.</p>
+<p><strong>推论</strong>:</p>
+<ul>
+<li>如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是凸函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>exp</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>)</span></span></span></span>是凸函数.</li>
+<li>如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是正值凹函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.365108em;vertical-align:-0.52em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.655em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>)</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.52em;"><span></span></span></span></span></span><span></span></span></span></span></span>是凸函数.</li>
+</ul>
+<h3 id="与向量函数的复合"> 与向量函数的复合</h3>
+<div><p>相关信息</p>
+<p>给定函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>h</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>,</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>h</span><span>(</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>))</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>h</span><span>(</span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.33610799999999996em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03148em;">k</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>))</span></span></span></span></span></p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>h</span></span></span></span>是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.9578799999999998em;vertical-align:0em;"></span><span><span><span><span style="height:0.9578799999999998em;"><span style="top:-3em;"><span style="height:3em;"></span><span>h</span></span><span style="top:-3.26344em;"><span style="height:3em;"></span><span style="left:-0.25em;"><span>^</span></span></span></span></span></span></span></span></span></span>关于每个分量单调不减,那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数.</p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是凹函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>h</span></span></span></span>是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.9578799999999998em;vertical-align:0em;"></span><span><span><span><span style="height:0.9578799999999998em;"><span style="top:-3em;"><span style="height:3em;"></span><span>h</span></span><span style="top:-3.26344em;"><span style="height:3em;"></span><span style="left:-0.25em;"><span>^</span></span></span></span></span></span></span></span></span></span>关于每个分量单调不增,那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数.</p>
+</div>
+<p>对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>h</span></span></span></span>均可微的情形,我们给出简证</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.051892em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>′′</span></span></span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.149108em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>′</span></span></span></span></span></span></span></span><span>(</span><span>x</span><span><span>)</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span><span>∇</span><span><span><span><span style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>h</span><span>(</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>))</span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>′</span></span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.149108em;vertical-align:-0.25em;"></span><span>∇</span><span>h</span><span>(</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>)</span><span><span>)</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.801892em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>′′</span></span></span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span></p>
+<p><strong>推论</strong>:</p>
+<ul>
+<li>如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>是正值凹函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.104002em;vertical-align:-0.29971000000000003em;"></span><span><span style="position:relative;top:-0.0000050000000000050004em;">∑</span><span><span><span><span style="height:0.804292em;"><span style="top:-2.40029em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.2029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span></span></span></span></span><span>​</span></span><span><span style="height:0.29971000000000003em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>是凹函数.</li>
+<li>如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>是凸函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.104002em;vertical-align:-0.29971000000000003em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span><span style="position:relative;top:-0.0000050000000000050004em;">∑</span><span><span><span><span style="height:0.804292em;"><span style="top:-2.40029em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>=</span><span>1</span></span></span></span><span style="top:-3.2029em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>m</span></span></span></span></span><span>​</span></span><span><span style="height:0.29971000000000003em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>exp</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">g</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>是凸函数.</li>
+</ul>
+<h3 id="取下确界"> 取下确界</h3>
+<div><p>相关信息</p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span></span></span></span>关于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span></span></span></span>征途是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">C</span></span></span></span>是凸集,则</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.630439em;vertical-align:-0.880439em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.3556690000000002em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span>∈</span><span style="margin-right:0.07153em;">C</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>in<span style="margin-right:0.07778em;">f</span></span></span></span></span><span>​</span></span><span><span style="height:0.880439em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span><span>是凸函数</span><span>.</span></span></span></span></span></span></p>
+</div>
+<p><strong>例</strong>:</p>
+<ol>
+<li>
+<p>考虑函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.932438em;vertical-align:-0.08333em;"></span><span><span>x</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.043548em;vertical-align:-0.19444em;"></span><span>2</span><span><span>x</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.05017em;">B</span><span style="margin-right:0.03588em;">y</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.043548em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.07153em;">C</span><span style="margin-right:0.03588em;">y</span></span></span></span>,海瑟矩阵满足</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:2.4091080000000007em;vertical-align:-0.9545540000000006em;"></span><span><span style="top:0em;"><span>[</span></span><span><span><span><span><span><span style="height:1.4545540000000001em;"><span style="top:-3.614554em;"><span style="height:3em;"></span><span><span>A</span></span></span><span style="top:-2.405445999999999em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.9545540000000006em;"><span></span></span></span></span></span><span style="width:0.5em;"></span><span style="width:0.5em;"></span><span><span><span><span style="height:1.4545540000000001em;"><span style="top:-3.614554em;"><span style="height:3em;"></span><span><span style="margin-right:0.05017em;">B</span></span></span><span style="top:-2.405445999999999em;"><span style="height:3em;"></span><span><span style="margin-right:0.07153em;">C</span></span></span></span><span>​</span></span><span><span style="height:0.9545540000000006em;"><span></span></span></span></span></span></span></span><span style="top:0em;"><span>]</span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>⪰</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>0</span><span>,</span><span style="margin-right:1em;"></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07153em;">C</span><span style="margin-right:0.2777777777777778em;"></span><span>≻</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8388800000000001em;vertical-align:-0.19444em;"></span><span>0</span><span>,</span></span></span></span></span></p>
+<p>则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span></span></span></span>为凸函数.对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">y</span></span></span></span>求最小值得</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.5861079999999999em;vertical-align:-0.836108em;"></span><span><span><span><span style="height:0.69444em;"><span style="top:-2.4000000000000004em;margin-left:0em;"><span style="height:3em;"></span><span><span style="margin-right:0.03588em;">y</span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>in<span style="margin-right:0.07778em;">f</span></span></span></span></span><span>​</span></span><span><span style="height:0.836108em;"><span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.03588em;">y</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.149108em;vertical-align:-0.25em;"></span><span><span>x</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>(</span><span>A</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.149108em;vertical-align:-0.25em;"></span><span style="margin-right:0.05017em;">B</span><span><span style="margin-right:0.07153em;">C</span><span><span><span><span style="height:0.864108em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−</span><span>1</span></span></span></span></span></span></span></span></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>)</span><span>x</span><span>,</span></span></span></span></span></p>
+<p>因此<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是凸函数.进一步地,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的Schur补<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span>A</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.985078em;vertical-align:-0.13597em;"></span><span style="margin-right:0.05017em;">B</span><span><span style="margin-right:0.07153em;">C</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−</span><span>1</span></span></span></span></span></span></span></span></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>⪰</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span></p>
+</li>
+<li>
+<p>点<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>到凸集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>的距离<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>dist</span></span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05764em;">S</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span>in<span style="margin-right:0.07778em;">f</span></span><span><span><span><span style="height:0.328331em;"><span style="top:-2.5500000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.03588em;">y</span><span>∈</span><span style="margin-right:0.05764em;">S</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">y</span><span>∣∣</span></span></span></span>是凸函数.</p>
+</li>
+</ol>
+<h3 id="透视函数"> 透视函数</h3>
+<div><p>相关信息</p>
+<p>定义<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>的透视函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.77222em;vertical-align:-0.08333em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span>R</span></span></span></span>,</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>t</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.7935600000000003em;vertical-align:-0.686em;"></span><span>t</span><span style="margin-right:0.10764em;">f</span><span>(</span><span><span></span><span><span><span><span style="height:1.10756em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>t</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span>)</span><span>,</span><span style="margin-right:1em;"></span><span style="margin-right:0.16666666666666666em;"></span><span><span>dom</span></span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.03588em;">g</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.8359999999999999em;vertical-align:-0.686em;"></span><span><span>{</span></span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>t</span><span>)</span><span>∣</span><span><span></span><span><span><span><span style="height:1.10756em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>t</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span>dom</span></span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.10764em;">f</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>&gt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.80002em;vertical-align:-0.65002em;"></span><span>0</span><span><span>}</span></span></span></span></span></span></p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数,则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span style="margin-right:0.03588em;">g</span></span></span></span>是凸函数.</p>
+</div>
+<p><strong>例</strong>:</p>
+<ol>
+<li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span>x</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span></span></span></span>是凸函数,因此<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>t</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.3879199999999998em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:1.0429199999999998em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>t</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span><span>x</span><span><span><span><span style="height:0.9270285714285713em;"><span style="top:-2.931em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>是区域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>t</span><span>)</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>&gt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>0</span><span>}</span></span></span></span>上的凸函数.</li>
+<li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>−</span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>x</span></span></span></span>是凸函数,因此相对熵函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>t</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>t</span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>t</span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>x</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.1194389999999999em;vertical-align:-0.305331em;"></span><span><span>R</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-2.4530000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>++</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.305331em;"><span></span></span></span></span></span></span></span></span></span>上的凸函数</li>
+<li>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是凸函数,那么<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03588em;">g</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.149108em;vertical-align:-0.25em;"></span><span>(</span><span><span>c</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:2.14077em;vertical-align:-0.7693300000000001em;"></span><span>d</span><span>)</span><span style="margin-right:0.10764em;">f</span><span>(</span><span><span></span><span><span><span><span style="height:1.37144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span><span>c</span><span><span><span><span style="height:0.7751079999999999em;"><span style="top:-2.9890000000000003em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span>d</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>A</span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span>b</span></span></span></span><span>​</span></span><span><span style="height:0.7693300000000001em;"><span></span></span></span></span></span><span></span></span><span>)</span></span></span></span></span></p>
+是区域<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.099108em;vertical-align:-0.25em;"></span><span>{</span><span>x</span><span>∣</span><span><span>c</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.73354em;vertical-align:-0.0391em;"></span><span>d</span><span style="margin-right:0.2777777777777778em;"></span><span>&gt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.2958589999999997em;vertical-align:-0.41575099999999987em;"></span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span></span><span><span><span><span style="height:0.8801079999999999em;"><span style="top:-2.64258em;"><span style="height:3em;"></span><span><span><span><span>c</span><span><span><span><span style="height:0.7820285714285713em;"><span style="top:-2.786em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span><span>+</span><span>d</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>A</span><span>x</span><span>+</span><span>b</span></span></span></span></span><span>​</span></span><span><span style="height:0.41575099999999987em;"><span></span></span></span></span></span><span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>dom</span></span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.10764em;">f</span><span>}</span></span></span></span>上的凸函数.</li>
+</ol>
+<h3 id="共轭函数"> 共轭函数</h3>
+<div><p>相关信息</p>
+<p>适当函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>的共轭函数定义为</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.738696em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.03588em;">y</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.981764em;vertical-align:-1.082656em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.153452em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>x</span><span>∈</span><span><span>dom</span></span><span style="margin-right:0.3252777777777778em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>sup</span></span></span></span><span>​</span></span><span><span style="height:1.082656em;"><span></span></span></span></span></span><span>(</span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>))</span></span></span></span></span></p>
+</div>
+<p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span></span></span></span>恒为凸函数,无论<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是否是凸函数.</p>
+<p><strong>例</strong>:</p>
+<ol>
+<li>负对数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>−</span><span style="margin-right:0.16666666666666666em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>x</span></span></span></span><p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.738696em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.03588em;">y</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.6889180000000001em;vertical-align:-0.938918em;"></span><span><span><span><span style="height:0.43055999999999994em;"><span style="top:-2.188452em;margin-left:0em;"><span style="height:3em;"></span><span><span><span>x</span><span>&gt;</span><span>0</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>sup</span></span></span></span><span>​</span></span><span><span style="height:0.938918em;"><span></span></span></span></span></span><span>(</span><span>x</span><span style="margin-right:0.03588em;">y</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span style="margin-right:0.16666666666666666em;"></span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:3.0000299999999998em;vertical-align:-1.25003em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>−</span><span>1</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span>lo<span style="margin-right:0.01389em;">g</span></span><span>(</span><span>−</span><span style="margin-right:0.03588em;">y</span><span>)</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>∞</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span><span style="width:1em;"></span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span style="margin-right:0.03588em;">y</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span><span>0</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span><span>Otherwise</span></span><span>.</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
+</li>
+<li>强凸二次函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.194108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>2</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span><span><span>x</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>Q</span><span>x</span><span>,</span><span style="margin-right:0.2777777777777778em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.994221em;vertical-align:-0.305331em;"></span><span><span>S</span><span><span><span><span style="height:0.664392em;"><span style="top:-2.4530000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>++</span></span></span></span><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.305331em;"><span></span></span></span></span></span></span></span></span></span><p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:4.823320000000001em;vertical-align:-2.161660000000001em;"></span><span><span><span><span><span><span style="height:2.66166em;"><span style="top:-4.6616599999999995em;"><span style="height:3.32144em;"></span><span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.738696em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.03588em;">y</span><span>)</span></span></span><span style="top:-2.1457799999999994em;"><span style="height:3.32144em;"></span><span></span></span></span><span>​</span></span><span><span style="height:2.161660000000001em;"><span></span></span></span></span></span><span><span><span><span style="height:2.66166em;"><span style="top:-4.6616599999999995em;"><span style="height:3.32144em;"></span><span><span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span style="height:0.43055999999999994em;"><span style="top:-2.20556em;margin-left:0em;"><span style="height:3em;"></span><span><span>x</span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>sup</span></span></span></span><span>​</span></span><span><span style="height:0.89444em;"><span></span></span></span></span></span><span>(</span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span><span><span></span><span><span><span><span style="height:1.32144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>2</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span><span>x</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>Q</span><span>x</span><span>)</span></span></span><span style="top:-2.1457799999999994em;"><span style="height:3.32144em;"></span><span><span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span><span></span><span><span><span><span style="height:1.32144em;"><span style="top:-2.314em;"><span style="height:3em;"></span><span><span>2</span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.677em;"><span style="height:3em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.686em;"><span></span></span></span></span></span><span></span></span><span><span style="margin-right:0.03588em;">y</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span><span>Q</span><span><span><span><span style="height:0.864108em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−</span><span>1</span></span></span></span></span></span></span></span></span><span style="margin-right:0.03588em;">y</span></span></span></span><span>​</span></span><span><span style="height:2.161660000000001em;"><span></span></span></span></span></span></span></span></span></span></span></span></p>
+</li>
+</ol>
 <h2 id="凸函数的推广"> 凸函数的推广</h2>
+<h3 id="拟凸函数"> 拟凸函数</h3>
+<h3 id="拟凸、凹函数的例子"> 拟凸、凹函数的例子</h3>
+<h3 id="拟凸函数的性质"> 拟凸函数的性质</h3>
+<h3 id="对数凸函数"> 对数凸函数</h3>
+<h3 id="对数凸、凹函数的性质"> 对数凸、凹函数的性质</h3>
+<h3 id="广义不等式意义下的凸函数"> 广义不等式意义下的凸函数</h3>
 ]]></content:encoded>
     </item>
     <item>
@@ -7414,7 +7544,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7439,7 +7569,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7454,7 +7584,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -7973,7 +8103,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7996,7 +8126,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8007,7 +8137,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8027,7 +8157,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8038,7 +8168,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9193,6 +9323,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
       <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>顺序线性表的一些经典问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">顺序线性表的一些经典问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:18 GMT</pubDate>
     </item>
     <item>
       <title>单链表的一些经典问题</title>
@@ -12081,13 +12218,6 @@ nextcloud
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
-      <title>顺序线性表的一些经典问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">顺序线性表的一些经典问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:18 GMT</pubDate>
-    </item>
-    <item>
       <title>Linux Shell 编程学习与实战</title>
       <link>https://breezeshane.github.io/Linux/Shells/</link>
       <guid>https://breezeshane.github.io/Linux/Shells/</guid>
@@ -13246,48 +13376,63 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
     </item>
     <item>
-      <title>关于Vcomputer如何实现循环的哲学问题</title>
-      <link>https://breezeshane.github.io/VComputer/</link>
-      <guid>https://breezeshane.github.io/VComputer/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
-      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
-<hr>
-<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
-<blockquote>
-<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
-</blockquote>
-<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
-<blockquote>
-<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
-</blockquote>
-<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
-<div><pre><code>2001
-2101
-2201
-2301
-240A
-2501
-8418
-5002
-5112
-5323
-5553
-830C
-9000
+      <title>Building Up Servicer</title>
+      <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
+      <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Building Up Servicer</source>
+      <pubDate>Fri, 13 Aug 2021 22:55:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
+<p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
+<h2 id="怎么做"> 怎么做？</h2>
+<p>这个系统已经基本把绝大多数事都做好了，因此我们只需要做一点点工作就行。首先要明确一点：这个主机是用作服务器的，不作日常使用。</p>
+<h3 id="前期工作"> 前期工作</h3>
+<p>由于这个系统有较长时间没有使用，因此需要像刚安装好系统那样做一切前期准备，详细步骤请阅读我之前的<a href="./Manjaro安装与配置.html">文章</a>。</p>
+<h3 id="搭建虚拟内网"> 搭建虚拟内网</h3>
+<p>为了能在各地自由使用，我决定使用ZeroTier-One来构建一个虚拟内网，然后将我目前使用的两个设备jion到同一个内网即可。服务器上只消执行：</p>
+<div><pre><code><span>sudo</span> pacman -S zerotier-one
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+<span>sudo</span> systemctl start zerotier-one.service
+zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
-<ol>
-<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
-<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
-<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
-<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
-<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
-</ol>
-<hr>
-<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以搭建好一个虚拟内网了。</p>
+<h3 id="建立ssh连接"> 建立SSH连接</h3>
+<p>做好上一步之后，可以根据情况自己设定好IP「更具体的内容请移步至<a href="./ZeroTier-One安装与使用.html">这篇文章</a>」，需要记好服务器的IP，并且编辑SSH配置文件：</p>
+<div><pre><code><span>sudo</span> <span>vim</span> /etc/ssh/ssh_config
+</code></pre>
+<div><span>1</span><br></div></div><p>需要将<code>Port 22</code>前的#去掉，当然如果你愿意也可以直接修改Port后面的值。</p>
+<p>保存后需要重启一下服务，执行：</p>
+<div><pre><code><span>sudo</span> restart sshd.service
+</code></pre>
+<div><span>1</span><br></div></div><p>但为了保证开机就能使用SSH，还需要执行：</p>
+<div><pre><code><span>sudo</span> <span>enable</span> sshd.service
+</code></pre>
+<div><span>1</span><br></div></div><p>最后你就可以执行：</p>
+<div><pre><code><span>ssh</span> USERNAME@IP
+</code></pre>
+<div><span>1</span><br></div></div><p>来远程连接服务器了。</p>
+<p>但这里要注意的是，如果前面你设定的port不是默认值22，则需要使用p参数，即执行：</p>
+<div><pre><code><span>ssh</span> -p YOUR_PORT USERNAME@IP
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="关闭图形桌面"> 关闭图形桌面</h3>
+<p>因为我不喜欢总是去插拔鼠标接收器来在两台电脑之间使用，而且服务器我也是只可能使用命令行形式，而最重要的原因是它打开的图形桌面Xorg服务是要占用显卡的，这个就阻挠了我进一步的安装驱动，于是我执行了如下指令来关掉这个多余的东西：</p>
+<div><pre><code><span>sudo</span> systemctl set-default multi-user.target
+<span>sudo</span> <span>reboot</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样你就可以开机就进入命令行模式了，其实就是tty模式。</p>
+<p>如果你有一天想用回这个桌面系统，那就执行：</p>
+<div><pre><code><span>sudo</span> systemctl set-default graphics.target
+<span>sudo</span> <span>reboot</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><h3 id="安装nvidia驱动"> 安装Nvidia驱动</h3>
+<p>依旧根据<code>inxi -G</code>给出的显卡信息到Nvidia官网选择合适的驱动程序下载过来，然后用<code>sudo bash NVIDIA…….sh</code>即可。</p>
+<p>但要注意的是如果安装失败并报错提示缺少kernel的话，你需要根据系统内核版本来安装linux-headers，查看系统版本的方法有三个：一是执行<code>username -a</code>来查看内核版本；二是执行<code>neofetch</code>，不过这个需要提前安装好neofetch才行；三则是直接运行系统自带的<code>screenfetch</code>，因此本人最推荐这个方法，当然第一个方法非常简洁，也足够使用。如你所见，Kernel后跟的数字就意味着你要安装的linux-headers的版本，比如我的就是<code>5.11.22-2-MANJARO</code>，那我就要安装linux510-headers，为什么不是511，因为没有啊～安装好Kernel Headers之后再重新安装显卡，就万事大吉了。</p>
+<h3 id="安装cuda系列"> 安装cuda系列</h3>
+<p>安装之前一定要检查一下你的系统驱动版本是否与你将要安装的cuda版本匹配，由于我这里的版本是470.63.01，对应应该装的CUDA版本要高于11.2（包括11.2）。而我这恰好一切都满足，就很顺利，执行一个语句即可：</p>
+<div><pre><code><span>sudo</span> pacman -S cuda cuda-tools cudnn
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="结束"> 结束</h2>
+<p>现在你的服务器已经搭好了，一切都可以正常使用咯～</p>
 ]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
     </item>
     <item>
       <title>数据库</title>
@@ -13475,95 +13620,48 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 ]]></content:encoded>
     </item>
     <item>
-      <title>Crawler</title>
-      <link>https://breezeshane.github.io/Python/Crawler/</link>
-      <guid>https://breezeshane.github.io/Python/Crawler/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Crawler</source>
-      <pubDate>Mon, 07 Jun 2021 20:47:07 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
-<h2 id="前言"> 前言</h2>
-<p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
-<p>在学过网络爬虫这一版块的内容之后，我发现网络爬虫本就没有那么神秘，说到底，不过是进入某一网络站点获取源码，再利用其他技术来爬取我们需要的信息。而且，我发现，到目前这个学习阶段为止，网络爬虫只是一种具备针对性的工具，也就是说当你需要获取某种数据时，你要做的工作首先就是要在目标网络站点上“踩点”——剖析目标网站的结构，并在其中找出你希望找到的目标。然后从此设计你的爬虫程序。</p>
-<p>写爬虫工具常用的包有requests、beautifulsoup4、Asyncio、Aiohttp和Selenium等，皆可通过pip3安装。另外有看见关于Scrapy爬虫库的介绍，目前还没有学。</p>
-<h2 id="beautifulsoup"> BeautifulSoup</h2>
+      <title>关于Vcomputer如何实现循环的哲学问题</title>
+      <link>https://breezeshane.github.io/VComputer/</link>
+      <guid>https://breezeshane.github.io/VComputer/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
+      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
+<hr>
+<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
 <blockquote>
-<p>此处参考的是<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/" target="_blank" rel="noopener noreferrer">BeautifulSoup4 官方文档</a></p>
+<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
 </blockquote>
-<p>使用之前要先安装，执行<code>pip install beautifulsoup4 lxml html5lib</code>来完成安装「其中最后两个是解析器，可以选择不安装」。</p>
-<p>使用BeautifulSoup时需要提前引用相关的包，并且获取目标网站的网页：</p>
-<div><pre><code><span>from</span> bs4 <span>import</span> BeautifulSoup <span>as</span> bs
-<span>from</span> urllib<span>.</span>request <span>import</span> urlopen
-
-web_page <span>=</span> urlopen<span>(</span><span>"https://breezeshane.github.io/index.html"</span><span>)</span><span>.</span>read<span>(</span><span>)</span><span>.</span>decode<span>(</span><span>'utf-8'</span><span>)</span>
-soup <span>=</span> bs<span>(</span>web_page<span>,</span> features<span>=</span><span>'lxml'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>而且对Python友好的是，我们获取来的一切标签，皆可按照Python字典的操作方式操作标签。「而这一点官方文档也再三强调。」</p>
-<p>若希望查找所有某名字的标签时，可以使用find_all方法查找，使用样例如下：</p>
-<div><pre><code>href <span>=</span> soup<span>.</span>find_all<span>(</span><span>'a'</span><span>)</span>
-links <span>=</span> <span>[</span>link<span>[</span><span>'href'</span><span>]</span> <span>for</span> link <span>in</span> href<span>]</span>
-<span>print</span><span>(</span>links<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这里的href就可以获取一切标签<code>&lt;a&gt;</code>，而如果只是希望获取其中的链接，则可使用第二行代码来生成只含有链接的列表。</p>
-<p>另外，值得注意的是，find_all方法支持正则表达式，但需要引用re包，在第一行插入<code>import re</code>。Example：<code>href = soup.find_all(re.compile(&quot;^li&quot;))</code>，这表示寻找以“li”开头的所有标签，而如果希望寻找包含“li”的标签，则需写成：<code>href = soup.find_all(re.compile(&quot;li&quot;))</code></p>
-<p>同时，find_all方法还支持一次性获取多个类型标签，只消用逗号隔开即可。Example：<code>href = soup.find_all([&quot;link&quot;, &quot;script&quot;])</code></p>
-<p>如果想查找指定属性以及其对应的值的话，可以使用<code>soup.find_all('link', {&quot;mode&quot; : &quot;dark&quot;})</code>，这表示寻找包含<code>mode=&quot;dark&quot;</code>的link标签。</p>
-<p>还有一个比较有用的标签属性——has_attr属性，可以判断该标签是否含有指定属性，是则返回True，否则为False。</p>
-<p>更多具体细节可以直接查询官方文档，本文就不作赘述。</p>
-<h2 id="requests"> Requests</h2>
+<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
 <blockquote>
-<p>此处参考<a href="https://cn.python-requests.org/zh_CN/latest/" target="_blank" rel="noopener noreferrer">Requests 官方文档</a></p>
+<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
 </blockquote>
-<p>传递URL参数时，可以写如下代码「此处以模拟Bing搜索为例」：</p>
-<div><pre><code><span>import</span> requests
-
-r <span>=</span> requests<span>.</span>get<span>(</span><span>'https://www.bing.com/search'</span><span>,</span> params<span>=</span> <span>{</span><span>"q"</span><span>:</span> <span>"BreezeShane"</span><span>}</span><span>)</span>
-<span>print</span><span>(</span>r<span>.</span>url<span>)</span>
+<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
+<div><pre><code>2001
+2101
+2201
+2301
+240A
+2501
+8418
+5002
+5112
+5323
+5553
+830C
+9000
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其他功能相对来说较为复杂并且信息量也挺大，但很完善，因此要经常翻看官方文档，写爬虫时如果有什么需求再来查就好了。</p>
-<h2 id="asyncio-在学了在学了-tot"> Asyncio（在学了在学了(ToT)）</h2>
-<blockquote>
-<p>此处参考<a href="https://docs.python.org/zh-cn/3/library/asyncio.html" target="_blank" rel="noopener noreferrer">Asyncio 官方文档</a></p>
-</blockquote>
-<p>Asyncio是异步加载库，虽说是单线程，但在较多场合情况下优胜于多线程，而我们如果需要爬取大量数据的话，异步加载还是有必要学的。从官方文档中我们也发现，学到这就已经接触了Python并发编程技术。</p>
-<p>官方给出了一个程序示例：</p>
-<div><pre><code><span>import</span> asyncio
-
-<span>async</span> <span>def</span> <span>main</span><span>(</span><span>)</span><span>:</span>
-    <span>print</span><span>(</span><span>'Hello ...'</span><span>)</span>
-    <span>await</span> asyncio<span>.</span>sleep<span>(</span><span>1</span><span>)</span>
-    <span>print</span><span>(</span><span>'... World!'</span><span>)</span>
-
-<span># Python 3.7+</span>
-asyncio<span>.</span>run<span>(</span>main<span>(</span><span>)</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>上面的Asyncio Example并不难理解，async表示后面定义的函数是异步加载的模块，await一行表示执行该函数时暂停等待1秒。实际上这个就基本给出了Asyncio的使用模板。如果你希望实现什么功能，自行添加自己的代码即可，就像Movant写的程序：</p>
-<div><pre><code><span>import</span> asyncio
-
-
-<span>async</span> <span>def</span> <span>job</span><span>(</span>t<span>)</span><span>:</span>                   <span># async 形式的功能</span>
-    <span>print</span><span>(</span><span>'Start job '</span><span>,</span> t<span>)</span>
-    <span>await</span> asyncio<span>.</span>sleep<span>(</span>t<span>)</span>          <span># 等待 "t" 秒, 期间切换其他任务</span>
-    <span>print</span><span>(</span><span>'Job '</span><span>,</span> t<span>,</span> <span>' takes '</span><span>,</span> t<span>,</span> <span>' s'</span><span>)</span>
-
-
-<span>async</span> <span>def</span> <span>main</span><span>(</span>loop<span>)</span><span>:</span>                       <span># async 形式的功能</span>
-    tasks <span>=</span> <span>[</span>
-    loop<span>.</span>create_task<span>(</span>job<span>(</span>t<span>)</span><span>)</span> <span>for</span> t <span>in</span> <span>range</span><span>(</span><span>1</span><span>,</span> <span>3</span><span>)</span>
-    <span>]</span>                                       <span># 创建任务, 但是不执行</span>
-    <span>await</span> asyncio<span>.</span>wait<span>(</span>tasks<span>)</span>               <span># 执行并等待所有任务完成</span>
-
-t1 <span>=</span> time<span>.</span>time<span>(</span><span>)</span>
-loop <span>=</span> asyncio<span>.</span>get_event_loop<span>(</span><span>)</span>             <span># 建立 loop</span>
-loop<span>.</span>run_until_complete<span>(</span>main<span>(</span>loop<span>)</span><span>)</span>         <span># 执行 loop</span>
-loop<span>.</span>close<span>(</span><span>)</span>                                <span># 关闭 loop</span>
-<span>print</span><span>(</span><span>"Async total time : "</span><span>,</span> time<span>.</span>time<span>(</span><span>)</span> <span>-</span> t1<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>写的程序蛮简单，但Asyncio实际上远不止如此。</p>
-<p>更多的用法可以直接去阅读文档，本人精力有限，而且意图也不在于深入精通网络爬虫，只是希望满足自己的需求而已，就不会在此继续讨论Asyncio了。如果过后遇到了什么问题，解决之后还是会回来记录一下。</p>
-<h2 id="aiohttp-在学了在学了-tot"> Aiohttp（在学了在学了(ToT)）</h2>
-<h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
+<ol>
+<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
+<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
+<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
+<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
+<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
+</ol>
+<hr>
+<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
 ]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
+      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
     </item>
     <item>
       <title>简单的网页前后端搭建过程</title>
@@ -13711,6 +13809,89 @@ patch_request_class<span>(</span>app<span>)</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>在受限的网站里强制复制粘贴</title>
+      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
+      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
+      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
+<blockquote>
+<p>参考：</p>
+<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
+<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
+<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
+<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
+</blockquote>
+<h2 id="背景"> 背景</h2>
+<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
+<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
+<h2 id="实现方法"> 实现方法</h2>
+<h3 id="插件大法"> 插件大法</h3>
+<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
+<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
+<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
+<h3 id="查看源码大法"> 查看源码大法</h3>
+<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
+<blockquote>
+<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
+</blockquote>
+<h3 id="console操作大法"> Console操作大法</h3>
+<h4 id="全文复制"> 全文复制</h4>
+<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
+<p>如果你遇到如下形式的输出：</p>
+<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
+<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
+<p>写Shell文件，输入如下代码：</p>
+<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
+<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
+<h4 id="选中区域复制"> 选中区域复制</h4>
+<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+<ol>
+<li>打开开发者工具</li>
+<li>选中网页中要复制的文字</li>
+<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+</ol>
+<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
+<h3 id="打印预览大法"> 打印预览大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
+<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
+<h3 id="终极杀招"> 终极杀招</h3>
+<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
+<h2 id="补充的小知识"> 补充的小知识</h2>
+<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
+<h3 id="javascript实现方式"> JavaScript实现方式</h3>
+<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
+  <span>return</span> <span>false</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
+  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
+    <span>return</span> <span>false</span><span>;</span>
+  <span>}</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
+<div><pre><code><span>body</span> <span>{</span>
+  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
+  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
+  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
+  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
+  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
+  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
+<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
+    </item>
+    <item>
       <title>MySQL初步使用</title>
       <link>https://breezeshane.github.io/Web/MySQL/</link>
       <guid>https://breezeshane.github.io/Web/MySQL/</guid>
@@ -13833,89 +14014,6 @@ secure_file_priv =
 <li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
 </ol>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>在受限的网站里强制复制粘贴</title>
-      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
-      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
-      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
-<blockquote>
-<p>参考：</p>
-<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
-<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
-<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
-<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
-</blockquote>
-<h2 id="背景"> 背景</h2>
-<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
-<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
-<h2 id="实现方法"> 实现方法</h2>
-<h3 id="插件大法"> 插件大法</h3>
-<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
-<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
-<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
-<h3 id="查看源码大法"> 查看源码大法</h3>
-<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
-<blockquote>
-<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
-</blockquote>
-<h3 id="console操作大法"> Console操作大法</h3>
-<h4 id="全文复制"> 全文复制</h4>
-<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
-<p>如果你遇到如下形式的输出：</p>
-<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
-<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
-<p>写Shell文件，输入如下代码：</p>
-<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
-<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
-<h4 id="选中区域复制"> 选中区域复制</h4>
-<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
-<ol>
-<li>打开开发者工具</li>
-<li>选中网页中要复制的文字</li>
-<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
-</ol>
-<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
-<h3 id="打印预览大法"> 打印预览大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
-<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
-<h3 id="终极杀招"> 终极杀招</h3>
-<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
-<h2 id="补充的小知识"> 补充的小知识</h2>
-<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
-<h3 id="javascript实现方式"> JavaScript实现方式</h3>
-<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-  <span>return</span> <span>false</span><span>;</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
-  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
-    <span>return</span> <span>false</span><span>;</span>
-  <span>}</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
-<div><pre><code><span>body</span> <span>{</span>
-  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
-  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
-  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
-  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
-  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
-  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
-<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
     </item>
     <item>
       <title>SDN入门基础</title>
@@ -14637,21 +14735,11 @@ secure_file_priv =
       <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
     </item>
     <item>
-      <title>Intro Page</title>
-      <link>https://breezeshane.github.io/intro/</link>
-      <guid>https://breezeshane.github.io/intro/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>𝕬𝖇𝖔𝖚𝖙</title>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -14681,11 +14769,21 @@ secure_file_priv =
 ]]></content:encoded>
     </item>
     <item>
+      <title>Intro Page</title>
+      <link>https://breezeshane.github.io/intro/</link>
+      <guid>https://breezeshane.github.io/intro/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Custom Layout</title>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -14710,7 +14808,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -14769,81 +14867,22 @@ background-size: cover;
 ]]></content:encoded>
     </item>
     <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Slide page</title>
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Mon, 14 Mar 2022 05:36:31 GMT</pubDate>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
-      <title>Building Up Servicer</title>
-      <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
-      <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Building Up Servicer</source>
-      <pubDate>Fri, 13 Aug 2021 22:55:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
-<p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
-<h2 id="怎么做"> 怎么做？</h2>
-<p>这个系统已经基本把绝大多数事都做好了，因此我们只需要做一点点工作就行。首先要明确一点：这个主机是用作服务器的，不作日常使用。</p>
-<h3 id="前期工作"> 前期工作</h3>
-<p>由于这个系统有较长时间没有使用，因此需要像刚安装好系统那样做一切前期准备，详细步骤请阅读我之前的<a href="./Manjaro安装与配置.html">文章</a>。</p>
-<h3 id="搭建虚拟内网"> 搭建虚拟内网</h3>
-<p>为了能在各地自由使用，我决定使用ZeroTier-One来构建一个虚拟内网，然后将我目前使用的两个设备jion到同一个内网即可。服务器上只消执行：</p>
-<div><pre><code><span>sudo</span> pacman -S zerotier-one
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-<span>sudo</span> systemctl start zerotier-one.service
-zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以搭建好一个虚拟内网了。</p>
-<h3 id="建立ssh连接"> 建立SSH连接</h3>
-<p>做好上一步之后，可以根据情况自己设定好IP「更具体的内容请移步至<a href="./ZeroTier-One安装与使用.html">这篇文章</a>」，需要记好服务器的IP，并且编辑SSH配置文件：</p>
-<div><pre><code><span>sudo</span> <span>vim</span> /etc/ssh/ssh_config
-</code></pre>
-<div><span>1</span><br></div></div><p>需要将<code>Port 22</code>前的#去掉，当然如果你愿意也可以直接修改Port后面的值。</p>
-<p>保存后需要重启一下服务，执行：</p>
-<div><pre><code><span>sudo</span> restart sshd.service
-</code></pre>
-<div><span>1</span><br></div></div><p>但为了保证开机就能使用SSH，还需要执行：</p>
-<div><pre><code><span>sudo</span> <span>enable</span> sshd.service
-</code></pre>
-<div><span>1</span><br></div></div><p>最后你就可以执行：</p>
-<div><pre><code><span>ssh</span> USERNAME@IP
-</code></pre>
-<div><span>1</span><br></div></div><p>来远程连接服务器了。</p>
-<p>但这里要注意的是，如果前面你设定的port不是默认值22，则需要使用p参数，即执行：</p>
-<div><pre><code><span>ssh</span> -p YOUR_PORT USERNAME@IP
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="关闭图形桌面"> 关闭图形桌面</h3>
-<p>因为我不喜欢总是去插拔鼠标接收器来在两台电脑之间使用，而且服务器我也是只可能使用命令行形式，而最重要的原因是它打开的图形桌面Xorg服务是要占用显卡的，这个就阻挠了我进一步的安装驱动，于是我执行了如下指令来关掉这个多余的东西：</p>
-<div><pre><code><span>sudo</span> systemctl set-default multi-user.target
-<span>sudo</span> <span>reboot</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样你就可以开机就进入命令行模式了，其实就是tty模式。</p>
-<p>如果你有一天想用回这个桌面系统，那就执行：</p>
-<div><pre><code><span>sudo</span> systemctl set-default graphics.target
-<span>sudo</span> <span>reboot</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h3 id="安装nvidia驱动"> 安装Nvidia驱动</h3>
-<p>依旧根据<code>inxi -G</code>给出的显卡信息到Nvidia官网选择合适的驱动程序下载过来，然后用<code>sudo bash NVIDIA…….sh</code>即可。</p>
-<p>但要注意的是如果安装失败并报错提示缺少kernel的话，你需要根据系统内核版本来安装linux-headers，查看系统版本的方法有三个：一是执行<code>username -a</code>来查看内核版本；二是执行<code>neofetch</code>，不过这个需要提前安装好neofetch才行；三则是直接运行系统自带的<code>screenfetch</code>，因此本人最推荐这个方法，当然第一个方法非常简洁，也足够使用。如你所见，Kernel后跟的数字就意味着你要安装的linux-headers的版本，比如我的就是<code>5.11.22-2-MANJARO</code>，那我就要安装linux510-headers，为什么不是511，因为没有啊～安装好Kernel Headers之后再重新安装显卡，就万事大吉了。</p>
-<h3 id="安装cuda系列"> 安装cuda系列</h3>
-<p>安装之前一定要检查一下你的系统驱动版本是否与你将要安装的cuda版本匹配，由于我这里的版本是470.63.01，对应应该装的CUDA版本要高于11.2（包括11.2）。而我这恰好一切都满足，就很顺利，执行一个语句即可：</p>
-<div><pre><code><span>sudo</span> pacman -S cuda cuda-tools cudnn
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="结束"> 结束</h2>
-<p>现在你的服务器已经搭好了，一切都可以正常使用咯～</p>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Mon, 14 Mar 2022 08:04:27 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
     <item>
@@ -14944,6 +14983,97 @@ vncserver :1
 <p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Crawler</title>
+      <link>https://breezeshane.github.io/Python/Crawler/</link>
+      <guid>https://breezeshane.github.io/Python/Crawler/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Crawler</source>
+      <pubDate>Mon, 07 Jun 2021 20:47:07 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
+<h2 id="前言"> 前言</h2>
+<p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
+<p>在学过网络爬虫这一版块的内容之后，我发现网络爬虫本就没有那么神秘，说到底，不过是进入某一网络站点获取源码，再利用其他技术来爬取我们需要的信息。而且，我发现，到目前这个学习阶段为止，网络爬虫只是一种具备针对性的工具，也就是说当你需要获取某种数据时，你要做的工作首先就是要在目标网络站点上“踩点”——剖析目标网站的结构，并在其中找出你希望找到的目标。然后从此设计你的爬虫程序。</p>
+<p>写爬虫工具常用的包有requests、beautifulsoup4、Asyncio、Aiohttp和Selenium等，皆可通过pip3安装。另外有看见关于Scrapy爬虫库的介绍，目前还没有学。</p>
+<h2 id="beautifulsoup"> BeautifulSoup</h2>
+<blockquote>
+<p>此处参考的是<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/" target="_blank" rel="noopener noreferrer">BeautifulSoup4 官方文档</a></p>
+</blockquote>
+<p>使用之前要先安装，执行<code>pip install beautifulsoup4 lxml html5lib</code>来完成安装「其中最后两个是解析器，可以选择不安装」。</p>
+<p>使用BeautifulSoup时需要提前引用相关的包，并且获取目标网站的网页：</p>
+<div><pre><code><span>from</span> bs4 <span>import</span> BeautifulSoup <span>as</span> bs
+<span>from</span> urllib<span>.</span>request <span>import</span> urlopen
+
+web_page <span>=</span> urlopen<span>(</span><span>"https://breezeshane.github.io/index.html"</span><span>)</span><span>.</span>read<span>(</span><span>)</span><span>.</span>decode<span>(</span><span>'utf-8'</span><span>)</span>
+soup <span>=</span> bs<span>(</span>web_page<span>,</span> features<span>=</span><span>'lxml'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>而且对Python友好的是，我们获取来的一切标签，皆可按照Python字典的操作方式操作标签。「而这一点官方文档也再三强调。」</p>
+<p>若希望查找所有某名字的标签时，可以使用find_all方法查找，使用样例如下：</p>
+<div><pre><code>href <span>=</span> soup<span>.</span>find_all<span>(</span><span>'a'</span><span>)</span>
+links <span>=</span> <span>[</span>link<span>[</span><span>'href'</span><span>]</span> <span>for</span> link <span>in</span> href<span>]</span>
+<span>print</span><span>(</span>links<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这里的href就可以获取一切标签<code>&lt;a&gt;</code>，而如果只是希望获取其中的链接，则可使用第二行代码来生成只含有链接的列表。</p>
+<p>另外，值得注意的是，find_all方法支持正则表达式，但需要引用re包，在第一行插入<code>import re</code>。Example：<code>href = soup.find_all(re.compile(&quot;^li&quot;))</code>，这表示寻找以“li”开头的所有标签，而如果希望寻找包含“li”的标签，则需写成：<code>href = soup.find_all(re.compile(&quot;li&quot;))</code></p>
+<p>同时，find_all方法还支持一次性获取多个类型标签，只消用逗号隔开即可。Example：<code>href = soup.find_all([&quot;link&quot;, &quot;script&quot;])</code></p>
+<p>如果想查找指定属性以及其对应的值的话，可以使用<code>soup.find_all('link', {&quot;mode&quot; : &quot;dark&quot;})</code>，这表示寻找包含<code>mode=&quot;dark&quot;</code>的link标签。</p>
+<p>还有一个比较有用的标签属性——has_attr属性，可以判断该标签是否含有指定属性，是则返回True，否则为False。</p>
+<p>更多具体细节可以直接查询官方文档，本文就不作赘述。</p>
+<h2 id="requests"> Requests</h2>
+<blockquote>
+<p>此处参考<a href="https://cn.python-requests.org/zh_CN/latest/" target="_blank" rel="noopener noreferrer">Requests 官方文档</a></p>
+</blockquote>
+<p>传递URL参数时，可以写如下代码「此处以模拟Bing搜索为例」：</p>
+<div><pre><code><span>import</span> requests
+
+r <span>=</span> requests<span>.</span>get<span>(</span><span>'https://www.bing.com/search'</span><span>,</span> params<span>=</span> <span>{</span><span>"q"</span><span>:</span> <span>"BreezeShane"</span><span>}</span><span>)</span>
+<span>print</span><span>(</span>r<span>.</span>url<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其他功能相对来说较为复杂并且信息量也挺大，但很完善，因此要经常翻看官方文档，写爬虫时如果有什么需求再来查就好了。</p>
+<h2 id="asyncio-在学了在学了-tot"> Asyncio（在学了在学了(ToT)）</h2>
+<blockquote>
+<p>此处参考<a href="https://docs.python.org/zh-cn/3/library/asyncio.html" target="_blank" rel="noopener noreferrer">Asyncio 官方文档</a></p>
+</blockquote>
+<p>Asyncio是异步加载库，虽说是单线程，但在较多场合情况下优胜于多线程，而我们如果需要爬取大量数据的话，异步加载还是有必要学的。从官方文档中我们也发现，学到这就已经接触了Python并发编程技术。</p>
+<p>官方给出了一个程序示例：</p>
+<div><pre><code><span>import</span> asyncio
+
+<span>async</span> <span>def</span> <span>main</span><span>(</span><span>)</span><span>:</span>
+    <span>print</span><span>(</span><span>'Hello ...'</span><span>)</span>
+    <span>await</span> asyncio<span>.</span>sleep<span>(</span><span>1</span><span>)</span>
+    <span>print</span><span>(</span><span>'... World!'</span><span>)</span>
+
+<span># Python 3.7+</span>
+asyncio<span>.</span>run<span>(</span>main<span>(</span><span>)</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>上面的Asyncio Example并不难理解，async表示后面定义的函数是异步加载的模块，await一行表示执行该函数时暂停等待1秒。实际上这个就基本给出了Asyncio的使用模板。如果你希望实现什么功能，自行添加自己的代码即可，就像Movant写的程序：</p>
+<div><pre><code><span>import</span> asyncio
+
+
+<span>async</span> <span>def</span> <span>job</span><span>(</span>t<span>)</span><span>:</span>                   <span># async 形式的功能</span>
+    <span>print</span><span>(</span><span>'Start job '</span><span>,</span> t<span>)</span>
+    <span>await</span> asyncio<span>.</span>sleep<span>(</span>t<span>)</span>          <span># 等待 "t" 秒, 期间切换其他任务</span>
+    <span>print</span><span>(</span><span>'Job '</span><span>,</span> t<span>,</span> <span>' takes '</span><span>,</span> t<span>,</span> <span>' s'</span><span>)</span>
+
+
+<span>async</span> <span>def</span> <span>main</span><span>(</span>loop<span>)</span><span>:</span>                       <span># async 形式的功能</span>
+    tasks <span>=</span> <span>[</span>
+    loop<span>.</span>create_task<span>(</span>job<span>(</span>t<span>)</span><span>)</span> <span>for</span> t <span>in</span> <span>range</span><span>(</span><span>1</span><span>,</span> <span>3</span><span>)</span>
+    <span>]</span>                                       <span># 创建任务, 但是不执行</span>
+    <span>await</span> asyncio<span>.</span>wait<span>(</span>tasks<span>)</span>               <span># 执行并等待所有任务完成</span>
+
+t1 <span>=</span> time<span>.</span>time<span>(</span><span>)</span>
+loop <span>=</span> asyncio<span>.</span>get_event_loop<span>(</span><span>)</span>             <span># 建立 loop</span>
+loop<span>.</span>run_until_complete<span>(</span>main<span>(</span>loop<span>)</span><span>)</span>         <span># 执行 loop</span>
+loop<span>.</span>close<span>(</span><span>)</span>                                <span># 关闭 loop</span>
+<span>print</span><span>(</span><span>"Async total time : "</span><span>,</span> time<span>.</span>time<span>(</span><span>)</span> <span>-</span> t1<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>写的程序蛮简单，但Asyncio实际上远不止如此。</p>
+<p>更多的用法可以直接去阅读文档，本人精力有限，而且意图也不在于深入精通网络爬虫，只是希望满足自己的需求而已，就不会在此继续讨论Asyncio了。如果过后遇到了什么问题，解决之后还是会回来记录一下。</p>
+<h2 id="aiohttp-在学了在学了-tot"> Aiohttp（在学了在学了(ToT)）</h2>
+<h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
     </item>
   </channel>
 </rss>
