@@ -721,7 +721,182 @@ $$
 
 ### 二阶条件
 
+::: info 定理
+
+设$f$为定义在凸集上的二阶连续可微函数
+
+$f$是凸函数当且仅当
+
+$$
+\nabla^2f(x) \succeq 0, \forall x \in \mathrm{dom}\;f
+$$
+
+如果$\nabla^2f(x) \succ 0 , \forall x \in \mathrm{dom}\;f$,则$f$是严格凸函数.
+
+:::
+
+**例**:
+
+二次函数$f(x) = \frac{1}{2}x^\top Px + q^\top x + r$,其中$(P \in \mathbb{S}^n)$
+
+$$
+\nabla f(x) = Px + q, \qquad \nabla^2f(x) = P
+$$
+
+$f$是凸函数当且仅当$P \succeq 0$
+
+::: details 证明
+
+**必要性**: 反设$f(x)$在点$x$处的海瑟矩阵$\nabla^2f(x)\not \succeq 0$, 即存在非零向量$v \in \mathbb{R}^n$使得$v^\top\nabla^2f(x)v < 0$. 根据佩亚诺(Peano)余项的泰勒展开,
+
+$$
+\begin{aligned}
+f(x + tv) = f(x) + t\nabla f(x)^\top v + \frac{t^2}{2}v^\top\nabla^2f(x)v + o(t^2) \\
+\frac{f(x + tv) - f(x) - t\nabla f(x)^\top v}{t^2} = \frac{1}{2}v^\top\nabla^2f(x)v + o(1)
+\end{aligned}
+$$
+
+当$t$充分小时,
+
+$$
+\frac{f(x + tv) - f(x) - t\nabla f(x)^\top v}{t^2} < 0,
+$$
+
+这显然和一阶条件矛盾,因此必有$\nabla^2f(x) \succeq 0$成立.
+
+---
+
+**充分性**: 设$f(x)$满足二阶条件$\nabla^2f(x) \succeq 0$,对$\forall x, y \in \mathrm{dom}\;f$,根据泰勒展开,
+
+$$
+f(y) = f(x) + \nabla f(x)^\top(y-x) + \frac{1}{2}(y-x)^\top \nabla^2f(x+t(y-x))(y-x),
+$$
+
+其中$t \in (0, 1)$是和$x,y$有关的常数. 由半正定性可知对$\forall x,y \in \mathrm{dom}\;f$有
+
+$$
+f(y) \geq f(x) + \nabla f(x)^\top(y-x).
+$$
+
+由凸函数判定的一阶条件知$f$为凸函数. 进一步, 若$\nabla^2f(x) > 0$, 上式中不等号严格成立($x \neq y$). 利用一阶条件的充分性的证明过程可得$f(x)$为严格凸函数.
+
+对$\forall x, y \in \mathrm{dom}\;f,\forall t\in(0,1)$,设$z = tx + (1-t)y \in \mathrm{dom}\;f$,则
+
+$$
+f(x) = f(z) + \nabla f(z)^\top(x-z) + \frac{1}{2}(x-z)^\top \nabla^2f(z+t(x-z))(x-z) \\
+f(y) = f(z) + \nabla f(z)^\top(y-z) + \frac{1}{2}(y-z)^\top \nabla^2f(z+t(y-z))(y-z)
+$$
+$$
+\because \nabla^2f(x) > 0 \\
+\Rightarrow 
+\begin{cases}
+f(x) > f(z) + \nabla f(z)^\top(x-z) & \text{(1)} \\
+f(y) > f(z) + \nabla f(z)^\top(y-z) & \text{(2)}
+\end{cases}
+$$
+
+$t\times(1) + (1-t)\times(2)$得
+
+$$
+\begin{aligned}
+tf(x) + (1-t)f(y) &> f(z) + \nabla f(z)^\top [t(x-z) + (1-t)(y-z)] \\
+&= f(z) + \nabla f(z)^\top [tx + (1-t)y - z] \\
+&= f(tx + (1-t)y) \\
+\end{aligned}
+$$
+$$
+\therefore\text{函数} f \text{是严格凸函数}.
+$$
+
+:::
+
+### 二阶条件的应用
+
+::: danger 注意
+
+该章节的前置知识包括矩阵论的矩阵求导部分.
+
+:::
+
+**最小二乘函数**:
+
+$$
+\begin{aligned}
+f(x) &= ||Ax-b||_2^2 \\
+\nabla f(x) &= 2A^\top (Ax-b) \\
+\nabla^2 f(x) &= 2A^\top A
+\end{aligned}
+$$
+
+**Quadratic-over-linear函数**:
+
+$$
+\begin{aligned}
+f(x,y) &= \frac{x^2}{y} \\
+\nabla^2 f(x, y) &= \frac{2}{y^3}
+\begin{bmatrix}
+y \\
+-x
+\end{bmatrix}\begin{bmatrix}
+y \\
+-x
+\end{bmatrix}^\top \succeq 0 \\
+\text{是区域}\{ &(x,y) | y > 0 \}\text{上的凸函数}.
+\end{aligned}
+$$
+
+**Log-sum-exp函数**:
+
+$$
+\begin{aligned}
+f(x) &= \log \sum_{k=1}^{n}\exp x_k \; \text{是凸函数}.
+\nabla^2f(x) &= \frac{1}{\mathbf{1}^\top z}\mathrm{diag}(z) - \frac{1}{(\mathbf{1}^\top z)^2}zz^\top \quad (z_k = \exp x_k)
+\end{aligned}
+$$
+
+要证明$\nabla^2f(x)\succeq 0$,我们只需证明对$\forall v$使得$v^\top\nabla^2f(x)v \geq 0$,即
+
+$$
+v^\top\nabla^2f(x)v = \frac{ (\sum_k z_kv_k^2)(\sum_k z_k) - (\sum_k v_kz_k)^2 }{ (\sum_k z_k)^2 } \geq 0
+$$
+
+由柯西不等式,得
+
+$$
+(\sum_k v_kz_k)^2 \leq (\sum_k z_kv_k^2)(\sum_k z_k)
+$$
+
+因此$f$是凸函数.
+
+**几何平均**:
+
+$$
+f(x) = (\prod_{k=1}^{n}x_k)^\frac{1}{n} \quad (x \in \mathbb{R}_{++}^n) \text{是凹函数}.
+$$
+
 ### Jensen不等式/琴生不等式
+
+**基础Jensen不等式**:
+
+设$f$是凸函数,则对于$0 \leq \theta \leq 1$,有
+
+$$
+f(\theta x + (1-\theta)y) \leq \theta f(x) + (1-\theta)f(y)
+$$
+
+**概率Jensen不等式**:
+
+设$f$是凸函数,则对于任意随机变量$z$,有
+
+$$
+f(\mathbb{E}[z]) \leq \mathbb{E}_z[f(z)]
+$$
+
+基础Jensen不等式可以视为概率Jensen不等式在两点分布下的特殊情况
+
+$$
+\mathrm{prob} (z=x) = \theta, \quad \mathrm{prob}(z=y) = 1- \theta
+$$
 
 ## 保凸的运算
 
