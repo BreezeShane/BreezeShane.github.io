@@ -1147,12 +1147,208 @@ $f^*$恒为凸函数,无论$f$是否是凸函数.
 
 ### 拟凸函数
 
+::: info
+
+设$f:\mathbb{R}^n\to \mathbb{R}$,如果$\mathrm{dom}\;f$是凸集,并且下水平集
+
+$$
+S_\alpha = \{ x \in \mathrm{dom}\;f | f(x) \leq \alpha \}
+$$
+
+对任意$\alpha$都是凸的
+
+:::
+
+ - 若$f$是拟凸的,则称$-f$是拟凹的.
+ - 若$f$既是拟凸的,又是拟凹的,则称$f$是拟线性的.
+
 ### 拟凸、凹函数的例子
+
+::: info
+
+1. $\sqrt{|x|}$是$\mathbb{R}$上的拟凸函数.
+2. $\mathrm{ceil}(x) = \inf \{ z\in \mathbb{Z} | z \geq x \}$是拟线性的.
+3. $\log x$是$\mathbb{R}_{++}$上的拟线性函数.
+4. $f(x_1, x_2) = x_1x_2$是$\mathbb{R}_{++}^2$上的拟凹函数.
+5. 分式线性函数
+   $$
+   f(x)=\frac{a^\top x+b}{c^\top x+d}, \; \mathrm{dom}\;f = \{ x | c^\top x + d > 0 \} \; \text{是拟线性的}.
+   $$
+6. 距离比值函数
+   $$
+   f(x)=\frac{||x-a||_2}{||x-b||_2}, \; \mathrm{dom}\;f = \{ x | \;  ||x-a||_2 \leq ||x-b||_2 \} \; \text{是拟凸的}.
+   $$
+
+:::
+
+**例**: 内部回报率(IRR)
+
+现金流$x = (x_0,\dots,x_n);\;x_i$是$i$时段支付的现金.
+
+假定$x_0 < 0, \, x_0 + x_1 + \cdots + x_n > 0$.
+
+现值(Present Value)的表达式为
+
+$$
+\mathrm{PV}(x,r) = \sum_{i=0}^{n}(1+r)^{-i}x_i
+$$
+
+其中$r$为利率.
+
+内部回报率(IRR)是最小的使得$\mathrm{PV}(x,r) = 0$的利率$r$
+
+$$
+\mathrm{IRR}(x) = \inf \{ r \geq 0 | \mathrm{PV}(x,r) = 0 \}
+$$
+
+IRR是拟凹的,因为它的上水平集是开半空间的交
+
+$$
+\mathrm{IRR}(x) \geq R \Leftrightarrow \sum_{i=0}^{n}(1+r)^{-i} x_i > 0 \quad \mathrm{for} \;0\leq r < R
+$$
 
 ### 拟凸函数的性质
 
+**类Jensen不等式**:
+
+对拟凸函数$f$,
+$$
+0\leq\theta\leq1 \Rightarrow f(\theta x + (1-\theta)y) \leq \max \{ f(x), f(y) \}
+$$
+
+**一阶条件**:
+
+定义在凸集上的可微函数$f$是拟凸的,当且仅当
+
+$$
+f(y)\leq f(x) \Rightarrow \nabla f(x)^\top(y-x) \leq 0
+$$
+
+注: 拟凸函数的和不一定是拟凸函数.
+
 ### 对数凸函数
+
+::: info
+
+如果正值函数$f$满足$\log f$是凸函数,则$f$称为对数凸函数,即
+
+$$
+f(\theta x + (1-\theta)y) \leq f(x)^\theta f(y)^{1-\theta} \quad \mathrm{for} \; 0\leq\theta\leq1.
+$$
+
+如果$\log f$是凹函数,则$f$称为对数凹函数.
+
+:::
+
+幂函数: 当$a\leq 0$时,$x^{a}$是$\mathbb{R}_{++}$上的对数凸函数; 当$a\geq 0$,$x^a$是$\mathbb{R}_{++}$上的对数凹函数.
+
+许多常见的概率密度函数是对数凹函数,例如正态分布
+
+$$
+f(x) = \frac{1}{ \sqrt{(2\pi)^n\det\sum} }e^{ -\frac{1}{2}(x-\overline{x})^\top\sum^{-1}(x-\overline{x}) }
+$$
+
+高斯分布的累计分布函数$\Phi$是对数凹函数.
+
+$$
+\Phi(x) = \frac{1}{ \sqrt{2\pi} }\int_{-\infty}^{x}e^{-\frac{1}{2}u^2}du
+$$
 
 ### 对数凸、凹函数的性质
 
+::: info
+
+定义在凸集上的二阶可微函数$f$是对数凹的,当且仅当
+
+$$
+f(x)\nabla^2f(x)\preceq\nabla f(x)\nabla f(x)^\top
+$$
+
+对任意$x\in\mathrm{dom}\;f$成立.
+
+对数凹函数的乘积仍为对数凹函数.
+
+对数凹函数的和不一定为对数凹函数.
+
+若$f:\mathbb{R}^n \times \mathbb{R}^m\to \mathbb{R}$是对数凹函数,那么
+
+$$
+g(x)=\int f(x,y)dy
+$$
+
+是对数凹函数.
+
+**对数凹函数的积分**: 
+
+对数凹函数$f,g$的卷积$f*g$是对数凹函数
+
+$$
+(f*g)(x)=\int f(x-y)g(y)dy
+$$
+
+若$C \subseteq \mathbb{R}^n$是凸集,并且随机变量$y$的概率密度函数是对数凹函数,则
+
+$$
+f(x) = \mathrm{prob}(x+y \in C)\;\text{是对数凹函数}.
+$$
+
+证明: $f(x)$可表示为两个对数凹函数乘积的积分
+
+$$
+f(x) = \int g(x+y)p(y)dy,\quad g(u) = 
+\begin{cases}
+1 & u\in C \\
+0 & u\not\in C
+\end{cases}
+$$
+
+其中$p$是$y$的概率密度函数.
+
+:::
+
+**例**: 生成函数
+
+$$
+Y(x) = \mathrm{prob}(x+ w\in S)
+$$
+
+ - $x\in\mathbb{R}^n$: 产品的标称参数(Nominal Parameter).
+ - $w\in\mathbb{R}^n$: 制成品的参数是随机变量.
+ - $S$: 接受集.
+
+若$S$是凸集,并且随机变量$w$的概率密度函数是对数凹函数,则
+
+ - $Y$是拟凹函数
+ - 生成区域$\{ x | Y(x) \geq \alpha \}$是凸集.
+
 ### 广义不等式意义下的凸函数
+
+::: info
+
+$f:\mathbb{R}^n\to \mathbb{R}^m$称为$K$-凸函数: 如果$\mathrm{dom}\;f$是凸集,并且
+
+$$
+f(\theta x+(1-\theta)y) \preceq_K \theta f(x)+ (1-\theta)f(y)
+$$
+
+对$\forall x,y \in \mathrm{dom}\;f,\,0\leq\theta\leq1$成立
+
+:::
+
+**例**:
+
+$f:\mathbb{S}^m\to\mathbb{S}^m, f(X)=X^2$是$\mathbb{S}^m_{+}$-凸函数
+
+证明:
+
+对固定的$z\in \mathbb{R}^m,\, z^\top X^2z=||Xz||_2^2$关于$X$是凸函数,即
+
+$$
+z^\top (\theta X + (1-\theta)Y)^2z\leq \theta z^\top X^2z + (1-\theta)z^\top Y^2z
+$$
+
+对$\forall X,Y \in \mathbb{S}^m,\, 0\leq\theta\leq1$成立.
+
+$$
+\therefore (\theta X + (1-\theta)Y)^2 \preceq \theta X^2 + (1-\theta)Y^2
+$$
