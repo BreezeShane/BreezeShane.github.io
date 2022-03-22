@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 22 Mar 2022 08:06:36 GMT</pubDate>
-    <lastBuildDate>Tue, 22 Mar 2022 08:06:36 GMT</lastBuildDate>
+    <pubDate>Tue, 22 Mar 2022 08:21:08 GMT</pubDate>
+    <lastBuildDate>Tue, 22 Mar 2022 08:21:08 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -180,11 +180,11 @@
       <pubDate>Sun, 23 Jan 2022 01:04:41 GMT</pubDate>
     </item>
     <item>
-      <title>最大似然估计</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">最大似然估计</source>
-      <pubDate>Sun, 23 Jan 2022 01:05:02 GMT</pubDate>
+      <title>无监督学习算法</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">无监督学习算法</source>
+      <pubDate>Sun, 23 Jan 2022 01:04:52 GMT</pubDate>
     </item>
     <item>
       <title>构建机器学习算法</title>
@@ -201,18 +201,18 @@
       <pubDate>Sun, 23 Jan 2022 01:05:21 GMT</pubDate>
     </item>
     <item>
-      <title>无监督学习算法</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">无监督学习算法</source>
-      <pubDate>Sun, 23 Jan 2022 01:04:52 GMT</pubDate>
-    </item>
-    <item>
       <title>贝叶斯统计</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/</guid>
       <source url="https://breezeshane.github.io/rss.xml">贝叶斯统计</source>
       <pubDate>Sun, 23 Jan 2022 01:05:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>最大似然估计</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">最大似然估计</source>
+      <pubDate>Sun, 23 Jan 2022 01:05:02 GMT</pubDate>
     </item>
     <item>
       <title>超参数和验证集</title>
@@ -718,7 +718,10 @@
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ConjugateFunction/</guid>
       <source url="https://breezeshane.github.io/rss.xml">共轭函数性质的证明</source>
       <pubDate>Tue, 22 Mar 2022 14:40:15 GMT</pubDate>
-      <content:encoded><![CDATA[<div><p>性质1</p>
+      <content:encoded><![CDATA[<blockquote>
+<p>参考连接: <a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明</a></p>
+</blockquote>
+<div><p>性质1</p>
 <p>无论<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>是否是凸函数,<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.10764em;">f</span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span></span></span></span>恒为凸函数.</p>
 </div>
 <p><strong>证明</strong>:</p>
@@ -1893,13 +1896,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:13:59 GMT</pubDate>
     </item>
     <item>
-      <title>常见概率分布</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">常见概率分布</source>
-      <pubDate>Sun, 23 Jan 2022 01:14:16 GMT</pubDate>
-    </item>
-    <item>
       <title>常见函数及其性质</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</guid>
@@ -1907,11 +1903,11 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>条件概率及其链式法则</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">条件概率及其链式法则</source>
-      <pubDate>Sun, 23 Jan 2022 01:14:55 GMT</pubDate>
+      <title>常见概率分布</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">常见概率分布</source>
+      <pubDate>Sun, 23 Jan 2022 01:14:16 GMT</pubDate>
     </item>
     <item>
       <title>期望、方差和协方差</title>
@@ -1919,6 +1915,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</guid>
       <source url="https://breezeshane.github.io/rss.xml">期望、方差和协方差</source>
       <pubDate>Sun, 23 Jan 2022 01:14:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>条件概率及其链式法则</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">条件概率及其链式法则</source>
+      <pubDate>Sun, 23 Jan 2022 01:14:55 GMT</pubDate>
     </item>
     <item>
       <title>概率分布</title>
@@ -2760,6 +2763,64 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
       <enclosure url="https://breezeshane.github.io/images/wgan-div.jpg" type="image/jpeg"/>
     </item>
     <item>
+      <title>WGAN with Gradient Penalty</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">WGAN with Gradient Penalty</source>
+      <pubDate>Tue, 18 May 2021 08:44:36 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
+<h2 id="结果"> 结果</h2>
+<p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
+<p><img src="/images/2021-04-26_01-11.png" alt="" /></p>
+<p><img src="/images/2021-04-26_10-54.png" alt="" /></p>
+<p>可以看得出来它表现优良，绝大部分点都聚集在各自给定的黄点周围，足见WGAN-GP表现的优异。</p>
+<p><img src="/images/newplot.png" alt="" /></p>
+<p>从图像中可以看出来，Loss-D损失函数值不断上升，这说明生成器已经开始成功欺骗了判别器，并且Loss-G损失函数值也在不断下降，说明生成器的仿真度越来越高，生成的数据越来越逼真，也越来越容易欺骗判别器。</p>
+<p>上一篇文章比较详细系统地剖析了WGAN，这里就不多做赘述。WGAN以切片形式处理数据时出现了一些问题，比如训练不稳定、准确率不高、梯度爆炸或消失，还有切片参数设置困难等问题。「切片参数设置困难指的是切片上下限难以合适设定，过小则容易将网络转化成二值网络，过大则不起作用。」为了解决这些，有人提出了改良WGAN的一种方法——增加惩罚项。</p>
+<h2 id="解决"> 解决～</h2>
+<p>为了解决以上的问题，WGAN又有了新的进展，这个新版WGAN不需要权重裁切，采取了加入惩罚项的方式。新版WGAN目标函数定义如下：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:2.27195em;vertical-align:-0.9119499999999999em;"></span><span>λ</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span><span><span><span style="height:-0.6105579999999999em;"><span style="top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.9119499999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>d</span><span>x</span><span>}</span></span></span></span></span></p>
+<p>根据<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义显然有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>[</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>]</span></span></span></span>成立，因此对于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∀</span><span>x</span><span>,</span><span style="margin-right:1em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>。求积分的形式又可以写成期望的形式，因此该公式又可以写成：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)}</span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>是输入数据的分布。</p>
+<p>而对于采样的过程，新版WGAN给出的方案是依次从两个分布中各选取一个样本，然后连接两个样本，并在该线段上任意采取一点作为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>。正是有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>的存在，梯度变化就被约束而平缓变化了。</p>
+<p>不过在实现中我们没有直接使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span></span></span></span>的形式，因为这个无法直接计算，我们采用的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span></span></span></span>。这意味着我们正要求<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1，到这里你可能还不明白为什么这样。</p>
+<p>首先一定要清晰的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的存在就是为了增大损失函数的值，那么根据上面给的表达式，不难看出，当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>尽可能大，而<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>尽可能小的时候损失函数的值必然会尽可能大。这时再回顾<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义，我们会发现这样的变化会导致<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1。到此为止，我们总算清楚为何要如此做法了。</p>
+<p>于是我们最终的损失函数就出炉了：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1141079999999999em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>]}</span></span></span></span></span></p>
+<hr>
+<h2 id="实现"> 实现！</h2>
+<p><strong>「注」：以下一切操作均基于Original GAN而修改！</strong></p>
+<div><pre><code><span>def</span> <span>weights_init</span><span>(</span>m<span>)</span><span>:</span>
+    <span>if</span> <span>isinstance</span><span>(</span>m<span>,</span> nn<span>.</span>Linear<span>)</span><span>:</span>
+        <span># m.weight.data.normal_(0.0, 0.02)</span>
+        nn<span>.</span>init<span>.</span>kaiming_normal_<span>(</span>m<span>.</span>weight<span>)</span>
+        m<span>.</span>bias<span>.</span>data<span>.</span>fill_<span>(</span><span>0</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><pre><code><span>def</span> <span>gradient_penalty</span><span>(</span>D<span>,</span> x_r<span>,</span> x_f<span>)</span><span>:</span>
+    t <span>=</span> torch<span>.</span>rand<span>(</span>batchsz<span>,</span> <span>1</span><span>)</span><span>.</span>cuda<span>(</span><span>)</span>
+    t <span>=</span> t<span>.</span>expand_as<span>(</span>x_r<span>)</span>
+    mid <span>=</span> t <span>*</span> x_r <span>+</span> <span>(</span><span>1</span> <span>-</span> t<span>)</span> <span>*</span> x_f
+    mid<span>.</span>requires_grad_<span>(</span><span>)</span>
+    
+    pred <span>=</span> D<span>(</span>mid<span>)</span>
+    grads <span>=</span> autograd<span>.</span>grad<span>(</span>outputs<span>=</span>pred<span>,</span> \
+                          inputs<span>=</span>mid<span>,</span> \
+                          grad_outputs<span>=</span>torch<span>.</span>ones_like<span>(</span>pred<span>)</span><span>,</span> \
+                          create_graph<span>=</span><span>True</span><span>,</span> \
+                          retain_graph<span>=</span><span>True</span><span>,</span> \
+                          only_inputs<span>=</span><span>True</span><span>)</span><span>[</span><span>0</span><span>]</span>
+    
+    gp <span>=</span> torch<span>.</span><span>pow</span><span>(</span>grads<span>.</span>norm<span>(</span><span>2</span><span>,</span> dim<span>=</span><span>1</span><span>)</span> <span>-</span> <span>1</span><span>,</span> <span>2</span><span>)</span><span>.</span>mean<span>(</span><span>)</span>
+    
+    <span>return</span> gp
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>定义完这两个函数之后需要在main()中<code>loss_D = loss_r + loss_f</code>改成<code>loss_D = loss_r + loss_f + 0.2 * gp</code>，其中0.2是一种超参数，可以自行调整；并且在这行代码前面加上<code>gp = gradient_penalty(D, x_r, x_f.detach())</code>，并且在定义G、D变量的后面加上<code>G.apply(weights_init</code>和<code>D.apply(weights_init)</code>这两行代码。</p>
+<p>这样我们就完成了WGAN-gp的实现，完整代码请点击这里--&gt;<a href="https://github.com/BreezeShane/Unsupervised-Learning/blob/master/WGAN-gp.py" target="_blank" rel="noopener noreferrer">·</a></p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/wgan-gp.png" type="image/png"/>
+    </item>
+    <item>
       <title>Wasserstein Generative Adversarial Networks</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</guid>
@@ -2900,64 +2961,6 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
 </section>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/v2-3cfe84e6b6b58c00e013975fe649398e_b.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>WGAN with Gradient Penalty</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">WGAN with Gradient Penalty</source>
-      <pubDate>Tue, 18 May 2021 08:44:36 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
-<h2 id="结果"> 结果</h2>
-<p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
-<p><img src="/images/2021-04-26_01-11.png" alt="" /></p>
-<p><img src="/images/2021-04-26_10-54.png" alt="" /></p>
-<p>可以看得出来它表现优良，绝大部分点都聚集在各自给定的黄点周围，足见WGAN-GP表现的优异。</p>
-<p><img src="/images/newplot.png" alt="" /></p>
-<p>从图像中可以看出来，Loss-D损失函数值不断上升，这说明生成器已经开始成功欺骗了判别器，并且Loss-G损失函数值也在不断下降，说明生成器的仿真度越来越高，生成的数据越来越逼真，也越来越容易欺骗判别器。</p>
-<p>上一篇文章比较详细系统地剖析了WGAN，这里就不多做赘述。WGAN以切片形式处理数据时出现了一些问题，比如训练不稳定、准确率不高、梯度爆炸或消失，还有切片参数设置困难等问题。「切片参数设置困难指的是切片上下限难以合适设定，过小则容易将网络转化成二值网络，过大则不起作用。」为了解决这些，有人提出了改良WGAN的一种方法——增加惩罚项。</p>
-<h2 id="解决"> 解决～</h2>
-<p>为了解决以上的问题，WGAN又有了新的进展，这个新版WGAN不需要权重裁切，采取了加入惩罚项的方式。新版WGAN目标函数定义如下：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:2.27195em;vertical-align:-0.9119499999999999em;"></span><span>λ</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.44445em;position:relative;top:-0.0011249999999999316em;">∫</span><span><span><span><span style="height:-0.6105579999999999em;"><span style="top:-1.7880500000000001em;margin-left:-0.44445em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.9119499999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span><span>d</span><span>x</span><span>}</span></span></span></span></span></p>
-<p>根据<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义显然有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>[</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>1</span><span>]</span></span></span></span>成立，因此对于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∀</span><span>x</span><span>,</span><span style="margin-right:1em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>。求积分的形式又可以写成期望的形式，因此该公式又可以写成：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span style="margin-right:0.16666666666666666em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)}</span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>是输入数据的分布。</p>
-<p>而对于采样的过程，新版WGAN给出的方案是依次从两个分布中各选取一个样本，然后连接两个样本，并在该线段上任意采取一点作为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>。正是有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span>的存在，梯度变化就被约束而平缓变化了。</p>
-<p>不过在实现中我们没有直接使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>max</span><span>(</span><span>0</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>1</span><span>)</span></span></span></span>的形式，因为这个无法直接计算，我们采用的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.064108em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8141079999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span></span></span></span>。这意味着我们正要求<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1，到这里你可能还不明白为什么这样。</p>
-<p>首先一定要清晰的是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的存在就是为了增大损失函数的值，那么根据上面给的表达式，不难看出，当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>尽可能大，而<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>尽可能小的时候损失函数的值必然会尽可能大。这时再回顾<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>的定义，我们会发现这样的变化会导致<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span></span></span></span>尽可能接近1。到此为止，我们总算清楚为何要如此做法了。</p>
-<p>于是我们最终的损失函数就出炉了：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span style="margin-right:0.13889em;">W</span><span>(</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.15139200000000003em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.494331em;vertical-align:-0.7443310000000001em;"></span><span><span><span><span style="height:0.43055999999999983em;"><span style="top:-2.355669em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span style="top:-3em;"><span style="height:3em;"></span><span><span>max</span></span></span></span><span>​</span></span><span><span style="height:0.7443310000000001em;"><span></span></span></span></span></span><span>{</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span></span></span></span></span><span>​</span></span><span><span style="height:0.2501em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.16454285714285716em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span style="margin-right:0.03588em;">g</span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)]</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1275199999999999em;vertical-align:-0.3775199999999999em;"></span><span>λ</span><span><span style="margin-right:0.05764em;">E</span><span><span><span><span style="height:0.34479999999999994em;"><span style="top:-2.5198em;margin-left:-0.05764em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>x</span><span>∼</span><span><span style="margin-right:0.13889em;">P</span><span><span><span><span style="height:0.3280857142857143em;"><span style="top:-2.357em;margin-left:-0.13889em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span><span>in</span><span>p</span><span>u</span><span>t</span></span></span></span></span><span>​</span></span><span><span style="height:0.2818857142857143em;"><span></span></span></span></span></span></span><span>(</span><span>x</span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3775199999999999em;"><span></span></span></span></span></span></span><span>[(</span><span>∣∣</span><span><span>∇</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>x</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.02778em;">D</span><span>(</span><span>x</span><span>)</span><span>∣∣</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1.1141079999999999em;vertical-align:-0.25em;"></span><span>1</span><span><span>)</span><span><span><span><span style="height:0.8641079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span></span></span></span></span><span>]}</span></span></span></span></span></p>
-<hr>
-<h2 id="实现"> 实现！</h2>
-<p><strong>「注」：以下一切操作均基于Original GAN而修改！</strong></p>
-<div><pre><code><span>def</span> <span>weights_init</span><span>(</span>m<span>)</span><span>:</span>
-    <span>if</span> <span>isinstance</span><span>(</span>m<span>,</span> nn<span>.</span>Linear<span>)</span><span>:</span>
-        <span># m.weight.data.normal_(0.0, 0.02)</span>
-        nn<span>.</span>init<span>.</span>kaiming_normal_<span>(</span>m<span>.</span>weight<span>)</span>
-        m<span>.</span>bias<span>.</span>data<span>.</span>fill_<span>(</span><span>0</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><div><pre><code><span>def</span> <span>gradient_penalty</span><span>(</span>D<span>,</span> x_r<span>,</span> x_f<span>)</span><span>:</span>
-    t <span>=</span> torch<span>.</span>rand<span>(</span>batchsz<span>,</span> <span>1</span><span>)</span><span>.</span>cuda<span>(</span><span>)</span>
-    t <span>=</span> t<span>.</span>expand_as<span>(</span>x_r<span>)</span>
-    mid <span>=</span> t <span>*</span> x_r <span>+</span> <span>(</span><span>1</span> <span>-</span> t<span>)</span> <span>*</span> x_f
-    mid<span>.</span>requires_grad_<span>(</span><span>)</span>
-    
-    pred <span>=</span> D<span>(</span>mid<span>)</span>
-    grads <span>=</span> autograd<span>.</span>grad<span>(</span>outputs<span>=</span>pred<span>,</span> \
-                          inputs<span>=</span>mid<span>,</span> \
-                          grad_outputs<span>=</span>torch<span>.</span>ones_like<span>(</span>pred<span>)</span><span>,</span> \
-                          create_graph<span>=</span><span>True</span><span>,</span> \
-                          retain_graph<span>=</span><span>True</span><span>,</span> \
-                          only_inputs<span>=</span><span>True</span><span>)</span><span>[</span><span>0</span><span>]</span>
-    
-    gp <span>=</span> torch<span>.</span><span>pow</span><span>(</span>grads<span>.</span>norm<span>(</span><span>2</span><span>,</span> dim<span>=</span><span>1</span><span>)</span> <span>-</span> <span>1</span><span>,</span> <span>2</span><span>)</span><span>.</span>mean<span>(</span><span>)</span>
-    
-    <span>return</span> gp
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>定义完这两个函数之后需要在main()中<code>loss_D = loss_r + loss_f</code>改成<code>loss_D = loss_r + loss_f + 0.2 * gp</code>，其中0.2是一种超参数，可以自行调整；并且在这行代码前面加上<code>gp = gradient_penalty(D, x_r, x_f.detach())</code>，并且在定义G、D变量的后面加上<code>G.apply(weights_init</code>和<code>D.apply(weights_init)</code>这两行代码。</p>
-<p>这样我们就完成了WGAN-gp的实现，完整代码请点击这里--&gt;<a href="https://github.com/BreezeShane/Unsupervised-Learning/blob/master/WGAN-gp.py" target="_blank" rel="noopener noreferrer">·</a></p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/wgan-gp.png" type="image/png"/>
     </item>
     <item>
       <title>多灾多难的博客搭建过程</title>
@@ -7700,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7725,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7740,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8205,6 +8208,30 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>主要功能与配置演示</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/guide/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
+      <category>使用指南</category>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
+<ul>
+<li>
+<p><a href="./page.html">页面展示</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown 展示</a></p>
+</li>
+<li>
+<p><a href="./disable.html">禁用展示</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">加密展示</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>页面配置</title>
       <link>https://breezeshane.github.io/CourseOfBlog/guide/page/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/page/</guid>
@@ -8258,34 +8285,10 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>主要功能与配置演示</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/guide/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
-      <category>使用指南</category>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
-<ul>
-<li>
-<p><a href="./page.html">页面展示</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown 展示</a></p>
-</li>
-<li>
-<p><a href="./disable.html">禁用展示</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">加密展示</a></p>
-</li>
-</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -8293,7 +8296,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8313,7 +8316,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8324,7 +8327,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8400,18 +8403,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:25:53 GMT</pubDate>
     </item>
     <item>
-      <title>插入排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">插入排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:26:04 GMT</pubDate>
-    </item>
-    <item>
       <title>堆排序</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">堆排序</source>
       <pubDate>Sun, 23 Jan 2022 01:25:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>插入排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">插入排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:26:04 GMT</pubDate>
     </item>
     <item>
       <title>归并排序</title>
@@ -9481,18 +9484,18 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>单链表的一些经典问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
-    </item>
-    <item>
       <title>顺序线性表的一些经典问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</guid>
       <source url="https://breezeshane.github.io/rss.xml">顺序线性表的一些经典问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>单链表的一些经典问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
     </item>
     <item>
       <title>N皇后问题</title>
@@ -9630,19 +9633,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <h2 id="源代码-n-queens-problem"> 源代码--&gt;<a href="https://github.com/BreezeShane/MySummary/blob/master/C%2B%2B/N-Queens%20Problem/N%E7%9A%87%E5%90%8E%E9%97%AE%E9%A2%98.cpp" target="_blank" rel="noopener noreferrer">N Queens Problem</a></h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/nQueens.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Java 杂记</title>
-      <link>https://breezeshane.github.io/Java/</link>
-      <guid>https://breezeshane.github.io/Java/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
-      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
-<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
-<p>注意: 判断是否为NaN时要使用isNaN.</p>
-<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
-<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
-]]></content:encoded>
     </item>
     <item>
       <title>Git Commands</title>
@@ -9787,6 +9777,19 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>这样你就可以发现，切换版本成功了。👍</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/git.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Java 杂记</title>
+      <link>https://breezeshane.github.io/Java/</link>
+      <guid>https://breezeshane.github.io/Java/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
+      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
+<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
+<p>注意: 判断是否为NaN时要使用isNaN.</p>
+<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
+<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>TeXlive-LaTeX使用</title>
@@ -12280,65 +12283,6 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
-      <title>Building Up Servicer</title>
-      <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
-      <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Building Up Servicer</source>
-      <pubDate>Fri, 13 Aug 2021 22:55:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
-<p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
-<h2 id="怎么做"> 怎么做？</h2>
-<p>这个系统已经基本把绝大多数事都做好了，因此我们只需要做一点点工作就行。首先要明确一点：这个主机是用作服务器的，不作日常使用。</p>
-<h3 id="前期工作"> 前期工作</h3>
-<p>由于这个系统有较长时间没有使用，因此需要像刚安装好系统那样做一切前期准备，详细步骤请阅读我之前的<a href="./Manjaro安装与配置.html">文章</a>。</p>
-<h3 id="搭建虚拟内网"> 搭建虚拟内网</h3>
-<p>为了能在各地自由使用，我决定使用ZeroTier-One来构建一个虚拟内网，然后将我目前使用的两个设备jion到同一个内网即可。服务器上只消执行：</p>
-<div><pre><code><span>sudo</span> pacman -S zerotier-one
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-<span>sudo</span> systemctl start zerotier-one.service
-zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以搭建好一个虚拟内网了。</p>
-<h3 id="建立ssh连接"> 建立SSH连接</h3>
-<p>做好上一步之后，可以根据情况自己设定好IP「更具体的内容请移步至<a href="./ZeroTier-One安装与使用.html">这篇文章</a>」，需要记好服务器的IP，并且编辑SSH配置文件：</p>
-<div><pre><code><span>sudo</span> <span>vim</span> /etc/ssh/ssh_config
-</code></pre>
-<div><span>1</span><br></div></div><p>需要将<code>Port 22</code>前的#去掉，当然如果你愿意也可以直接修改Port后面的值。</p>
-<p>保存后需要重启一下服务，执行：</p>
-<div><pre><code><span>sudo</span> restart sshd.service
-</code></pre>
-<div><span>1</span><br></div></div><p>但为了保证开机就能使用SSH，还需要执行：</p>
-<div><pre><code><span>sudo</span> <span>enable</span> sshd.service
-</code></pre>
-<div><span>1</span><br></div></div><p>最后你就可以执行：</p>
-<div><pre><code><span>ssh</span> USERNAME@IP
-</code></pre>
-<div><span>1</span><br></div></div><p>来远程连接服务器了。</p>
-<p>但这里要注意的是，如果前面你设定的port不是默认值22，则需要使用p参数，即执行：</p>
-<div><pre><code><span>ssh</span> -p YOUR_PORT USERNAME@IP
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="关闭图形桌面"> 关闭图形桌面</h3>
-<p>因为我不喜欢总是去插拔鼠标接收器来在两台电脑之间使用，而且服务器我也是只可能使用命令行形式，而最重要的原因是它打开的图形桌面Xorg服务是要占用显卡的，这个就阻挠了我进一步的安装驱动，于是我执行了如下指令来关掉这个多余的东西：</p>
-<div><pre><code><span>sudo</span> systemctl set-default multi-user.target
-<span>sudo</span> <span>reboot</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样你就可以开机就进入命令行模式了，其实就是tty模式。</p>
-<p>如果你有一天想用回这个桌面系统，那就执行：</p>
-<div><pre><code><span>sudo</span> systemctl set-default graphics.target
-<span>sudo</span> <span>reboot</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h3 id="安装nvidia驱动"> 安装Nvidia驱动</h3>
-<p>依旧根据<code>inxi -G</code>给出的显卡信息到Nvidia官网选择合适的驱动程序下载过来，然后用<code>sudo bash NVIDIA…….sh</code>即可。</p>
-<p>但要注意的是如果安装失败并报错提示缺少kernel的话，你需要根据系统内核版本来安装linux-headers，查看系统版本的方法有三个：一是执行<code>username -a</code>来查看内核版本；二是执行<code>neofetch</code>，不过这个需要提前安装好neofetch才行；三则是直接运行系统自带的<code>screenfetch</code>，因此本人最推荐这个方法，当然第一个方法非常简洁，也足够使用。如你所见，Kernel后跟的数字就意味着你要安装的linux-headers的版本，比如我的就是<code>5.11.22-2-MANJARO</code>，那我就要安装linux510-headers，为什么不是511，因为没有啊～安装好Kernel Headers之后再重新安装显卡，就万事大吉了。</p>
-<h3 id="安装cuda系列"> 安装cuda系列</h3>
-<p>安装之前一定要检查一下你的系统驱动版本是否与你将要安装的cuda版本匹配，由于我这里的版本是470.63.01，对应应该装的CUDA版本要高于11.2（包括11.2）。而我这恰好一切都满足，就很顺利，执行一个语句即可：</p>
-<div><pre><code><span>sudo</span> pacman -S cuda cuda-tools cudnn
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="结束"> 结束</h2>
-<p>现在你的服务器已经搭好了，一切都可以正常使用咯～</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Crawler</title>
       <link>https://breezeshane.github.io/Python/Crawler/</link>
       <guid>https://breezeshane.github.io/Python/Crawler/</guid>
@@ -12428,6 +12372,65 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
 <h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>Building Up Servicer</title>
+      <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
+      <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Building Up Servicer</source>
+      <pubDate>Fri, 13 Aug 2021 22:55:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
+<p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
+<h2 id="怎么做"> 怎么做？</h2>
+<p>这个系统已经基本把绝大多数事都做好了，因此我们只需要做一点点工作就行。首先要明确一点：这个主机是用作服务器的，不作日常使用。</p>
+<h3 id="前期工作"> 前期工作</h3>
+<p>由于这个系统有较长时间没有使用，因此需要像刚安装好系统那样做一切前期准备，详细步骤请阅读我之前的<a href="./Manjaro安装与配置.html">文章</a>。</p>
+<h3 id="搭建虚拟内网"> 搭建虚拟内网</h3>
+<p>为了能在各地自由使用，我决定使用ZeroTier-One来构建一个虚拟内网，然后将我目前使用的两个设备jion到同一个内网即可。服务器上只消执行：</p>
+<div><pre><code><span>sudo</span> pacman -S zerotier-one
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+<span>sudo</span> systemctl start zerotier-one.service
+zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以搭建好一个虚拟内网了。</p>
+<h3 id="建立ssh连接"> 建立SSH连接</h3>
+<p>做好上一步之后，可以根据情况自己设定好IP「更具体的内容请移步至<a href="./ZeroTier-One安装与使用.html">这篇文章</a>」，需要记好服务器的IP，并且编辑SSH配置文件：</p>
+<div><pre><code><span>sudo</span> <span>vim</span> /etc/ssh/ssh_config
+</code></pre>
+<div><span>1</span><br></div></div><p>需要将<code>Port 22</code>前的#去掉，当然如果你愿意也可以直接修改Port后面的值。</p>
+<p>保存后需要重启一下服务，执行：</p>
+<div><pre><code><span>sudo</span> restart sshd.service
+</code></pre>
+<div><span>1</span><br></div></div><p>但为了保证开机就能使用SSH，还需要执行：</p>
+<div><pre><code><span>sudo</span> <span>enable</span> sshd.service
+</code></pre>
+<div><span>1</span><br></div></div><p>最后你就可以执行：</p>
+<div><pre><code><span>ssh</span> USERNAME@IP
+</code></pre>
+<div><span>1</span><br></div></div><p>来远程连接服务器了。</p>
+<p>但这里要注意的是，如果前面你设定的port不是默认值22，则需要使用p参数，即执行：</p>
+<div><pre><code><span>ssh</span> -p YOUR_PORT USERNAME@IP
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="关闭图形桌面"> 关闭图形桌面</h3>
+<p>因为我不喜欢总是去插拔鼠标接收器来在两台电脑之间使用，而且服务器我也是只可能使用命令行形式，而最重要的原因是它打开的图形桌面Xorg服务是要占用显卡的，这个就阻挠了我进一步的安装驱动，于是我执行了如下指令来关掉这个多余的东西：</p>
+<div><pre><code><span>sudo</span> systemctl set-default multi-user.target
+<span>sudo</span> <span>reboot</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样你就可以开机就进入命令行模式了，其实就是tty模式。</p>
+<p>如果你有一天想用回这个桌面系统，那就执行：</p>
+<div><pre><code><span>sudo</span> systemctl set-default graphics.target
+<span>sudo</span> <span>reboot</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><h3 id="安装nvidia驱动"> 安装Nvidia驱动</h3>
+<p>依旧根据<code>inxi -G</code>给出的显卡信息到Nvidia官网选择合适的驱动程序下载过来，然后用<code>sudo bash NVIDIA…….sh</code>即可。</p>
+<p>但要注意的是如果安装失败并报错提示缺少kernel的话，你需要根据系统内核版本来安装linux-headers，查看系统版本的方法有三个：一是执行<code>username -a</code>来查看内核版本；二是执行<code>neofetch</code>，不过这个需要提前安装好neofetch才行；三则是直接运行系统自带的<code>screenfetch</code>，因此本人最推荐这个方法，当然第一个方法非常简洁，也足够使用。如你所见，Kernel后跟的数字就意味着你要安装的linux-headers的版本，比如我的就是<code>5.11.22-2-MANJARO</code>，那我就要安装linux510-headers，为什么不是511，因为没有啊～安装好Kernel Headers之后再重新安装显卡，就万事大吉了。</p>
+<h3 id="安装cuda系列"> 安装cuda系列</h3>
+<p>安装之前一定要检查一下你的系统驱动版本是否与你将要安装的cuda版本匹配，由于我这里的版本是470.63.01，对应应该装的CUDA版本要高于11.2（包括11.2）。而我这恰好一切都满足，就很顺利，执行一个语句即可：</p>
+<div><pre><code><span>sudo</span> pacman -S cuda cuda-tools cudnn
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="结束"> 结束</h2>
+<p>现在你的服务器已经搭好了，一切都可以正常使用咯～</p>
+]]></content:encoded>
     </item>
     <item>
       <title>关于Vcomputer如何实现循环的哲学问题</title>
@@ -13734,7 +13737,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -13768,7 +13771,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -13778,7 +13781,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13803,7 +13806,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13866,7 +13869,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -13875,7 +13878,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 22 Mar 2022 08:05:38 GMT</pubDate>
+      <pubDate>Tue, 22 Mar 2022 08:20:11 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
