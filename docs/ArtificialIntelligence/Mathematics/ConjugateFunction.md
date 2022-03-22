@@ -11,6 +11,9 @@ tags:
  - Aritficial Intelligence
 article: false
 ---
+
+> 参考连接: [共轭函数两个性质的证明](https://blog.csdn.net/weixin_42258608/article/details/87610618)
+
 ::: info 性质1
 
 无论$f$是否是凸函数,$f^*$恒为凸函数.
