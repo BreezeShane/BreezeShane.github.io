@@ -98,6 +98,7 @@ module.exports = config({
                       "CongruenceExpression",
                       "LipschitzContinuity",
                       "Convex",
+                      "ConjugateFunction",
                     ],
                   },
                   {
@@ -246,7 +247,7 @@ module.exports = config({
                 children: [
                   "BlogBuilding",
                   "Markdown语法杂记",
-                  "LaTeX",
+                  "LaTeXforMd",
                   "ChangeBlogTheme",
                   "CreateNewFilebyShell",
                 ],
