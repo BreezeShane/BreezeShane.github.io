@@ -13,7 +13,7 @@ project:
   - type: project
     name: NovelEnlightenGAN
     desc: This is what I've built. It's based on GAN.
-    link: https://github.com/BreezeShane/EnlightenGAN
+    link: https://github.com/BreezeShane/NovelEnlightenGAN
 
   - type: article
     name: Arcolinux & AwesomeWM
@@ -26,9 +26,9 @@ project:
     link: https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/
 
   - type: link
-    name: link name
-    desc: link detailed description
-    link: https://link.address
+    name: Deep Learning Notebook
+    desc: Here's the repository I co-contribute to with partners.
+    link: https://ml.akasaki.space/
 
 footer: ""
 ---

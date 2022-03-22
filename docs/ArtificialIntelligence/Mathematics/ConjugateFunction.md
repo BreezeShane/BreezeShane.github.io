@@ -9,7 +9,6 @@ categories:
  - AritficialIntelligence
 tags: 
  - Aritficial Intelligence
-article: false
 ---
 
 > 参考连接: [共轭函数两个性质的证明](https://blog.csdn.net/weixin_42258608/article/details/87610618)
