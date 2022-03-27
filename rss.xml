@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 24 Mar 2022 12:48:22 GMT</pubDate>
-    <lastBuildDate>Thu, 24 Mar 2022 12:48:22 GMT</lastBuildDate>
+    <pubDate>Sun, 27 Mar 2022 05:37:27 GMT</pubDate>
+    <lastBuildDate>Sun, 27 Mar 2022 05:37:27 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -7703,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8262,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,7 +8285,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8296,7 +8296,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8316,7 +8316,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8327,7 +8327,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9832,7 +9832,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 </li>
 <li>
 <p><strong>通过EFI BIOS进入系统启动盘。</strong></p>
-<p>在笔记本电脑上通常是按下<kbd>F12</kbd>或者<kbd>F2</kbd>来进入EFI启动选项界面，选择你的USB即可。</p>
+<p>在笔记本电脑上通常是按下 <code>&lt;kbd&gt;</code>F12 <code>&lt;/kbd&gt;</code>或者 <code>&lt;kbd&gt;</code>F2 <code>&lt;/kbd&gt;</code>来进入EFI启动选项界面，选择你的USB即可。</p>
 </li>
 <li>
 <p>**使用GParted手动划分硬盘分区。**我是折腾许久都无果失败后找到大佬帮助的，这才弄明白原来真正需要做的是：为你的系统划分一个EFI启动引导分区，推荐大小为 <code>512MB</code>，虽然我真正安装后才知道实际只用了 <code>1.30MB</code>，再划分好硬盘的一部分空间来存放你的系统，剩下的就用来存放你的数据，但要注意，划分好后别急着点击下一步，我们还有非常重要的配置还没写——先选择Manual partitioning选项，然后选择好刚才那个EFI启动引导分区，编辑它的属性，将flag修改为 <code>/boot/efi</code>，一般不用选中 <code>grub-boot</code>；然后将存放数据的硬盘分区中属性的flag一项修改为 <code>/</code>。其他选项则自由发挥，自己安排，值得一提的是，我这次没有选择使用Plasma桌面系统，而是选择了AwesomeWM，因为我确信学会熟练使用它会大幅提高我的工作效率。</p>
@@ -9846,14 +9846,14 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>由于我之前已经有过Manjaro安装配置的经验了，这次安装配置ArcoLinux也就顺利多了。两者都是基于ArchLinux的发行版，安装与配置的思路也是差不多的。</p>
 </blockquote>
 <p><strong>「注意」</strong>：AwesomeWM桌面系统与常见的桌面系统是完全不一样的逻辑，常见的桌面系统如Windows、Plasma/KDE、GNOME、XFCE等都是堆栈式桌面布局，而AwesomeWM和i3两者都是平铺式桌面布局，因此使用上有较大区别，最明显的是从前你所记住的绝大多数快捷键在这里全部无效，原因都是对不上号，执行同一功能的两个桌面系统对应的快捷键是截然不同的。出于这样的原因，我会在文章中穿插描述AwesomeWM的使用方式。</p>
-<p><strong>「重点」</strong>：AwesomeWM的配置文件在：<code>~/.config/awesome/rc.lua</code>这里，使用的语言正如你所见，是Lua。另外在学习使用的时候请按<kbd>Meta</kbd>+<kbd>S</kbd>打开帮助窗口来查看各种操作的使用，建议都亲自敲一遍，这样入门快。</p>
+<p><strong>「重点」</strong>：AwesomeWM的配置文件在：<code>~/.config/awesome/rc.lua</code>这里，使用的语言正如你所见，是Lua。另外在学习使用的时候请按 <code>&lt;kbd&gt;</code>Meta <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>S <code>&lt;/kbd&gt;</code>打开帮助窗口来查看各种操作的使用，建议都亲自敲一遍，这样入门快。</p>
 <p>开局第一步：换源。</p>
-<p>**按下<kbd>Meta</kbd>+<kbd>ENTER</kbd>或者<kbd>Meta</kbd>+<kbd>T</kbd>打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入 <code>/etc/pacman.conf</code>内：</p>
+<p>**按下 <code>&lt;kbd&gt;</code>Meta <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>ENTER <code>&lt;/kbd&gt;</code>或者 <code>&lt;kbd&gt;</code>Meta <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>T <code>&lt;/kbd&gt;</code>打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入 <code>/etc/pacman.conf</code>内：</p>
 <div><pre><code><span>[</span>archlinuxcn<span>]</span>
 SigLevel <span>=</span> Optional TrustedOnly
 Server <span>=</span> https://mirrors.ustc.edu.cn/archlinuxcn/<span>$arch</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>然后配置yay的镜像源顺序，要编辑 <code>/etc/pacman.d/mirrorlist</code>，良心的是这个文件下已经将全球所有的镜像源都加入其中了，我们要做的是将文件后面的China部分移动到前面即可。我的做法是先sudo vim /etc/pacman.d/mirrorlist，然后用鼠标选中China这一部分的地址，键盘输入<kbd>&quot;+y</kbd>(表示复制选中的内容到系统剪贴板📋)，然后将光标移动到文件开头，直接用键盘键入<kbd>p</kbd>即可将刚才复制的内容粘贴上去，保存退出即可。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>然后配置yay的镜像源顺序，要编辑 <code>/etc/pacman.d/mirrorlist</code>，良心的是这个文件下已经将全球所有的镜像源都加入其中了，我们要做的是将文件后面的China部分移动到前面即可。我的做法是先sudo vim /etc/pacman.d/mirrorlist，然后用鼠标选中China这一部分的地址，键盘输入 <code>&lt;kbd&gt;</code>&quot;+y <code>&lt;/kbd&gt;</code>(表示复制选中的内容到系统剪贴板📋)，然后将光标移动到文件开头，直接用键盘键入 <code>&lt;kbd&gt;</code>p <code>&lt;/kbd&gt;</code>即可将刚才复制的内容粘贴上去，保存退出即可。</p>
 <h2 id="awesomewm-配置"> AwesomeWM 配置</h2>
 <h3 id="awesomewm中较简单的软件安装"> AwesomeWM中较简单的软件安装</h3>
 <div><pre><code><span># 因为有些软件安装过于简单，只是执行安装语句即可完成的事，我就都集中写在这里了。</span>
@@ -9916,10 +9916,10 @@ autorunApps <span>=</span>
 	<span>end</span>
 <span>end</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><p>现在是想让Fcitx5开机自启动，那就可以把上面代码中的 <code>NAME</code>改为 <code>fcitx5</code>。保存之后，建议执行 <code>awesome -k</code>来检查有无语法错误，最后可以按下<kbd>Meta</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>来重启AwesomeWM。注意，这样做也意味着每次你按下这一组快捷键，autorunApps数组里面的所有应用都会再次启动一次。现在重启一下就可以正式投入使用了。</p>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><p>现在是想让Fcitx5开机自启动，那就可以把上面代码中的 <code>NAME</code>改为 <code>fcitx5</code>。保存之后，建议执行 <code>awesome -k</code>来检查有无语法错误，最后可以按下 <code>&lt;kbd&gt;</code>Meta <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>Shift <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>R <code>&lt;/kbd&gt;</code>来重启AwesomeWM。注意，这样做也意味着每次你按下这一组快捷键，autorunApps数组里面的所有应用都会再次启动一次。现在重启一下就可以正式投入使用了。</p>
 </div>
 <div><p>简洁思路</p>
-<p>其实直接按下<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>A</kbd>启动软件菜单，运行一下Fcitx5 Configuration后调整输入法设置即可，无需手动添加启动项。</p>
+<p>其实直接按下 <code>&lt;kbd&gt;</code>Ctrl <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>A <code>&lt;/kbd&gt;</code>启动软件菜单，运行一下Fcitx5 Configuration后调整输入法设置即可，无需手动添加启动项。</p>
 </div>
 <h3 id="科学上网的配置"> 科学上网的配置</h3>
 <p>经过较长时间的配置我最后终于理明白应该如何配置好科学上网套装了。</p>
@@ -10191,7 +10191,7 @@ autorandr --default <span>&lt;</span>YOUR_CONFIG_NAME<span>></span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div></blockquote>
 <p>起初我尝试了它给出的解决方案，但是我实践后发现，我直接这样用，会多出来另外十个tag，心里分外不解，于是我东查西查，最后也没能找到真正行之有效的方法。</p>
-<p>但是，我要强调：<font size=7><a href="https://awesomewm.org/doc/api/index.html">官方文档</a>一定要常翻常看！</font></p>
+<p>但是，我要强调：<font size=7><code>&lt;a href=&quot;https://awesomewm.org/doc/api/index.html&quot;&gt;</code>官方文档 <code>&lt;/a&gt;</code>一定要常翻常看！<code>&lt;/font&gt;</code></p>
 <p>最后我是查询了官方给出的API文档：「<a href="https://awesomewm.org/doc/api/classes/tag.html#" target="_blank" rel="noopener noreferrer">Class tag</a>」。注意到文档给出的这个内容：</p>
 <blockquote>
 <p><strong>Creating tags</strong>:</p>
@@ -10290,7 +10290,7 @@ awful<span>.</span>screen<span>.</span><span>connect_for_each_screen</span><span
 <div><span>1</span><br></div></div><h3 id="给urxvt添加多标签功能"> 给URxvt添加多标签功能</h3>
 <p>修改 <code>~/.Xresources</code>文件，搜索其中的 <code>URxvt.perl-ext-common</code>字样，在后面添加 <code>,tabbed</code>后执行 <code>xrdb -merge ~/.Xresources</code>即可。</p>
 <h3 id="让urxvt支持组合键"> 让URxvt支持组合键</h3>
-<p>如果你喜欢使用<kbd>Ctrl</kbd>+<kbd>Arrow</kbd>类的组合键，但是你发现它在URxvt这里并不生效，其实是需要修改 <code>~/.Xresources</code>配置文件的：</p>
+<p>如果你喜欢使用 <code>&lt;kbd&gt;</code>Ctrl <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>Arrow <code>&lt;/kbd&gt;</code>类的组合键，但是你发现它在URxvt这里并不生效，其实是需要修改 <code>~/.Xresources</code>配置文件的：</p>
 <p>在该文件下任意一个比较合适的地方添加如下的配置：</p>
 <div><pre><code>! enable some control keymap.
 URxvt.keysym.Control-Up:     \033[1;5A
@@ -10309,7 +10309,7 @@ URxvt.keysym.Control-Right:  \033[1;5C
 <div><pre><code>awful<span>.</span><span>key</span><span>(</span><span>{</span> modkey <span>}</span><span>,</span> <span>"l"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> awful<span>.</span>util<span>.</span><span>spawn</span><span>(</span> <span>"xscreensaver-command -lock"</span> <span>)</span> <span>end</span><span>,</span>
     <span>{</span> description <span>=</span> <span>"Screen lock"</span><span>,</span> group <span>=</span> <span>"global keys"</span> <span>}</span><span>)</span><span>,</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后按下<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>重启一下AwesomeWM即可生效。</p>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后按下 <code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>Shift <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>R <code>&lt;/kbd&gt;</code>重启一下AwesomeWM即可生效。</p>
 <p>按理说这时候应该每次开机启动都可以生效的，但我发现并没有，于是我就修改了 <code>~/.config/awesome/autostart.sh</code>来设定自动启动 <code>xscreensaver</code>。</p>
 <div><pre><code><span>vim</span> ~/.config/awesome/autostart.sh
 <span># 按下G跳转到最后一行，再按下Shift+4跳转到最后一个字符，添加下面一行</span>
@@ -10461,43 +10461,51 @@ URxvt.boldItalicFont:     	    xft:MesloLGS NF-20
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>R</kbd></td>
+<td style="text-align:center"><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>R <code>&lt;/kbd&gt;</code></td>
 <td style="text-align:center">从 X 收回对键盘的控制</td>
 </tr>
 <tr>
-<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>E</kbd></td>
+<td style="text-align:center"><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>E <code>&lt;/kbd&gt;</code></td>
 <td style="text-align:center">向所有进程发送 SIGTERM 信号，让它们正常终止</td>
 </tr>
 <tr>
-<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>I</kbd></td>
+<td style="text-align:center"><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>I <code>&lt;/kbd&gt;</code></td>
 <td style="text-align:center">向所有进程发送 SIGKILL 信号，强制立即终止</td>
 </tr>
 <tr>
-<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>S</kbd></td>
+<td style="text-align:center"><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>S <code>&lt;/kbd&gt;</code></td>
 <td style="text-align:center">将待写数据写入磁盘</td>
 </tr>
 <tr>
-<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>U</kbd></td>
+<td style="text-align:center"><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>U <code>&lt;/kbd&gt;</code></td>
 <td style="text-align:center">卸载所有硬盘然后重新按只读模式挂载</td>
 </tr>
 <tr>
-<td style="text-align:center"><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd></td>
+<td style="text-align:center"><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>B <code>&lt;/kbd&gt;</code></td>
 <td style="text-align:center">重启</td>
 </tr>
 </tbody>
 </table>
 <p>通常我们在关机/重启之前都会做好保存工作，因此一般而言执行这三步就可以了：</p>
 <ol>
-<li><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>R</kbd></li>
-<li><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>E</kbd></li>
-<li><kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>I</kbd></li>
+<li><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>R <code>&lt;/kbd&gt;</code></li>
+<li><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>E <code>&lt;/kbd&gt;</code></li>
+<li><code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>I <code>&lt;/kbd&gt;</code></li>
 </ol>
 <div><p>注意</p>
 <p>第二步和第三步之间最好隔开1～2秒，不然做完第二步后立刻做第三步的话有可能导致有些本可以正常结束的进程被意外终止掉的结果，因此稍微等一下是妥当的做法。</p>
 <p>另外，第一步是关键，如果不夺取键盘，后面你试图发送的任何信息都无法发送。要说话，就得先抢过来“话筒”。</p>
 </div>
-<p>当系统中有内核高耗的进程导致系统卡顿时，可以使用 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>F</kbd> Magic SysRq 组合键唤醒 Linux Kernel 的 OOM（out of memory） Killer 杀死这些进程。使用这个组合键可以减少因内存高耗导致重启系统的次数，OMM Killer使用启发算法选取当前系统内存占用最高且不重要的进程进行杀死，所以当系统内存占用不高的情况下还是需要慎用。</p>
+<p>当系统中有内核高耗的进程导致系统卡顿时，可以使用 <code>&lt;kbd&gt;</code>Alt <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>SysRq <code>&lt;/kbd&gt;</code>+<code>&lt;kbd&gt;</code>F <code>&lt;/kbd&gt;</code> Magic SysRq 组合键唤醒 Linux Kernel 的 OOM（out of memory） Killer 杀死这些进程。使用这个组合键可以减少因内存高耗导致重启系统的次数，OMM Killer使用启发算法选取当前系统内存占用最高且不重要的进程进行杀死，所以当系统内存占用不高的情况下还是需要慎用。</p>
 <p>有关Magic SysRq的所有功能按键可以<a href="./MagicSysRq.html">点此查看</a></p>
+<h3 id="arcolinux-archlinux-报错-gpgme-error-no-data-的解决方式"> ArcoLinux/ArchLinux 报错 GPGME Error: no data 的解决方式</h3>
+<p>解决方式其实非常粗暴, 直接执行<code>sudo rm -R /var/lib/pacman/sync</code>, 然后再重新尝试系统更新即可解决.</p>
+<p><strong>后日谈</strong>: 于是我就思考这个文件夹究竟是怎么回事, 怎么删掉之后就正常了, 那不是一开始就不应该存在吗?</p>
+<p>其实不然, 我查看了<a href="https://wiki.archlinux.org/title/Pacman_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)" target="_blank" rel="noopener noreferrer">ArchWiki</a>中<strong>数据库结构</strong>给出的解释.</p>
+<div><p>相关信息</p>
+<p>pacman数据库通常位于<code>/var/lib/pacman/sync</code>. 对于每一个在<code>/etc/pacman.conf</code>中指定的软件仓库， 这里都有一个一致的数据库。数据库文件夹里每个tar.gz文件都包含着一个仓库的软件包信息。</p>
+</div>
+<p>这也就是说, 每一次更新, pacman都会直接读取数据库并向镜像源发送请求来比对, 之后更新数据库, 那么我们这里出现的报错<code>GPGME Error: no data</code>其实就是镜像源上已经没有了这些数据, 换言之就是不支持这样旧的软件包了, 因此我们直接删掉之后, pacman会自动重新获取来做一次大更新.</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
@@ -10897,6 +10905,13 @@ rfkill: Cannot get wiphy information
 <h2 id="部署hedgedoc"> 部署Hedgedoc</h2>
 <h2 id="部署思源笔记"> 部署思源笔记</h2>
 <h2 id="改建为局域网dns服务器"> 改建为局域网DNS服务器</h2>
+<h2 id="tty设置字体大小"> tty设置字体大小</h2>
+<p>因为tty是使用点阵字体的终端平台, 因此无法通过调整某种参数来设置终端字体大小, 因此我们只能通过更换字体来实现这个效果.</p>
+<p>为了便于调整字体大小, 我们可以使用临时设置方法: <code>setfont &lt;FONT NAME&gt;</code>.</p>
+<p>而这里的<code>&lt;FONT NAME&gt;</code>我们可以通过执行<code>ls /usr/share/kbd/consolefonts</code>来查看当前可支持的所有字体.</p>
+<p>确定好最后选择的字体后, 我们可以通过以下这种方式永久设置:</p>
+<p>通过vim修改<code>/etc/vconsole.conf</code>, 将其中的<code>FONT=lat2-10</code>修改成<code>FONT=&lt;YOUR CHOICE&gt;</code>.</p>
+<p>可以尝试<code>reboot</code>查看效果.</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
     </item>
@@ -12283,105 +12298,6 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
-      <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
-      <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
-      <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</source>
-      <pubDate>Sun, 25 Apr 2021 01:25:14 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
-<h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
-<p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
-<blockquote>
-<p>「注」：网上与此相关的资料太少了，我觉得很有必要详细记录下来，因此本文看起来繁琐了一些。</p>
-</blockquote>
-<p>首先在<a href="https://www.zerotier.com/" target="_blank" rel="noopener noreferrer">Zerotier-One官网</a>上注册一个帐号，我选择了使用GitHub登陆。登陆之后会出现这个界面：</p>
-<p><img src="/images/2021-04-28_19-13.png" alt="2021-04-28_19-13" /></p>
-<p>点击创建网络按钮，即可自动生成新的一栏，这时候你需要点击进去即可</p>
-<p><img src="/images/2021-04-28_19-21.png" alt="2021-04-28_19-21" /></p>
-<p><strong>IPv4 Auto-Assign</strong>那一栏选什么地址不用我说，随君喜好！Zerotier One就是可以自己定IP地址！</p>
-<p><strong>IPv6 Auto-Assign</strong>那一栏选中第二项即可。</p>
-<p>往下翻页你会看到这个：</p>
-<p><img src="/images/2021-04-28_22-49.png" alt="2021-04-28_22-49" /></p>
-<p>这里提示可以添加网络成员，但是需要相应设备安装对应的客户端。</p>
-<p><img src="/images/2021-04-28_22-52.png" alt="2021-04-28_22-52" /></p>
-<p>由于我使用的是基于Archlinux的系统，因此从AUR安装即可：</p>
-<div><pre><code>yay -S zerotier-one
-</code></pre>
-<div><span>1</span><br></div></div><p>安装之后，需要启动服务，执行：</p>
-<div><pre><code><span>sudo</span> systemctl start zerotier-one.service
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>我见网上很多博客写的这个指令：<code>curl -s https://install.zerotier.com | sudo bash</code>，但至少在Manjaro里是不能正常执行的，会提示如下的报错信息——找不到与系统版本匹配的客户端。</p>
-<p><img src="/images/2021-04-28_22-58.png" alt="" /></p>
-<p>根据<code>sudo zerotier-one -h</code>的返回结果可知，需要接着输入如下指令：</p>
-<div><pre><code><span>sudo</span> zerotier-one -pdiq
-<span># 如果等了半天没有反应，就终止一下吧。。。我当初就这样做的，实质上执行</span>
-<span># 这个只是为了生成相应的配置文件来解决先前执行下一个指令报的错误——找不到配置文件。</span>
-<span>sudo</span> zerotier-cli status
-<span># 返回200 info *** 1.6.4 ONLINE则正常。</span>
-<span>sudo</span> zerotier-listpeers
-<span># 用于获取当前的连接情况，不执行也可</span>
-<span>sudo</span> zerotier-cli <span>join</span> ******
-<span># 这里的******就是前面特意强调的虚拟内网ID</span>
-<span>sudo</span> zerotier-listpeers
-<span># 确认一下确实成功了，你会看到比原先多出来一行内容，而且最后一个单词是LEAF，其它</span>
-<span># 行最后的单词都是PLANET。</span>
-<span>sudo</span> systemctl start zerotier-one.service
-<span># 启用zerotier-one服务</span>
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-<span># 开机自启动zerotier-one服务</span>
-<span>######</span>
-<span>sudo</span> zerotier-cli <span>set</span> 12ac4a1e7101bb86 <span>allowManaged</span><span>=</span><span>1</span>
-<span># 注意，关于这条指令网上有两种声音，有主张授权为1的，但没见到谁有给理由，而主张授</span>
-<span># 权为0的理由如下：</span>
-<span># 这样就不会导致勾选Authorized后，zerotier自动将路由下发到ubuntu，如果</span>
-<span># zerotier设置的路由为10.0.1.0/24,会导致本来10.0.1.0/24 dev br-lan</span>
-<span># 变成10.0.1.0/24 dev ztxxxxxxxxx,然后你就不能连接路由器了</span>
-<span># 作者：fc790 https://www.bilibili.com/read/cv7586063/ 出处： bilibili</span>
-<span>## 这种就看着弄，出了问题再改回来就好了。</span>
-<span>sudo</span> systemctl restart zerotier-one
-<span># 如果你做了刚才那个做法，需要重启一下服务。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>到此为止，电脑上的ZeroTier One就已经配置得差不多了，我们需要在Android设备上安装客户端了。</p>
-<p>如果你有Google Play并且你还能使用，你可以直接在Google商店上下载。但不幸的是，如果你没有，你可以选择去安装，而更不幸的是，你使用的是华为产品，那恭喜恭喜，您跟我一样，没什么可能走这条路了（毕竟国际形势如此紧张。。。也没办法。。。）</p>
-<p>走的另一条路在此--&gt;<a href="https://apkpure.com/" target="_blank" rel="noopener noreferrer">ApkPure</a>，在这家网站上你可以下载到许许多多好用实用的外国软件，干净、安全、可靠，我是被吸引着主动下载了他们的客户端，真香了。。。</p>
-<p>装好Zerotier One之后，需要新建一个连接配置，点击ADD NETWORK，然后输入虚拟内网ID，完成后点击下方的Add Network，并开启连接，这时候你需要回到电脑上的Zerotier Central，翻到Members这一栏刷新一下，你会发现多出来一个成员，这里需要你点前面的复选框来授权连接（你也可以选择删除或者断开连接并忽略）。然后就可以自己给设备设定名字以及备注了。</p>
-<p><img src="/images/2021-04-29_00-25.png" alt="" /></p>
-<p>然而如果你希望这台设备能被内网的其它设备发现，需要先后点击这两处：</p>
-<p><img src="/images/2021-04-29_00-28.png" alt="" /></p>
-<p>大致上如此，这时候你已经搭建好这个虚拟内网了！</p>
-<p>如果希望某设备（已知Node ID，在客户端下方一栏出现）也能加入这个虚拟内网，需要在Zerotier Central找到<img src="/images/2021-04-28_21-21.png" alt="" />这里并输入对应设备的Node ID。</p>
-<p>另外特意说一下如果希望本机也加入的话，获取Node ID这个问题折磨我好久，最后查到官方文档给的：</p>
-<p><img src="/images/2021-04-29_00-37.png" alt="" /></p>
-<p>我才到终端输入<code>cat /var/lib/zerotier-one/identity.public</code>，来查看节点信息的（写这篇报告之前是这样做的）然而当我写到刚刚那个安装指令的时候，我才发现，有个最简单的方法：</p>
-<div><pre><code><span>sudo</span> zerotier-cli status
-</code></pre>
-<div><span>1</span><br></div></div><p>返回的200 info后面那个就是本机Node ID。。。谁叫我当时不知道呢。。。</p>
-<blockquote>
-<p>不过不算白费努力，咱该明白遇到问题相对要好的解决办法其实是去翻一翻官方文档，尤其是当你发现相关资料特别少的时候。这会让你节省不少力气和时间。</p>
-</blockquote>
-<h2 id="android-arch-linux连接共享控制"> Android &amp; Arch Linux连接共享控制</h2>
-<h3 id="vnc远程控制"> VNC远程控制</h3>
-<p>安装好虚拟内网了，我们要开始Android &amp; Manjaro连接共享控制了，经过我长时间的搜索与实践，最终选择的还是VNC Viewer。安装网址：<a href="https://www.realvnc.com/en/connect/download/vnc/" target="_blank" rel="noopener noreferrer">VNC Server</a>	<a href="https://www.realvnc.com/en/connect/download/viewer/" target="_blank" rel="noopener noreferrer">VNC Viewer</a></p>
-<p>注意两个我是都选了Generic script x64版本，如果你非常清楚应该如何做的话请自行选择。</p>
-<p>下载来的这两个压缩包可以解压到指定文件夹，然后从终端这里分别cd到这两个目录。</p>
-<p>首先说VNC Server：到这个目录下之后执行</p>
-<div><pre><code><span>sudo</span> ./vncinstall
-<span>sudo</span> vnclicense -add 3TH6P-DV5AE-BLHY6-PNENS-B3AQA
-vncserver :1
-<span>ps</span> -ef <span>|</span> <span>grep</span> vnc <span># 查看进程，如果能正常显示vnc进程的话即是安装成功。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>接下来再说VNC Viewer：</p>
-<div><pre><code><span>sudo</span> ./vncinstall
-<span>cd</span> /usr/bin
-./vncviewer
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时候弹出窗口，按照要求安装即可正常使用。</p>
-<p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
-    </item>
-    <item>
       <title>Building Up Servicer</title>
       <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
       <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
@@ -12989,6 +12905,130 @@ patch_request_class<span>(</span>app<span>)</span>
       <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
     </item>
     <item>
+      <title>MySQL初步使用</title>
+      <link>https://breezeshane.github.io/Web/MySQL/</link>
+      <guid>https://breezeshane.github.io/Web/MySQL/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">MySQL初步使用</source>
+      <pubDate>Thu, 03 Mar 2022 20:06:48 GMT</pubDate>
+      <content:encoded><![CDATA[<details><summary>参考</summary>
+<p><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a>
+<a href="https://www.runoob.com/mysql/mysql-create-tables.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据表</a>
+<a href="http://c.biancheng.net/view/2430.html" target="_blank" rel="noopener noreferrer">MySQL创建数据表（CREATE TABLE语句）</a>
+<a href="https://www.runoob.com/mysql/mysql-data-types.html" target="_blank" rel="noopener noreferrer">MySQL 数据类型</a>
+<a href="https://www.cnblogs.com/Braveliu/p/10728162.html" target="_blank" rel="noopener noreferrer">Mysql 导入文件提示 --secure-file-priv option 问题</a>
+<a href="https://blog.csdn.net/fdipzone/article/details/52705507" target="_blank" rel="noopener noreferrer">mysql 查看当前使用的配置文件my.cnf的方法</a>
+<a href="https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group" target="_blank" rel="noopener noreferrer">MySQL my.cnf file - Found option without preceding group</a>
+<a href="https://blog.csdn.net/qq_32834005/article/details/110443574" target="_blank" rel="noopener noreferrer">解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the</a>
+<a href="https://zhuanlan.zhihu.com/p/26964403" target="_blank" rel="noopener noreferrer">Mysql——将CSV文件导入表中</a>
+<a href="https://blog.csdn.net/qq_29229567/article/details/82743645" target="_blank" rel="noopener noreferrer">MYSQL：如何清空表中的数据</a>
+<a href="https://www.runoob.com/mysql/mysql-drop-tables.html" target="_blank" rel="noopener noreferrer">MySQL 删除数据表</a></p>
+</details>
+<h2 id="mysql安装与配置"> MySQL安装与配置</h2>
+<p>近期上课需要使用MySQL，因此我需要提前做好配置，特此一记：</p>
+<p>安装仅需一步：</p>
+<div><pre><code><span>sudo</span> pacman -S mysql
+</code></pre>
+<div><span>1</span><br></div></div><p>然后就可以开始进行配置，按照其输出的内容，我们执行：</p>
+<div><pre><code><span>sudo</span> mysqld --initialize --user<span>=</span>mysql --basedir<span>=</span>/usr --datadir<span>=</span>/var/lib/mysql
+</code></pre>
+<div><span>1</span><br></div></div><div><p>提示</p>
+<p>如果遇到如下报错：</p>
+<div><pre><code>mysqld: Can<span>'t create directory '</span>/var/lib/mysql/<span>' (OS errno 17 - File exists)
+2022-03-03T00:15:00.207164Z 0 [Warning] [MY-010915] [Server] '</span>NO_ZERO_DATE<span>', '</span>NO_ZERO_IN_DATE<span>' and '</span>ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode <span>in</span> a future release.
+<span>2022</span>-03-03T00:15:00.207238Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-013169<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld <span>(</span>mysqld <span>8.0</span>.28<span>)</span> initializing of server <span>in</span> progress as process <span>283212</span>
+<span>2022</span>-03-03T00:15:00.209622Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-013236<span>]</span> <span>[</span>Server<span>]</span> The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+<span>2022</span>-03-03T00:15:00.209733Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-010119<span>]</span> <span>[</span>Server<span>]</span> Aborting
+<span>2022</span>-03-03T00:15:00.209929Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-010910<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld: Shutdown complete <span>(</span>mysqld <span>8.0</span>.28<span>)</span>  Source distribution.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>什么也不用考虑，删除掉<code>/var/lib/mysql/</code>这个文件夹即可</p>
+</div>
+<p>命令执行成功后请留意一下输出的内容，这里会给你默认的MySQL用户及其密码，我们需要特别记下这两个。</p>
+<p>然后就需要启动MySQL服务，执行这两个命令：</p>
+<div><pre><code><span>sudo</span> systemctl <span>enable</span> mysqld
+<span>sudo</span> systemctl start mysqld
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>以普遍的理性而言，这类的密码是反人类的，因此我们需要修改一下登录密码，先执行这个命令来连接数据库：</p>
+<div><pre><code>mysql -uroot -p
+</code></pre>
+<div><span>1</span><br></div></div><p>然后输入刚才记下的那个复杂的密码，便可成功连接。</p>
+<p>在这时你执行命令<code>use mysql;</code>会得到类似这样的提示：</p>
+<div><pre><code>ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
+</code></pre>
+<div><span>1</span><br></div></div><p>所以我们可以根据提示执行这个命令：</p>
+<div><pre><code>ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED WITH mysql_native_password BY &#39;新密码&#39;;
+</code></pre>
+<div><span>1</span><br></div></div><p>这样就可以成功修改密码了，MySQL的安装与配置也到此结束了。</p>
+<h2 id="mysql初步使用"> MySQL初步使用</h2>
+<p>首先我们先连接数据库。要使用数据库，就需要先从新建数据库开始，搜过之后，就知道要使用下面一系列命令：</p>
+<div><pre><code>CREATE DATABASE &lt;NAME_OF_DB&gt;; # 创建新数据库
+use &lt;NAME_OF_DB&gt;; # 此处开始指定使用的数据库，这是每次连接数据库需要做的一步。
+CREATE TABLE &lt;NAME_OF_TB&gt; （ COL_1 TYPE_1, COL_2 TYPE_2 ... ）; # 创建新数据表，并分别指定COL_1和COL_2等的数据类型分别为TYPE_1和TYPE_2等。
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="mysql导入本地文件数据"> MySQL导入本地文件数据</h2>
+<p>本来这件事应该很简单的，执行这个语句就应该结束一切的：</p>
+<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>但就在这里报了错：</p>
+<div><p>警告</p>
+<p>The MySQL server is running with the --secure-file-priv option so it cannot execute this statement.</p>
+</div>
+<p>然后经过我的长时间搜索之后了解到：MySQL在安装的时候是会限制导入和导出的目录权限的，仅在规定的目录下才可以导入。我们可以用<code>SHOW VARIABLES LIKE &quot;secure_file_priv&quot;;</code>来查看这个变量的值应该是什么，结果果然能看到这时的状态是NULL。</p>
+<div><p>secure_file_priv各值代表的意义</p>
+<p>NULL：表示禁止，不接受任何形式的导入。</p>
+<p>某目录：仅接受该目录下的文件，甚至不接受其子文件夹与其内含的文件。</p>
+<p>空：不做限制，接受任何目录的导入。</p>
+</div>
+<p>那么我要解决这个问题就必须要去修改配置文件了。这里又花了我较长时间才找到其配置文件所在的路径：</p>
+<ol>
+<li>/etc/my.cnf</li>
+<li>/etc/mysql/my.cnf</li>
+<li>/usr/local/etc/my.cnf</li>
+<li>~/.my.cnf</li>
+</ol>
+<p>这四个是MySQL默认会搜寻的路径，并且从上到下优先级是逐级降低。</p>
+<p>于是我二话不说直接用管理员身份创建了<code>/etc/my.cnf</code>文件，正满怀期待地保存希望能够成功，当我执行<code>sudo systemctl restart mysqld</code>命令来重启MySQL服务的时候，它挂了……</p>
+<p>当我执行<code>mysql -uroot -p</code>的时候它给出了如下报错：</p>
+<div><p>警告</p>
+<p>ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2)</p>
+</div>
+<p>简单搜索了一下，这个其实意思就是MySQL服务启动失败，因此无法建立联接。当我尝试使用<code>systemctl status mysqld</code>来查看日志，接着看到了下面的报错：</p>
+<div><p>警告</p>
+<p>ERROR Found option without preceding group in config file /etc/my.cnf.</p>
+</div>
+<p>搜索了几下后我才发现，原来是缺少了<code>[mysqld]</code>这个内容，粗略地看了一下，应该就是Group的一种标志，这个mysqld应该是Group的名字。于是这个文件最后长的样子应该是下面的：</p>
+<div><pre><code>[mysqld]
+secure_file_priv = 
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这里等号后面不写东西是对应上面提到的空的情况。最后重启服务果然能成了。</p>
+<p>我想这下应该能解决了吧，于是重新开始执行了下面的语句：</p>
+<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>这回又给出了报错：</p>
+<div><p>警告</p>
+<p>ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides.</p>
+</div>
+<p>搜索了一下，看到有用修改环境变量的方法解决的：</p>
+<p>要修改的关键的环境变量是<code>local_infile</code>，可以使用<code>show variables like 'local_infile';</code>来查看该环境变量的值。果然执行后发现它的值是OFF。因此我需要修改这个环境变量来达到读取文件的目的，执行：<code>SET GLOBAL local_infile=on;</code>这样就可以了，于是我再次执行上面的LOAD命令的时候，又遭遇了报错：</p>
+<div><p>警告</p>
+<p>ERROR 13 (HY000): Can't get stat of '/home/breezeshane/AppData/Subjects/Database/product.csv' (OS errno 13 - Permission denied)</p>
+</div>
+<p>这个问题是我遇到的所有问题当中耗时最久的问题了……四下搜索无果，后来去找周围的大佬请教，终于才知道，是我缺少了LOCAL这个关键词，难怪它总是提示没有权限，我首先就打开方式不对……</p>
+<p>命令的正确写法应该是：</p>
+<div><pre><code>LOAD DATA LOCAL INFILE &#39;/home/breezeshane/AppData/Subjects/Database/product.csv&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERMINATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39; IGNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表<code>&lt;NAME_OF_TB&gt;</code>里(<code>LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE &lt;NAME_OF_TB&gt;</code>)，数据的分隔符是<code>,</code>(<code>FIELDS TERMINATED BY ','</code>)，行分隔符是<code>\n</code>(<code>LINES TERMINATED BY '\n'</code>)，最后忽略掉第一行的内容(<code>IGNORE 1 ROWS</code>)。</p>
+<h2 id="mysql的一些命令"> MySQL的一些命令</h2>
+<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
+<ol>
+<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
+<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
       <title>SDN入门基础</title>
       <link>https://breezeshane.github.io/Web/SDN/</link>
       <guid>https://breezeshane.github.io/Web/SDN/</guid>
@@ -13388,130 +13428,6 @@ patch_request_class<span>(</span>app<span>)</span>
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
     </item>
     <item>
-      <title>MySQL初步使用</title>
-      <link>https://breezeshane.github.io/Web/MySQL/</link>
-      <guid>https://breezeshane.github.io/Web/MySQL/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">MySQL初步使用</source>
-      <pubDate>Thu, 03 Mar 2022 20:06:48 GMT</pubDate>
-      <content:encoded><![CDATA[<details><summary>参考</summary>
-<p><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a>
-<a href="https://www.runoob.com/mysql/mysql-create-tables.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据表</a>
-<a href="http://c.biancheng.net/view/2430.html" target="_blank" rel="noopener noreferrer">MySQL创建数据表（CREATE TABLE语句）</a>
-<a href="https://www.runoob.com/mysql/mysql-data-types.html" target="_blank" rel="noopener noreferrer">MySQL 数据类型</a>
-<a href="https://www.cnblogs.com/Braveliu/p/10728162.html" target="_blank" rel="noopener noreferrer">Mysql 导入文件提示 --secure-file-priv option 问题</a>
-<a href="https://blog.csdn.net/fdipzone/article/details/52705507" target="_blank" rel="noopener noreferrer">mysql 查看当前使用的配置文件my.cnf的方法</a>
-<a href="https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group" target="_blank" rel="noopener noreferrer">MySQL my.cnf file - Found option without preceding group</a>
-<a href="https://blog.csdn.net/qq_32834005/article/details/110443574" target="_blank" rel="noopener noreferrer">解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the</a>
-<a href="https://zhuanlan.zhihu.com/p/26964403" target="_blank" rel="noopener noreferrer">Mysql——将CSV文件导入表中</a>
-<a href="https://blog.csdn.net/qq_29229567/article/details/82743645" target="_blank" rel="noopener noreferrer">MYSQL：如何清空表中的数据</a>
-<a href="https://www.runoob.com/mysql/mysql-drop-tables.html" target="_blank" rel="noopener noreferrer">MySQL 删除数据表</a></p>
-</details>
-<h2 id="mysql安装与配置"> MySQL安装与配置</h2>
-<p>近期上课需要使用MySQL，因此我需要提前做好配置，特此一记：</p>
-<p>安装仅需一步：</p>
-<div><pre><code><span>sudo</span> pacman -S mysql
-</code></pre>
-<div><span>1</span><br></div></div><p>然后就可以开始进行配置，按照其输出的内容，我们执行：</p>
-<div><pre><code><span>sudo</span> mysqld --initialize --user<span>=</span>mysql --basedir<span>=</span>/usr --datadir<span>=</span>/var/lib/mysql
-</code></pre>
-<div><span>1</span><br></div></div><div><p>提示</p>
-<p>如果遇到如下报错：</p>
-<div><pre><code>mysqld: Can<span>'t create directory '</span>/var/lib/mysql/<span>' (OS errno 17 - File exists)
-2022-03-03T00:15:00.207164Z 0 [Warning] [MY-010915] [Server] '</span>NO_ZERO_DATE<span>', '</span>NO_ZERO_IN_DATE<span>' and '</span>ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode <span>in</span> a future release.
-<span>2022</span>-03-03T00:15:00.207238Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-013169<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld <span>(</span>mysqld <span>8.0</span>.28<span>)</span> initializing of server <span>in</span> progress as process <span>283212</span>
-<span>2022</span>-03-03T00:15:00.209622Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-013236<span>]</span> <span>[</span>Server<span>]</span> The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
-<span>2022</span>-03-03T00:15:00.209733Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-010119<span>]</span> <span>[</span>Server<span>]</span> Aborting
-<span>2022</span>-03-03T00:15:00.209929Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-010910<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld: Shutdown complete <span>(</span>mysqld <span>8.0</span>.28<span>)</span>  Source distribution.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>什么也不用考虑，删除掉<code>/var/lib/mysql/</code>这个文件夹即可</p>
-</div>
-<p>命令执行成功后请留意一下输出的内容，这里会给你默认的MySQL用户及其密码，我们需要特别记下这两个。</p>
-<p>然后就需要启动MySQL服务，执行这两个命令：</p>
-<div><pre><code><span>sudo</span> systemctl <span>enable</span> mysqld
-<span>sudo</span> systemctl start mysqld
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>以普遍的理性而言，这类的密码是反人类的，因此我们需要修改一下登录密码，先执行这个命令来连接数据库：</p>
-<div><pre><code>mysql -uroot -p
-</code></pre>
-<div><span>1</span><br></div></div><p>然后输入刚才记下的那个复杂的密码，便可成功连接。</p>
-<p>在这时你执行命令<code>use mysql;</code>会得到类似这样的提示：</p>
-<div><pre><code>ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
-</code></pre>
-<div><span>1</span><br></div></div><p>所以我们可以根据提示执行这个命令：</p>
-<div><pre><code>ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED WITH mysql_native_password BY &#39;新密码&#39;;
-</code></pre>
-<div><span>1</span><br></div></div><p>这样就可以成功修改密码了，MySQL的安装与配置也到此结束了。</p>
-<h2 id="mysql初步使用"> MySQL初步使用</h2>
-<p>首先我们先连接数据库。要使用数据库，就需要先从新建数据库开始，搜过之后，就知道要使用下面一系列命令：</p>
-<div><pre><code>CREATE DATABASE &lt;NAME_OF_DB&gt;; # 创建新数据库
-use &lt;NAME_OF_DB&gt;; # 此处开始指定使用的数据库，这是每次连接数据库需要做的一步。
-CREATE TABLE &lt;NAME_OF_TB&gt; （ COL_1 TYPE_1, COL_2 TYPE_2 ... ）; # 创建新数据表，并分别指定COL_1和COL_2等的数据类型分别为TYPE_1和TYPE_2等。
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="mysql导入本地文件数据"> MySQL导入本地文件数据</h2>
-<p>本来这件事应该很简单的，执行这个语句就应该结束一切的：</p>
-<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>但就在这里报了错：</p>
-<div><p>警告</p>
-<p>The MySQL server is running with the --secure-file-priv option so it cannot execute this statement.</p>
-</div>
-<p>然后经过我的长时间搜索之后了解到：MySQL在安装的时候是会限制导入和导出的目录权限的，仅在规定的目录下才可以导入。我们可以用<code>SHOW VARIABLES LIKE &quot;secure_file_priv&quot;;</code>来查看这个变量的值应该是什么，结果果然能看到这时的状态是NULL。</p>
-<div><p>secure_file_priv各值代表的意义</p>
-<p>NULL：表示禁止，不接受任何形式的导入。</p>
-<p>某目录：仅接受该目录下的文件，甚至不接受其子文件夹与其内含的文件。</p>
-<p>空：不做限制，接受任何目录的导入。</p>
-</div>
-<p>那么我要解决这个问题就必须要去修改配置文件了。这里又花了我较长时间才找到其配置文件所在的路径：</p>
-<ol>
-<li>/etc/my.cnf</li>
-<li>/etc/mysql/my.cnf</li>
-<li>/usr/local/etc/my.cnf</li>
-<li>~/.my.cnf</li>
-</ol>
-<p>这四个是MySQL默认会搜寻的路径，并且从上到下优先级是逐级降低。</p>
-<p>于是我二话不说直接用管理员身份创建了<code>/etc/my.cnf</code>文件，正满怀期待地保存希望能够成功，当我执行<code>sudo systemctl restart mysqld</code>命令来重启MySQL服务的时候，它挂了……</p>
-<p>当我执行<code>mysql -uroot -p</code>的时候它给出了如下报错：</p>
-<div><p>警告</p>
-<p>ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2)</p>
-</div>
-<p>简单搜索了一下，这个其实意思就是MySQL服务启动失败，因此无法建立联接。当我尝试使用<code>systemctl status mysqld</code>来查看日志，接着看到了下面的报错：</p>
-<div><p>警告</p>
-<p>ERROR Found option without preceding group in config file /etc/my.cnf.</p>
-</div>
-<p>搜索了几下后我才发现，原来是缺少了<code>[mysqld]</code>这个内容，粗略地看了一下，应该就是Group的一种标志，这个mysqld应该是Group的名字。于是这个文件最后长的样子应该是下面的：</p>
-<div><pre><code>[mysqld]
-secure_file_priv = 
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这里等号后面不写东西是对应上面提到的空的情况。最后重启服务果然能成了。</p>
-<p>我想这下应该能解决了吧，于是重新开始执行了下面的语句：</p>
-<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>这回又给出了报错：</p>
-<div><p>警告</p>
-<p>ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides.</p>
-</div>
-<p>搜索了一下，看到有用修改环境变量的方法解决的：</p>
-<p>要修改的关键的环境变量是<code>local_infile</code>，可以使用<code>show variables like 'local_infile';</code>来查看该环境变量的值。果然执行后发现它的值是OFF。因此我需要修改这个环境变量来达到读取文件的目的，执行：<code>SET GLOBAL local_infile=on;</code>这样就可以了，于是我再次执行上面的LOAD命令的时候，又遭遇了报错：</p>
-<div><p>警告</p>
-<p>ERROR 13 (HY000): Can't get stat of '/home/breezeshane/AppData/Subjects/Database/product.csv' (OS errno 13 - Permission denied)</p>
-</div>
-<p>这个问题是我遇到的所有问题当中耗时最久的问题了……四下搜索无果，后来去找周围的大佬请教，终于才知道，是我缺少了LOCAL这个关键词，难怪它总是提示没有权限，我首先就打开方式不对……</p>
-<p>命令的正确写法应该是：</p>
-<div><pre><code>LOAD DATA LOCAL INFILE &#39;/home/breezeshane/AppData/Subjects/Database/product.csv&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERMINATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39; IGNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表<code>&lt;NAME_OF_TB&gt;</code>里(<code>LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE &lt;NAME_OF_TB&gt;</code>)，数据的分隔符是<code>,</code>(<code>FIELDS TERMINATED BY ','</code>)，行分隔符是<code>\n</code>(<code>LINES TERMINATED BY '\n'</code>)，最后忽略掉第一行的内容(<code>IGNORE 1 ROWS</code>)。</p>
-<h2 id="mysql的一些命令"> MySQL的一些命令</h2>
-<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
-<ol>
-<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
-<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Windows10 快捷键大全</title>
       <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
       <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
@@ -13836,7 +13752,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -13870,7 +13786,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -13880,7 +13796,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -13905,7 +13821,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -13972,7 +13888,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -13981,7 +13897,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Thu, 24 Mar 2022 12:46:44 GMT</pubDate>
+      <pubDate>Sun, 27 Mar 2022 05:36:35 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -15259,6 +15175,105 @@ nextcloud
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
+    </item>
+    <item>
+      <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
+      <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+      <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</source>
+      <pubDate>Sun, 25 Apr 2021 01:25:14 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
+<h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
+<p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
+<blockquote>
+<p>「注」：网上与此相关的资料太少了，我觉得很有必要详细记录下来，因此本文看起来繁琐了一些。</p>
+</blockquote>
+<p>首先在<a href="https://www.zerotier.com/" target="_blank" rel="noopener noreferrer">Zerotier-One官网</a>上注册一个帐号，我选择了使用GitHub登陆。登陆之后会出现这个界面：</p>
+<p><img src="/images/2021-04-28_19-13.png" alt="2021-04-28_19-13" /></p>
+<p>点击创建网络按钮，即可自动生成新的一栏，这时候你需要点击进去即可</p>
+<p><img src="/images/2021-04-28_19-21.png" alt="2021-04-28_19-21" /></p>
+<p><strong>IPv4 Auto-Assign</strong>那一栏选什么地址不用我说，随君喜好！Zerotier One就是可以自己定IP地址！</p>
+<p><strong>IPv6 Auto-Assign</strong>那一栏选中第二项即可。</p>
+<p>往下翻页你会看到这个：</p>
+<p><img src="/images/2021-04-28_22-49.png" alt="2021-04-28_22-49" /></p>
+<p>这里提示可以添加网络成员，但是需要相应设备安装对应的客户端。</p>
+<p><img src="/images/2021-04-28_22-52.png" alt="2021-04-28_22-52" /></p>
+<p>由于我使用的是基于Archlinux的系统，因此从AUR安装即可：</p>
+<div><pre><code>yay -S zerotier-one
+</code></pre>
+<div><span>1</span><br></div></div><p>安装之后，需要启动服务，执行：</p>
+<div><pre><code><span>sudo</span> systemctl start zerotier-one.service
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>我见网上很多博客写的这个指令：<code>curl -s https://install.zerotier.com | sudo bash</code>，但至少在Manjaro里是不能正常执行的，会提示如下的报错信息——找不到与系统版本匹配的客户端。</p>
+<p><img src="/images/2021-04-28_22-58.png" alt="" /></p>
+<p>根据<code>sudo zerotier-one -h</code>的返回结果可知，需要接着输入如下指令：</p>
+<div><pre><code><span>sudo</span> zerotier-one -pdiq
+<span># 如果等了半天没有反应，就终止一下吧。。。我当初就这样做的，实质上执行</span>
+<span># 这个只是为了生成相应的配置文件来解决先前执行下一个指令报的错误——找不到配置文件。</span>
+<span>sudo</span> zerotier-cli status
+<span># 返回200 info *** 1.6.4 ONLINE则正常。</span>
+<span>sudo</span> zerotier-listpeers
+<span># 用于获取当前的连接情况，不执行也可</span>
+<span>sudo</span> zerotier-cli <span>join</span> ******
+<span># 这里的******就是前面特意强调的虚拟内网ID</span>
+<span>sudo</span> zerotier-listpeers
+<span># 确认一下确实成功了，你会看到比原先多出来一行内容，而且最后一个单词是LEAF，其它</span>
+<span># 行最后的单词都是PLANET。</span>
+<span>sudo</span> systemctl start zerotier-one.service
+<span># 启用zerotier-one服务</span>
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+<span># 开机自启动zerotier-one服务</span>
+<span>######</span>
+<span>sudo</span> zerotier-cli <span>set</span> 12ac4a1e7101bb86 <span>allowManaged</span><span>=</span><span>1</span>
+<span># 注意，关于这条指令网上有两种声音，有主张授权为1的，但没见到谁有给理由，而主张授</span>
+<span># 权为0的理由如下：</span>
+<span># 这样就不会导致勾选Authorized后，zerotier自动将路由下发到ubuntu，如果</span>
+<span># zerotier设置的路由为10.0.1.0/24,会导致本来10.0.1.0/24 dev br-lan</span>
+<span># 变成10.0.1.0/24 dev ztxxxxxxxxx,然后你就不能连接路由器了</span>
+<span># 作者：fc790 https://www.bilibili.com/read/cv7586063/ 出处： bilibili</span>
+<span>## 这种就看着弄，出了问题再改回来就好了。</span>
+<span>sudo</span> systemctl restart zerotier-one
+<span># 如果你做了刚才那个做法，需要重启一下服务。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>到此为止，电脑上的ZeroTier One就已经配置得差不多了，我们需要在Android设备上安装客户端了。</p>
+<p>如果你有Google Play并且你还能使用，你可以直接在Google商店上下载。但不幸的是，如果你没有，你可以选择去安装，而更不幸的是，你使用的是华为产品，那恭喜恭喜，您跟我一样，没什么可能走这条路了（毕竟国际形势如此紧张。。。也没办法。。。）</p>
+<p>走的另一条路在此--&gt;<a href="https://apkpure.com/" target="_blank" rel="noopener noreferrer">ApkPure</a>，在这家网站上你可以下载到许许多多好用实用的外国软件，干净、安全、可靠，我是被吸引着主动下载了他们的客户端，真香了。。。</p>
+<p>装好Zerotier One之后，需要新建一个连接配置，点击ADD NETWORK，然后输入虚拟内网ID，完成后点击下方的Add Network，并开启连接，这时候你需要回到电脑上的Zerotier Central，翻到Members这一栏刷新一下，你会发现多出来一个成员，这里需要你点前面的复选框来授权连接（你也可以选择删除或者断开连接并忽略）。然后就可以自己给设备设定名字以及备注了。</p>
+<p><img src="/images/2021-04-29_00-25.png" alt="" /></p>
+<p>然而如果你希望这台设备能被内网的其它设备发现，需要先后点击这两处：</p>
+<p><img src="/images/2021-04-29_00-28.png" alt="" /></p>
+<p>大致上如此，这时候你已经搭建好这个虚拟内网了！</p>
+<p>如果希望某设备（已知Node ID，在客户端下方一栏出现）也能加入这个虚拟内网，需要在Zerotier Central找到<img src="/images/2021-04-28_21-21.png" alt="" />这里并输入对应设备的Node ID。</p>
+<p>另外特意说一下如果希望本机也加入的话，获取Node ID这个问题折磨我好久，最后查到官方文档给的：</p>
+<p><img src="/images/2021-04-29_00-37.png" alt="" /></p>
+<p>我才到终端输入<code>cat /var/lib/zerotier-one/identity.public</code>，来查看节点信息的（写这篇报告之前是这样做的）然而当我写到刚刚那个安装指令的时候，我才发现，有个最简单的方法：</p>
+<div><pre><code><span>sudo</span> zerotier-cli status
+</code></pre>
+<div><span>1</span><br></div></div><p>返回的200 info后面那个就是本机Node ID。。。谁叫我当时不知道呢。。。</p>
+<blockquote>
+<p>不过不算白费努力，咱该明白遇到问题相对要好的解决办法其实是去翻一翻官方文档，尤其是当你发现相关资料特别少的时候。这会让你节省不少力气和时间。</p>
+</blockquote>
+<h2 id="android-arch-linux连接共享控制"> Android &amp; Arch Linux连接共享控制</h2>
+<h3 id="vnc远程控制"> VNC远程控制</h3>
+<p>安装好虚拟内网了，我们要开始Android &amp; Manjaro连接共享控制了，经过我长时间的搜索与实践，最终选择的还是VNC Viewer。安装网址：<a href="https://www.realvnc.com/en/connect/download/vnc/" target="_blank" rel="noopener noreferrer">VNC Server</a>	<a href="https://www.realvnc.com/en/connect/download/viewer/" target="_blank" rel="noopener noreferrer">VNC Viewer</a></p>
+<p>注意两个我是都选了Generic script x64版本，如果你非常清楚应该如何做的话请自行选择。</p>
+<p>下载来的这两个压缩包可以解压到指定文件夹，然后从终端这里分别cd到这两个目录。</p>
+<p>首先说VNC Server：到这个目录下之后执行</p>
+<div><pre><code><span>sudo</span> ./vncinstall
+<span>sudo</span> vnclicense -add 3TH6P-DV5AE-BLHY6-PNENS-B3AQA
+vncserver :1
+<span>ps</span> -ef <span>|</span> <span>grep</span> vnc <span># 查看进程，如果能正常显示vnc进程的话即是安装成功。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>接下来再说VNC Viewer：</p>
+<div><pre><code><span>sudo</span> ./vncinstall
+<span>cd</span> /usr/bin
+./vncviewer
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时候弹出窗口，按照要求安装即可正常使用。</p>
+<p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
     </item>
   </channel>
 </rss>
