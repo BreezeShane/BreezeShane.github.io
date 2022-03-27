@@ -158,3 +158,19 @@ sudo systemctl enable sshd
 ## 改建为局域网DNS服务器
 
 
+
+## tty设置字体大小
+
+因为tty是使用点阵字体的终端平台, 因此无法通过调整某种参数来设置终端字体大小, 因此我们只能通过更换字体来实现这个效果.
+
+为了便于调整字体大小, 我们可以使用临时设置方法: `setfont <FONT NAME>`.
+
+而这里的`<FONT NAME>`我们可以通过执行`ls /usr/share/kbd/consolefonts`来查看当前可支持的所有字体.
+
+确定好最后选择的字体后, 我们可以通过以下这种方式永久设置: 
+
+通过vim修改`/etc/vconsole.conf`, 将其中的`FONT=lat2-10`修改成`FONT=<YOUR CHOICE>`.
+
+可以尝试`reboot`查看效果.
+
+

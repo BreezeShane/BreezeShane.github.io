@@ -27,7 +27,7 @@ tags:
    我是使用Ventoy来制作的系统启动盘，只需要把ArcoLinuxB的ISO系统镜像放进启动盘目录下即可，一切的使用都是非常简单的。
 2. **通过EFI BIOS进入系统启动盘。**
 
-   在笔记本电脑上通常是按下<kbd>F12</kbd>或者<kbd>F2</kbd>来进入EFI启动选项界面，选择你的USB即可。
+   在笔记本电脑上通常是按下 `<kbd>`F12 `</kbd>`或者 `<kbd>`F2 `</kbd>`来进入EFI启动选项界面，选择你的USB即可。
 3. **使用GParted手动划分硬盘分区。**我是折腾许久都无果失败后找到大佬帮助的，这才弄明白原来真正需要做的是：为你的系统划分一个EFI启动引导分区，推荐大小为 `512MB`，虽然我真正安装后才知道实际只用了 `1.30MB`，再划分好硬盘的一部分空间来存放你的系统，剩下的就用来存放你的数据，但要注意，划分好后别急着点击下一步，我们还有非常重要的配置还没写——先选择Manual partitioning选项，然后选择好刚才那个EFI启动引导分区，编辑它的属性，将flag修改为 `/boot/efi`，一般不用选中 `grub-boot`；然后将存放数据的硬盘分区中属性的flag一项修改为 `/`。其他选项则自由发挥，自己安排，值得一提的是，我这次没有选择使用Plasma桌面系统，而是选择了AwesomeWM，因为我确信学会熟练使用它会大幅提高我的工作效率。
 4. 等待安装好后就可以拔掉系统盘了，至此你的系统已经可以安装完毕了。
 
@@ -37,11 +37,11 @@ tags:
 
 **「注意」**：AwesomeWM桌面系统与常见的桌面系统是完全不一样的逻辑，常见的桌面系统如Windows、Plasma/KDE、GNOME、XFCE等都是堆栈式桌面布局，而AwesomeWM和i3两者都是平铺式桌面布局，因此使用上有较大区别，最明显的是从前你所记住的绝大多数快捷键在这里全部无效，原因都是对不上号，执行同一功能的两个桌面系统对应的快捷键是截然不同的。出于这样的原因，我会在文章中穿插描述AwesomeWM的使用方式。
 
-**「重点」**：AwesomeWM的配置文件在：`~/.config/awesome/rc.lua`这里，使用的语言正如你所见，是Lua。另外在学习使用的时候请按<kbd>Meta</kbd>+<kbd>S</kbd>打开帮助窗口来查看各种操作的使用，建议都亲自敲一遍，这样入门快。
+**「重点」**：AwesomeWM的配置文件在：`~/.config/awesome/rc.lua`这里，使用的语言正如你所见，是Lua。另外在学习使用的时候请按 `<kbd>`Meta `</kbd>`+`<kbd>`S `</kbd>`打开帮助窗口来查看各种操作的使用，建议都亲自敲一遍，这样入门快。
 
 开局第一步：换源。
 
-**按下<kbd>Meta</kbd>+<kbd>ENTER</kbd>或者<kbd>Meta</kbd>+<kbd>T</kbd>打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入 `/etc/pacman.conf`内：
+**按下 `<kbd>`Meta `</kbd>`+`<kbd>`ENTER `</kbd>`或者 `<kbd>`Meta `</kbd>`+`<kbd>`T `</kbd>`打开终端。**为pacman添加archlinuxcn镜像源，需要将如下内容写入 `/etc/pacman.conf`内：
 
 ```shell
 [archlinuxcn]
@@ -49,7 +49,7 @@ SigLevel = Optional TrustedOnly
 Server = https://mirrors.ustc.edu.cn/archlinuxcn/$arch
 ```
 
-然后配置yay的镜像源顺序，要编辑 `/etc/pacman.d/mirrorlist`，良心的是这个文件下已经将全球所有的镜像源都加入其中了，我们要做的是将文件后面的China部分移动到前面即可。我的做法是先sudo vim /etc/pacman.d/mirrorlist，然后用鼠标选中China这一部分的地址，键盘输入<kbd>"+y</kbd>(表示复制选中的内容到系统剪贴板📋)，然后将光标移动到文件开头，直接用键盘键入<kbd>p</kbd>即可将刚才复制的内容粘贴上去，保存退出即可。
+然后配置yay的镜像源顺序，要编辑 `/etc/pacman.d/mirrorlist`，良心的是这个文件下已经将全球所有的镜像源都加入其中了，我们要做的是将文件后面的China部分移动到前面即可。我的做法是先sudo vim /etc/pacman.d/mirrorlist，然后用鼠标选中China这一部分的地址，键盘输入 `<kbd>`"+y `</kbd>`(表示复制选中的内容到系统剪贴板📋)，然后将光标移动到文件开头，直接用键盘键入 `<kbd>`p `</kbd>`即可将刚才复制的内容粘贴上去，保存退出即可。
 
 ## AwesomeWM 配置
 
@@ -131,13 +131,13 @@ if autorun then
 end
 ```
 
-现在是想让Fcitx5开机自启动，那就可以把上面代码中的 `NAME`改为 `fcitx5`。保存之后，建议执行 `awesome -k`来检查有无语法错误，最后可以按下<kbd>Meta</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>来重启AwesomeWM。注意，这样做也意味着每次你按下这一组快捷键，autorunApps数组里面的所有应用都会再次启动一次。现在重启一下就可以正式投入使用了。
+现在是想让Fcitx5开机自启动，那就可以把上面代码中的 `NAME`改为 `fcitx5`。保存之后，建议执行 `awesome -k`来检查有无语法错误，最后可以按下 `<kbd>`Meta `</kbd>`+`<kbd>`Shift `</kbd>`+`<kbd>`R `</kbd>`来重启AwesomeWM。注意，这样做也意味着每次你按下这一组快捷键，autorunApps数组里面的所有应用都会再次启动一次。现在重启一下就可以正式投入使用了。
 
 :::
 
 ::: tip 简洁思路
 
-其实直接按下<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>A</kbd>启动软件菜单，运行一下Fcitx5 Configuration后调整输入法设置即可，无需手动添加启动项。
+其实直接按下 `<kbd>`Ctrl `</kbd>`+`<kbd>`Alt `</kbd>`+`<kbd>`A `</kbd>`启动软件菜单，运行一下Fcitx5 Configuration后调整输入法设置即可，无需手动添加启动项。
 
 :::
 
@@ -511,7 +511,7 @@ autorandr --default <YOUR_CONFIG_NAME>
 
 起初我尝试了它给出的解决方案，但是我实践后发现，我直接这样用，会多出来另外十个tag，心里分外不解，于是我东查西查，最后也没能找到真正行之有效的方法。
 
-但是，我要强调：<font size=7><a href="https://awesomewm.org/doc/api/index.html">官方文档</a>一定要常翻常看！</font>
+但是，我要强调：<font size=7>`<a href="https://awesomewm.org/doc/api/index.html">`官方文档 `</a>`一定要常翻常看！`</font>`
 
 最后我是查询了官方给出的API文档：「[Class tag](https://awesomewm.org/doc/api/classes/tag.html#)」。注意到文档给出的这个内容：
 
@@ -631,7 +631,7 @@ sudo hostnamectl set-hostname <NAMEYOULIKE>
 
 ### 让URxvt支持组合键
 
-如果你喜欢使用<kbd>Ctrl</kbd>+<kbd>Arrow</kbd>类的组合键，但是你发现它在URxvt这里并不生效，其实是需要修改 `~/.Xresources`配置文件的：
+如果你喜欢使用 `<kbd>`Ctrl `</kbd>`+`<kbd>`Arrow `</kbd>`类的组合键，但是你发现它在URxvt这里并不生效，其实是需要修改 `~/.Xresources`配置文件的：
 
 在该文件下任意一个比较合适的地方添加如下的配置：
 
@@ -664,7 +664,7 @@ awful.key({ modkey }, "l", function () awful.util.spawn( "xscreensaver-command -
     { description = "Screen lock", group = "global keys" }),
 ```
 
-然后按下<kbd>Alt</kbd>+<kbd>Shift</kbd>+<kbd>R</kbd>重启一下AwesomeWM即可生效。
+然后按下 `<kbd>`Alt `</kbd>`+`<kbd>`Shift `</kbd>`+`<kbd>`R `</kbd>`重启一下AwesomeWM即可生效。
 
 按理说这时候应该每次开机启动都可以生效的，但我发现并没有，于是我就修改了 `~/.config/awesome/autostart.sh`来设定自动启动 `xscreensaver`。
 
@@ -885,21 +885,20 @@ sudo sysctl --load=/etc/sysctl.d/99-sysctl.conf
 
 这样我们就启用了Magic SysRQ功能，下面我们看看如何使用这个功能：
 
-|                          KeyBoard Shortcut                          |                Illustration                |
-| :------------------------------------------------------------------: | :-----------------------------------------: |
-| <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>R</kbd> |            从 X 收回对键盘的控制            |
-| <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>E</kbd> | 向所有进程发送 SIGTERM 信号，让它们正常终止 |
-| <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>I</kbd> |  向所有进程发送 SIGKILL 信号，强制立即终止  |
-| <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>S</kbd> |             将待写数据写入磁盘             |
-| <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>U</kbd> |     卸载所有硬盘然后重新按只读模式挂载     |
-| <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd> |                    重启                    |
+|                            KeyBoard Shortcut                            |                Illustration                |
+| :---------------------------------------------------------------------: | :-----------------------------------------: |
+| `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`R `</kbd>` |            从 X 收回对键盘的控制            |
+| `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`E `</kbd>` | 向所有进程发送 SIGTERM 信号，让它们正常终止 |
+| `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`I `</kbd>` |  向所有进程发送 SIGKILL 信号，强制立即终止  |
+| `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`S `</kbd>` |             将待写数据写入磁盘             |
+| `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`U `</kbd>` |     卸载所有硬盘然后重新按只读模式挂载     |
+| `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`B `</kbd>` |                    重启                    |
 
 通常我们在关机/重启之前都会做好保存工作，因此一般而言执行这三步就可以了：
 
-1. <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>R</kbd>
-2. <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>E</kbd>
-3. <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>I</kbd>
-
+1. `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`R `</kbd>`
+2. `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`E `</kbd>`
+3. `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`I `</kbd>`
 
 ::: warning 注意
 
@@ -909,6 +908,22 @@ sudo sysctl --load=/etc/sysctl.d/99-sysctl.conf
 
 :::
 
-当系统中有内核高耗的进程导致系统卡顿时，可以使用 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>F</kbd> Magic SysRq 组合键唤醒 Linux Kernel 的 OOM（out of memory） Killer 杀死这些进程。使用这个组合键可以减少因内存高耗导致重启系统的次数，OMM Killer使用启发算法选取当前系统内存占用最高且不重要的进程进行杀死，所以当系统内存占用不高的情况下还是需要慎用。
+当系统中有内核高耗的进程导致系统卡顿时，可以使用 `<kbd>`Alt `</kbd>`+`<kbd>`SysRq `</kbd>`+`<kbd>`F `</kbd>` Magic SysRq 组合键唤醒 Linux Kernel 的 OOM（out of memory） Killer 杀死这些进程。使用这个组合键可以减少因内存高耗导致重启系统的次数，OMM Killer使用启发算法选取当前系统内存占用最高且不重要的进程进行杀死，所以当系统内存占用不高的情况下还是需要慎用。
 
 有关Magic SysRq的所有功能按键可以[点此查看](./MagicSysRq.md)
+
+### ArcoLinux/ArchLinux 报错 GPGME Error: no data 的解决方式
+
+解决方式其实非常粗暴, 直接执行`sudo rm -R /var/lib/pacman/sync`, 然后再重新尝试系统更新即可解决.
+
+**后日谈**: 于是我就思考这个文件夹究竟是怎么回事, 怎么删掉之后就正常了, 那不是一开始就不应该存在吗?
+
+其实不然, 我查看了[ArchWiki](https://wiki.archlinux.org/title/Pacman_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))中**数据库结构**给出的解释.
+
+::: info
+
+pacman数据库通常位于`/var/lib/pacman/sync`. 对于每一个在`/etc/pacman.conf`中指定的软件仓库， 这里都有一个一致的数据库。数据库文件夹里每个tar.gz文件都包含着一个仓库的软件包信息。
+
+:::
+
+这也就是说, 每一次更新, pacman都会直接读取数据库并向镜像源发送请求来比对, 之后更新数据库, 那么我们这里出现的报错`GPGME Error: no data`其实就是镜像源上已经没有了这些数据, 换言之就是不支持这样旧的软件包了, 因此我们直接删掉之后, pacman会自动重新获取来做一次大更新.
