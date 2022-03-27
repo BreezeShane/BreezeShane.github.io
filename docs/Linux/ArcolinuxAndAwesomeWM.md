@@ -941,3 +941,9 @@ sudo ln -s /opt/cuda-23.3 /opt/cuda
 这样系统使用`/opt/cuda`时就是在使用`cuda-23.3`了. 
 
 当你想切换其他版本的时候, 你需要先删除`/opt/cuda`这个软链接, 然后再重新创建指向别的版本CUDA的软链接即可.
+
+::: tip
+
+你可以执行`nvcc --version`来查看你当前CUDA的版本.
+
+:::
