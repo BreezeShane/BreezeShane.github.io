@@ -264,6 +264,7 @@ module.exports = config({
                   "AutoIAC",
                   "Shells",
                   "BuildingServer",
+                  "openGauss",
                 ],
               },
               {

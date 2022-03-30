@@ -947,3 +947,33 @@ sudo ln -s /opt/cuda-23.3 /opt/cuda
 你可以执行`nvcc --version`来查看你当前CUDA的版本.
 
 :::
+
+### 
+
+我在使用git clone, yay, pacman等的时候遇到类似以下的报错:
+
+::: danger Error
+
+❯ git clone https://github.com/opengauss-mirror/openGauss-OM
+                                                            
+Cloning into 'openGauss-OM'...
+/usr/lib/git-core/git-remote-https: /home/breezeshane/openGauss/lib/libcurl.so.4: no version information available (required by /usr/lib/git-core/git-remote-https)
+fatal: unable to access 'https://github.com/opengauss-mirror/openGauss-OM/': error setting certificate verify locations:
+  CAfile: /etc/pki/tls/certs/ca-bundle.crt
+  CApath: none
+
+:::
+
+虽然我无法查证错误原因的来源, 但还是能解决这个问题, 它既然缺少了东西, 我们再加上就是.
+
+这个报错是在说, `curl`预期`ca-bundle.crt`应该位于`/etc/pki/tls/certs/`下, 但实际上它`ca-certificates.crt`(名字不一样但实际还是一样的)却位于`/etc/ssl/certs/`, 因此我们要做的是:
+```shell
+sudo mkdir -p /etc/pki/tls/certs
+sudo cp /etc/ssl/certs/ca-certificates.crt /etc/pki/tls/certs/ca-bundle.crt
+```
+
+当然你也可以直接利用强大的软链接来达到目的, 相应的命令应该是:
+```shell
+sudo mkdir -p /etc/pki/tls/certs
+sudo ln -s /etc/ssl/certs/ca-certificates.crt /etc/pki/tls/certs/ca-bundle.crt
+```
