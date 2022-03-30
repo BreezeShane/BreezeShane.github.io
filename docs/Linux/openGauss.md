@@ -41,6 +41,7 @@ sh install.sh  -w  "xxxx" && source ~/.bashrc
 
 ::: danger Error
 
+```shell
 [step 1]: check parameter
 [step 2]: check install env and os setting
 [step 3]: change_gausshome_owner
@@ -53,6 +54,7 @@ install.sh: line 221: gs_ctl: command not found
 import sql file
 Would you like to create a demo database (yes/no)? no
 Input no, operation skip.
+```
 
 :::
 
@@ -64,6 +66,7 @@ Input no, operation skip.
 
 ::: danger Error
 
+```shell
 [step 1]: check parameter
 [step 2]: check install env and os setting
 [step 3]: change_gausshome_owner
@@ -76,6 +79,7 @@ gs_ctl: error while loading shared libraries: libreadline.so.6: cannot open shar
 import sql file
 Would you like to create a demo database (yes/no)? no
 Input no, operation skip.
+```
 
 :::
 
@@ -91,6 +95,7 @@ libreadline.so.8.1
 
 ::: danger Error
 
+```shell
 [step 1]: check parameter
 [step 2]: check install env and os setting
 [step 3]: change_gausshome_owner
@@ -103,6 +108,7 @@ gs_ctl: error while loading shared libraries: libcrypt.so.1: cannot open shared 
 import sql file
 Would you like to create a demo database (yes/no)? no
 Input no, operation skip.
+```
 
 :::
 
@@ -112,6 +118,7 @@ Input no, operation skip.
 
 ::: danger Error
 
+```shell
 [step 1]: check parameter
 [step 2]: check install env and os setting
 [step 3]: change_gausshome_owner
@@ -128,10 +135,11 @@ gs_ctl: error while loading shared libraries: libgssapi_krb5_gauss.so.2: cannot 
 import sql file
 Would you like to create a demo database (yes/no)? no
 Input no, operation skip.
+```
 
 :::
 
-看报错是说libeSDKOBS.so文件找不到了, 可以确定是某环境变量缺少了这个东西的所在目录. 但我不能确定这个文件在哪, 于是先执行了`sudo find / -name libeSDKOBS.so`来查找, 然后发现:
+看报错是说`libeSDKOBS.so`文件找不到了, 可以确定是某环境变量缺少了这个东西的所在目录. 但我不能确定这个文件在哪, 于是先执行了`sudo find / -name libeSDKOBS.so`来查找, 然后发现:
 
 ```shell
 /home/breezeshane/OpenGauss/lib/libeSDKOBS.so
@@ -147,12 +155,13 @@ find: ‘/run/user/1000/doc’: Permission denied
 find: ‘/run/user/1000/gvfs’: Permission denied
 ```
 
-头两行引起了我的注意, 然后我再查看LD_LIBRARY_PATH环境变量`echo $LD_LIBRARY_PATH`, 果然发现它没有这个路径, 于是我手动添加了这个环境变量, 执行`export LD_LIBRARY_PATH="$HOME/openGauss/lib:$LD_LIBRARY_PATH"`. 
+头两行引起了我的注意, 然后我再查看`LD_LIBRARY_PATH`环境变量`echo $LD_LIBRARY_PATH`, 果然发现它没有这个路径, 于是我手动添加了这个环境变量, 执行`export LD_LIBRARY_PATH="$HOME/openGauss/lib:$LD_LIBRARY_PATH"`. 
 
 又双遇到了问题:
 
 ::: danger Error
 
+```shell
 [step 1]: check parameter
 [step 2]: check install env and os setting
 [step 3]: change_gausshome_owner
@@ -169,6 +178,7 @@ Check your installation.
 [2022-03-30 20:53:54.259][100140][][gs_ctl]: can't create lock file "/home/breezeshane/openGauss/data/single_node/pg_ctl.lock" : No such file or directoryimport sql file
 Would you like to create a demo database (yes/no)? no
 Input no, operation skip.
+```
 
 :::
 
@@ -198,6 +208,7 @@ sudo ln -s /usr/lib/libncursesw.so.6.0 /usr/lib/libtinfo.so.5
 
 ::: details Info
 
+```shell
 [step 1]: check parameter
 [step 2]: check install env and os setting
 [step 3]: change_gausshome_owner
@@ -325,6 +336,7 @@ The core dump path is an invalid directory
 	
  0 [BACKEND] FATAL:  Incorrect backend environment variable $PGDATA
  0 [BACKEND] DETAIL:  Please refer to the backend instance log for the detail
+ ```
 
 :::
 
@@ -334,11 +346,13 @@ The core dump path is an invalid directory
 
 ::: details Info
 
+```shell
 ❯ ps ux | grep gaussdb
 breezes+  107155  0.0  0.0  11536  2676 pts/1    S+   21:09   0:00 grep --color=auto gaussdb
 ❯ gs_ctl query -D ~/openGauss/data/single_node
 [2022-03-30 21:10:17.458][107813][][gs_ctl]: gs_ctl query ,datadir is /home/breezeshane/openGauss/data/single_node 
 [2022-03-30 21:10:17.458][107813][][gs_ctl]:  invalid data in PID file "/home/breezeshane/openGauss/data/single_node/postmaster.pid"
+```
 
 :::
 
