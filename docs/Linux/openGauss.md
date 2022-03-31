@@ -1,5 +1,5 @@
 ---
-title: 在Arch系中安装openGauss(全过程)
+title: 在Arch系中安装openGauss(全失败过程)
 date: 2022-03-30 18:09:59
 author: Breeze Shane
 top: false
@@ -440,8 +440,69 @@ bison
 ```
 我亲自搜索考察, 确认是当前系统装有以上依赖. 文档提到需要装gcc7.3和cmake(>=3.16.5), 当前我的状态是cmake满足了条件, 但gcc是11.2.0, 版本差距过大, 又回想到曾经使用Manjaro的时候gcc版本更迭后系统出现了问题, 因此认为gcc11不能直接编译(没有亲自实践过, 如果确实能编译, 欢迎前来指正), 我便转而去安装gcc(7.5.0).
 
-> 编译要很久的, 如果正好是晚上的话我建议你先睡一觉.
+> 编译要很久的, 如果正好是晚上的话我建议你先睡一觉. 另外提示一下, 这个编译功耗比较大, 如果只有笔记本电源支撑的话建议不要编译.
 
----
+终于编译完成了, 现在我们下载openGauss的第三方依赖库, 下载完之后我们进行编译, 执行: 
+```shell
+git clone https://gitee.com/opengauss/openGauss-third_party.git
+```
+但事情总不会这样顺利, 再次遇到报错:
 
-*(未完待续..........)*
+::: danger Error
+
+```shell
+❯ git clone https://gitee.com/opengauss/openGauss-third_party.git
+Cloning into 'openGauss-third_party'...
+remote: Enumerating objects: 2936, done.
+remote: Counting objects: 100% (496/496), done.
+remote: Compressing objects: 100% (466/466), done.
+error: 8112 bytes of body are still expectedB | 2.16 MiB/s     
+fetch-pack: unexpected disconnect while reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+```
+
+:::
+
+于是我继续查询, 发现它出错的原因是拉取的项目体积过大导致报错，连接中断了. 好吧, 几经折腾才发现其实是网络问题, 换手机热点就能解决了......
+
+好的, 接下来我们进入到build文件夹下, 按照官方文档给出的那样, 执行`sh build_all.sh`, 然后看见了这个报错:
+
+::: danger Error
+
+```shell
+❯ sh build_all.sh
+--------------------------------openssl-------------------------------------------------
+Traceback (most recent call last):
+  File "build.py", line 308, in <module>
+    Operator.build_mode()
+  File "build.py", line 96, in build_mode
+    self.binary_parser()
+  File "build.py", line 87, in binary_parser
+    assert False
+AssertionError
+```
+
+:::
+
+不了解发生了什么, 但是又想到这里其实是在编译依赖库, 我既然已经比对好相应的依赖, 不编译也没关系, 于是直接拉取了openGauss-server的源代码试图直接编译.
+
+最后我遇到了这个报错: 
+
+::: danger Error
+
+```shell
+❯ sh build.sh -m release -3rd ~/binarylibs
+ROOT_DIR : /home/breezeshane/openGauss-server
+We only support openEuler(aarch64), EulerOS(aarch64), CentOS, Kylin(aarch64) platform.
+```
+
+:::
+
+于是我就知道了, 解决这个问题就应该直接去执行: 
+
+```shell
+rm -rf openGauss-* binarylibs
+```
+
+至此这篇文章就已经结束了.
