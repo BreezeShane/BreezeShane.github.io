@@ -199,8 +199,8 @@ Input no, operation skip.
 
 接着我们执行
 ```shell
-sudo ln -s /usr/lib/libncursesw.so.6.0 /usr/lib/libncurses.so.5
-sudo ln -s /usr/lib/libncursesw.so.6.0 /usr/lib/libtinfo.so.5
+sudo ln -s /usr/lib/libncursesw.so.6 /usr/lib/libncurses.so.5
+sudo ln -s /usr/lib/libncursesw.so.6 /usr/lib/libtinfo.so.5
 ```
 即可解决这个问题.
 
@@ -505,4 +505,26 @@ We only support openEuler(aarch64), EulerOS(aarch64), CentOS, Kylin(aarch64) pla
 rm -rf openGauss-* binarylibs
 ```
 
-至此这篇文章就已经结束了.
+至此这篇文章就已经结束了(x).
+
+### 找到出路
+
+最后我才使用Docker虚拟化技术来完成安装, 只需要执行:
+```shell
+docker pull enmotech/opengauss
+docker run --name opengauss --privileged=true -d -e GS_PASSWORD=Enmo@123 -p 15432:5432 enmotech/opengauss:latest
+```
+
+如果你没有像我上面删掉库的话, 那么在这个情况下你可以直接使用之前安装好的openGauss, 执行:
+```shell
+gsql -d postgres -U gaussdb -W'Enmo@123' -h 127.0.0.1 -p15432
+```
+
+但如果不幸你删掉了, 也不用再重新折腾一遍, docker这里你还是可以直接使用的, 需要按照顺序继续执行:
+```shell
+docker exec -it opengauss bash
+su - omm
+gsql -d postgres -U gaussdb -W'Enmo@123'
+```
+
+这才是真正的圆满结局.
