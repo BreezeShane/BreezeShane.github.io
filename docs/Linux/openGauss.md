@@ -507,7 +507,7 @@ rm -rf openGauss-* binarylibs
 
 至此这篇文章就已经结束了(x).
 
-### 找到出路
+## 找到出路
 
 最后我才使用Docker虚拟化技术来完成安装, 只需要执行:
 ```shell
