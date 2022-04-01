@@ -982,7 +982,7 @@ sudo ln -s /opt/cuda-23.3 /opt/cuda
 
 与上节的多版本CUDA安装与管理原理基本一致, 这里就只给出gcc的路径了, 使用`ls /usr/bin/gcc*`即可查看所有的gcc, 然后通过软链接来做好版本切换.
 
-### 
+### 安装Trello时遇到的未知错误(该错误因不了解底细而无法确定名字)
 
 最近不知道干了啥, yay还是出现了错误: 
 
@@ -1014,3 +1014,48 @@ export LD_LIBRARY_PATH="/usr/lib:$HOME/openGauss/lib:$LD_LIBRARY_PATH"
 环境变量LD_LIBRARY_PATH内是有序的, 软件在使用的时候会按照优先级从前向后遍历, 因此才写`/usr/lib:$HOME/openGauss/lib:$LD_LIBRARY_PATH`而不是`$HOME/openGauss/lib:/usr/lib:$LD_LIBRARY_PATH`
 
 :::
+
+### Atom安装WakaTime插件失败
+
+我在Atom中尝试安装WakaTime插件时失败, 得到了如下的报错:
+
+::: danger Error
+
+```shell
+Installing “wakatime@11.0.10” failed.Hide output…
+node:internal/fs/utils:344
+    throw err;
+    ^
+
+Error: ENOENT: no such file or directory, open '/usr/lib/electron11/version'
+    at Object.openSync (node:fs:585:3)
+    at Object.readFileSync (node:fs:453:35)
+    at Object.<anonymous> (/usr/lib/node_modules/atom-package-manager/bin/apm:7:88)
+    at Module._compile (node:internal/modules/cjs/loader:1103:14)
+    at Object.Module._extensions..js (node:internal/modules/cjs/loader:1157:10)
+    at Module.load (node:internal/modules/cjs/loader:981:32)
+    at Function.Module._load (node:internal/modules/cjs/loader:822:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:77:12)
+    at node:internal/main/run_main_module:17:47 {
+  errno: -2,
+  syscall: 'open',
+  code: 'ENOENT',
+  path: '/usr/lib/electron11/version'
+}
+```
+
+:::
+
+然后我去检查了一下Electron的情况, 然后发现:
+
+```shell
+❯ ls /usr/lib/ | grep electron
+electron
+electron13
+electron6
+electron9
+```
+
+果然我是没有Electron11, 于是我只需要安装一下即可, `sudo pacman -S electron11`.
+
+这时候就可以正常安装WakaTime插件了.
