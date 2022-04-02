@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 02 Apr 2022 06:14:52 GMT</pubDate>
-    <lastBuildDate>Sat, 02 Apr 2022 06:14:52 GMT</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2022 06:16:30 GMT</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2022 06:16:30 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -152,18 +152,18 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>促使深度学习发展的挑战</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">促使深度学习发展的挑战</source>
-      <pubDate>Sun, 23 Jan 2022 01:04:16 GMT</pubDate>
-    </item>
-    <item>
       <title>估计、偏差和方差</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
       <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
       <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>促使深度学习发展的挑战</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">促使深度学习发展的挑战</source>
+      <pubDate>Sun, 23 Jan 2022 01:04:16 GMT</pubDate>
     </item>
     <item>
       <title>学习算法</title>
@@ -7703,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8262,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,10 +8285,21 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客主页</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
+<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
+<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -8296,7 +8307,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8312,22 +8323,11 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>博客主页</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
-<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
-<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>幻灯片页</title>
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9470,13 +9470,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
-      <title>约瑟夫问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
-    </item>
-    <item>
       <title>极限反转数问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
@@ -9484,11 +9477,11 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
     </item>
     <item>
-      <title>单链表的一些经典问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
+      <title>约瑟夫问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
     </item>
     <item>
       <title>顺序线性表的一些经典问题</title>
@@ -9496,6 +9489,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</guid>
       <source url="https://breezeshane.github.io/rss.xml">顺序线性表的一些经典问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>单链表的一些经典问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">单链表的一些经典问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:23 GMT</pubDate>
     </item>
     <item>
       <title>N皇后问题</title>
@@ -10606,9 +10606,20 @@ electron9
 <p>但是凭经验判断, 这大概治标不治本, 所以记一下就现在这里挖个坑, 留一下伏笔.</p>
 <p>好吧, 没隔多久还是出毛病了, 这回报错有新的内容了:</p>
 <div><p>Error</p>
-<div><pre><code><span>4</span>月 02 <span>14</span>:08:04 Arknights kernel: Bluetooth: hci0: Opcode 0x <span>401</span> failed: -16
+<div><pre><code><span>4</span>月 02 <span>14</span>:07:04 Arknights systemd-logind<span>[</span><span>559</span><span>]</span>: Watching system buttons on /dev/input/event18 <span>(</span>DURGOD K330w Keyboard<span>)</span>
+<span>4</span>月 02 <span>14</span>:07:07 Arknights tlp<span>[</span><span>91713</span><span>]</span>: Warning: systemd-rfkill.service is not masked, radio device switching may not work as configured.
+<span>4</span>月 02 <span>14</span>:07:07 Arknights tlp<span>[</span><span>91713</span><span>]</span>: <span>>></span><span>></span> Invoke <span>'systemctl mask systemd-rfkill.service'</span> to correct this.
+<span>4</span>月 02 <span>14</span>:07:07 Arknights tlp<span>[</span><span>91713</span><span>]</span>: Warning: systemd-rfkill.socket is not masked, radio device switching may not work as configured.
+<span>4</span>月 02 <span>14</span>:07:07 Arknights tlp<span>[</span><span>91713</span><span>]</span>: <span>>></span><span>></span> Invoke <span>'systemctl mask systemd-rfkill.socket'</span> to correct this.
+<span>4</span>月 02 <span>14</span>:07:50 Arknights kernel: Bluetooth: hci0: Opcode 0x2043 failed: -110
+<span>4</span>月 02 <span>14</span>:07:50 Arknights kernel: Bluetooth: hci0: request failed to create LE connection: err -110
+<span>4</span>月 02 <span>14</span>:07:54 Arknights kernel: input: DURGOD K330w Keyboard as /devices/virtual/misc/uhid/0005:090A:01C1.000F/input/input48
+<span>4</span>月 02 <span>14</span>:07:54 Arknights kernel: input: DURGOD K330w Mouse as /devices/virtual/misc/uhid/0005:090A:01C1.000F/input/input49
+<span>4</span>月 02 <span>14</span>:07:54 Arknights kernel: hid-generic 0005:090A:01C1.000F: input,hidraw1: BLUETOOTH HID v1.09 Keyboard <span>[</span>DURGOD K330w<span>]</span> on <span>98</span>:af:65:c9:1a:fc
+<span>4</span>月 02 <span>14</span>:07:55 Arknights systemd-logind<span>[</span><span>559</span><span>]</span>: Watching system buttons on /dev/input/event18 <span>(</span>DURGOD K330w Keyboard<span>)</span>
+<span>4</span>月 02 <span>14</span>:08:04 Arknights kernel: Bluetooth: hci0: Opcode 0x <span>401</span> failed: -16
 </code></pre>
-<div><span>1</span><br></div></div></div>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
 <p>那么怎么解决呢?</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
@@ -12402,105 +12413,6 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
-      <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
-      <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
-      <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</source>
-      <pubDate>Sun, 25 Apr 2021 01:25:14 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
-<h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
-<p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
-<blockquote>
-<p>「注」：网上与此相关的资料太少了，我觉得很有必要详细记录下来，因此本文看起来繁琐了一些。</p>
-</blockquote>
-<p>首先在<a href="https://www.zerotier.com/" target="_blank" rel="noopener noreferrer">Zerotier-One官网</a>上注册一个帐号，我选择了使用GitHub登陆。登陆之后会出现这个界面：</p>
-<p><img src="/images/2021-04-28_19-13.png" alt="2021-04-28_19-13" /></p>
-<p>点击创建网络按钮，即可自动生成新的一栏，这时候你需要点击进去即可</p>
-<p><img src="/images/2021-04-28_19-21.png" alt="2021-04-28_19-21" /></p>
-<p><strong>IPv4 Auto-Assign</strong>那一栏选什么地址不用我说，随君喜好！Zerotier One就是可以自己定IP地址！</p>
-<p><strong>IPv6 Auto-Assign</strong>那一栏选中第二项即可。</p>
-<p>往下翻页你会看到这个：</p>
-<p><img src="/images/2021-04-28_22-49.png" alt="2021-04-28_22-49" /></p>
-<p>这里提示可以添加网络成员，但是需要相应设备安装对应的客户端。</p>
-<p><img src="/images/2021-04-28_22-52.png" alt="2021-04-28_22-52" /></p>
-<p>由于我使用的是基于Archlinux的系统，因此从AUR安装即可：</p>
-<div><pre><code>yay -S zerotier-one
-</code></pre>
-<div><span>1</span><br></div></div><p>安装之后，需要启动服务，执行：</p>
-<div><pre><code><span>sudo</span> systemctl start zerotier-one.service
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>我见网上很多博客写的这个指令：<code>curl -s https://install.zerotier.com | sudo bash</code>，但至少在Manjaro里是不能正常执行的，会提示如下的报错信息——找不到与系统版本匹配的客户端。</p>
-<p><img src="/images/2021-04-28_22-58.png" alt="" /></p>
-<p>根据<code>sudo zerotier-one -h</code>的返回结果可知，需要接着输入如下指令：</p>
-<div><pre><code><span>sudo</span> zerotier-one -pdiq
-<span># 如果等了半天没有反应，就终止一下吧。。。我当初就这样做的，实质上执行</span>
-<span># 这个只是为了生成相应的配置文件来解决先前执行下一个指令报的错误——找不到配置文件。</span>
-<span>sudo</span> zerotier-cli status
-<span># 返回200 info *** 1.6.4 ONLINE则正常。</span>
-<span>sudo</span> zerotier-listpeers
-<span># 用于获取当前的连接情况，不执行也可</span>
-<span>sudo</span> zerotier-cli <span>join</span> ******
-<span># 这里的******就是前面特意强调的虚拟内网ID</span>
-<span>sudo</span> zerotier-listpeers
-<span># 确认一下确实成功了，你会看到比原先多出来一行内容，而且最后一个单词是LEAF，其它</span>
-<span># 行最后的单词都是PLANET。</span>
-<span>sudo</span> systemctl start zerotier-one.service
-<span># 启用zerotier-one服务</span>
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-<span># 开机自启动zerotier-one服务</span>
-<span>######</span>
-<span>sudo</span> zerotier-cli <span>set</span> 12ac4a1e7101bb86 <span>allowManaged</span><span>=</span><span>1</span>
-<span># 注意，关于这条指令网上有两种声音，有主张授权为1的，但没见到谁有给理由，而主张授</span>
-<span># 权为0的理由如下：</span>
-<span># 这样就不会导致勾选Authorized后，zerotier自动将路由下发到ubuntu，如果</span>
-<span># zerotier设置的路由为10.0.1.0/24,会导致本来10.0.1.0/24 dev br-lan</span>
-<span># 变成10.0.1.0/24 dev ztxxxxxxxxx,然后你就不能连接路由器了</span>
-<span># 作者：fc790 https://www.bilibili.com/read/cv7586063/ 出处： bilibili</span>
-<span>## 这种就看着弄，出了问题再改回来就好了。</span>
-<span>sudo</span> systemctl restart zerotier-one
-<span># 如果你做了刚才那个做法，需要重启一下服务。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>到此为止，电脑上的ZeroTier One就已经配置得差不多了，我们需要在Android设备上安装客户端了。</p>
-<p>如果你有Google Play并且你还能使用，你可以直接在Google商店上下载。但不幸的是，如果你没有，你可以选择去安装，而更不幸的是，你使用的是华为产品，那恭喜恭喜，您跟我一样，没什么可能走这条路了（毕竟国际形势如此紧张。。。也没办法。。。）</p>
-<p>走的另一条路在此--&gt;<a href="https://apkpure.com/" target="_blank" rel="noopener noreferrer">ApkPure</a>，在这家网站上你可以下载到许许多多好用实用的外国软件，干净、安全、可靠，我是被吸引着主动下载了他们的客户端，真香了。。。</p>
-<p>装好Zerotier One之后，需要新建一个连接配置，点击ADD NETWORK，然后输入虚拟内网ID，完成后点击下方的Add Network，并开启连接，这时候你需要回到电脑上的Zerotier Central，翻到Members这一栏刷新一下，你会发现多出来一个成员，这里需要你点前面的复选框来授权连接（你也可以选择删除或者断开连接并忽略）。然后就可以自己给设备设定名字以及备注了。</p>
-<p><img src="/images/2021-04-29_00-25.png" alt="" /></p>
-<p>然而如果你希望这台设备能被内网的其它设备发现，需要先后点击这两处：</p>
-<p><img src="/images/2021-04-29_00-28.png" alt="" /></p>
-<p>大致上如此，这时候你已经搭建好这个虚拟内网了！</p>
-<p>如果希望某设备（已知Node ID，在客户端下方一栏出现）也能加入这个虚拟内网，需要在Zerotier Central找到<img src="/images/2021-04-28_21-21.png" alt="" />这里并输入对应设备的Node ID。</p>
-<p>另外特意说一下如果希望本机也加入的话，获取Node ID这个问题折磨我好久，最后查到官方文档给的：</p>
-<p><img src="/images/2021-04-29_00-37.png" alt="" /></p>
-<p>我才到终端输入<code>cat /var/lib/zerotier-one/identity.public</code>，来查看节点信息的（写这篇报告之前是这样做的）然而当我写到刚刚那个安装指令的时候，我才发现，有个最简单的方法：</p>
-<div><pre><code><span>sudo</span> zerotier-cli status
-</code></pre>
-<div><span>1</span><br></div></div><p>返回的200 info后面那个就是本机Node ID。。。谁叫我当时不知道呢。。。</p>
-<blockquote>
-<p>不过不算白费努力，咱该明白遇到问题相对要好的解决办法其实是去翻一翻官方文档，尤其是当你发现相关资料特别少的时候。这会让你节省不少力气和时间。</p>
-</blockquote>
-<h2 id="android-arch-linux连接共享控制"> Android &amp; Arch Linux连接共享控制</h2>
-<h3 id="vnc远程控制"> VNC远程控制</h3>
-<p>安装好虚拟内网了，我们要开始Android &amp; Manjaro连接共享控制了，经过我长时间的搜索与实践，最终选择的还是VNC Viewer。安装网址：<a href="https://www.realvnc.com/en/connect/download/vnc/" target="_blank" rel="noopener noreferrer">VNC Server</a>	<a href="https://www.realvnc.com/en/connect/download/viewer/" target="_blank" rel="noopener noreferrer">VNC Viewer</a></p>
-<p>注意两个我是都选了Generic script x64版本，如果你非常清楚应该如何做的话请自行选择。</p>
-<p>下载来的这两个压缩包可以解压到指定文件夹，然后从终端这里分别cd到这两个目录。</p>
-<p>首先说VNC Server：到这个目录下之后执行</p>
-<div><pre><code><span>sudo</span> ./vncinstall
-<span>sudo</span> vnclicense -add 3TH6P-DV5AE-BLHY6-PNENS-B3AQA
-vncserver :1
-<span>ps</span> -ef <span>|</span> <span>grep</span> vnc <span># 查看进程，如果能正常显示vnc进程的话即是安装成功。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>接下来再说VNC Viewer：</p>
-<div><pre><code><span>sudo</span> ./vncinstall
-<span>cd</span> /usr/bin
-./vncviewer
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时候弹出窗口，按照要求安装即可正常使用。</p>
-<p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
-    </item>
-    <item>
       <title>在Arch系中安装openGauss(全失败过程)</title>
       <link>https://breezeshane.github.io/Linux/openGauss/</link>
       <guid>https://breezeshane.github.io/Linux/openGauss/</guid>
@@ -12980,50 +12892,6 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>关于Vcomputer如何实现循环的哲学问题</title>
-      <link>https://breezeshane.github.io/VComputer/</link>
-      <guid>https://breezeshane.github.io/VComputer/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
-      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
-<hr>
-<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
-<blockquote>
-<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
-</blockquote>
-<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
-<blockquote>
-<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
-</blockquote>
-<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
-<div><pre><code>2001
-2101
-2201
-2301
-240A
-2501
-8418
-5002
-5112
-5323
-5553
-830C
-9000
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
-<ol>
-<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
-<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
-<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
-<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
-<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
-</ol>
-<hr>
-<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
-    </item>
-    <item>
       <title>Crawler</title>
       <link>https://breezeshane.github.io/Python/Crawler/</link>
       <guid>https://breezeshane.github.io/Python/Crawler/</guid>
@@ -13113,6 +12981,50 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
 <h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>关于Vcomputer如何实现循环的哲学问题</title>
+      <link>https://breezeshane.github.io/VComputer/</link>
+      <guid>https://breezeshane.github.io/VComputer/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
+      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
+<hr>
+<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
+<blockquote>
+<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
+</blockquote>
+<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
+<blockquote>
+<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
+</blockquote>
+<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
+<div><pre><code>2001
+2101
+2201
+2301
+240A
+2501
+8418
+5002
+5112
+5323
+5553
+830C
+9000
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
+<ol>
+<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
+<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
+<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
+<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
+<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
+</ol>
+<hr>
+<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
     </item>
     <item>
       <title>数据库</title>
@@ -14375,7 +14287,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -14409,7 +14321,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -14419,7 +14331,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -14444,7 +14356,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -14511,16 +14423,115 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
+      <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+      <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</source>
+      <pubDate>Sun, 25 Apr 2021 01:25:14 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
+<h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
+<p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
+<blockquote>
+<p>「注」：网上与此相关的资料太少了，我觉得很有必要详细记录下来，因此本文看起来繁琐了一些。</p>
+</blockquote>
+<p>首先在<a href="https://www.zerotier.com/" target="_blank" rel="noopener noreferrer">Zerotier-One官网</a>上注册一个帐号，我选择了使用GitHub登陆。登陆之后会出现这个界面：</p>
+<p><img src="/images/2021-04-28_19-13.png" alt="2021-04-28_19-13" /></p>
+<p>点击创建网络按钮，即可自动生成新的一栏，这时候你需要点击进去即可</p>
+<p><img src="/images/2021-04-28_19-21.png" alt="2021-04-28_19-21" /></p>
+<p><strong>IPv4 Auto-Assign</strong>那一栏选什么地址不用我说，随君喜好！Zerotier One就是可以自己定IP地址！</p>
+<p><strong>IPv6 Auto-Assign</strong>那一栏选中第二项即可。</p>
+<p>往下翻页你会看到这个：</p>
+<p><img src="/images/2021-04-28_22-49.png" alt="2021-04-28_22-49" /></p>
+<p>这里提示可以添加网络成员，但是需要相应设备安装对应的客户端。</p>
+<p><img src="/images/2021-04-28_22-52.png" alt="2021-04-28_22-52" /></p>
+<p>由于我使用的是基于Archlinux的系统，因此从AUR安装即可：</p>
+<div><pre><code>yay -S zerotier-one
+</code></pre>
+<div><span>1</span><br></div></div><p>安装之后，需要启动服务，执行：</p>
+<div><pre><code><span>sudo</span> systemctl start zerotier-one.service
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>我见网上很多博客写的这个指令：<code>curl -s https://install.zerotier.com | sudo bash</code>，但至少在Manjaro里是不能正常执行的，会提示如下的报错信息——找不到与系统版本匹配的客户端。</p>
+<p><img src="/images/2021-04-28_22-58.png" alt="" /></p>
+<p>根据<code>sudo zerotier-one -h</code>的返回结果可知，需要接着输入如下指令：</p>
+<div><pre><code><span>sudo</span> zerotier-one -pdiq
+<span># 如果等了半天没有反应，就终止一下吧。。。我当初就这样做的，实质上执行</span>
+<span># 这个只是为了生成相应的配置文件来解决先前执行下一个指令报的错误——找不到配置文件。</span>
+<span>sudo</span> zerotier-cli status
+<span># 返回200 info *** 1.6.4 ONLINE则正常。</span>
+<span>sudo</span> zerotier-listpeers
+<span># 用于获取当前的连接情况，不执行也可</span>
+<span>sudo</span> zerotier-cli <span>join</span> ******
+<span># 这里的******就是前面特意强调的虚拟内网ID</span>
+<span>sudo</span> zerotier-listpeers
+<span># 确认一下确实成功了，你会看到比原先多出来一行内容，而且最后一个单词是LEAF，其它</span>
+<span># 行最后的单词都是PLANET。</span>
+<span>sudo</span> systemctl start zerotier-one.service
+<span># 启用zerotier-one服务</span>
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+<span># 开机自启动zerotier-one服务</span>
+<span>######</span>
+<span>sudo</span> zerotier-cli <span>set</span> 12ac4a1e7101bb86 <span>allowManaged</span><span>=</span><span>1</span>
+<span># 注意，关于这条指令网上有两种声音，有主张授权为1的，但没见到谁有给理由，而主张授</span>
+<span># 权为0的理由如下：</span>
+<span># 这样就不会导致勾选Authorized后，zerotier自动将路由下发到ubuntu，如果</span>
+<span># zerotier设置的路由为10.0.1.0/24,会导致本来10.0.1.0/24 dev br-lan</span>
+<span># 变成10.0.1.0/24 dev ztxxxxxxxxx,然后你就不能连接路由器了</span>
+<span># 作者：fc790 https://www.bilibili.com/read/cv7586063/ 出处： bilibili</span>
+<span>## 这种就看着弄，出了问题再改回来就好了。</span>
+<span>sudo</span> systemctl restart zerotier-one
+<span># 如果你做了刚才那个做法，需要重启一下服务。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>到此为止，电脑上的ZeroTier One就已经配置得差不多了，我们需要在Android设备上安装客户端了。</p>
+<p>如果你有Google Play并且你还能使用，你可以直接在Google商店上下载。但不幸的是，如果你没有，你可以选择去安装，而更不幸的是，你使用的是华为产品，那恭喜恭喜，您跟我一样，没什么可能走这条路了（毕竟国际形势如此紧张。。。也没办法。。。）</p>
+<p>走的另一条路在此--&gt;<a href="https://apkpure.com/" target="_blank" rel="noopener noreferrer">ApkPure</a>，在这家网站上你可以下载到许许多多好用实用的外国软件，干净、安全、可靠，我是被吸引着主动下载了他们的客户端，真香了。。。</p>
+<p>装好Zerotier One之后，需要新建一个连接配置，点击ADD NETWORK，然后输入虚拟内网ID，完成后点击下方的Add Network，并开启连接，这时候你需要回到电脑上的Zerotier Central，翻到Members这一栏刷新一下，你会发现多出来一个成员，这里需要你点前面的复选框来授权连接（你也可以选择删除或者断开连接并忽略）。然后就可以自己给设备设定名字以及备注了。</p>
+<p><img src="/images/2021-04-29_00-25.png" alt="" /></p>
+<p>然而如果你希望这台设备能被内网的其它设备发现，需要先后点击这两处：</p>
+<p><img src="/images/2021-04-29_00-28.png" alt="" /></p>
+<p>大致上如此，这时候你已经搭建好这个虚拟内网了！</p>
+<p>如果希望某设备（已知Node ID，在客户端下方一栏出现）也能加入这个虚拟内网，需要在Zerotier Central找到<img src="/images/2021-04-28_21-21.png" alt="" />这里并输入对应设备的Node ID。</p>
+<p>另外特意说一下如果希望本机也加入的话，获取Node ID这个问题折磨我好久，最后查到官方文档给的：</p>
+<p><img src="/images/2021-04-29_00-37.png" alt="" /></p>
+<p>我才到终端输入<code>cat /var/lib/zerotier-one/identity.public</code>，来查看节点信息的（写这篇报告之前是这样做的）然而当我写到刚刚那个安装指令的时候，我才发现，有个最简单的方法：</p>
+<div><pre><code><span>sudo</span> zerotier-cli status
+</code></pre>
+<div><span>1</span><br></div></div><p>返回的200 info后面那个就是本机Node ID。。。谁叫我当时不知道呢。。。</p>
+<blockquote>
+<p>不过不算白费努力，咱该明白遇到问题相对要好的解决办法其实是去翻一翻官方文档，尤其是当你发现相关资料特别少的时候。这会让你节省不少力气和时间。</p>
+</blockquote>
+<h2 id="android-arch-linux连接共享控制"> Android &amp; Arch Linux连接共享控制</h2>
+<h3 id="vnc远程控制"> VNC远程控制</h3>
+<p>安装好虚拟内网了，我们要开始Android &amp; Manjaro连接共享控制了，经过我长时间的搜索与实践，最终选择的还是VNC Viewer。安装网址：<a href="https://www.realvnc.com/en/connect/download/vnc/" target="_blank" rel="noopener noreferrer">VNC Server</a>	<a href="https://www.realvnc.com/en/connect/download/viewer/" target="_blank" rel="noopener noreferrer">VNC Viewer</a></p>
+<p>注意两个我是都选了Generic script x64版本，如果你非常清楚应该如何做的话请自行选择。</p>
+<p>下载来的这两个压缩包可以解压到指定文件夹，然后从终端这里分别cd到这两个目录。</p>
+<p>首先说VNC Server：到这个目录下之后执行</p>
+<div><pre><code><span>sudo</span> ./vncinstall
+<span>sudo</span> vnclicense -add 3TH6P-DV5AE-BLHY6-PNENS-B3AQA
+vncserver :1
+<span>ps</span> -ef <span>|</span> <span>grep</span> vnc <span># 查看进程，如果能正常显示vnc进程的话即是安装成功。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>接下来再说VNC Viewer：</p>
+<div><pre><code><span>sudo</span> ./vncinstall
+<span>cd</span> /usr/bin
+./vncviewer
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时候弹出窗口，按照要求安装即可正常使用。</p>
+<p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
     </item>
     <item>
       <title>Slide page</title>
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 02 Apr 2022 06:13:56 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 06:15:15 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
