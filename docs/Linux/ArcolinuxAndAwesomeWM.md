@@ -1084,3 +1084,15 @@ electron9
 :::
 
 但是凭经验判断, 这大概治标不治本, 所以记一下就现在这里挖个坑, 留一下伏笔.
+
+好吧, 没隔多久还是出毛病了, 这回报错有新的内容了:
+
+::: danger Error
+
+```shell
+4月 02 14:08:04 Arknights kernel: Bluetooth: hci0: Opcode 0x 401 failed: -16
+```
+
+:::
+
+那么怎么解决呢?
