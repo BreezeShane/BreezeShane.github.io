@@ -5,11 +5,11 @@ author: Breeze Shane
 top: false
 toc: true
 mathjax: true
-categories: 
+categories:
  - Linux
  - ArcoLinux
  - AwesomeWM
-tags: 
+tags:
  - Linux
  - Arco Linux
  - Awesome Window Manager
@@ -117,7 +117,7 @@ awful.spawn.with_shell("picom -b --config  $HOME/.config/awesome/picom.conf")
 
 -- Autorun programs
 autorun = true
-autorunApps = 
+autorunApps =
 {
 	-- 你希望运行的软件名（以终端名称为准），格式为"NAME",
     "Example",
@@ -396,7 +396,7 @@ sudo chmod 777 /sys/class/backlight/intel_backlight/brightness
 ```lua
 awful.key({}, "<KEYNAME>", function() awful.util.spawn("<YOUR TERMINAL COMMAND>", false) end),
 awful.key({}, "<KEYNAME>", function () os.execute("<YOUR TERMINAL COMMAND>") end,
-    {description = "<YOUR DISCRIPTION>", group = "<YOUR KEY GROUP NAME>"}), 
+    {description = "<YOUR DISCRIPTION>", group = "<YOUR KEY GROUP NAME>"}),
 -- 如果加上了第三行这部分内容，你将会在帮助窗口中看到它。
 ```
 
@@ -935,7 +935,7 @@ pacman数据库通常位于`/var/lib/pacman/sync`. 对于每一个在`/etc/pacma
 ::: danger Error
 
 ❯ git clone https://github.com/opengauss-mirror/openGauss-OM
-                                                            
+
 Cloning into 'openGauss-OM'...
 /usr/lib/git-core/git-remote-https: /home/breezeshane/openGauss/lib/libcurl.so.4: no version information available (required by /usr/lib/git-core/git-remote-https)
 fatal: unable to access 'https://github.com/opengauss-mirror/openGauss-OM/': error setting certificate verify locations:
@@ -960,15 +960,15 @@ sudo ln -s /etc/ssl/certs/ca-certificates.crt /etc/pki/tls/certs/ca-bundle.crt
 
 ### 多版本CUDA安装与管理
 
-其实这个需求的实现还是比较容易的, 基本思路就是将多个版本的CUDA下载并安装好之后, 建立软链接来由系统调用这个软链接, 这样当我们需要使用什么版本的CUDA, 就只需要修改软链接的指向目标即可. 
+其实这个需求的实现还是比较容易的, 基本思路就是将多个版本的CUDA下载并安装好之后, 建立软链接来由系统调用这个软链接, 这样当我们需要使用什么版本的CUDA, 就只需要修改软链接的指向目标即可.
 
-在这个系统下, CUDA都是安装在`/opt/`目录下的, 如果发现当前你已经有CUDA并且它的目录名字就是CUDA的话, 我们需要先重命名一下, 最好能反映它所代表的版本号(为了便于表述, 我们在这里假定你命名为`cuda-23.3`). 
+在这个系统下, CUDA都是安装在`/opt/`目录下的, 如果发现当前你已经有CUDA并且它的目录名字就是CUDA的话, 我们需要先重命名一下, 最好能反映它所代表的版本号(为了便于表述, 我们在这里假定你命名为`cuda-23.3`).
 
 然后我们需要安装另外一个或几个不同版本的CUDA, 并分别重命名好对应的合适的名字. 最后我们需要执行:
 ```shell
 sudo ln -s /opt/cuda-23.3 /opt/cuda
 ```
-这样系统使用`/opt/cuda`时就是在使用`cuda-23.3`了. 
+这样系统使用`/opt/cuda`时就是在使用`cuda-23.3`了.
 
 当你想切换其他版本的时候, 你需要先删除`/opt/cuda`这个软链接, 然后再重新创建指向别的版本CUDA的软链接即可.
 
@@ -984,7 +984,7 @@ sudo ln -s /opt/cuda-23.3 /opt/cuda
 
 ### 安装Trello时遇到的未知错误(该错误因不了解底细而无法确定名字)
 
-最近不知道干了啥, yay还是出现了错误: 
+最近不知道干了啥, yay还是出现了错误:
 
 ::: danger Error
 
@@ -1059,3 +1059,28 @@ electron9
 果然我是没有Electron11, 于是我只需要安装一下即可, `sudo pacman -S electron11`.
 
 这时候就可以正常安装WakaTime插件了.
+
+### 关于系统内核不能处理DURGOD K330W的蓝牙通信的Bug
+
+不知道大概什么时候开始, 键盘就有些问题了, 连媒体功能键都不能发挥作用, 尝试蓝牙断开再连接甚至删除设备重新连接都不能解决, 于是我只好去查看系统日志, 执行了`journalctl -f`来实时跟进, 结果看到了这个报错:
+
+::: danger Error
+
+```shell
+4月 02 10:05:03 Arknights kernel: Bluetooth: hci0: Opcode 0x2043 failed: -110
+4月 02 10:05:03 Arknights kernel: Bluetooth: hci0: request failed to create LE connection: err -110
+```
+
+:::
+
+我尝试去检索报错, 结果只能匹配到1~3条的结果, 然而还基本都是不相关的. 于是这个报错我停了一天, 想了许久, 感觉实在没啥办法, 却意外找到了相应的解决方法, 这个解决方法的确很离谱, 但亲测有效, 至于为啥能解决我也不懂了.
+
+::: details 解决方法
+
+请一个劲地乱敲键盘, 把你知道的所有快捷键都敲个遍, 就好了.(迫真)
+
+情景还原的话, 当时我是一个劲胡乱按下字母键, 又乱敲多媒体功能键(键盘上是用组合键实现的), 接着我就又敲回去一堆字母, 最后是在输入方向键的时候发现有反应了的, 然后这时候尝试多媒体功能键, 发现有作用了, 遂逐一测试发现一切功能正常.
+
+:::
+
+但是凭经验判断, 这大概治标不治本, 所以记一下就现在这里挖个坑, 留一下伏笔.
