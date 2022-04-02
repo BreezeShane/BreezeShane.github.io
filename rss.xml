@@ -6,19 +6,12 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 01 Apr 2022 13:09:03 GMT</pubDate>
-    <lastBuildDate>Fri, 01 Apr 2022 13:09:03 GMT</lastBuildDate>
+    <pubDate>Sat, 02 Apr 2022 03:10:12 GMT</pubDate>
+    <lastBuildDate>Sat, 02 Apr 2022 03:10:12 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
     <category>使用指南</category>
-    <item>
-      <title>估计、偏差和方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
-    </item>
     <item>
       <title>有关人工智能与机器学习领域的概况</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</link>
@@ -157,6 +150,13 @@
 <hr>
 <p>这些内容大致了解即可，虽然对具体学习任何内容可能没什么帮助，但会有助于你对整个领域的掌控与了解，同时也是拓宽眼界的机会。</p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>估计、偏差和方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
     </item>
     <item>
       <title>促使深度学习发展的挑战</title>
@@ -7703,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8262,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,7 +8285,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8296,7 +8296,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8316,7 +8316,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8327,7 +8327,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8438,18 +8438,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:26:24 GMT</pubDate>
     </item>
     <item>
-      <title>希尔排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">希尔排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:26:36 GMT</pubDate>
-    </item>
-    <item>
       <title>选择排序</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/SelectionSort/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/SelectionSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">选择排序</source>
       <pubDate>Sun, 23 Jan 2022 01:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>希尔排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">希尔排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:26:36 GMT</pubDate>
     </item>
     <item>
       <title>循环链表</title>
@@ -9470,18 +9470,18 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
-      <title>约瑟夫问题</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
-    </item>
-    <item>
       <title>极限反转数问题</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</guid>
       <source url="https://breezeshane.github.io/rss.xml">极限反转数问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>约瑟夫问题</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
     </item>
     <item>
       <title>顺序线性表的一些经典问题</title>
@@ -9903,7 +9903,7 @@ awful<span>.</span>spawn<span>.</span><span>with_shell</span><span>(</span><span
 
 <span>-- Autorun programs</span>
 autorun <span>=</span> <span>true</span>
-autorunApps <span>=</span> 
+autorunApps <span>=</span>
 <span>{</span>
 	<span>-- 你希望运行的软件名（以终端名称为准），格式为"NAME",</span>
     <span>"Example"</span><span>,</span>
@@ -10118,7 +10118,7 @@ awful<span>.</span><span>key</span><span>(</span><span>{</span> <span>}</span><s
 <p>最后在这里我们来提炼一下以上配置按键的内容，配置文件多看一看就能懂了，其实无非就这些事：</p>
 <div><pre><code>awful<span>.</span><span>key</span><span>(</span><span>{</span><span>}</span><span>,</span> <span>"&lt;KEYNAME>"</span><span>,</span> <span>function</span><span>(</span><span>)</span> awful<span>.</span>util<span>.</span><span>spawn</span><span>(</span><span>"&lt;YOUR TERMINAL COMMAND>"</span><span>,</span> <span>false</span><span>)</span> <span>end</span><span>)</span><span>,</span>
 awful<span>.</span><span>key</span><span>(</span><span>{</span><span>}</span><span>,</span> <span>"&lt;KEYNAME>"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> os<span>.</span><span>execute</span><span>(</span><span>"&lt;YOUR TERMINAL COMMAND>"</span><span>)</span> <span>end</span><span>,</span>
-    <span>{</span>description <span>=</span> <span>"&lt;YOUR DISCRIPTION>"</span><span>,</span> group <span>=</span> <span>"&lt;YOUR KEY GROUP NAME>"</span><span>}</span><span>)</span><span>,</span> 
+    <span>{</span>description <span>=</span> <span>"&lt;YOUR DISCRIPTION>"</span><span>,</span> group <span>=</span> <span>"&lt;YOUR KEY GROUP NAME>"</span><span>}</span><span>)</span><span>,</span>
 <span>-- 如果加上了第三行这部分内容，你将会在帮助窗口中看到它。</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><p>提示</p>
@@ -10591,6 +10591,19 @@ electron9
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>果然我是没有Electron11, 于是我只需要安装一下即可, <code>sudo pacman -S electron11</code>.</p>
 <p>这时候就可以正常安装WakaTime插件了.</p>
+<h3 id="关于系统内核不能处理durgod-k330w的蓝牙通信的bug"> 关于系统内核不能处理DURGOD K330W的蓝牙通信的Bug</h3>
+<p>不知道大概什么时候开始, 键盘就有些问题了, 连媒体功能键都不能发挥作用, 尝试蓝牙断开再连接甚至删除设备重新连接都不能解决, 于是我只好去查看系统日志, 执行了<code>journalctl -f</code>来实时跟进, 结果看到了这个报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>4</span>月 02 <span>10</span>:05:03 Arknights kernel: Bluetooth: hci0: Opcode 0x2043 failed: -110
+<span>4</span>月 02 <span>10</span>:05:03 Arknights kernel: Bluetooth: hci0: request failed to create LE connection: err -110
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div></div>
+<p>我尝试去检索报错, 结果只能匹配到1~3条的结果, 然而还基本都是不相关的. 于是这个报错我停了一天, 想了许久, 感觉实在没啥办法, 却意外找到了相应的解决方法, 这个解决方法的确很离谱, 但亲测有效, 至于为啥能解决我也不懂了.</p>
+<details><summary>解决方法</summary>
+<p>请一个劲地乱敲键盘, 把你知道的所有快捷键都敲个遍, 就好了.(迫真)</p>
+<p>情景还原的话, 当时我是一个劲胡乱按下字母键, 又乱敲多媒体功能键(键盘上是用组合键实现的), 接着我就又敲回去一堆字母, 最后是在输入方向键的时候发现有反应了的, 然后这时候尝试多媒体功能键, 发现有作用了, 遂逐一测试发现一切功能正常.</p>
+</details>
+<p>但是凭经验判断, 这大概治标不治本, 所以记一下就现在这里挖个坑, 留一下伏笔.</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
@@ -11115,6 +11128,426 @@ rfkill: Cannot get wiphy information
 </tr>
 </tbody>
 </table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>在Arch系中安装openGauss(全失败过程)</title>
+      <link>https://breezeshane.github.io/Linux/openGauss/</link>
+      <guid>https://breezeshane.github.io/Linux/openGauss/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">在Arch系中安装openGauss(全失败过程)</source>
+      <pubDate>Wed, 30 Mar 2022 18:09:59 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="opengauss下载"> openGauss下载</h2>
+<p>官网至给出了CentOS和Windows系统下的安装包, 但考虑同样是Linux, openGauss也应该可以安装在Arch系上, 故有此笔记.</p>
+<p>去<a href="https://opengauss.org/zh/download.html" target="_blank" rel="noopener noreferrer">官方网站</a>下载CentOS版本的包.</p>
+<h2 id="opengauss安装"> openGauss安装</h2>
+<p>按照官方文档给出的, 我们执行</p>
+<div><pre><code><span>mkdir</span> ~/openGauss <span>&amp;&amp;</span> <span>tar</span> -jxf openGauss-x.x.x-openEuler-64bit.tar.bz2 -C ~/openGauss
+</code></pre>
+<div><span>1</span><br></div></div><div><p>为什么不安装在/opt/openGauss下</p>
+<p>因为<code>/opt</code>目录是归属于root用户组的, 如果安装在这里会导致一系列的权限问题, 有时连<code>chmod 777</code>也不能解决, 因此我建议避开这个问题, 直接安装到普通用户组下的目录.</p>
+</div>
+<p>继续执行:</p>
+<div><pre><code><span>cd</span> ~/openGauss/simpleInstall
+<span>sh</span> install.sh  -w  <span>"xxxx"</span> <span>&amp;&amp;</span> <span>source</span> ~/.bashrc
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后这时候遇到了报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+install.sh: line <span>215</span>: gs_initdb: <span>command</span> not found
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+install.sh: line <span>221</span>: gs_ctl: <span>command</span> not found
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
+<p>看到<code>command not found</code>就可以知道, 这是因为系统不知道这两个程序在哪里, 解决方案自然是手动添加环境变量, 我们在<code>~/.bashrc</code>里的最后一行添加<code>export PATH=&quot;$HOME/openGauss/bin:$PATH&quot;</code>然后执行<code>source ~/.bashrc</code>更新一下. Zsh同理.</p>
+<p>为什么会知道加这个路径能解决? 这是因为我通过执行<code>tree ./ | bat</code>后查找到这两个程序的, 然后就能顺利找到他们所在的位置.</p>
+<p>但这还没完, 又遇到报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+gs_initdb: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+gs_ctl: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
+<p>经过查找资料了解到<code>libreadline.so.6</code>是位于<code>/lib/</code>目录下, 于是我执行<code>ls /lib/ | grep libreadline.so</code>来查看我当前拥有的组件:</p>
+<div><pre><code>libreadline.so
+libreadline.so.8
+libreadline.so.8.1
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>于是我做了一个软链接来解决找不到<code>libreadline.so.6</code>的问题, 执行<code>sudo ln -s /lib/libreadline.so.8 /lib/libreadline.so.6</code>.</p>
+<p>再次运行又遇到了报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+gs_initdb: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+gs_ctl: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
+<p>经过查询是缺少了内核<code>libxcrypt-compat</code>, 安装一下即可.</p>
+<p>再次遇到报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libeSDKOBS.so: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
+The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
+same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
+Check your installation.
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+gs_ctl: error <span>while</span> loading shared libraries: libgssapi_krb5_gauss.so.2: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
+<p>看报错是说<code>libeSDKOBS.so</code>文件找不到了, 可以确定是某环境变量缺少了这个东西的所在目录. 但我不能确定这个文件在哪, 于是先执行了<code>sudo find / -name libeSDKOBS.so</code>来查找, 然后发现:</p>
+<div><pre><code>/home/breezeshane/OpenGauss/lib/libeSDKOBS.so
+/home/breezeshane/openGauss/lib/libeSDKOBS.so
+find: ‘/proc/10096/task/10096/net’: Invalid argument
+find: ‘/proc/10096/net’: Invalid argument
+find: ‘/proc/65449/task/65449/net’: Invalid argument
+find: ‘/proc/65449/net’: Invalid argument
+/run/timeshift/backup/@home/breezeshane/OpenGauss/lib/libeSDKOBS.so
+/run/timeshift/backup/@home/breezeshane/openGauss/lib/libeSDKOBS.so
+find: File system loop detected<span>;</span> ‘/run/timeshift/backup/@’ is part of the same <span>file</span> system loop as ‘/’.
+find: ‘/run/user/1000/doc’: Permission denied
+find: ‘/run/user/1000/gvfs’: Permission denied
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>头两行引起了我的注意, 然后我再查看<code>LD_LIBRARY_PATH</code>环境变量<code>echo $LD_LIBRARY_PATH</code>, 果然发现它没有这个路径, 于是我手动添加了这个环境变量, 执行<code>export LD_LIBRARY_PATH=&quot;$HOME/openGauss/lib:$LD_LIBRARY_PATH&quot;</code>.</p>
+<p>又双遇到了问题:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libncurses.so.5: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
+The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
+same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
+Check your installation.
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
+<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: can't create lock <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/pg_ctl.lock"</span> <span>:</span> No such <span>file</span> or directoryimport sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
+<p>经过查找资料, 确认造成这个问题的原因就是在于版本滞后导致缺失运行库, 我们查看一下当前有的运行库, 执行<code>ls -1 /usr/lib/libncurses*</code>, 在这里我得到的结果是:</p>
+<div><pre><code>/usr/lib/libncurses++.so
+/usr/lib/libncurses.so
+/usr/lib/libncurses++w_g.a
+/usr/lib/libncursesw_g.a
+/usr/lib/libncurses++w.so
+/usr/lib/libncursesw.so
+/usr/lib/libncurses++w.so.6
+/usr/lib/libncursesw.so.6
+/usr/lib/libncurses++w.so.6.3
+/usr/lib/libncursesw.so.6.3
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>接着我们执行</p>
+<div><pre><code><span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libncurses.so.5
+<span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libtinfo.so.5
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>即可解决这个问题.</p>
+<p>最后重新执行即可大功告成, 以下是当时输出的信息:</p>
+<details><summary>Info</summary>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+The files belonging to this database system will be owned by user <span>"breezeshane"</span><span>.</span>
+This user must also own the server process.
+
+The database cluster will be initialized with locale <span>"en_US.UTF-8"</span><span>.</span>
+The default database encoding has accordingly been <span>set</span> to <span>"UTF8"</span><span>.</span>
+The default text search configuration will be <span>set</span> to <span>"english"</span><span>.</span>
+
+creating directory /home/breezeshane/openGauss/data/single_node <span>..</span>. ok
+creating subdirectories <span>..</span>. ok
+selecting default max_connections <span>..</span>. <span>100</span>
+selecting default shared_buffers <span>..</span>. 32MB
+creating configuration files <span>..</span>. ok
+Begin init undo subsystem meta.
+<span>[</span>INIT UNDO<span>]</span> Init undo subsystem meta successfully.
+creating template1 database <span>in</span> /home/breezeshane/openGauss/data/single_node/base/1 <span>..</span>. The core dump path is an invalid directory
+<span>2022</span>-03-30 <span>21</span>:05:33.466 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>139689665127360</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  [BACKEND] WARNING:  macAddr is 39087/1707678456, sysidentifier is 2561631689/452484890, randomNum is 3818217242</span>
+ok
+initializing pg_authid <span>..</span>. ok
+setting password <span>..</span>. ok
+initializing dependencies <span>..</span>. ok
+loading PL/pgSQL server-side language <span>..</span>. ok
+creating system views <span>..</span>. ok
+creating performance views <span>..</span>. ok
+loading system objects<span>' descriptions ... ok
+creating collations ... ok
+creating conversions ... ok
+creating dictionaries ... ok
+setting privileges on built-in objects ... ok
+initialize global configure for bucketmap length ... ok
+creating information schema ... ok
+loading foreign-data wrapper for distfs access ... ok
+loading foreign-data wrapper for hdfs access ... ok
+loading foreign-data wrapper for log access ... ok
+loading hstore extension ... ok
+loading foreign-data wrapper for MOT access ... ok
+loading security plugin ... ok
+update system tables ... ok
+creating snapshots catalog ... ok
+vacuuming database template1 ... ok
+copying template1 to template0 ... ok
+copying template1 to postgres ... ok
+freezing database template0 ... ok
+freezing database template1 ... ok
+freezing database postgres ... ok
+
+WARNING: enabling "trust" authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+--auth-local and --auth-host, the next time you run gs_initdb.
+
+Success. You can now start the database server of single node using:
+
+    gaussdb -D /home/breezeshane/openGauss/data/single_node --single_node
+or
+    gs_ctl start -D /home/breezeshane/openGauss/data/single_node -Z single_node -l logfile
+
+[step 7]: start datanode
+[2022-03-30 21:06:05.221][105616][][gs_ctl]: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
+[2022-03-30 21:06:05.290][105616][][gs_ctl]: waiting for server to start...
+.0 LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.
+	
+0 LOG:  [Alarm Module]Host Name: Arknights 
+	
+0 LOG:  [Alarm Module]Host IP: 127.0.1.1 
+	
+0 LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!
+	
+0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
+	
+0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
+	
+0 WARNING:  not found GAUSSHOME enviroment variable.
+0 WARNING:  failed to open feature control file, please check whether it exists: FileName=gaussdb.version, Errno=2, Errmessage=No such file or directory.
+0 WARNING:  failed to parse feature control file: gaussdb.version.
+0 WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
+The core dump path is an invalid directory
+2022-03-30 21:06:05.422 [unknown] [unknown] localhost 140319329661888 0[0:0#0]  0 [BACKEND] LOG:  when starting as multi_standby mode, we couldn'</span>t support data replicaton.
+gaussdb.state does not exist, and skipt setting since it is optional.2022-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.</span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host Name: Arknights </span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host IP: 127.0.1.1 </span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!</span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
+	
+Get environment of GAUSSHOME failed.
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] FATAL:  Get environment of GAUSSHOME failed.</span>
+	
+<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: waitpid <span>105619</span> failed, exitstatus is <span>256</span>, ret is <span>2</span>
+
+<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: stopped waiting
+<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: could not start server
+Examine the log output.
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+❯ gaussdb
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>can not <span>read</span> GAUSS_WARNING_TYPE env.
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host Name: Arknights 
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host IP: <span>127.0</span>.1.1 
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Get ENV GS_CLUSTER_NAME failed<span>!</span>
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
+	
+<span>0</span> WARNING:  not found GAUSSHOME enviroment variable.
+<span>0</span> WARNING:  failed to <span>open</span> feature control file, please check whether it exists: <span>FileName</span><span>=</span>gaussdb.version, <span>Errno</span><span>=</span><span>2</span>, <span>Errmessage</span><span>=</span>No such <span>file</span> or directory.
+<span>0</span> WARNING:  failed to parse feature control file: gaussdb.version.
+<span>0</span> WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
+The core dump path is an invalid directory
+ <span>0</span> <span>[</span>BACKEND<span>]</span> LOG:  environment variable <span>$PGDATA</span> is NULL or size is out of <span>1024</span>
+	
+ <span>0</span> <span>[</span>BACKEND<span>]</span> FATAL:  Incorrect backend environment variable <span>$PGDATA</span>
+ <span>0</span> <span>[</span>BACKEND<span>]</span> DETAIL:  Please refer to the backend instance log <span>for</span> the detail
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br><span>103</span><br><span>104</span><br><span>105</span><br><span>106</span><br><span>107</span><br><span>108</span><br><span>109</span><br><span>110</span><br><span>111</span><br><span>112</span><br><span>113</span><br><span>114</span><br><span>115</span><br><span>116</span><br><span>117</span><br><span>118</span><br><span>119</span><br><span>120</span><br><span>121</span><br><span>122</span><br><span>123</span><br><span>124</span><br><span>125</span><br><span>126</span><br><span>127</span><br></div></div></details>
+<h2 id="opengauss配置"> openGauss配置</h2>
+<p>安装完成之后我们执行<code>ps ux | grep gaussdb</code>和<code>gs_ctl query -D $HOME/openGauss/data/single_node</code>来查看进程是否正常. 以下是具体输出细节.</p>
+<details><summary>Info</summary>
+<div><pre><code>❯ <span>ps</span> ux <span>|</span> <span>grep</span> gaussdb
+breezes+  <span>107155</span>  <span>0.0</span>  <span>0.0</span>  <span>11536</span>  <span>2676</span> pts/1    S+   <span>21</span>:09   <span>0</span>:00 <span>grep</span> --color<span>=</span>auto gaussdb
+❯ gs_ctl query -D ~/openGauss/data/single_node
+<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl query ,datadir is /home/breezeshane/openGauss/data/single_node 
+<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>:  invalid data <span>in</span> PID <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/postmaster.pid"</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div></details>
+<p>官方文档给出的<code>gs_om</code>是一种专门用来管理openGauss的操作工具, 全称应该是 openGauss Operation Manager, 于是我去搜索了一下这个工具, 果然GitHub上确实有这个工具的源代码, 在这里给出链接: <a href="https://github.com/opengauss-mirror/openGauss-OM" target="_blank" rel="noopener noreferrer">openGauss-OM</a>.</p>
+<p>我们可以拉取下来然后编译构建, 执行:</p>
+<div><pre><code><span>git</span> clone https://github.com/opengauss-mirror/openGauss-OM
+<span>cd</span> openGauss-OM
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>中间出现了小差池, 我误以为那个是<code>gs_om</code>的源代码, 需要我做编译才能得到, 但后来通过<code>tree . | bat</code>查看后发现它其实是一个脚本. 于是我确认它的位置之后, 手动添加了环境变量<code>export PATH=&quot;$HOME/openGauss/openGauss-OM/script:$HOME/openGauss/bin:$PATH&quot;</code>, 这样就可以直接使用<code>gs_om</code>了, 当我执行<code>gs_om -t status --detail</code>时给出了报错: <code>zsh: permission denied: gs_om</code>.</p>
+<p>于是我执行<code>ls -lb openGauss-OM/script</code>来查看相关权限情况的时候, 发现给出的信息是:</p>
+<div><pre><code>total <span>400</span>
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>156</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_diff
+drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>82</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_utils
+drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>62</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 config
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>130</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 domain_utils
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>8916</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_backup
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>64836</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_check
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>60769</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkos
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>10802</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkperf
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>16485</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_collector
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>14625</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_dropnode
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>24871</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_expansion
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>12400</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_install
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>32869</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_om
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>15724</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_postuninstall
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>19588</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_preinstall
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>120</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gspylib
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>9048</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_ssh
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>57267</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_sshexkey
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6347</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_uninstall
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>13305</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_upgradectl
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>196</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 impl
+-rw-r--r-- <span>1</span> breezeshane breezeshane     <span>0</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 __init__.py
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6110</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>killall</span>
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>974</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>local</span>
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>222</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 os_platform
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p>显然<code>gs_om</code>缺少执行权限, 于是我执行<code>sudo chmod o+x openGauss-OM/script/gs_om</code>后即可通过zsh来使用<code>gs_om</code>了.</p>
+<p>但是, 最后我执行<code>gs_om -t status --detail</code>的时候给出了报错:</p>
+<div><p>Real Error</p>
+<div><pre><code>❯ gs_om -t status --detail
+Traceback <span>(</span>most recent call last<span>)</span>:
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gs_om"</span>, line <span>29</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    from gspylib.common.ParameterParsecheck <span>import</span> Parameter
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/ParameterParsecheck.py"</span>, line <span>27</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    from gspylib.common.Common <span>import</span> DefaultValue
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/Common.py"</span>, line <span>96</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    from os_platform.UserPlatform <span>import</span> g_Platform
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>67</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    g_Platform <span>=</span> UserPlatform<span>(</span><span>)</span>.userPlatform
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>48</span>, <span>in</span> __init__
+    raise Exception<span>(</span>ErrorCode.GAUSS_519<span>[</span><span>"GAUSS_51900"</span><span>]</span> +
+Exception: <span>[</span>GAUSS-51900<span>]</span> <span>:</span> The current OS is not supported.Supported platforms are: <span>[</span><span>'suse'</span>, <span>'redhat'</span>, <span>'centos'</span>, <span>'euleros'</span>, <span>'openeuler'</span>, <span>'kylin'</span>, <span>'asianux'</span>, <span>'debian'</span>, <span>'ubuntu'</span><span>]</span>.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div></div>
+<p>我的评价是: 寄!!!</p>
+<p>虽然咱没有现成的, 我们还是可以自行编译的, 不是说毫无希望.</p>
+<h2 id="重整旗鼓"> 重整旗鼓</h2>
+<p>官方文档说要保证以下依赖都已经安装好:</p>
+<div><pre><code>libaio-devel
+ncurses-devel
+pam-devel
+libffi-devel
+python3-devel
+libtool
+libtool-devel 
+libtool-ltdl
+python-devel
+openssl-devel
+bison
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>我亲自搜索考察, 确认是当前系统装有以上依赖. 文档提到需要装gcc7.3和cmake(&gt;=3.16.5), 当前我的状态是cmake满足了条件, 但gcc是11.2.0, 版本差距过大, 又回想到曾经使用Manjaro的时候gcc版本更迭后系统出现了问题, 因此认为gcc11不能直接编译(没有亲自实践过, 如果确实能编译, 欢迎前来指正), 我便转而去安装gcc(7.5.0).</p>
+<blockquote>
+<p>编译要很久的, 如果正好是晚上的话我建议你先睡一觉. 另外提示一下, 这个编译功耗比较大, 如果只有笔记本电源支撑的话建议不要编译.</p>
+</blockquote>
+<p>终于编译完成了, 现在我们下载openGauss的第三方依赖库, 下载完之后我们进行编译, 执行:</p>
+<div><pre><code><span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
+</code></pre>
+<div><span>1</span><br></div></div><p>但事情总不会这样顺利, 再次遇到报错:</p>
+<div><p>Error</p>
+<div><pre><code>❯ <span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
+Cloning into <span>'openGauss-third_party'</span><span>..</span>.
+remote: Enumerating objects: <span>2936</span>, done.
+remote: Counting objects: <span>100</span>% <span>(</span><span>496</span>/496<span>)</span>, done.
+remote: Compressing objects: <span>100</span>% <span>(</span><span>466</span>/466<span>)</span>, done.
+error: <span>8112</span> bytes of body are still expectedB <span>|</span> <span>2.16</span> MiB/s     
+fetch-pack: unexpected disconnect <span>while</span> reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div></div>
+<p>于是我继续查询, 发现它出错的原因是拉取的项目体积过大导致报错，连接中断了. 好吧, 几经折腾才发现其实是网络问题, 换手机热点就能解决了......</p>
+<p>好的, 接下来我们进入到build文件夹下, 按照官方文档给出的那样, 执行<code>sh build_all.sh</code>, 然后看见了这个报错:</p>
+<div><p>Error</p>
+<div><pre><code>❯ <span>sh</span> build_all.sh
+--------------------------------openssl-------------------------------------------------
+Traceback <span>(</span>most recent call last<span>)</span>:
+  File <span>"build.py"</span>, line <span>308</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    Operator.build_mode<span>(</span><span>)</span>
+  File <span>"build.py"</span>, line <span>96</span>, <span>in</span> build_mode
+    self.binary_parser<span>(</span><span>)</span>
+  File <span>"build.py"</span>, line <span>87</span>, <span>in</span> binary_parser
+    assert False
+AssertionError
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div></div>
+<p>不了解发生了什么, 但是又想到这里其实是在编译依赖库, 我既然已经比对好相应的依赖, 不编译也没关系, 于是直接拉取了openGauss-server的源代码试图直接编译.</p>
+<p>最后我遇到了这个报错:</p>
+<div><p>Error</p>
+<div><pre><code>❯ <span>sh</span> build.sh -m release -3rd ~/binarylibs
+ROOT_DIR <span>:</span> /home/breezeshane/openGauss-server
+We only support openEuler<span>(</span>aarch64<span>)</span>, EulerOS<span>(</span>aarch64<span>)</span>, CentOS, Kylin<span>(</span>aarch64<span>)</span> platform.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></div>
+<p>于是我就知道了, 解决这个问题就应该直接去执行:</p>
+<div><pre><code><span>rm</span> -rf openGauss-* binarylibs
+</code></pre>
+<div><span>1</span><br></div></div><p>至此这篇文章就已经结束了(x).</p>
+<h2 id="找到出路"> 找到出路</h2>
+<p>最后我才使用Docker虚拟化技术来完成安装, 只需要执行:</p>
+<div><pre><code>docker pull enmotech/opengauss
+docker run --name opengauss --privileged<span>=</span>true -d -e <span>GS_PASSWORD</span><span>=</span>Enmo@123 -p <span>15432</span>:5432 enmotech/opengauss:latest
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>如果你没有像我上面删掉库的话, 那么在这个情况下你可以直接使用之前安装好的openGauss, 执行:</p>
+<div><pre><code>gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span> -h <span>127.0</span>.0.1 -p15432
+</code></pre>
+<div><span>1</span><br></div></div><p>但如果不幸你删掉了, 也不用再重新折腾一遍, docker这里你还是可以直接使用的, 需要按照顺序继续执行:</p>
+<div><pre><code>docker <span>exec</span> -it opengauss <span>bash</span>
+<span>su</span> - omm
+gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这才是真正的圆满结局.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -12482,517 +12915,6 @@ vncserver :1
       <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
     </item>
     <item>
-      <title>在Arch系中安装openGauss(全失败过程)</title>
-      <link>https://breezeshane.github.io/Linux/openGauss/</link>
-      <guid>https://breezeshane.github.io/Linux/openGauss/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">在Arch系中安装openGauss(全失败过程)</source>
-      <pubDate>Wed, 30 Mar 2022 18:09:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="opengauss下载"> openGauss下载</h2>
-<p>官网至给出了CentOS和Windows系统下的安装包, 但考虑同样是Linux, openGauss也应该可以安装在Arch系上, 故有此笔记.</p>
-<p>去<a href="https://opengauss.org/zh/download.html" target="_blank" rel="noopener noreferrer">官方网站</a>下载CentOS版本的包.</p>
-<h2 id="opengauss安装"> openGauss安装</h2>
-<p>按照官方文档给出的, 我们执行</p>
-<div><pre><code><span>mkdir</span> ~/openGauss <span>&amp;&amp;</span> <span>tar</span> -jxf openGauss-x.x.x-openEuler-64bit.tar.bz2 -C ~/openGauss
-</code></pre>
-<div><span>1</span><br></div></div><div><p>为什么不安装在/opt/openGauss下</p>
-<p>因为<code>/opt</code>目录是归属于root用户组的, 如果安装在这里会导致一系列的权限问题, 有时连<code>chmod 777</code>也不能解决, 因此我建议避开这个问题, 直接安装到普通用户组下的目录.</p>
-</div>
-<p>继续执行:</p>
-<div><pre><code><span>cd</span> ~/openGauss/simpleInstall
-<span>sh</span> install.sh  -w  <span>"xxxx"</span> <span>&amp;&amp;</span> <span>source</span> ~/.bashrc
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后这时候遇到了报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-install.sh: line <span>215</span>: gs_initdb: <span>command</span> not found
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-install.sh: line <span>221</span>: gs_ctl: <span>command</span> not found
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
-<p>看到<code>command not found</code>就可以知道, 这是因为系统不知道这两个程序在哪里, 解决方案自然是手动添加环境变量, 我们在<code>~/.bashrc</code>里的最后一行添加<code>export PATH=&quot;$HOME/openGauss/bin:$PATH&quot;</code>然后执行<code>source ~/.bashrc</code>更新一下. Zsh同理.</p>
-<p>为什么会知道加这个路径能解决? 这是因为我通过执行<code>tree ./ | bat</code>后查找到这两个程序的, 然后就能顺利找到他们所在的位置.</p>
-<p>但这还没完, 又遇到报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-gs_initdb: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-gs_ctl: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
-<p>经过查找资料了解到<code>libreadline.so.6</code>是位于<code>/lib/</code>目录下, 于是我执行<code>ls /lib/ | grep libreadline.so</code>来查看我当前拥有的组件:</p>
-<div><pre><code>libreadline.so
-libreadline.so.8
-libreadline.so.8.1
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>于是我做了一个软链接来解决找不到<code>libreadline.so.6</code>的问题, 执行<code>sudo ln -s /lib/libreadline.so.8 /lib/libreadline.so.6</code>.</p>
-<p>再次运行又遇到了报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-gs_initdb: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-gs_ctl: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
-<p>经过查询是缺少了内核<code>libxcrypt-compat</code>, 安装一下即可.</p>
-<p>再次遇到报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libeSDKOBS.so: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
-The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
-same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
-Check your installation.
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-gs_ctl: error <span>while</span> loading shared libraries: libgssapi_krb5_gauss.so.2: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
-<p>看报错是说<code>libeSDKOBS.so</code>文件找不到了, 可以确定是某环境变量缺少了这个东西的所在目录. 但我不能确定这个文件在哪, 于是先执行了<code>sudo find / -name libeSDKOBS.so</code>来查找, 然后发现:</p>
-<div><pre><code>/home/breezeshane/OpenGauss/lib/libeSDKOBS.so
-/home/breezeshane/openGauss/lib/libeSDKOBS.so
-find: ‘/proc/10096/task/10096/net’: Invalid argument
-find: ‘/proc/10096/net’: Invalid argument
-find: ‘/proc/65449/task/65449/net’: Invalid argument
-find: ‘/proc/65449/net’: Invalid argument
-/run/timeshift/backup/@home/breezeshane/OpenGauss/lib/libeSDKOBS.so
-/run/timeshift/backup/@home/breezeshane/openGauss/lib/libeSDKOBS.so
-find: File system loop detected<span>;</span> ‘/run/timeshift/backup/@’ is part of the same <span>file</span> system loop as ‘/’.
-find: ‘/run/user/1000/doc’: Permission denied
-find: ‘/run/user/1000/gvfs’: Permission denied
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>头两行引起了我的注意, 然后我再查看<code>LD_LIBRARY_PATH</code>环境变量<code>echo $LD_LIBRARY_PATH</code>, 果然发现它没有这个路径, 于是我手动添加了这个环境变量, 执行<code>export LD_LIBRARY_PATH=&quot;$HOME/openGauss/lib:$LD_LIBRARY_PATH&quot;</code>.</p>
-<p>又双遇到了问题:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libncurses.so.5: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
-The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
-same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
-Check your installation.
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
-<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: can't create lock <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/pg_ctl.lock"</span> <span>:</span> No such <span>file</span> or directoryimport sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
-<p>经过查找资料, 确认造成这个问题的原因就是在于版本滞后导致缺失运行库, 我们查看一下当前有的运行库, 执行<code>ls -1 /usr/lib/libncurses*</code>, 在这里我得到的结果是:</p>
-<div><pre><code>/usr/lib/libncurses++.so
-/usr/lib/libncurses.so
-/usr/lib/libncurses++w_g.a
-/usr/lib/libncursesw_g.a
-/usr/lib/libncurses++w.so
-/usr/lib/libncursesw.so
-/usr/lib/libncurses++w.so.6
-/usr/lib/libncursesw.so.6
-/usr/lib/libncurses++w.so.6.3
-/usr/lib/libncursesw.so.6.3
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>接着我们执行</p>
-<div><pre><code><span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libncurses.so.5
-<span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libtinfo.so.5
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>即可解决这个问题.</p>
-<p>最后重新执行即可大功告成, 以下是当时输出的信息:</p>
-<details><summary>Info</summary>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-The files belonging to this database system will be owned by user <span>"breezeshane"</span><span>.</span>
-This user must also own the server process.
-
-The database cluster will be initialized with locale <span>"en_US.UTF-8"</span><span>.</span>
-The default database encoding has accordingly been <span>set</span> to <span>"UTF8"</span><span>.</span>
-The default text search configuration will be <span>set</span> to <span>"english"</span><span>.</span>
-
-creating directory /home/breezeshane/openGauss/data/single_node <span>..</span>. ok
-creating subdirectories <span>..</span>. ok
-selecting default max_connections <span>..</span>. <span>100</span>
-selecting default shared_buffers <span>..</span>. 32MB
-creating configuration files <span>..</span>. ok
-Begin init undo subsystem meta.
-<span>[</span>INIT UNDO<span>]</span> Init undo subsystem meta successfully.
-creating template1 database <span>in</span> /home/breezeshane/openGauss/data/single_node/base/1 <span>..</span>. The core dump path is an invalid directory
-<span>2022</span>-03-30 <span>21</span>:05:33.466 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>139689665127360</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  [BACKEND] WARNING:  macAddr is 39087/1707678456, sysidentifier is 2561631689/452484890, randomNum is 3818217242</span>
-ok
-initializing pg_authid <span>..</span>. ok
-setting password <span>..</span>. ok
-initializing dependencies <span>..</span>. ok
-loading PL/pgSQL server-side language <span>..</span>. ok
-creating system views <span>..</span>. ok
-creating performance views <span>..</span>. ok
-loading system objects<span>' descriptions ... ok
-creating collations ... ok
-creating conversions ... ok
-creating dictionaries ... ok
-setting privileges on built-in objects ... ok
-initialize global configure for bucketmap length ... ok
-creating information schema ... ok
-loading foreign-data wrapper for distfs access ... ok
-loading foreign-data wrapper for hdfs access ... ok
-loading foreign-data wrapper for log access ... ok
-loading hstore extension ... ok
-loading foreign-data wrapper for MOT access ... ok
-loading security plugin ... ok
-update system tables ... ok
-creating snapshots catalog ... ok
-vacuuming database template1 ... ok
-copying template1 to template0 ... ok
-copying template1 to postgres ... ok
-freezing database template0 ... ok
-freezing database template1 ... ok
-freezing database postgres ... ok
-
-WARNING: enabling "trust" authentication for local connections
-You can change this by editing pg_hba.conf or using the option -A, or
---auth-local and --auth-host, the next time you run gs_initdb.
-
-Success. You can now start the database server of single node using:
-
-    gaussdb -D /home/breezeshane/openGauss/data/single_node --single_node
-or
-    gs_ctl start -D /home/breezeshane/openGauss/data/single_node -Z single_node -l logfile
-
-[step 7]: start datanode
-[2022-03-30 21:06:05.221][105616][][gs_ctl]: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
-[2022-03-30 21:06:05.290][105616][][gs_ctl]: waiting for server to start...
-.0 LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.
-	
-0 LOG:  [Alarm Module]Host Name: Arknights 
-	
-0 LOG:  [Alarm Module]Host IP: 127.0.1.1 
-	
-0 LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!
-	
-0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
-	
-0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
-	
-0 WARNING:  not found GAUSSHOME enviroment variable.
-0 WARNING:  failed to open feature control file, please check whether it exists: FileName=gaussdb.version, Errno=2, Errmessage=No such file or directory.
-0 WARNING:  failed to parse feature control file: gaussdb.version.
-0 WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
-The core dump path is an invalid directory
-2022-03-30 21:06:05.422 [unknown] [unknown] localhost 140319329661888 0[0:0#0]  0 [BACKEND] LOG:  when starting as multi_standby mode, we couldn'</span>t support data replicaton.
-gaussdb.state does not exist, and skipt setting since it is optional.2022-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.</span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host Name: Arknights </span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host IP: 127.0.1.1 </span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!</span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
-	
-Get environment of GAUSSHOME failed.
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] FATAL:  Get environment of GAUSSHOME failed.</span>
-	
-<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: waitpid <span>105619</span> failed, exitstatus is <span>256</span>, ret is <span>2</span>
-
-<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: stopped waiting
-<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: could not start server
-Examine the log output.
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-❯ gaussdb
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>can not <span>read</span> GAUSS_WARNING_TYPE env.
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host Name: Arknights 
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host IP: <span>127.0</span>.1.1 
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Get ENV GS_CLUSTER_NAME failed<span>!</span>
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
-	
-<span>0</span> WARNING:  not found GAUSSHOME enviroment variable.
-<span>0</span> WARNING:  failed to <span>open</span> feature control file, please check whether it exists: <span>FileName</span><span>=</span>gaussdb.version, <span>Errno</span><span>=</span><span>2</span>, <span>Errmessage</span><span>=</span>No such <span>file</span> or directory.
-<span>0</span> WARNING:  failed to parse feature control file: gaussdb.version.
-<span>0</span> WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
-The core dump path is an invalid directory
- <span>0</span> <span>[</span>BACKEND<span>]</span> LOG:  environment variable <span>$PGDATA</span> is NULL or size is out of <span>1024</span>
-	
- <span>0</span> <span>[</span>BACKEND<span>]</span> FATAL:  Incorrect backend environment variable <span>$PGDATA</span>
- <span>0</span> <span>[</span>BACKEND<span>]</span> DETAIL:  Please refer to the backend instance log <span>for</span> the detail
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br><span>103</span><br><span>104</span><br><span>105</span><br><span>106</span><br><span>107</span><br><span>108</span><br><span>109</span><br><span>110</span><br><span>111</span><br><span>112</span><br><span>113</span><br><span>114</span><br><span>115</span><br><span>116</span><br><span>117</span><br><span>118</span><br><span>119</span><br><span>120</span><br><span>121</span><br><span>122</span><br><span>123</span><br><span>124</span><br><span>125</span><br><span>126</span><br><span>127</span><br></div></div></details>
-<h2 id="opengauss配置"> openGauss配置</h2>
-<p>安装完成之后我们执行<code>ps ux | grep gaussdb</code>和<code>gs_ctl query -D $HOME/openGauss/data/single_node</code>来查看进程是否正常. 以下是具体输出细节.</p>
-<details><summary>Info</summary>
-<div><pre><code>❯ <span>ps</span> ux <span>|</span> <span>grep</span> gaussdb
-breezes+  <span>107155</span>  <span>0.0</span>  <span>0.0</span>  <span>11536</span>  <span>2676</span> pts/1    S+   <span>21</span>:09   <span>0</span>:00 <span>grep</span> --color<span>=</span>auto gaussdb
-❯ gs_ctl query -D ~/openGauss/data/single_node
-<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl query ,datadir is /home/breezeshane/openGauss/data/single_node 
-<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>:  invalid data <span>in</span> PID <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/postmaster.pid"</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div></details>
-<p>官方文档给出的<code>gs_om</code>是一种专门用来管理openGauss的操作工具, 全称应该是 openGauss Operation Manager, 于是我去搜索了一下这个工具, 果然GitHub上确实有这个工具的源代码, 在这里给出链接: <a href="https://github.com/opengauss-mirror/openGauss-OM" target="_blank" rel="noopener noreferrer">openGauss-OM</a>.</p>
-<p>我们可以拉取下来然后编译构建, 执行:</p>
-<div><pre><code><span>git</span> clone https://github.com/opengauss-mirror/openGauss-OM
-<span>cd</span> openGauss-OM
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>中间出现了小差池, 我误以为那个是<code>gs_om</code>的源代码, 需要我做编译才能得到, 但后来通过<code>tree . | bat</code>查看后发现它其实是一个脚本. 于是我确认它的位置之后, 手动添加了环境变量<code>export PATH=&quot;$HOME/openGauss/openGauss-OM/script:$HOME/openGauss/bin:$PATH&quot;</code>, 这样就可以直接使用<code>gs_om</code>了, 当我执行<code>gs_om -t status --detail</code>时给出了报错: <code>zsh: permission denied: gs_om</code>.</p>
-<p>于是我执行<code>ls -lb openGauss-OM/script</code>来查看相关权限情况的时候, 发现给出的信息是:</p>
-<div><pre><code>total <span>400</span>
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>156</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_diff
-drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>82</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_utils
-drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>62</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 config
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>130</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 domain_utils
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>8916</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_backup
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>64836</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_check
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>60769</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkos
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>10802</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkperf
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>16485</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_collector
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>14625</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_dropnode
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>24871</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_expansion
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>12400</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_install
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>32869</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_om
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>15724</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_postuninstall
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>19588</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_preinstall
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>120</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gspylib
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>9048</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_ssh
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>57267</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_sshexkey
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6347</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_uninstall
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>13305</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_upgradectl
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>196</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 impl
--rw-r--r-- <span>1</span> breezeshane breezeshane     <span>0</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 __init__.py
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6110</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>killall</span>
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>974</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>local</span>
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>222</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 os_platform
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p>显然<code>gs_om</code>缺少执行权限, 于是我执行<code>sudo chmod o+x openGauss-OM/script/gs_om</code>后即可通过zsh来使用<code>gs_om</code>了.</p>
-<p>但是, 最后我执行<code>gs_om -t status --detail</code>的时候给出了报错:</p>
-<div><p>Real Error</p>
-<div><pre><code>❯ gs_om -t status --detail
-Traceback <span>(</span>most recent call last<span>)</span>:
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gs_om"</span>, line <span>29</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    from gspylib.common.ParameterParsecheck <span>import</span> Parameter
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/ParameterParsecheck.py"</span>, line <span>27</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    from gspylib.common.Common <span>import</span> DefaultValue
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/Common.py"</span>, line <span>96</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    from os_platform.UserPlatform <span>import</span> g_Platform
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>67</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    g_Platform <span>=</span> UserPlatform<span>(</span><span>)</span>.userPlatform
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>48</span>, <span>in</span> __init__
-    raise Exception<span>(</span>ErrorCode.GAUSS_519<span>[</span><span>"GAUSS_51900"</span><span>]</span> +
-Exception: <span>[</span>GAUSS-51900<span>]</span> <span>:</span> The current OS is not supported.Supported platforms are: <span>[</span><span>'suse'</span>, <span>'redhat'</span>, <span>'centos'</span>, <span>'euleros'</span>, <span>'openeuler'</span>, <span>'kylin'</span>, <span>'asianux'</span>, <span>'debian'</span>, <span>'ubuntu'</span><span>]</span>.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div></div>
-<p>我的评价是: 寄!!!</p>
-<p>虽然咱没有现成的, 我们还是可以自行编译的, 不是说毫无希望.</p>
-<h2 id="重整旗鼓"> 重整旗鼓</h2>
-<p>官方文档说要保证以下依赖都已经安装好:</p>
-<div><pre><code>libaio-devel
-ncurses-devel
-pam-devel
-libffi-devel
-python3-devel
-libtool
-libtool-devel 
-libtool-ltdl
-python-devel
-openssl-devel
-bison
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>我亲自搜索考察, 确认是当前系统装有以上依赖. 文档提到需要装gcc7.3和cmake(&gt;=3.16.5), 当前我的状态是cmake满足了条件, 但gcc是11.2.0, 版本差距过大, 又回想到曾经使用Manjaro的时候gcc版本更迭后系统出现了问题, 因此认为gcc11不能直接编译(没有亲自实践过, 如果确实能编译, 欢迎前来指正), 我便转而去安装gcc(7.5.0).</p>
-<blockquote>
-<p>编译要很久的, 如果正好是晚上的话我建议你先睡一觉. 另外提示一下, 这个编译功耗比较大, 如果只有笔记本电源支撑的话建议不要编译.</p>
-</blockquote>
-<p>终于编译完成了, 现在我们下载openGauss的第三方依赖库, 下载完之后我们进行编译, 执行:</p>
-<div><pre><code><span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
-</code></pre>
-<div><span>1</span><br></div></div><p>但事情总不会这样顺利, 再次遇到报错:</p>
-<div><p>Error</p>
-<div><pre><code>❯ <span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
-Cloning into <span>'openGauss-third_party'</span><span>..</span>.
-remote: Enumerating objects: <span>2936</span>, done.
-remote: Counting objects: <span>100</span>% <span>(</span><span>496</span>/496<span>)</span>, done.
-remote: Compressing objects: <span>100</span>% <span>(</span><span>466</span>/466<span>)</span>, done.
-error: <span>8112</span> bytes of body are still expectedB <span>|</span> <span>2.16</span> MiB/s     
-fetch-pack: unexpected disconnect <span>while</span> reading sideband packet
-fatal: early EOF
-fatal: fetch-pack: invalid index-pack output
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div></div>
-<p>于是我继续查询, 发现它出错的原因是拉取的项目体积过大导致报错，连接中断了. 好吧, 几经折腾才发现其实是网络问题, 换手机热点就能解决了......</p>
-<p>好的, 接下来我们进入到build文件夹下, 按照官方文档给出的那样, 执行<code>sh build_all.sh</code>, 然后看见了这个报错:</p>
-<div><p>Error</p>
-<div><pre><code>❯ <span>sh</span> build_all.sh
---------------------------------openssl-------------------------------------------------
-Traceback <span>(</span>most recent call last<span>)</span>:
-  File <span>"build.py"</span>, line <span>308</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    Operator.build_mode<span>(</span><span>)</span>
-  File <span>"build.py"</span>, line <span>96</span>, <span>in</span> build_mode
-    self.binary_parser<span>(</span><span>)</span>
-  File <span>"build.py"</span>, line <span>87</span>, <span>in</span> binary_parser
-    assert False
-AssertionError
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div></div>
-<p>不了解发生了什么, 但是又想到这里其实是在编译依赖库, 我既然已经比对好相应的依赖, 不编译也没关系, 于是直接拉取了openGauss-server的源代码试图直接编译.</p>
-<p>最后我遇到了这个报错:</p>
-<div><p>Error</p>
-<div><pre><code>❯ <span>sh</span> build.sh -m release -3rd ~/binarylibs
-ROOT_DIR <span>:</span> /home/breezeshane/openGauss-server
-We only support openEuler<span>(</span>aarch64<span>)</span>, EulerOS<span>(</span>aarch64<span>)</span>, CentOS, Kylin<span>(</span>aarch64<span>)</span> platform.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></div>
-<p>于是我就知道了, 解决这个问题就应该直接去执行:</p>
-<div><pre><code><span>rm</span> -rf openGauss-* binarylibs
-</code></pre>
-<div><span>1</span><br></div></div><p>至此这篇文章就已经结束了(x).</p>
-<h2 id="找到出路"> 找到出路</h2>
-<p>最后我才使用Docker虚拟化技术来完成安装, 只需要执行:</p>
-<div><pre><code>docker pull enmotech/opengauss
-docker run --name opengauss --privileged<span>=</span>true -d -e <span>GS_PASSWORD</span><span>=</span>Enmo@123 -p <span>15432</span>:5432 enmotech/opengauss:latest
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>如果你没有像我上面删掉库的话, 那么在这个情况下你可以直接使用之前安装好的openGauss, 执行:</p>
-<div><pre><code>gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span> -h <span>127.0</span>.0.1 -p15432
-</code></pre>
-<div><span>1</span><br></div></div><p>但如果不幸你删掉了, 也不用再重新折腾一遍, docker这里你还是可以直接使用的, 需要按照顺序继续执行:</p>
-<div><pre><code>docker <span>exec</span> -it opengauss <span>bash</span>
-<span>su</span> - omm
-gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这才是真正的圆满结局.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Crawler</title>
-      <link>https://breezeshane.github.io/Python/Crawler/</link>
-      <guid>https://breezeshane.github.io/Python/Crawler/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Crawler</source>
-      <pubDate>Mon, 07 Jun 2021 20:47:07 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
-<h2 id="前言"> 前言</h2>
-<p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
-<p>在学过网络爬虫这一版块的内容之后，我发现网络爬虫本就没有那么神秘，说到底，不过是进入某一网络站点获取源码，再利用其他技术来爬取我们需要的信息。而且，我发现，到目前这个学习阶段为止，网络爬虫只是一种具备针对性的工具，也就是说当你需要获取某种数据时，你要做的工作首先就是要在目标网络站点上“踩点”——剖析目标网站的结构，并在其中找出你希望找到的目标。然后从此设计你的爬虫程序。</p>
-<p>写爬虫工具常用的包有requests、beautifulsoup4、Asyncio、Aiohttp和Selenium等，皆可通过pip3安装。另外有看见关于Scrapy爬虫库的介绍，目前还没有学。</p>
-<h2 id="beautifulsoup"> BeautifulSoup</h2>
-<blockquote>
-<p>此处参考的是<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/" target="_blank" rel="noopener noreferrer">BeautifulSoup4 官方文档</a></p>
-</blockquote>
-<p>使用之前要先安装，执行<code>pip install beautifulsoup4 lxml html5lib</code>来完成安装「其中最后两个是解析器，可以选择不安装」。</p>
-<p>使用BeautifulSoup时需要提前引用相关的包，并且获取目标网站的网页：</p>
-<div><pre><code><span>from</span> bs4 <span>import</span> BeautifulSoup <span>as</span> bs
-<span>from</span> urllib<span>.</span>request <span>import</span> urlopen
-
-web_page <span>=</span> urlopen<span>(</span><span>"https://breezeshane.github.io/index.html"</span><span>)</span><span>.</span>read<span>(</span><span>)</span><span>.</span>decode<span>(</span><span>'utf-8'</span><span>)</span>
-soup <span>=</span> bs<span>(</span>web_page<span>,</span> features<span>=</span><span>'lxml'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>而且对Python友好的是，我们获取来的一切标签，皆可按照Python字典的操作方式操作标签。「而这一点官方文档也再三强调。」</p>
-<p>若希望查找所有某名字的标签时，可以使用find_all方法查找，使用样例如下：</p>
-<div><pre><code>href <span>=</span> soup<span>.</span>find_all<span>(</span><span>'a'</span><span>)</span>
-links <span>=</span> <span>[</span>link<span>[</span><span>'href'</span><span>]</span> <span>for</span> link <span>in</span> href<span>]</span>
-<span>print</span><span>(</span>links<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这里的href就可以获取一切标签<code>&lt;a&gt;</code>，而如果只是希望获取其中的链接，则可使用第二行代码来生成只含有链接的列表。</p>
-<p>另外，值得注意的是，find_all方法支持正则表达式，但需要引用re包，在第一行插入<code>import re</code>。Example：<code>href = soup.find_all(re.compile(&quot;^li&quot;))</code>，这表示寻找以“li”开头的所有标签，而如果希望寻找包含“li”的标签，则需写成：<code>href = soup.find_all(re.compile(&quot;li&quot;))</code></p>
-<p>同时，find_all方法还支持一次性获取多个类型标签，只消用逗号隔开即可。Example：<code>href = soup.find_all([&quot;link&quot;, &quot;script&quot;])</code></p>
-<p>如果想查找指定属性以及其对应的值的话，可以使用<code>soup.find_all('link', {&quot;mode&quot; : &quot;dark&quot;})</code>，这表示寻找包含<code>mode=&quot;dark&quot;</code>的link标签。</p>
-<p>还有一个比较有用的标签属性——has_attr属性，可以判断该标签是否含有指定属性，是则返回True，否则为False。</p>
-<p>更多具体细节可以直接查询官方文档，本文就不作赘述。</p>
-<h2 id="requests"> Requests</h2>
-<blockquote>
-<p>此处参考<a href="https://cn.python-requests.org/zh_CN/latest/" target="_blank" rel="noopener noreferrer">Requests 官方文档</a></p>
-</blockquote>
-<p>传递URL参数时，可以写如下代码「此处以模拟Bing搜索为例」：</p>
-<div><pre><code><span>import</span> requests
-
-r <span>=</span> requests<span>.</span>get<span>(</span><span>'https://www.bing.com/search'</span><span>,</span> params<span>=</span> <span>{</span><span>"q"</span><span>:</span> <span>"BreezeShane"</span><span>}</span><span>)</span>
-<span>print</span><span>(</span>r<span>.</span>url<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其他功能相对来说较为复杂并且信息量也挺大，但很完善，因此要经常翻看官方文档，写爬虫时如果有什么需求再来查就好了。</p>
-<h2 id="asyncio-在学了在学了-tot"> Asyncio（在学了在学了(ToT)）</h2>
-<blockquote>
-<p>此处参考<a href="https://docs.python.org/zh-cn/3/library/asyncio.html" target="_blank" rel="noopener noreferrer">Asyncio 官方文档</a></p>
-</blockquote>
-<p>Asyncio是异步加载库，虽说是单线程，但在较多场合情况下优胜于多线程，而我们如果需要爬取大量数据的话，异步加载还是有必要学的。从官方文档中我们也发现，学到这就已经接触了Python并发编程技术。</p>
-<p>官方给出了一个程序示例：</p>
-<div><pre><code><span>import</span> asyncio
-
-<span>async</span> <span>def</span> <span>main</span><span>(</span><span>)</span><span>:</span>
-    <span>print</span><span>(</span><span>'Hello ...'</span><span>)</span>
-    <span>await</span> asyncio<span>.</span>sleep<span>(</span><span>1</span><span>)</span>
-    <span>print</span><span>(</span><span>'... World!'</span><span>)</span>
-
-<span># Python 3.7+</span>
-asyncio<span>.</span>run<span>(</span>main<span>(</span><span>)</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>上面的Asyncio Example并不难理解，async表示后面定义的函数是异步加载的模块，await一行表示执行该函数时暂停等待1秒。实际上这个就基本给出了Asyncio的使用模板。如果你希望实现什么功能，自行添加自己的代码即可，就像Movant写的程序：</p>
-<div><pre><code><span>import</span> asyncio
-
-
-<span>async</span> <span>def</span> <span>job</span><span>(</span>t<span>)</span><span>:</span>                   <span># async 形式的功能</span>
-    <span>print</span><span>(</span><span>'Start job '</span><span>,</span> t<span>)</span>
-    <span>await</span> asyncio<span>.</span>sleep<span>(</span>t<span>)</span>          <span># 等待 "t" 秒, 期间切换其他任务</span>
-    <span>print</span><span>(</span><span>'Job '</span><span>,</span> t<span>,</span> <span>' takes '</span><span>,</span> t<span>,</span> <span>' s'</span><span>)</span>
-
-
-<span>async</span> <span>def</span> <span>main</span><span>(</span>loop<span>)</span><span>:</span>                       <span># async 形式的功能</span>
-    tasks <span>=</span> <span>[</span>
-    loop<span>.</span>create_task<span>(</span>job<span>(</span>t<span>)</span><span>)</span> <span>for</span> t <span>in</span> <span>range</span><span>(</span><span>1</span><span>,</span> <span>3</span><span>)</span>
-    <span>]</span>                                       <span># 创建任务, 但是不执行</span>
-    <span>await</span> asyncio<span>.</span>wait<span>(</span>tasks<span>)</span>               <span># 执行并等待所有任务完成</span>
-
-t1 <span>=</span> time<span>.</span>time<span>(</span><span>)</span>
-loop <span>=</span> asyncio<span>.</span>get_event_loop<span>(</span><span>)</span>             <span># 建立 loop</span>
-loop<span>.</span>run_until_complete<span>(</span>main<span>(</span>loop<span>)</span><span>)</span>         <span># 执行 loop</span>
-loop<span>.</span>close<span>(</span><span>)</span>                                <span># 关闭 loop</span>
-<span>print</span><span>(</span><span>"Async total time : "</span><span>,</span> time<span>.</span>time<span>(</span><span>)</span> <span>-</span> t1<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>写的程序蛮简单，但Asyncio实际上远不止如此。</p>
-<p>更多的用法可以直接去阅读文档，本人精力有限，而且意图也不在于深入精通网络爬虫，只是希望满足自己的需求而已，就不会在此继续讨论Asyncio了。如果过后遇到了什么问题，解决之后还是会回来记录一下。</p>
-<h2 id="aiohttp-在学了在学了-tot"> Aiohttp（在学了在学了(ToT)）</h2>
-<h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
-    </item>
-    <item>
       <title>Building Up Servicer</title>
       <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
       <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
@@ -13094,6 +13016,97 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
 <p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Crawler</title>
+      <link>https://breezeshane.github.io/Python/Crawler/</link>
+      <guid>https://breezeshane.github.io/Python/Crawler/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Crawler</source>
+      <pubDate>Mon, 07 Jun 2021 20:47:07 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
+<h2 id="前言"> 前言</h2>
+<p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
+<p>在学过网络爬虫这一版块的内容之后，我发现网络爬虫本就没有那么神秘，说到底，不过是进入某一网络站点获取源码，再利用其他技术来爬取我们需要的信息。而且，我发现，到目前这个学习阶段为止，网络爬虫只是一种具备针对性的工具，也就是说当你需要获取某种数据时，你要做的工作首先就是要在目标网络站点上“踩点”——剖析目标网站的结构，并在其中找出你希望找到的目标。然后从此设计你的爬虫程序。</p>
+<p>写爬虫工具常用的包有requests、beautifulsoup4、Asyncio、Aiohttp和Selenium等，皆可通过pip3安装。另外有看见关于Scrapy爬虫库的介绍，目前还没有学。</p>
+<h2 id="beautifulsoup"> BeautifulSoup</h2>
+<blockquote>
+<p>此处参考的是<a href="https://www.crummy.com/software/BeautifulSoup/bs4/doc.zh/" target="_blank" rel="noopener noreferrer">BeautifulSoup4 官方文档</a></p>
+</blockquote>
+<p>使用之前要先安装，执行<code>pip install beautifulsoup4 lxml html5lib</code>来完成安装「其中最后两个是解析器，可以选择不安装」。</p>
+<p>使用BeautifulSoup时需要提前引用相关的包，并且获取目标网站的网页：</p>
+<div><pre><code><span>from</span> bs4 <span>import</span> BeautifulSoup <span>as</span> bs
+<span>from</span> urllib<span>.</span>request <span>import</span> urlopen
+
+web_page <span>=</span> urlopen<span>(</span><span>"https://breezeshane.github.io/index.html"</span><span>)</span><span>.</span>read<span>(</span><span>)</span><span>.</span>decode<span>(</span><span>'utf-8'</span><span>)</span>
+soup <span>=</span> bs<span>(</span>web_page<span>,</span> features<span>=</span><span>'lxml'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>而且对Python友好的是，我们获取来的一切标签，皆可按照Python字典的操作方式操作标签。「而这一点官方文档也再三强调。」</p>
+<p>若希望查找所有某名字的标签时，可以使用find_all方法查找，使用样例如下：</p>
+<div><pre><code>href <span>=</span> soup<span>.</span>find_all<span>(</span><span>'a'</span><span>)</span>
+links <span>=</span> <span>[</span>link<span>[</span><span>'href'</span><span>]</span> <span>for</span> link <span>in</span> href<span>]</span>
+<span>print</span><span>(</span>links<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这里的href就可以获取一切标签<code>&lt;a&gt;</code>，而如果只是希望获取其中的链接，则可使用第二行代码来生成只含有链接的列表。</p>
+<p>另外，值得注意的是，find_all方法支持正则表达式，但需要引用re包，在第一行插入<code>import re</code>。Example：<code>href = soup.find_all(re.compile(&quot;^li&quot;))</code>，这表示寻找以“li”开头的所有标签，而如果希望寻找包含“li”的标签，则需写成：<code>href = soup.find_all(re.compile(&quot;li&quot;))</code></p>
+<p>同时，find_all方法还支持一次性获取多个类型标签，只消用逗号隔开即可。Example：<code>href = soup.find_all([&quot;link&quot;, &quot;script&quot;])</code></p>
+<p>如果想查找指定属性以及其对应的值的话，可以使用<code>soup.find_all('link', {&quot;mode&quot; : &quot;dark&quot;})</code>，这表示寻找包含<code>mode=&quot;dark&quot;</code>的link标签。</p>
+<p>还有一个比较有用的标签属性——has_attr属性，可以判断该标签是否含有指定属性，是则返回True，否则为False。</p>
+<p>更多具体细节可以直接查询官方文档，本文就不作赘述。</p>
+<h2 id="requests"> Requests</h2>
+<blockquote>
+<p>此处参考<a href="https://cn.python-requests.org/zh_CN/latest/" target="_blank" rel="noopener noreferrer">Requests 官方文档</a></p>
+</blockquote>
+<p>传递URL参数时，可以写如下代码「此处以模拟Bing搜索为例」：</p>
+<div><pre><code><span>import</span> requests
+
+r <span>=</span> requests<span>.</span>get<span>(</span><span>'https://www.bing.com/search'</span><span>,</span> params<span>=</span> <span>{</span><span>"q"</span><span>:</span> <span>"BreezeShane"</span><span>}</span><span>)</span>
+<span>print</span><span>(</span>r<span>.</span>url<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其他功能相对来说较为复杂并且信息量也挺大，但很完善，因此要经常翻看官方文档，写爬虫时如果有什么需求再来查就好了。</p>
+<h2 id="asyncio-在学了在学了-tot"> Asyncio（在学了在学了(ToT)）</h2>
+<blockquote>
+<p>此处参考<a href="https://docs.python.org/zh-cn/3/library/asyncio.html" target="_blank" rel="noopener noreferrer">Asyncio 官方文档</a></p>
+</blockquote>
+<p>Asyncio是异步加载库，虽说是单线程，但在较多场合情况下优胜于多线程，而我们如果需要爬取大量数据的话，异步加载还是有必要学的。从官方文档中我们也发现，学到这就已经接触了Python并发编程技术。</p>
+<p>官方给出了一个程序示例：</p>
+<div><pre><code><span>import</span> asyncio
+
+<span>async</span> <span>def</span> <span>main</span><span>(</span><span>)</span><span>:</span>
+    <span>print</span><span>(</span><span>'Hello ...'</span><span>)</span>
+    <span>await</span> asyncio<span>.</span>sleep<span>(</span><span>1</span><span>)</span>
+    <span>print</span><span>(</span><span>'... World!'</span><span>)</span>
+
+<span># Python 3.7+</span>
+asyncio<span>.</span>run<span>(</span>main<span>(</span><span>)</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div><p>上面的Asyncio Example并不难理解，async表示后面定义的函数是异步加载的模块，await一行表示执行该函数时暂停等待1秒。实际上这个就基本给出了Asyncio的使用模板。如果你希望实现什么功能，自行添加自己的代码即可，就像Movant写的程序：</p>
+<div><pre><code><span>import</span> asyncio
+
+
+<span>async</span> <span>def</span> <span>job</span><span>(</span>t<span>)</span><span>:</span>                   <span># async 形式的功能</span>
+    <span>print</span><span>(</span><span>'Start job '</span><span>,</span> t<span>)</span>
+    <span>await</span> asyncio<span>.</span>sleep<span>(</span>t<span>)</span>          <span># 等待 "t" 秒, 期间切换其他任务</span>
+    <span>print</span><span>(</span><span>'Job '</span><span>,</span> t<span>,</span> <span>' takes '</span><span>,</span> t<span>,</span> <span>' s'</span><span>)</span>
+
+
+<span>async</span> <span>def</span> <span>main</span><span>(</span>loop<span>)</span><span>:</span>                       <span># async 形式的功能</span>
+    tasks <span>=</span> <span>[</span>
+    loop<span>.</span>create_task<span>(</span>job<span>(</span>t<span>)</span><span>)</span> <span>for</span> t <span>in</span> <span>range</span><span>(</span><span>1</span><span>,</span> <span>3</span><span>)</span>
+    <span>]</span>                                       <span># 创建任务, 但是不执行</span>
+    <span>await</span> asyncio<span>.</span>wait<span>(</span>tasks<span>)</span>               <span># 执行并等待所有任务完成</span>
+
+t1 <span>=</span> time<span>.</span>time<span>(</span><span>)</span>
+loop <span>=</span> asyncio<span>.</span>get_event_loop<span>(</span><span>)</span>             <span># 建立 loop</span>
+loop<span>.</span>run_until_complete<span>(</span>main<span>(</span>loop<span>)</span><span>)</span>         <span># 执行 loop</span>
+loop<span>.</span>close<span>(</span><span>)</span>                                <span># 关闭 loop</span>
+<span>print</span><span>(</span><span>"Async total time : "</span><span>,</span> time<span>.</span>time<span>(</span><span>)</span> <span>-</span> t1<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br></div></div><p>写的程序蛮简单，但Asyncio实际上远不止如此。</p>
+<p>更多的用法可以直接去阅读文档，本人精力有限，而且意图也不在于深入精通网络爬虫，只是希望满足自己的需求而已，就不会在此继续讨论Asyncio了。如果过后遇到了什么问题，解决之后还是会回来记录一下。</p>
+<h2 id="aiohttp-在学了在学了-tot"> Aiohttp（在学了在学了(ToT)）</h2>
+<h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>数据库</title>
@@ -13281,6 +13294,151 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>简单的网页前后端搭建过程</title>
+      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
+      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
+      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
+<h3 id="html"> HTML</h3>
+<p><strong>HTML设置字体：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
+<span><span><span>&lt;/</span>form</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
+<h3 id="css"> CSS</h3>
+<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
+<p>CSS选择器：</p>
+<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
+<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
+<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
+<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
+<span>background-position</span><span>:</span> center center<span>;</span>
+<span>background-attachment</span><span>:</span> fixed<span>;</span>
+<span>background-size</span><span>:</span> cover<span>;</span>
+<span>margin</span><span>:</span> 0<span>;</span>
+<span>position</span><span>:</span> relative<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
+<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
+<span>top</span><span>:</span> 50%<span>;</span>
+<span>left</span><span>:</span> 50%<span>;</span>
+<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
+<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
+<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
+<h3 id="javascript"> JavaScript</h3>
+<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
+<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
+    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
+    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
+    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
+	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
+
+    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
+	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
+
+    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
+        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
+        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
+        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
+            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
+            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
+        <span>}</span>
+        file_num <span>=</span> fileList<span>.</span>length
+        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
+            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
+                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
+            <span>}</span>
+            <span>// 以下定义了前端传输的相关信息。</span>
+            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
+                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
+                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
+                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
+                processData<span>:</span> <span>false</span><span>,</span> 
+                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
+                contentType<span>:</span> <span>false</span><span>,</span>
+                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
+                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
+                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
+                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
+                    <span>//后续的两行代码则是修改相应控件的数据。</span>
+                <span>}</span><span>,</span>
+                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
+                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
+                <span>}</span>
+            <span>}</span><span>)</span>
+        <span>}</span>
+    <span>}</span><span>)</span><span>;</span>
+
+    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
+        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
+        <span>// 直接触发选择文件的点击事件。</span>
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
+<p>使用后端flask之前需要先做好配置：</p>
+<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
+<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
+
+app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
+<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
+    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
+<blockquote>
+<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
+</blockquote>
+<p>调用flask_uploads包后要做如下的配置：</p>
+<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
+configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
+patch_request_class<span>(</span>app<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
+<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
+<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
+<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
+    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
+    file_urls <span>=</span> <span>[</span><span>]</span>
+    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
+    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
+        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
+        fileList<span>.</span>append<span>(</span>filename<span>)</span>
+        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
+    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
+    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
+    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
+<p>「注」：以上所有代码都是项目的主要部分。</p>
+</blockquote>
+<p>最后将整个前后端写好之后，就可以正常执行了！</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>在受限的网站里强制复制粘贴</title>
       <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
       <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
@@ -13362,6 +13520,130 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
 </code></pre>
 <div><span>1</span><br></div></div>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
+    </item>
+    <item>
+      <title>MySQL初步使用</title>
+      <link>https://breezeshane.github.io/Web/MySQL/</link>
+      <guid>https://breezeshane.github.io/Web/MySQL/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">MySQL初步使用</source>
+      <pubDate>Thu, 03 Mar 2022 20:06:48 GMT</pubDate>
+      <content:encoded><![CDATA[<details><summary>参考</summary>
+<p><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a>
+<a href="https://www.runoob.com/mysql/mysql-create-tables.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据表</a>
+<a href="http://c.biancheng.net/view/2430.html" target="_blank" rel="noopener noreferrer">MySQL创建数据表（CREATE TABLE语句）</a>
+<a href="https://www.runoob.com/mysql/mysql-data-types.html" target="_blank" rel="noopener noreferrer">MySQL 数据类型</a>
+<a href="https://www.cnblogs.com/Braveliu/p/10728162.html" target="_blank" rel="noopener noreferrer">Mysql 导入文件提示 --secure-file-priv option 问题</a>
+<a href="https://blog.csdn.net/fdipzone/article/details/52705507" target="_blank" rel="noopener noreferrer">mysql 查看当前使用的配置文件my.cnf的方法</a>
+<a href="https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group" target="_blank" rel="noopener noreferrer">MySQL my.cnf file - Found option without preceding group</a>
+<a href="https://blog.csdn.net/qq_32834005/article/details/110443574" target="_blank" rel="noopener noreferrer">解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the</a>
+<a href="https://zhuanlan.zhihu.com/p/26964403" target="_blank" rel="noopener noreferrer">Mysql——将CSV文件导入表中</a>
+<a href="https://blog.csdn.net/qq_29229567/article/details/82743645" target="_blank" rel="noopener noreferrer">MYSQL：如何清空表中的数据</a>
+<a href="https://www.runoob.com/mysql/mysql-drop-tables.html" target="_blank" rel="noopener noreferrer">MySQL 删除数据表</a></p>
+</details>
+<h2 id="mysql安装与配置"> MySQL安装与配置</h2>
+<p>近期上课需要使用MySQL，因此我需要提前做好配置，特此一记：</p>
+<p>安装仅需一步：</p>
+<div><pre><code><span>sudo</span> pacman -S mysql
+</code></pre>
+<div><span>1</span><br></div></div><p>然后就可以开始进行配置，按照其输出的内容，我们执行：</p>
+<div><pre><code><span>sudo</span> mysqld --initialize --user<span>=</span>mysql --basedir<span>=</span>/usr --datadir<span>=</span>/var/lib/mysql
+</code></pre>
+<div><span>1</span><br></div></div><div><p>提示</p>
+<p>如果遇到如下报错：</p>
+<div><pre><code>mysqld: Can<span>'t create directory '</span>/var/lib/mysql/<span>' (OS errno 17 - File exists)
+2022-03-03T00:15:00.207164Z 0 [Warning] [MY-010915] [Server] '</span>NO_ZERO_DATE<span>', '</span>NO_ZERO_IN_DATE<span>' and '</span>ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode <span>in</span> a future release.
+<span>2022</span>-03-03T00:15:00.207238Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-013169<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld <span>(</span>mysqld <span>8.0</span>.28<span>)</span> initializing of server <span>in</span> progress as process <span>283212</span>
+<span>2022</span>-03-03T00:15:00.209622Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-013236<span>]</span> <span>[</span>Server<span>]</span> The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+<span>2022</span>-03-03T00:15:00.209733Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-010119<span>]</span> <span>[</span>Server<span>]</span> Aborting
+<span>2022</span>-03-03T00:15:00.209929Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-010910<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld: Shutdown complete <span>(</span>mysqld <span>8.0</span>.28<span>)</span>  Source distribution.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>什么也不用考虑，删除掉<code>/var/lib/mysql/</code>这个文件夹即可</p>
+</div>
+<p>命令执行成功后请留意一下输出的内容，这里会给你默认的MySQL用户及其密码，我们需要特别记下这两个。</p>
+<p>然后就需要启动MySQL服务，执行这两个命令：</p>
+<div><pre><code><span>sudo</span> systemctl <span>enable</span> mysqld
+<span>sudo</span> systemctl start mysqld
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>以普遍的理性而言，这类的密码是反人类的，因此我们需要修改一下登录密码，先执行这个命令来连接数据库：</p>
+<div><pre><code>mysql -uroot -p
+</code></pre>
+<div><span>1</span><br></div></div><p>然后输入刚才记下的那个复杂的密码，便可成功连接。</p>
+<p>在这时你执行命令<code>use mysql;</code>会得到类似这样的提示：</p>
+<div><pre><code>ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
+</code></pre>
+<div><span>1</span><br></div></div><p>所以我们可以根据提示执行这个命令：</p>
+<div><pre><code>ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED WITH mysql_native_password BY &#39;新密码&#39;;
+</code></pre>
+<div><span>1</span><br></div></div><p>这样就可以成功修改密码了，MySQL的安装与配置也到此结束了。</p>
+<h2 id="mysql初步使用"> MySQL初步使用</h2>
+<p>首先我们先连接数据库。要使用数据库，就需要先从新建数据库开始，搜过之后，就知道要使用下面一系列命令：</p>
+<div><pre><code>CREATE DATABASE &lt;NAME_OF_DB&gt;; # 创建新数据库
+use &lt;NAME_OF_DB&gt;; # 此处开始指定使用的数据库，这是每次连接数据库需要做的一步。
+CREATE TABLE &lt;NAME_OF_TB&gt; （ COL_1 TYPE_1, COL_2 TYPE_2 ... ）; # 创建新数据表，并分别指定COL_1和COL_2等的数据类型分别为TYPE_1和TYPE_2等。
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="mysql导入本地文件数据"> MySQL导入本地文件数据</h2>
+<p>本来这件事应该很简单的，执行这个语句就应该结束一切的：</p>
+<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>但就在这里报了错：</p>
+<div><p>警告</p>
+<p>The MySQL server is running with the --secure-file-priv option so it cannot execute this statement.</p>
+</div>
+<p>然后经过我的长时间搜索之后了解到：MySQL在安装的时候是会限制导入和导出的目录权限的，仅在规定的目录下才可以导入。我们可以用<code>SHOW VARIABLES LIKE &quot;secure_file_priv&quot;;</code>来查看这个变量的值应该是什么，结果果然能看到这时的状态是NULL。</p>
+<div><p>secure_file_priv各值代表的意义</p>
+<p>NULL：表示禁止，不接受任何形式的导入。</p>
+<p>某目录：仅接受该目录下的文件，甚至不接受其子文件夹与其内含的文件。</p>
+<p>空：不做限制，接受任何目录的导入。</p>
+</div>
+<p>那么我要解决这个问题就必须要去修改配置文件了。这里又花了我较长时间才找到其配置文件所在的路径：</p>
+<ol>
+<li>/etc/my.cnf</li>
+<li>/etc/mysql/my.cnf</li>
+<li>/usr/local/etc/my.cnf</li>
+<li>~/.my.cnf</li>
+</ol>
+<p>这四个是MySQL默认会搜寻的路径，并且从上到下优先级是逐级降低。</p>
+<p>于是我二话不说直接用管理员身份创建了<code>/etc/my.cnf</code>文件，正满怀期待地保存希望能够成功，当我执行<code>sudo systemctl restart mysqld</code>命令来重启MySQL服务的时候，它挂了……</p>
+<p>当我执行<code>mysql -uroot -p</code>的时候它给出了如下报错：</p>
+<div><p>警告</p>
+<p>ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2)</p>
+</div>
+<p>简单搜索了一下，这个其实意思就是MySQL服务启动失败，因此无法建立联接。当我尝试使用<code>systemctl status mysqld</code>来查看日志，接着看到了下面的报错：</p>
+<div><p>警告</p>
+<p>ERROR Found option without preceding group in config file /etc/my.cnf.</p>
+</div>
+<p>搜索了几下后我才发现，原来是缺少了<code>[mysqld]</code>这个内容，粗略地看了一下，应该就是Group的一种标志，这个mysqld应该是Group的名字。于是这个文件最后长的样子应该是下面的：</p>
+<div><pre><code>[mysqld]
+secure_file_priv = 
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这里等号后面不写东西是对应上面提到的空的情况。最后重启服务果然能成了。</p>
+<p>我想这下应该能解决了吧，于是重新开始执行了下面的语句：</p>
+<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>这回又给出了报错：</p>
+<div><p>警告</p>
+<p>ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides.</p>
+</div>
+<p>搜索了一下，看到有用修改环境变量的方法解决的：</p>
+<p>要修改的关键的环境变量是<code>local_infile</code>，可以使用<code>show variables like 'local_infile';</code>来查看该环境变量的值。果然执行后发现它的值是OFF。因此我需要修改这个环境变量来达到读取文件的目的，执行：<code>SET GLOBAL local_infile=on;</code>这样就可以了，于是我再次执行上面的LOAD命令的时候，又遭遇了报错：</p>
+<div><p>警告</p>
+<p>ERROR 13 (HY000): Can't get stat of '/home/breezeshane/AppData/Subjects/Database/product.csv' (OS errno 13 - Permission denied)</p>
+</div>
+<p>这个问题是我遇到的所有问题当中耗时最久的问题了……四下搜索无果，后来去找周围的大佬请教，终于才知道，是我缺少了LOCAL这个关键词，难怪它总是提示没有权限，我首先就打开方式不对……</p>
+<p>命令的正确写法应该是：</p>
+<div><pre><code>LOAD DATA LOCAL INFILE &#39;/home/breezeshane/AppData/Subjects/Database/product.csv&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERMINATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39; IGNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表<code>&lt;NAME_OF_TB&gt;</code>里(<code>LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE &lt;NAME_OF_TB&gt;</code>)，数据的分隔符是<code>,</code>(<code>FIELDS TERMINATED BY ','</code>)，行分隔符是<code>\n</code>(<code>LINES TERMINATED BY '\n'</code>)，最后忽略掉第一行的内容(<code>IGNORE 1 ROWS</code>)。</p>
+<h2 id="mysql的一些命令"> MySQL的一些命令</h2>
+<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
+<ol>
+<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
+<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
+</ol>
+]]></content:encoded>
     </item>
     <item>
       <title>SDN入门基础</title>
@@ -13763,130 +14045,6 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
     </item>
     <item>
-      <title>MySQL初步使用</title>
-      <link>https://breezeshane.github.io/Web/MySQL/</link>
-      <guid>https://breezeshane.github.io/Web/MySQL/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">MySQL初步使用</source>
-      <pubDate>Thu, 03 Mar 2022 20:06:48 GMT</pubDate>
-      <content:encoded><![CDATA[<details><summary>参考</summary>
-<p><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a>
-<a href="https://www.runoob.com/mysql/mysql-create-tables.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据表</a>
-<a href="http://c.biancheng.net/view/2430.html" target="_blank" rel="noopener noreferrer">MySQL创建数据表（CREATE TABLE语句）</a>
-<a href="https://www.runoob.com/mysql/mysql-data-types.html" target="_blank" rel="noopener noreferrer">MySQL 数据类型</a>
-<a href="https://www.cnblogs.com/Braveliu/p/10728162.html" target="_blank" rel="noopener noreferrer">Mysql 导入文件提示 --secure-file-priv option 问题</a>
-<a href="https://blog.csdn.net/fdipzone/article/details/52705507" target="_blank" rel="noopener noreferrer">mysql 查看当前使用的配置文件my.cnf的方法</a>
-<a href="https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group" target="_blank" rel="noopener noreferrer">MySQL my.cnf file - Found option without preceding group</a>
-<a href="https://blog.csdn.net/qq_32834005/article/details/110443574" target="_blank" rel="noopener noreferrer">解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the</a>
-<a href="https://zhuanlan.zhihu.com/p/26964403" target="_blank" rel="noopener noreferrer">Mysql——将CSV文件导入表中</a>
-<a href="https://blog.csdn.net/qq_29229567/article/details/82743645" target="_blank" rel="noopener noreferrer">MYSQL：如何清空表中的数据</a>
-<a href="https://www.runoob.com/mysql/mysql-drop-tables.html" target="_blank" rel="noopener noreferrer">MySQL 删除数据表</a></p>
-</details>
-<h2 id="mysql安装与配置"> MySQL安装与配置</h2>
-<p>近期上课需要使用MySQL，因此我需要提前做好配置，特此一记：</p>
-<p>安装仅需一步：</p>
-<div><pre><code><span>sudo</span> pacman -S mysql
-</code></pre>
-<div><span>1</span><br></div></div><p>然后就可以开始进行配置，按照其输出的内容，我们执行：</p>
-<div><pre><code><span>sudo</span> mysqld --initialize --user<span>=</span>mysql --basedir<span>=</span>/usr --datadir<span>=</span>/var/lib/mysql
-</code></pre>
-<div><span>1</span><br></div></div><div><p>提示</p>
-<p>如果遇到如下报错：</p>
-<div><pre><code>mysqld: Can<span>'t create directory '</span>/var/lib/mysql/<span>' (OS errno 17 - File exists)
-2022-03-03T00:15:00.207164Z 0 [Warning] [MY-010915] [Server] '</span>NO_ZERO_DATE<span>', '</span>NO_ZERO_IN_DATE<span>' and '</span>ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode <span>in</span> a future release.
-<span>2022</span>-03-03T00:15:00.207238Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-013169<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld <span>(</span>mysqld <span>8.0</span>.28<span>)</span> initializing of server <span>in</span> progress as process <span>283212</span>
-<span>2022</span>-03-03T00:15:00.209622Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-013236<span>]</span> <span>[</span>Server<span>]</span> The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
-<span>2022</span>-03-03T00:15:00.209733Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-010119<span>]</span> <span>[</span>Server<span>]</span> Aborting
-<span>2022</span>-03-03T00:15:00.209929Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-010910<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld: Shutdown complete <span>(</span>mysqld <span>8.0</span>.28<span>)</span>  Source distribution.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>什么也不用考虑，删除掉<code>/var/lib/mysql/</code>这个文件夹即可</p>
-</div>
-<p>命令执行成功后请留意一下输出的内容，这里会给你默认的MySQL用户及其密码，我们需要特别记下这两个。</p>
-<p>然后就需要启动MySQL服务，执行这两个命令：</p>
-<div><pre><code><span>sudo</span> systemctl <span>enable</span> mysqld
-<span>sudo</span> systemctl start mysqld
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>以普遍的理性而言，这类的密码是反人类的，因此我们需要修改一下登录密码，先执行这个命令来连接数据库：</p>
-<div><pre><code>mysql -uroot -p
-</code></pre>
-<div><span>1</span><br></div></div><p>然后输入刚才记下的那个复杂的密码，便可成功连接。</p>
-<p>在这时你执行命令<code>use mysql;</code>会得到类似这样的提示：</p>
-<div><pre><code>ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
-</code></pre>
-<div><span>1</span><br></div></div><p>所以我们可以根据提示执行这个命令：</p>
-<div><pre><code>ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED WITH mysql_native_password BY &#39;新密码&#39;;
-</code></pre>
-<div><span>1</span><br></div></div><p>这样就可以成功修改密码了，MySQL的安装与配置也到此结束了。</p>
-<h2 id="mysql初步使用"> MySQL初步使用</h2>
-<p>首先我们先连接数据库。要使用数据库，就需要先从新建数据库开始，搜过之后，就知道要使用下面一系列命令：</p>
-<div><pre><code>CREATE DATABASE &lt;NAME_OF_DB&gt;; # 创建新数据库
-use &lt;NAME_OF_DB&gt;; # 此处开始指定使用的数据库，这是每次连接数据库需要做的一步。
-CREATE TABLE &lt;NAME_OF_TB&gt; （ COL_1 TYPE_1, COL_2 TYPE_2 ... ）; # 创建新数据表，并分别指定COL_1和COL_2等的数据类型分别为TYPE_1和TYPE_2等。
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="mysql导入本地文件数据"> MySQL导入本地文件数据</h2>
-<p>本来这件事应该很简单的，执行这个语句就应该结束一切的：</p>
-<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>但就在这里报了错：</p>
-<div><p>警告</p>
-<p>The MySQL server is running with the --secure-file-priv option so it cannot execute this statement.</p>
-</div>
-<p>然后经过我的长时间搜索之后了解到：MySQL在安装的时候是会限制导入和导出的目录权限的，仅在规定的目录下才可以导入。我们可以用<code>SHOW VARIABLES LIKE &quot;secure_file_priv&quot;;</code>来查看这个变量的值应该是什么，结果果然能看到这时的状态是NULL。</p>
-<div><p>secure_file_priv各值代表的意义</p>
-<p>NULL：表示禁止，不接受任何形式的导入。</p>
-<p>某目录：仅接受该目录下的文件，甚至不接受其子文件夹与其内含的文件。</p>
-<p>空：不做限制，接受任何目录的导入。</p>
-</div>
-<p>那么我要解决这个问题就必须要去修改配置文件了。这里又花了我较长时间才找到其配置文件所在的路径：</p>
-<ol>
-<li>/etc/my.cnf</li>
-<li>/etc/mysql/my.cnf</li>
-<li>/usr/local/etc/my.cnf</li>
-<li>~/.my.cnf</li>
-</ol>
-<p>这四个是MySQL默认会搜寻的路径，并且从上到下优先级是逐级降低。</p>
-<p>于是我二话不说直接用管理员身份创建了<code>/etc/my.cnf</code>文件，正满怀期待地保存希望能够成功，当我执行<code>sudo systemctl restart mysqld</code>命令来重启MySQL服务的时候，它挂了……</p>
-<p>当我执行<code>mysql -uroot -p</code>的时候它给出了如下报错：</p>
-<div><p>警告</p>
-<p>ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2)</p>
-</div>
-<p>简单搜索了一下，这个其实意思就是MySQL服务启动失败，因此无法建立联接。当我尝试使用<code>systemctl status mysqld</code>来查看日志，接着看到了下面的报错：</p>
-<div><p>警告</p>
-<p>ERROR Found option without preceding group in config file /etc/my.cnf.</p>
-</div>
-<p>搜索了几下后我才发现，原来是缺少了<code>[mysqld]</code>这个内容，粗略地看了一下，应该就是Group的一种标志，这个mysqld应该是Group的名字。于是这个文件最后长的样子应该是下面的：</p>
-<div><pre><code>[mysqld]
-secure_file_priv = 
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这里等号后面不写东西是对应上面提到的空的情况。最后重启服务果然能成了。</p>
-<p>我想这下应该能解决了吧，于是重新开始执行了下面的语句：</p>
-<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>这回又给出了报错：</p>
-<div><p>警告</p>
-<p>ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides.</p>
-</div>
-<p>搜索了一下，看到有用修改环境变量的方法解决的：</p>
-<p>要修改的关键的环境变量是<code>local_infile</code>，可以使用<code>show variables like 'local_infile';</code>来查看该环境变量的值。果然执行后发现它的值是OFF。因此我需要修改这个环境变量来达到读取文件的目的，执行：<code>SET GLOBAL local_infile=on;</code>这样就可以了，于是我再次执行上面的LOAD命令的时候，又遭遇了报错：</p>
-<div><p>警告</p>
-<p>ERROR 13 (HY000): Can't get stat of '/home/breezeshane/AppData/Subjects/Database/product.csv' (OS errno 13 - Permission denied)</p>
-</div>
-<p>这个问题是我遇到的所有问题当中耗时最久的问题了……四下搜索无果，后来去找周围的大佬请教，终于才知道，是我缺少了LOCAL这个关键词，难怪它总是提示没有权限，我首先就打开方式不对……</p>
-<p>命令的正确写法应该是：</p>
-<div><pre><code>LOAD DATA LOCAL INFILE &#39;/home/breezeshane/AppData/Subjects/Database/product.csv&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERMINATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39; IGNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表<code>&lt;NAME_OF_TB&gt;</code>里(<code>LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE &lt;NAME_OF_TB&gt;</code>)，数据的分隔符是<code>,</code>(<code>FIELDS TERMINATED BY ','</code>)，行分隔符是<code>\n</code>(<code>LINES TERMINATED BY '\n'</code>)，最后忽略掉第一行的内容(<code>IGNORE 1 ROWS</code>)。</p>
-<h2 id="mysql的一些命令"> MySQL的一些命令</h2>
-<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
-<ol>
-<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
-<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Windows10 快捷键大全</title>
       <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
       <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
@@ -14211,7 +14369,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -14241,156 +14399,11 @@ secure_file_priv =
 ]]></content:encoded>
     </item>
     <item>
-      <title>简单的网页前后端搭建过程</title>
-      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
-      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
-      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
-<h3 id="html"> HTML</h3>
-<p><strong>HTML设置字体：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
-<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
-<span><span><span>&lt;/</span>form</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
-<h3 id="css"> CSS</h3>
-<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
-<p>CSS选择器：</p>
-<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
-<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
-<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
-<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
-<span>background-position</span><span>:</span> center center<span>;</span>
-<span>background-attachment</span><span>:</span> fixed<span>;</span>
-<span>background-size</span><span>:</span> cover<span>;</span>
-<span>margin</span><span>:</span> 0<span>;</span>
-<span>position</span><span>:</span> relative<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
-<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
-<span>top</span><span>:</span> 50%<span>;</span>
-<span>left</span><span>:</span> 50%<span>;</span>
-<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
-<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
-<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
-<h3 id="javascript"> JavaScript</h3>
-<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
-<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
-    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
-    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
-    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
-	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
-
-    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
-	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
-
-    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
-        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
-        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
-        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
-            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
-            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
-        <span>}</span>
-        file_num <span>=</span> fileList<span>.</span>length
-        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
-            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
-        <span>}</span> <span>else</span> <span>{</span>
-            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
-                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
-            <span>}</span>
-            <span>// 以下定义了前端传输的相关信息。</span>
-            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
-                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
-                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
-                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
-                processData<span>:</span> <span>false</span><span>,</span> 
-                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
-                contentType<span>:</span> <span>false</span><span>,</span>
-                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
-                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
-                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
-                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
-                    <span>//后续的两行代码则是修改相应控件的数据。</span>
-                <span>}</span><span>,</span>
-                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
-                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
-                <span>}</span>
-            <span>}</span><span>)</span>
-        <span>}</span>
-    <span>}</span><span>)</span><span>;</span>
-
-    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
-        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
-        <span>// 直接触发选择文件的点击事件。</span>
-    <span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
-<p>使用后端flask之前需要先做好配置：</p>
-<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
-<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
-
-app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
-<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
-    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
-<blockquote>
-<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
-</blockquote>
-<p>调用flask_uploads包后要做如下的配置：</p>
-<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
-configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
-patch_request_class<span>(</span>app<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
-<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
-<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
-<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
-    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
-    file_urls <span>=</span> <span>[</span><span>]</span>
-    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
-    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
-        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
-        fileList<span>.</span>append<span>(</span>filename<span>)</span>
-        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
-    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
-    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
-    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
-<p>「注」：以上所有代码都是项目的主要部分。</p>
-</blockquote>
-<p>最后将整个前后端写好之后，就可以正常执行了！</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Intro Page</title>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -14400,7 +14413,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -14425,7 +14438,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -14492,7 +14505,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -14501,7 +14514,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Fri, 01 Apr 2022 13:08:03 GMT</pubDate>
+      <pubDate>Sat, 02 Apr 2022 03:09:18 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
