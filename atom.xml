@@ -6,7 +6,7 @@
   <author>
     <name>Breeze Shane</name>
   </author>
-  <updated>2022-04-02T03:10:12.390Z</updated>
+  <updated>2022-04-02T06:14:52.457Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://breezeshane.github.io/atom.xml"/>
   <link rel="alternate" href="https://breezeshane.github.io/"/>
@@ -25,7 +25,7 @@
     <title type="html">有关人工智能与机器学习领域的概况</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/AIOverview/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="人工智能是什么"> 人工智能是什么？</h2>
 <p>关于人工智能的定义在学术界一直尚存争议，原因也无非是因为实在难以给智能下定义。</p>
 <p>目前比较广泛的说法是：<strong>人工智能是一门研究、开发用于模拟、延伸和扩展人的智能的理论方法技术及应用的一门技术科学。</strong></p>
@@ -168,24 +168,10 @@
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">估计、偏差和方差</title>
-    <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</id>
-    <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-23T01:03:59.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">促使深度学习发展的挑战</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -196,10 +182,24 @@
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">估计、偏差和方差</title>
+    <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</id>
+    <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/"/>
+    <updated>2022-04-02T06:13:56.000Z</updated>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-01-23T01:03:59.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -213,7 +213,7 @@
     <title type="html">容量、过拟合和欠拟合</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AE%B9%E9%87%8F%E3%80%81%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AC%A0%E6%8B%9F%E5%90%88/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AE%B9%E9%87%8F%E3%80%81%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AC%A0%E6%8B%9F%E5%90%88/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -227,7 +227,7 @@
     <title type="html">无监督学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -241,7 +241,7 @@
     <title type="html">最大似然估计</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -255,7 +255,7 @@
     <title type="html">构建机器学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -269,7 +269,7 @@
     <title type="html">监督学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -283,7 +283,7 @@
     <title type="html">贝叶斯统计</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -297,7 +297,7 @@
     <title type="html">超参数和验证集</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -311,7 +311,7 @@
     <title type="html">随机梯度下降</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -325,7 +325,7 @@
     <title type="html">「实例」线性最小二乘</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%5B%E5%AE%9E%E4%BE%8B%5D%E7%BA%BF%E6%80%A7%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%5B%E5%AE%9E%E4%BE%8B%5D%E7%BA%BF%E6%80%A7%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -339,7 +339,7 @@
     <title type="html">上溢和下溢</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E4%B8%8A%E6%BA%A2%E5%92%8C%E4%B8%8B%E6%BA%A2/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E4%B8%8A%E6%BA%A2%E5%92%8C%E4%B8%8B%E6%BA%A2/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -353,7 +353,7 @@
     <title type="html">基于梯度的优化方法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E5%9F%BA%E4%BA%8E%E6%A2%AF%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E5%9F%BA%E4%BA%8E%E6%A2%AF%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -367,7 +367,7 @@
     <title type="html">病态条件</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -381,7 +381,7 @@
     <title type="html">约束优化</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -395,7 +395,7 @@
     <title type="html">前言</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<p>该系列下所有内容均来自书籍《Deep Learning》的译作《深度学习》，即业界内俗称的“花书”。该系列主要用于记录本人的读书笔记，并会在一些地方做延伸讨论，增加一些内容。</p>
 <div><p>相关信息</p>
 <p>需要掌握的数学知识「线性代数、概率论等」位于Mathematics栏目下，此栏目不作重复性描述。</p>
@@ -414,7 +414,7 @@
     <title type="html">入门机器学习的安装与配置</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="你可能有配备"> 你可能有配备？</h2>
 <p>或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入 <code>inxi -G</code>来查看电脑的显卡配备信息。可能你不懂什么是显卡？</p>
 <blockquote>
@@ -488,7 +488,7 @@
     <title type="html">Intelligent Software Defined Networking</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/ISDN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/ISDN/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<div><p>温馨提示</p>
 <p>阅读本文之前需要先了解SDN，如果你还没有读过<a href="https://breezeshane.github.io/Web/SDN/" target="_blank" rel="noopener noreferrer">SDN入门基础</a>，请先读这篇。</p>
 <p>本文参考论文：李可欣, 王兴伟, 易波, 等. 智能软件定义网络[J]. 软件学报, 2020, 32(1): 118-136.</p>
@@ -790,7 +790,7 @@
     <title type="html">同余式及其性质</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/CongruenceExpression/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/CongruenceExpression/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>若一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>a</span></span></span></span>被一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除的时候得到的商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和唯一的一个余数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>，另一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>b</span></span></span></span>也被<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除时得到商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，得到的唯一余数也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>（其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.78041em;vertical-align:-0.13597em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>），即</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:3.0000299999999998em;vertical-align:-1.25003em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>a</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>b</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
@@ -872,7 +872,7 @@
     <title type="html">共轭函数性质的证明</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ConjugateFunction/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ConjugateFunction/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>参考连接: <a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明</a></p>
 </blockquote>
@@ -917,7 +917,7 @@
     <title type="html">凸优化学习</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/Convex/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/Convex/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ul>
 <li><strong>Main</strong> <a href="https://bicmr.pku.edu.cn/~wenzw/optbook/lect/03_functions_newhyx.pdf" target="_blank" rel="noopener noreferrer">凸函数 - 文再文讲义</a></li>
@@ -1518,7 +1518,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <title type="html">Moore-Penrose伪逆</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1532,7 +1532,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <title type="html">向量范数与矩阵范数</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Norm/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Norm/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="向量范数"> 向量范数</h2>
 <p>向量范数具有“长度”概念，是一个函数，其为向量空间内的所有向量赋予非零的正长度或大小。</p>
 <p>假设V是域F上的向量空间；V的半范数是一个函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>;</span><span style="margin-right:0.16666666666666666em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>(</span><span>x</span><span>)</span></span></span></span>，满足：</p>
@@ -1851,7 +1851,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关的简单运算</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
 <h2 id="矩阵加法"> 矩阵加法</h2>
 <h2 id="矩阵乘法"> 矩阵乘法</h2>
@@ -1870,7 +1870,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关名词的概念</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h3 id="标量"> 标量</h3>
 <p>又称<strong>纯量</strong>，是只有大小、没有方向、可用实数表示的一个量。</p>
 <p>实际上标量就是实数，“标量”这个称法只是为了区别于向量。</p>
@@ -1972,7 +1972,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">「实例」主成分分析</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -1986,7 +1986,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">奇异值分解</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2000,7 +2000,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">特征分解</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<div><p>定义</p>
 <p>线性代数中，特征分解（Eigendecomposition），又称谱分解（Spectral decomposition）是将矩阵分解为由其特征值和特征向量表示的矩阵之积的方法。需要注意只有对可对角化矩阵才可以施以特征分解。</p>
 </div>
@@ -2053,7 +2053,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Lipschitz Continuity</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="利普希茨连续-lipschitz-continuity"> 利普希茨连续——Lipschitz Continuity</h1>
 <blockquote>
 <p>参考资料：<a href="https://zh.wikipedia.org/wiki/%E5%88%A9%E6%99%AE%E5%B8%8C%E8%8C%A8%E9%80%A3%E7%BA%8C" target="_blank" rel="noopener noreferrer">利普希茨连续 - 维基百科</a></p>
@@ -2117,7 +2117,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">信息论</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2131,7 +2131,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见函数及其性质</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2145,7 +2145,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见概率分布</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2159,7 +2159,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">期望、方差和协方差</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2173,7 +2173,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">条件概率及其链式法则</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2187,7 +2187,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">概率分布</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2201,7 +2201,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">独立性和条件独立性</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2215,7 +2215,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">结构化概率模型</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2229,7 +2229,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">贝叶斯规则</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2243,7 +2243,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">边缘概率</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2257,7 +2257,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">连续性变量的技术细节</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2271,7 +2271,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">随机变量</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2285,7 +2285,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">无监督学习介绍与入门</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="什么是无监督学习"> 什么是无监督学习？</h2>
 <p>无监督学习是机器学习的一种训练方式「或者是学习方式」。无监督学习的概念是相对有监督学习而言的。</p>
 <blockquote>
@@ -2477,7 +2477,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Enlighten GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="应用领域及背景"> 应用领域及背景</h2>
 <p>该项目是应用在图像修复领域的低照度增强方向，是致力于将日常生活中常见的各种难以用肉眼感知特征的低照度场景增强到能够方便、舒适地观察内容的场景。</p>
 <center>该项目迄今为止仍是无监督学习方法低照度增强的SOTA。</center>
@@ -2535,7 +2535,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">f-GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考来源</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
@@ -2574,7 +2574,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Low Light Metrics</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="low-light-metrics"> Low Light Metrics</h1>
 <h2 id="content"> Content</h2>
 <p>本文记录了LPIPS、SSIM、MAE、MSE、PSNR、NIQE和NIMA共计七个低照度指标，除了介绍相关背景、意义，也会提及算法实现的大致过程。</p>
@@ -2703,7 +2703,7 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
     <title type="html">Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>经过接受GAN的洗礼，我感觉我整个人都变得“睿智”了。。。</strong></p>
 </blockquote>
@@ -2978,7 +2978,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Divergence for GANs</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wasserstein-divergence-for-gans"> Wasserstein Divergence for GANs</h1>
 <blockquote>
 <p>參考自：</p>
@@ -3113,7 +3113,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">WGAN with Gradient Penalty</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
 <h2 id="结果"> 结果</h2>
 <p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
@@ -3177,7 +3177,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>首推这篇博客，本文内容多参考自此。<a href="https://www.cnblogs.com/Allen-rg/p/10305125.html" target="_blank" rel="noopener noreferrer">WGAN (原理解析)</a></p>
 <p>本文也另外参考了这篇<a href="https://lotabout.me/2018/WGAN/" target="_blank" rel="noopener noreferrer">博客</a></p>
@@ -3325,7 +3325,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <title type="html">多灾多难的博客搭建过程</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="blog-building"> Blog Building</h1>
 <blockquote>
 <p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
@@ -3453,7 +3453,7 @@ FATAL {
     <title type="html">Changing Blog Theme</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="to-change-my-blog-theme"> To Change My Blog Theme</h1>
 <blockquote>
 <p>参考文档：</p>
@@ -3881,7 +3881,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">用Shell脚本创建新文章</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前言"> 前言</h2>
 <p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
 <h2 id="实现"> 实现？</h2>
@@ -4083,7 +4083,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">LaTeX公式(For Markdown)</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeXforMd/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/LaTeXforMd/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>参考内容：</p>
 <p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener noreferrer">MathJax basic tutorial and quick reference</a></p>
@@ -5208,7 +5208,7 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
     <title type="html">Markdown语法杂记</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="markdown语法杂记"> Markdown语法杂记</h1>
 <hr>
 <blockquote>
@@ -8090,7 +8090,7 @@ import torch as pd
     <title type="html">组件禁用</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/disable/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/disable/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -8117,14 +8117,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/encrypt/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -8137,14 +8137,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/markdown/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -8616,14 +8616,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/page/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/page/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -8679,7 +8679,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8703,14 +8703,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/home/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/home/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8721,14 +8721,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://breezeshane.github.io/CourseOfBlog/layout/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/layout/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8748,14 +8748,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8766,14 +8766,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/slides/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/slides/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -8782,14 +8782,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">二叉搜索树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8803,7 +8803,7 @@ $$
     <title type="html">分块查找</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8817,7 +8817,7 @@ $$
     <title type="html">斐波那契搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/FibonacciSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/FibonacciSearch/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8831,7 +8831,7 @@ $$
     <title type="html">哈希搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8845,7 +8845,7 @@ $$
     <title type="html">插值搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8859,7 +8859,7 @@ $$
     <title type="html">顺序搜索</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/SequentialSearch/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/SequentialSearch/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8873,7 +8873,7 @@ $$
     <title type="html">树表查找</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/TreeTableLookup/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/TreeTableLookup/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8887,7 +8887,7 @@ $$
     <title type="html">冒泡排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BubbleSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8901,7 +8901,7 @@ $$
     <title type="html">桶排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8915,7 +8915,7 @@ $$
     <title type="html">计数排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8929,7 +8929,7 @@ $$
     <title type="html">堆排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/HeapSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8943,7 +8943,7 @@ $$
     <title type="html">插入排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/InsertionSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8957,7 +8957,7 @@ $$
     <title type="html">归并排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/MergeSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8971,7 +8971,7 @@ $$
     <title type="html">快速排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8985,7 +8985,7 @@ $$
     <title type="html">基数排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8999,7 +8999,7 @@ $$
     <title type="html">选择排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/SelectionSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/SelectionSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9013,7 +9013,7 @@ $$
     <title type="html">希尔排序</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -9027,7 +9027,7 @@ $$
     <title type="html">循环链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/CircularLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/CircularLinkedList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>循环链表，即令单链表尾结点的指针指向链表的头结点。</p>
 <p>结构代码的定义：「本质上与单链表的结构体定义并无差异」</p>
@@ -9195,7 +9195,7 @@ $$
     <title type="html">双链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -9355,7 +9355,7 @@ $$
     <title type="html">队列与循环队列</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Queue/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Queue/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>队列是限制结点插入操作固定在一端进行,而结点的删除操作固定在另一端进行的一种特殊线性表，特殊在于它操作受限，仅能使用入队、出队操作。</p>
 <p>如图所示：</p>
@@ -9462,7 +9462,7 @@ DataType <span>computeNum</span><span>(</span>PseqQueue Q<span>)</span><span>{</
     <title type="html">顺序线性表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SequentialLinearList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>顺序线性表是数据结构算法中最简单的一种结构，它的组成成分如下：</p>
@@ -9668,7 +9668,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">单向链表</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
@@ -9859,7 +9859,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">顺序线性栈</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
@@ -9968,7 +9968,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">链式栈</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSingleLinkedList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="链式栈的定义"> 链式栈的定义</h2>
@@ -9994,7 +9994,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">底层原因</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Statement/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Statement/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="指针变量写法"> 指针变量写法</h2>
 <div><pre><code>PseqList <span>createNullList_seq</span><span>(</span><span>int</span> m<span>)</span><span>{</span>
     <span>if</span> <span>(</span> <span>!</span>m <span>)</span>
@@ -10053,7 +10053,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">2-3树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10067,7 +10067,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">B+树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/B+Tree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/B+Tree/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10081,7 +10081,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">B树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BTree/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10095,7 +10095,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">二叉树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BinaryTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/BinaryTree/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>二叉树是一颗有序树，它由</p>
 ]]></content>
@@ -10112,7 +10112,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">红黑树</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/Red-BlackTree/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10126,7 +10126,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">括号匹配问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/BracketMatching/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/BracketMatching/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10137,24 +10137,10 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">极限反转数问题</title>
-    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</id>
-    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-23T01:28:09.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">约瑟夫问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/JosephusProblem/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10165,24 +10151,24 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">顺序线性表的一些经典问题</title>
-    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</id>
-    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <title type="html">极限反转数问题</title>
+    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/</id>
+    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/ReverseShortData/"/>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-01-23T01:28:18.000Z</published>
+    <published>2022-01-23T01:28:09.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">单链表的一些经典问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSingleLinkedList/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10193,10 +10179,24 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">顺序线性表的一些经典问题</title>
+    <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/</id>
+    <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/SomeProblemsonSequentialLinearList/"/>
+    <updated>2022-04-02T06:13:56.000Z</updated>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-01-23T01:28:18.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">N皇后问题</title>
     <id>https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/</id>
     <link href="https://breezeshane.github.io/DataStructuresandAlgorithms/Problems/nQueensProblem/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题</h2>
 <p>下图所示为4皇后问题。n皇后问题：在n×n的棋盘上安置n个皇后，要求任意两个皇后均不在同一行、同一列、同一对角线上，要求设计算法求解总共有多少方案。</p>
 <p><img src="/images/nQueens.png" alt="" /></p>
@@ -10339,7 +10339,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">Git Commands</title>
     <id>https://breezeshane.github.io/Git_Commands/</id>
     <link href="https://breezeshane.github.io/Git_Commands/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
 <p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
 <h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
@@ -10489,7 +10489,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">Java 杂记</title>
     <id>https://breezeshane.github.io/Java/</id>
     <link href="https://breezeshane.github.io/Java/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
 <p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
 <p>注意: 判断是否为NaN时要使用isNaN.</p>
@@ -10509,7 +10509,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">TeXlive-LaTeX使用</title>
     <id>https://breezeshane.github.io/LaTeX/</id>
     <link href="https://breezeshane.github.io/LaTeX/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
 <p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
 <p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
@@ -10538,7 +10538,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">Arcolinux &amp; AwesomeWM</title>
     <id>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</id>
     <link href="https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 <code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
 </blockquote>
@@ -11324,6 +11324,12 @@ electron9
 <p>情景还原的话, 当时我是一个劲胡乱按下字母键, 又乱敲多媒体功能键(键盘上是用组合键实现的), 接着我就又敲回去一堆字母, 最后是在输入方向键的时候发现有反应了的, 然后这时候尝试多媒体功能键, 发现有作用了, 遂逐一测试发现一切功能正常.</p>
 </details>
 <p>但是凭经验判断, 这大概治标不治本, 所以记一下就现在这里挖个坑, 留一下伏笔.</p>
+<p>好吧, 没隔多久还是出毛病了, 这回报错有新的内容了:</p>
+<div><p>Error</p>
+<div><pre><code><span>4</span>月 02 <span>14</span>:08:04 Arknights kernel: Bluetooth: hci0: Opcode 0x <span>401</span> failed: -16
+</code></pre>
+<div><span>1</span><br></div></div></div>
+<p>那么怎么解决呢?</p>
 ]]></content>
     <author>
       <name>Breeze Shane</name>
@@ -11338,7 +11344,7 @@ electron9
     <title type="html">Shell全自动安装与部署Anaconda</title>
     <id>https://breezeshane.github.io/Linux/AutoIAC/</id>
     <link href="https://breezeshane.github.io/Linux/AutoIAC/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
 <h2 id="实现思路"> 实现思路</h2>
@@ -11628,7 +11634,7 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
     <title type="html">记将旧电脑改建成服务器的过程</title>
     <id>https://breezeshane.github.io/Linux/BuildingServer/</id>
     <link href="https://breezeshane.github.io/Linux/BuildingServer/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
 <h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
@@ -11757,7 +11763,7 @@ rfkill: Cannot get wiphy information
     <title type="html">Magic SysRq 组合键功能表</title>
     <id>https://breezeshane.github.io/Linux/MagicSysRq/</id>
     <link href="https://breezeshane.github.io/Linux/MagicSysRq/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<div><p>说明</p>
 <p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
 </div>
@@ -11878,437 +11884,10 @@ rfkill: Cannot get wiphy information
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">在Arch系中安装openGauss(全失败过程)</title>
-    <id>https://breezeshane.github.io/Linux/openGauss/</id>
-    <link href="https://breezeshane.github.io/Linux/openGauss/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="opengauss下载"> openGauss下载</h2>
-<p>官网至给出了CentOS和Windows系统下的安装包, 但考虑同样是Linux, openGauss也应该可以安装在Arch系上, 故有此笔记.</p>
-<p>去<a href="https://opengauss.org/zh/download.html" target="_blank" rel="noopener noreferrer">官方网站</a>下载CentOS版本的包.</p>
-<h2 id="opengauss安装"> openGauss安装</h2>
-<p>按照官方文档给出的, 我们执行</p>
-<div><pre><code><span>mkdir</span> ~/openGauss <span>&amp;&amp;</span> <span>tar</span> -jxf openGauss-x.x.x-openEuler-64bit.tar.bz2 -C ~/openGauss
-</code></pre>
-<div><span>1</span><br></div></div><div><p>为什么不安装在/opt/openGauss下</p>
-<p>因为<code>/opt</code>目录是归属于root用户组的, 如果安装在这里会导致一系列的权限问题, 有时连<code>chmod 777</code>也不能解决, 因此我建议避开这个问题, 直接安装到普通用户组下的目录.</p>
-</div>
-<p>继续执行:</p>
-<div><pre><code><span>cd</span> ~/openGauss/simpleInstall
-<span>sh</span> install.sh  -w  <span>"xxxx"</span> <span>&amp;&amp;</span> <span>source</span> ~/.bashrc
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后这时候遇到了报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-install.sh: line <span>215</span>: gs_initdb: <span>command</span> not found
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-install.sh: line <span>221</span>: gs_ctl: <span>command</span> not found
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
-<p>看到<code>command not found</code>就可以知道, 这是因为系统不知道这两个程序在哪里, 解决方案自然是手动添加环境变量, 我们在<code>~/.bashrc</code>里的最后一行添加<code>export PATH=&quot;$HOME/openGauss/bin:$PATH&quot;</code>然后执行<code>source ~/.bashrc</code>更新一下. Zsh同理.</p>
-<p>为什么会知道加这个路径能解决? 这是因为我通过执行<code>tree ./ | bat</code>后查找到这两个程序的, 然后就能顺利找到他们所在的位置.</p>
-<p>但这还没完, 又遇到报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-gs_initdb: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-gs_ctl: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
-<p>经过查找资料了解到<code>libreadline.so.6</code>是位于<code>/lib/</code>目录下, 于是我执行<code>ls /lib/ | grep libreadline.so</code>来查看我当前拥有的组件:</p>
-<div><pre><code>libreadline.so
-libreadline.so.8
-libreadline.so.8.1
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>于是我做了一个软链接来解决找不到<code>libreadline.so.6</code>的问题, 执行<code>sudo ln -s /lib/libreadline.so.8 /lib/libreadline.so.6</code>.</p>
-<p>再次运行又遇到了报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-gs_initdb: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-gs_ctl: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
-<p>经过查询是缺少了内核<code>libxcrypt-compat</code>, 安装一下即可.</p>
-<p>再次遇到报错:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libeSDKOBS.so: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
-The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
-same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
-Check your installation.
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-gs_ctl: error <span>while</span> loading shared libraries: libgssapi_krb5_gauss.so.2: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
-<p>看报错是说<code>libeSDKOBS.so</code>文件找不到了, 可以确定是某环境变量缺少了这个东西的所在目录. 但我不能确定这个文件在哪, 于是先执行了<code>sudo find / -name libeSDKOBS.so</code>来查找, 然后发现:</p>
-<div><pre><code>/home/breezeshane/OpenGauss/lib/libeSDKOBS.so
-/home/breezeshane/openGauss/lib/libeSDKOBS.so
-find: ‘/proc/10096/task/10096/net’: Invalid argument
-find: ‘/proc/10096/net’: Invalid argument
-find: ‘/proc/65449/task/65449/net’: Invalid argument
-find: ‘/proc/65449/net’: Invalid argument
-/run/timeshift/backup/@home/breezeshane/OpenGauss/lib/libeSDKOBS.so
-/run/timeshift/backup/@home/breezeshane/openGauss/lib/libeSDKOBS.so
-find: File system loop detected<span>;</span> ‘/run/timeshift/backup/@’ is part of the same <span>file</span> system loop as ‘/’.
-find: ‘/run/user/1000/doc’: Permission denied
-find: ‘/run/user/1000/gvfs’: Permission denied
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>头两行引起了我的注意, 然后我再查看<code>LD_LIBRARY_PATH</code>环境变量<code>echo $LD_LIBRARY_PATH</code>, 果然发现它没有这个路径, 于是我手动添加了这个环境变量, 执行<code>export LD_LIBRARY_PATH=&quot;$HOME/openGauss/lib:$LD_LIBRARY_PATH&quot;</code>.</p>
-<p>又双遇到了问题:</p>
-<div><p>Error</p>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libncurses.so.5: cannot <span>open</span> shared object file: No such <span>file</span> or directory
-no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
-The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
-same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
-Check your installation.
-<span>[</span>step <span>7</span><span>]</span>: start datanode
-<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
-<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: can't create lock <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/pg_ctl.lock"</span> <span>:</span> No such <span>file</span> or directoryimport sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
-<p>经过查找资料, 确认造成这个问题的原因就是在于版本滞后导致缺失运行库, 我们查看一下当前有的运行库, 执行<code>ls -1 /usr/lib/libncurses*</code>, 在这里我得到的结果是:</p>
-<div><pre><code>/usr/lib/libncurses++.so
-/usr/lib/libncurses.so
-/usr/lib/libncurses++w_g.a
-/usr/lib/libncursesw_g.a
-/usr/lib/libncurses++w.so
-/usr/lib/libncursesw.so
-/usr/lib/libncurses++w.so.6
-/usr/lib/libncursesw.so.6
-/usr/lib/libncurses++w.so.6.3
-/usr/lib/libncursesw.so.6.3
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>接着我们执行</p>
-<div><pre><code><span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libncurses.so.5
-<span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libtinfo.so.5
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>即可解决这个问题.</p>
-<p>最后重新执行即可大功告成, 以下是当时输出的信息:</p>
-<details><summary>Info</summary>
-<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
-<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
-<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
-<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
-
-<span>[</span>step <span>6</span><span>]</span>: init datanode
-The files belonging to this database system will be owned by user <span>"breezeshane"</span><span>.</span>
-This user must also own the server process.
-
-The database cluster will be initialized with locale <span>"en_US.UTF-8"</span><span>.</span>
-The default database encoding has accordingly been <span>set</span> to <span>"UTF8"</span><span>.</span>
-The default text search configuration will be <span>set</span> to <span>"english"</span><span>.</span>
-
-creating directory /home/breezeshane/openGauss/data/single_node <span>..</span>. ok
-creating subdirectories <span>..</span>. ok
-selecting default max_connections <span>..</span>. <span>100</span>
-selecting default shared_buffers <span>..</span>. 32MB
-creating configuration files <span>..</span>. ok
-Begin init undo subsystem meta.
-<span>[</span>INIT UNDO<span>]</span> Init undo subsystem meta successfully.
-creating template1 database <span>in</span> /home/breezeshane/openGauss/data/single_node/base/1 <span>..</span>. The core dump path is an invalid directory
-<span>2022</span>-03-30 <span>21</span>:05:33.466 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>139689665127360</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  [BACKEND] WARNING:  macAddr is 39087/1707678456, sysidentifier is 2561631689/452484890, randomNum is 3818217242</span>
-ok
-initializing pg_authid <span>..</span>. ok
-setting password <span>..</span>. ok
-initializing dependencies <span>..</span>. ok
-loading PL/pgSQL server-side language <span>..</span>. ok
-creating system views <span>..</span>. ok
-creating performance views <span>..</span>. ok
-loading system objects<span>' descriptions ... ok
-creating collations ... ok
-creating conversions ... ok
-creating dictionaries ... ok
-setting privileges on built-in objects ... ok
-initialize global configure for bucketmap length ... ok
-creating information schema ... ok
-loading foreign-data wrapper for distfs access ... ok
-loading foreign-data wrapper for hdfs access ... ok
-loading foreign-data wrapper for log access ... ok
-loading hstore extension ... ok
-loading foreign-data wrapper for MOT access ... ok
-loading security plugin ... ok
-update system tables ... ok
-creating snapshots catalog ... ok
-vacuuming database template1 ... ok
-copying template1 to template0 ... ok
-copying template1 to postgres ... ok
-freezing database template0 ... ok
-freezing database template1 ... ok
-freezing database postgres ... ok
-
-WARNING: enabling "trust" authentication for local connections
-You can change this by editing pg_hba.conf or using the option -A, or
---auth-local and --auth-host, the next time you run gs_initdb.
-
-Success. You can now start the database server of single node using:
-
-    gaussdb -D /home/breezeshane/openGauss/data/single_node --single_node
-or
-    gs_ctl start -D /home/breezeshane/openGauss/data/single_node -Z single_node -l logfile
-
-[step 7]: start datanode
-[2022-03-30 21:06:05.221][105616][][gs_ctl]: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
-[2022-03-30 21:06:05.290][105616][][gs_ctl]: waiting for server to start...
-.0 LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.
-	
-0 LOG:  [Alarm Module]Host Name: Arknights 
-	
-0 LOG:  [Alarm Module]Host IP: 127.0.1.1 
-	
-0 LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!
-	
-0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
-	
-0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
-	
-0 WARNING:  not found GAUSSHOME enviroment variable.
-0 WARNING:  failed to open feature control file, please check whether it exists: FileName=gaussdb.version, Errno=2, Errmessage=No such file or directory.
-0 WARNING:  failed to parse feature control file: gaussdb.version.
-0 WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
-The core dump path is an invalid directory
-2022-03-30 21:06:05.422 [unknown] [unknown] localhost 140319329661888 0[0:0#0]  0 [BACKEND] LOG:  when starting as multi_standby mode, we couldn'</span>t support data replicaton.
-gaussdb.state does not exist, and skipt setting since it is optional.2022-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.</span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host Name: Arknights </span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host IP: 127.0.1.1 </span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!</span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
-	
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
-	
-Get environment of GAUSSHOME failed.
-<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] FATAL:  Get environment of GAUSSHOME failed.</span>
-	
-<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: waitpid <span>105619</span> failed, exitstatus is <span>256</span>, ret is <span>2</span>
-
-<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: stopped waiting
-<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: could not start server
-Examine the log output.
-<span>import</span> sql <span>file</span>
-Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
-Input no, operation skip.
-❯ gaussdb
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>can not <span>read</span> GAUSS_WARNING_TYPE env.
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host Name: Arknights 
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host IP: <span>127.0</span>.1.1 
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Get ENV GS_CLUSTER_NAME failed<span>!</span>
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
-	
-<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
-	
-<span>0</span> WARNING:  not found GAUSSHOME enviroment variable.
-<span>0</span> WARNING:  failed to <span>open</span> feature control file, please check whether it exists: <span>FileName</span><span>=</span>gaussdb.version, <span>Errno</span><span>=</span><span>2</span>, <span>Errmessage</span><span>=</span>No such <span>file</span> or directory.
-<span>0</span> WARNING:  failed to parse feature control file: gaussdb.version.
-<span>0</span> WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
-The core dump path is an invalid directory
- <span>0</span> <span>[</span>BACKEND<span>]</span> LOG:  environment variable <span>$PGDATA</span> is NULL or size is out of <span>1024</span>
-	
- <span>0</span> <span>[</span>BACKEND<span>]</span> FATAL:  Incorrect backend environment variable <span>$PGDATA</span>
- <span>0</span> <span>[</span>BACKEND<span>]</span> DETAIL:  Please refer to the backend instance log <span>for</span> the detail
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br><span>103</span><br><span>104</span><br><span>105</span><br><span>106</span><br><span>107</span><br><span>108</span><br><span>109</span><br><span>110</span><br><span>111</span><br><span>112</span><br><span>113</span><br><span>114</span><br><span>115</span><br><span>116</span><br><span>117</span><br><span>118</span><br><span>119</span><br><span>120</span><br><span>121</span><br><span>122</span><br><span>123</span><br><span>124</span><br><span>125</span><br><span>126</span><br><span>127</span><br></div></div></details>
-<h2 id="opengauss配置"> openGauss配置</h2>
-<p>安装完成之后我们执行<code>ps ux | grep gaussdb</code>和<code>gs_ctl query -D $HOME/openGauss/data/single_node</code>来查看进程是否正常. 以下是具体输出细节.</p>
-<details><summary>Info</summary>
-<div><pre><code>❯ <span>ps</span> ux <span>|</span> <span>grep</span> gaussdb
-breezes+  <span>107155</span>  <span>0.0</span>  <span>0.0</span>  <span>11536</span>  <span>2676</span> pts/1    S+   <span>21</span>:09   <span>0</span>:00 <span>grep</span> --color<span>=</span>auto gaussdb
-❯ gs_ctl query -D ~/openGauss/data/single_node
-<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl query ,datadir is /home/breezeshane/openGauss/data/single_node 
-<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>:  invalid data <span>in</span> PID <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/postmaster.pid"</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div></details>
-<p>官方文档给出的<code>gs_om</code>是一种专门用来管理openGauss的操作工具, 全称应该是 openGauss Operation Manager, 于是我去搜索了一下这个工具, 果然GitHub上确实有这个工具的源代码, 在这里给出链接: <a href="https://github.com/opengauss-mirror/openGauss-OM" target="_blank" rel="noopener noreferrer">openGauss-OM</a>.</p>
-<p>我们可以拉取下来然后编译构建, 执行:</p>
-<div><pre><code><span>git</span> clone https://github.com/opengauss-mirror/openGauss-OM
-<span>cd</span> openGauss-OM
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>中间出现了小差池, 我误以为那个是<code>gs_om</code>的源代码, 需要我做编译才能得到, 但后来通过<code>tree . | bat</code>查看后发现它其实是一个脚本. 于是我确认它的位置之后, 手动添加了环境变量<code>export PATH=&quot;$HOME/openGauss/openGauss-OM/script:$HOME/openGauss/bin:$PATH&quot;</code>, 这样就可以直接使用<code>gs_om</code>了, 当我执行<code>gs_om -t status --detail</code>时给出了报错: <code>zsh: permission denied: gs_om</code>.</p>
-<p>于是我执行<code>ls -lb openGauss-OM/script</code>来查看相关权限情况的时候, 发现给出的信息是:</p>
-<div><pre><code>total <span>400</span>
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>156</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_diff
-drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>82</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_utils
-drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>62</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 config
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>130</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 domain_utils
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>8916</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_backup
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>64836</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_check
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>60769</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkos
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>10802</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkperf
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>16485</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_collector
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>14625</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_dropnode
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>24871</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_expansion
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>12400</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_install
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>32869</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_om
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>15724</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_postuninstall
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>19588</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_preinstall
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>120</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gspylib
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>9048</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_ssh
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>57267</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_sshexkey
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6347</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_uninstall
--rw-r--r-- <span>1</span> breezeshane breezeshane <span>13305</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_upgradectl
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>196</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 impl
--rw-r--r-- <span>1</span> breezeshane breezeshane     <span>0</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 __init__.py
--rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6110</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>killall</span>
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>974</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>local</span>
-drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>222</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 os_platform
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p>显然<code>gs_om</code>缺少执行权限, 于是我执行<code>sudo chmod o+x openGauss-OM/script/gs_om</code>后即可通过zsh来使用<code>gs_om</code>了.</p>
-<p>但是, 最后我执行<code>gs_om -t status --detail</code>的时候给出了报错:</p>
-<div><p>Real Error</p>
-<div><pre><code>❯ gs_om -t status --detail
-Traceback <span>(</span>most recent call last<span>)</span>:
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gs_om"</span>, line <span>29</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    from gspylib.common.ParameterParsecheck <span>import</span> Parameter
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/ParameterParsecheck.py"</span>, line <span>27</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    from gspylib.common.Common <span>import</span> DefaultValue
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/Common.py"</span>, line <span>96</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    from os_platform.UserPlatform <span>import</span> g_Platform
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>67</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    g_Platform <span>=</span> UserPlatform<span>(</span><span>)</span>.userPlatform
-  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>48</span>, <span>in</span> __init__
-    raise Exception<span>(</span>ErrorCode.GAUSS_519<span>[</span><span>"GAUSS_51900"</span><span>]</span> +
-Exception: <span>[</span>GAUSS-51900<span>]</span> <span>:</span> The current OS is not supported.Supported platforms are: <span>[</span><span>'suse'</span>, <span>'redhat'</span>, <span>'centos'</span>, <span>'euleros'</span>, <span>'openeuler'</span>, <span>'kylin'</span>, <span>'asianux'</span>, <span>'debian'</span>, <span>'ubuntu'</span><span>]</span>.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div></div>
-<p>我的评价是: 寄!!!</p>
-<p>虽然咱没有现成的, 我们还是可以自行编译的, 不是说毫无希望.</p>
-<h2 id="重整旗鼓"> 重整旗鼓</h2>
-<p>官方文档说要保证以下依赖都已经安装好:</p>
-<div><pre><code>libaio-devel
-ncurses-devel
-pam-devel
-libffi-devel
-python3-devel
-libtool
-libtool-devel 
-libtool-ltdl
-python-devel
-openssl-devel
-bison
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>我亲自搜索考察, 确认是当前系统装有以上依赖. 文档提到需要装gcc7.3和cmake(&gt;=3.16.5), 当前我的状态是cmake满足了条件, 但gcc是11.2.0, 版本差距过大, 又回想到曾经使用Manjaro的时候gcc版本更迭后系统出现了问题, 因此认为gcc11不能直接编译(没有亲自实践过, 如果确实能编译, 欢迎前来指正), 我便转而去安装gcc(7.5.0).</p>
-<blockquote>
-<p>编译要很久的, 如果正好是晚上的话我建议你先睡一觉. 另外提示一下, 这个编译功耗比较大, 如果只有笔记本电源支撑的话建议不要编译.</p>
-</blockquote>
-<p>终于编译完成了, 现在我们下载openGauss的第三方依赖库, 下载完之后我们进行编译, 执行:</p>
-<div><pre><code><span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
-</code></pre>
-<div><span>1</span><br></div></div><p>但事情总不会这样顺利, 再次遇到报错:</p>
-<div><p>Error</p>
-<div><pre><code>❯ <span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
-Cloning into <span>'openGauss-third_party'</span><span>..</span>.
-remote: Enumerating objects: <span>2936</span>, done.
-remote: Counting objects: <span>100</span>% <span>(</span><span>496</span>/496<span>)</span>, done.
-remote: Compressing objects: <span>100</span>% <span>(</span><span>466</span>/466<span>)</span>, done.
-error: <span>8112</span> bytes of body are still expectedB <span>|</span> <span>2.16</span> MiB/s     
-fetch-pack: unexpected disconnect <span>while</span> reading sideband packet
-fatal: early EOF
-fatal: fetch-pack: invalid index-pack output
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div></div>
-<p>于是我继续查询, 发现它出错的原因是拉取的项目体积过大导致报错，连接中断了. 好吧, 几经折腾才发现其实是网络问题, 换手机热点就能解决了......</p>
-<p>好的, 接下来我们进入到build文件夹下, 按照官方文档给出的那样, 执行<code>sh build_all.sh</code>, 然后看见了这个报错:</p>
-<div><p>Error</p>
-<div><pre><code>❯ <span>sh</span> build_all.sh
---------------------------------openssl-------------------------------------------------
-Traceback <span>(</span>most recent call last<span>)</span>:
-  File <span>"build.py"</span>, line <span>308</span>, <span>in</span> <span>&lt;</span>module<span>></span>
-    Operator.build_mode<span>(</span><span>)</span>
-  File <span>"build.py"</span>, line <span>96</span>, <span>in</span> build_mode
-    self.binary_parser<span>(</span><span>)</span>
-  File <span>"build.py"</span>, line <span>87</span>, <span>in</span> binary_parser
-    assert False
-AssertionError
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div></div>
-<p>不了解发生了什么, 但是又想到这里其实是在编译依赖库, 我既然已经比对好相应的依赖, 不编译也没关系, 于是直接拉取了openGauss-server的源代码试图直接编译.</p>
-<p>最后我遇到了这个报错:</p>
-<div><p>Error</p>
-<div><pre><code>❯ <span>sh</span> build.sh -m release -3rd ~/binarylibs
-ROOT_DIR <span>:</span> /home/breezeshane/openGauss-server
-We only support openEuler<span>(</span>aarch64<span>)</span>, EulerOS<span>(</span>aarch64<span>)</span>, CentOS, Kylin<span>(</span>aarch64<span>)</span> platform.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></div>
-<p>于是我就知道了, 解决这个问题就应该直接去执行:</p>
-<div><pre><code><span>rm</span> -rf openGauss-* binarylibs
-</code></pre>
-<div><span>1</span><br></div></div><p>至此这篇文章就已经结束了(x).</p>
-<h2 id="找到出路"> 找到出路</h2>
-<p>最后我才使用Docker虚拟化技术来完成安装, 只需要执行:</p>
-<div><pre><code>docker pull enmotech/opengauss
-docker run --name opengauss --privileged<span>=</span>true -d -e <span>GS_PASSWORD</span><span>=</span>Enmo@123 -p <span>15432</span>:5432 enmotech/opengauss:latest
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>如果你没有像我上面删掉库的话, 那么在这个情况下你可以直接使用之前安装好的openGauss, 执行:</p>
-<div><pre><code>gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span> -h <span>127.0</span>.0.1 -p15432
-</code></pre>
-<div><span>1</span><br></div></div><p>但如果不幸你删掉了, 也不用再重新折腾一遍, docker这里你还是可以直接使用的, 需要按照顺序继续执行:</p>
-<div><pre><code>docker <span>exec</span> -it opengauss <span>bash</span>
-<span>su</span> - omm
-gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这才是真正的圆满结局.</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-03-30T18:09:59.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">Manjaro Linux</title>
     <id>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
     <link href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="manjaro-linux"> Manjaro Linux</h1>
 <p>终于考完试了！在大学第一个寒假到来之际，我决定入坑Linux系统，并花了很长时间挑选系统（深度选择困难患者），终于，我选择了Manjaro Linux，希望它<sub>不会让人失望</sub>！</p>
 <h2 id="_1-windows10-manjaro-linux深度指北"> 1.Windows10+Manjaro Linux深度指北</h2>
@@ -13579,7 +13158,7 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
     <title type="html">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
     <id>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
     <link href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
 <h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
 <p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
@@ -13681,10 +13260,437 @@ vncserver :1
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">在Arch系中安装openGauss(全失败过程)</title>
+    <id>https://breezeshane.github.io/Linux/openGauss/</id>
+    <link href="https://breezeshane.github.io/Linux/openGauss/"/>
+    <updated>2022-04-02T06:13:56.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="opengauss下载"> openGauss下载</h2>
+<p>官网至给出了CentOS和Windows系统下的安装包, 但考虑同样是Linux, openGauss也应该可以安装在Arch系上, 故有此笔记.</p>
+<p>去<a href="https://opengauss.org/zh/download.html" target="_blank" rel="noopener noreferrer">官方网站</a>下载CentOS版本的包.</p>
+<h2 id="opengauss安装"> openGauss安装</h2>
+<p>按照官方文档给出的, 我们执行</p>
+<div><pre><code><span>mkdir</span> ~/openGauss <span>&amp;&amp;</span> <span>tar</span> -jxf openGauss-x.x.x-openEuler-64bit.tar.bz2 -C ~/openGauss
+</code></pre>
+<div><span>1</span><br></div></div><div><p>为什么不安装在/opt/openGauss下</p>
+<p>因为<code>/opt</code>目录是归属于root用户组的, 如果安装在这里会导致一系列的权限问题, 有时连<code>chmod 777</code>也不能解决, 因此我建议避开这个问题, 直接安装到普通用户组下的目录.</p>
+</div>
+<p>继续执行:</p>
+<div><pre><code><span>cd</span> ~/openGauss/simpleInstall
+<span>sh</span> install.sh  -w  <span>"xxxx"</span> <span>&amp;&amp;</span> <span>source</span> ~/.bashrc
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后这时候遇到了报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+install.sh: line <span>215</span>: gs_initdb: <span>command</span> not found
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+install.sh: line <span>221</span>: gs_ctl: <span>command</span> not found
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
+<p>看到<code>command not found</code>就可以知道, 这是因为系统不知道这两个程序在哪里, 解决方案自然是手动添加环境变量, 我们在<code>~/.bashrc</code>里的最后一行添加<code>export PATH=&quot;$HOME/openGauss/bin:$PATH&quot;</code>然后执行<code>source ~/.bashrc</code>更新一下. Zsh同理.</p>
+<p>为什么会知道加这个路径能解决? 这是因为我通过执行<code>tree ./ | bat</code>后查找到这两个程序的, 然后就能顺利找到他们所在的位置.</p>
+<p>但这还没完, 又遇到报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+gs_initdb: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+gs_ctl: error <span>while</span> loading shared libraries: libreadline.so.6: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
+<p>经过查找资料了解到<code>libreadline.so.6</code>是位于<code>/lib/</code>目录下, 于是我执行<code>ls /lib/ | grep libreadline.so</code>来查看我当前拥有的组件:</p>
+<div><pre><code>libreadline.so
+libreadline.so.8
+libreadline.so.8.1
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>于是我做了一个软链接来解决找不到<code>libreadline.so.6</code>的问题, 执行<code>sudo ln -s /lib/libreadline.so.8 /lib/libreadline.so.6</code>.</p>
+<p>再次运行又遇到了报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+gs_initdb: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+gs_ctl: error <span>while</span> loading shared libraries: libcrypt.so.1: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div></div>
+<p>经过查询是缺少了内核<code>libxcrypt-compat</code>, 安装一下即可.</p>
+<p>再次遇到报错:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libeSDKOBS.so: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
+The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
+same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
+Check your installation.
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+gs_ctl: error <span>while</span> loading shared libraries: libgssapi_krb5_gauss.so.2: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
+<p>看报错是说<code>libeSDKOBS.so</code>文件找不到了, 可以确定是某环境变量缺少了这个东西的所在目录. 但我不能确定这个文件在哪, 于是先执行了<code>sudo find / -name libeSDKOBS.so</code>来查找, 然后发现:</p>
+<div><pre><code>/home/breezeshane/OpenGauss/lib/libeSDKOBS.so
+/home/breezeshane/openGauss/lib/libeSDKOBS.so
+find: ‘/proc/10096/task/10096/net’: Invalid argument
+find: ‘/proc/10096/net’: Invalid argument
+find: ‘/proc/65449/task/65449/net’: Invalid argument
+find: ‘/proc/65449/net’: Invalid argument
+/run/timeshift/backup/@home/breezeshane/OpenGauss/lib/libeSDKOBS.so
+/run/timeshift/backup/@home/breezeshane/openGauss/lib/libeSDKOBS.so
+find: File system loop detected<span>;</span> ‘/run/timeshift/backup/@’ is part of the same <span>file</span> system loop as ‘/’.
+find: ‘/run/user/1000/doc’: Permission denied
+find: ‘/run/user/1000/gvfs’: Permission denied
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>头两行引起了我的注意, 然后我再查看<code>LD_LIBRARY_PATH</code>环境变量<code>echo $LD_LIBRARY_PATH</code>, 果然发现它没有这个路径, 于是我手动添加了这个环境变量, 执行<code>export LD_LIBRARY_PATH=&quot;$HOME/openGauss/lib:$LD_LIBRARY_PATH&quot;</code>.</p>
+<p>又双遇到了问题:</p>
+<div><p>Error</p>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+/home/breezeshane/openGauss/bin/gaussdb: error <span>while</span> loading shared libraries: libncurses.so.5: cannot <span>open</span> shared object file: No such <span>file</span> or directory
+no data was returned by <span>command</span> <span>""</span>/home/breezeshane/openGauss/bin/gaussdb<span>" -V"</span>
+The program <span>"gaussdb"</span> is needed by gs_initdb but was not found <span>in</span> the
+same directory as <span>"/home/breezeshane/openGauss/bin/gs_initdb"</span><span>.</span>
+Check your installation.
+<span>[</span>step <span>7</span><span>]</span>: start datanode
+<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
+<span>[</span><span>2022</span>-03-30 <span>20</span>:53:54.259<span>]</span><span>[</span><span>100140</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: can't create lock <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/pg_ctl.lock"</span> <span>:</span> No such <span>file</span> or directoryimport sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br></div></div></div>
+<p>经过查找资料, 确认造成这个问题的原因就是在于版本滞后导致缺失运行库, 我们查看一下当前有的运行库, 执行<code>ls -1 /usr/lib/libncurses*</code>, 在这里我得到的结果是:</p>
+<div><pre><code>/usr/lib/libncurses++.so
+/usr/lib/libncurses.so
+/usr/lib/libncurses++w_g.a
+/usr/lib/libncursesw_g.a
+/usr/lib/libncurses++w.so
+/usr/lib/libncursesw.so
+/usr/lib/libncurses++w.so.6
+/usr/lib/libncursesw.so.6
+/usr/lib/libncurses++w.so.6.3
+/usr/lib/libncursesw.so.6.3
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p>接着我们执行</p>
+<div><pre><code><span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libncurses.so.5
+<span>sudo</span> <span>ln</span> -s /usr/lib/libncursesw.so.6 /usr/lib/libtinfo.so.5
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>即可解决这个问题.</p>
+<p>最后重新执行即可大功告成, 以下是当时输出的信息:</p>
+<details><summary>Info</summary>
+<div><pre><code><span>[</span>step <span>1</span><span>]</span>: check parameter
+<span>[</span>step <span>2</span><span>]</span>: check <span>install</span> <span>env</span> and os setting
+<span>[</span>step <span>3</span><span>]</span>: change_gausshome_owner
+<span>[</span>step <span>4</span><span>]</span>: <span>set</span> environment variables
+
+<span>[</span>step <span>6</span><span>]</span>: init datanode
+The files belonging to this database system will be owned by user <span>"breezeshane"</span><span>.</span>
+This user must also own the server process.
+
+The database cluster will be initialized with locale <span>"en_US.UTF-8"</span><span>.</span>
+The default database encoding has accordingly been <span>set</span> to <span>"UTF8"</span><span>.</span>
+The default text search configuration will be <span>set</span> to <span>"english"</span><span>.</span>
+
+creating directory /home/breezeshane/openGauss/data/single_node <span>..</span>. ok
+creating subdirectories <span>..</span>. ok
+selecting default max_connections <span>..</span>. <span>100</span>
+selecting default shared_buffers <span>..</span>. 32MB
+creating configuration files <span>..</span>. ok
+Begin init undo subsystem meta.
+<span>[</span>INIT UNDO<span>]</span> Init undo subsystem meta successfully.
+creating template1 database <span>in</span> /home/breezeshane/openGauss/data/single_node/base/1 <span>..</span>. The core dump path is an invalid directory
+<span>2022</span>-03-30 <span>21</span>:05:33.466 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>139689665127360</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  [BACKEND] WARNING:  macAddr is 39087/1707678456, sysidentifier is 2561631689/452484890, randomNum is 3818217242</span>
+ok
+initializing pg_authid <span>..</span>. ok
+setting password <span>..</span>. ok
+initializing dependencies <span>..</span>. ok
+loading PL/pgSQL server-side language <span>..</span>. ok
+creating system views <span>..</span>. ok
+creating performance views <span>..</span>. ok
+loading system objects<span>' descriptions ... ok
+creating collations ... ok
+creating conversions ... ok
+creating dictionaries ... ok
+setting privileges on built-in objects ... ok
+initialize global configure for bucketmap length ... ok
+creating information schema ... ok
+loading foreign-data wrapper for distfs access ... ok
+loading foreign-data wrapper for hdfs access ... ok
+loading foreign-data wrapper for log access ... ok
+loading hstore extension ... ok
+loading foreign-data wrapper for MOT access ... ok
+loading security plugin ... ok
+update system tables ... ok
+creating snapshots catalog ... ok
+vacuuming database template1 ... ok
+copying template1 to template0 ... ok
+copying template1 to postgres ... ok
+freezing database template0 ... ok
+freezing database template1 ... ok
+freezing database postgres ... ok
+
+WARNING: enabling "trust" authentication for local connections
+You can change this by editing pg_hba.conf or using the option -A, or
+--auth-local and --auth-host, the next time you run gs_initdb.
+
+Success. You can now start the database server of single node using:
+
+    gaussdb -D /home/breezeshane/openGauss/data/single_node --single_node
+or
+    gs_ctl start -D /home/breezeshane/openGauss/data/single_node -Z single_node -l logfile
+
+[step 7]: start datanode
+[2022-03-30 21:06:05.221][105616][][gs_ctl]: gs_ctl started,datadir is /home/breezeshane/openGauss/data/single_node 
+[2022-03-30 21:06:05.290][105616][][gs_ctl]: waiting for server to start...
+.0 LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.
+	
+0 LOG:  [Alarm Module]Host Name: Arknights 
+	
+0 LOG:  [Alarm Module]Host IP: 127.0.1.1 
+	
+0 LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!
+	
+0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
+	
+0 LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!
+	
+0 WARNING:  not found GAUSSHOME enviroment variable.
+0 WARNING:  failed to open feature control file, please check whether it exists: FileName=gaussdb.version, Errno=2, Errmessage=No such file or directory.
+0 WARNING:  failed to parse feature control file: gaussdb.version.
+0 WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
+The core dump path is an invalid directory
+2022-03-30 21:06:05.422 [unknown] [unknown] localhost 140319329661888 0[0:0#0]  0 [BACKEND] LOG:  when starting as multi_standby mode, we couldn'</span>t support data replicaton.
+gaussdb.state does not exist, and skipt setting since it is optional.2022-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]can not read GAUSS_WARNING_TYPE env.</span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host Name: Arknights </span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Host IP: 127.0.1.1 </span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]Get ENV GS_CLUSTER_NAME failed!</span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
+	
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] LOG:  [Alarm Module]ERROR: environment variable $GAUSSHOME is not set!</span>
+	
+Get environment of GAUSSHOME failed.
+<span>2022</span>-03-30 <span>21</span>:06:05.422 <span>[</span>unknown<span>]</span> <span>[</span>unknown<span>]</span> localhost <span>140319329661888</span> <span>0</span><span>[</span><span>0</span>:0<span>#0]  0 [BACKEND] FATAL:  Get environment of GAUSSHOME failed.</span>
+	
+<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: waitpid <span>105619</span> failed, exitstatus is <span>256</span>, ret is <span>2</span>
+
+<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: stopped waiting
+<span>[</span><span>2022</span>-03-30 <span>21</span>:06:06.291<span>]</span><span>[</span><span>105616</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: could not start server
+Examine the log output.
+<span>import</span> sql <span>file</span>
+Would you like to create a demo database <span>(</span>yes/no<span>)</span>? no
+Input no, operation skip.
+❯ gaussdb
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>can not <span>read</span> GAUSS_WARNING_TYPE env.
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host Name: Arknights 
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Host IP: <span>127.0</span>.1.1 
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>Get ENV GS_CLUSTER_NAME failed<span>!</span>
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
+	
+<span>0</span> LOG:  <span>[</span>Alarm Module<span>]</span>ERROR: environment variable <span>$GAUSSHOME</span> is not set<span>!</span>
+	
+<span>0</span> WARNING:  not found GAUSSHOME enviroment variable.
+<span>0</span> WARNING:  failed to <span>open</span> feature control file, please check whether it exists: <span>FileName</span><span>=</span>gaussdb.version, <span>Errno</span><span>=</span><span>2</span>, <span>Errmessage</span><span>=</span>No such <span>file</span> or directory.
+<span>0</span> WARNING:  failed to parse feature control file: gaussdb.version.
+<span>0</span> WARNING:  Failed to load the product control file, so gaussdb cannot distinguish product version.
+The core dump path is an invalid directory
+ <span>0</span> <span>[</span>BACKEND<span>]</span> LOG:  environment variable <span>$PGDATA</span> is NULL or size is out of <span>1024</span>
+	
+ <span>0</span> <span>[</span>BACKEND<span>]</span> FATAL:  Incorrect backend environment variable <span>$PGDATA</span>
+ <span>0</span> <span>[</span>BACKEND<span>]</span> DETAIL:  Please refer to the backend instance log <span>for</span> the detail
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br><span>103</span><br><span>104</span><br><span>105</span><br><span>106</span><br><span>107</span><br><span>108</span><br><span>109</span><br><span>110</span><br><span>111</span><br><span>112</span><br><span>113</span><br><span>114</span><br><span>115</span><br><span>116</span><br><span>117</span><br><span>118</span><br><span>119</span><br><span>120</span><br><span>121</span><br><span>122</span><br><span>123</span><br><span>124</span><br><span>125</span><br><span>126</span><br><span>127</span><br></div></div></details>
+<h2 id="opengauss配置"> openGauss配置</h2>
+<p>安装完成之后我们执行<code>ps ux | grep gaussdb</code>和<code>gs_ctl query -D $HOME/openGauss/data/single_node</code>来查看进程是否正常. 以下是具体输出细节.</p>
+<details><summary>Info</summary>
+<div><pre><code>❯ <span>ps</span> ux <span>|</span> <span>grep</span> gaussdb
+breezes+  <span>107155</span>  <span>0.0</span>  <span>0.0</span>  <span>11536</span>  <span>2676</span> pts/1    S+   <span>21</span>:09   <span>0</span>:00 <span>grep</span> --color<span>=</span>auto gaussdb
+❯ gs_ctl query -D ~/openGauss/data/single_node
+<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>: gs_ctl query ,datadir is /home/breezeshane/openGauss/data/single_node 
+<span>[</span><span>2022</span>-03-30 <span>21</span>:10:17.458<span>]</span><span>[</span><span>107813</span><span>]</span><span>[</span><span>]</span><span>[</span>gs_ctl<span>]</span>:  invalid data <span>in</span> PID <span>file</span> <span>"/home/breezeshane/openGauss/data/single_node/postmaster.pid"</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div></details>
+<p>官方文档给出的<code>gs_om</code>是一种专门用来管理openGauss的操作工具, 全称应该是 openGauss Operation Manager, 于是我去搜索了一下这个工具, 果然GitHub上确实有这个工具的源代码, 在这里给出链接: <a href="https://github.com/opengauss-mirror/openGauss-OM" target="_blank" rel="noopener noreferrer">openGauss-OM</a>.</p>
+<p>我们可以拉取下来然后编译构建, 执行:</p>
+<div><pre><code><span>git</span> clone https://github.com/opengauss-mirror/openGauss-OM
+<span>cd</span> openGauss-OM
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>中间出现了小差池, 我误以为那个是<code>gs_om</code>的源代码, 需要我做编译才能得到, 但后来通过<code>tree . | bat</code>查看后发现它其实是一个脚本. 于是我确认它的位置之后, 手动添加了环境变量<code>export PATH=&quot;$HOME/openGauss/openGauss-OM/script:$HOME/openGauss/bin:$PATH&quot;</code>, 这样就可以直接使用<code>gs_om</code>了, 当我执行<code>gs_om -t status --detail</code>时给出了报错: <code>zsh: permission denied: gs_om</code>.</p>
+<p>于是我执行<code>ls -lb openGauss-OM/script</code>来查看相关权限情况的时候, 发现给出的信息是:</p>
+<div><pre><code>total <span>400</span>
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>156</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_diff
+drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>82</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 base_utils
+drwxr-xr-x <span>1</span> breezeshane breezeshane    <span>62</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 config
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>130</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 domain_utils
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>8916</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_backup
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>64836</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_check
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>60769</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkos
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>10802</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_checkperf
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>16485</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_collector
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>14625</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_dropnode
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>24871</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_expansion
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>12400</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_install
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>32869</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_om
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>15724</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_postuninstall
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>19588</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_preinstall
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>120</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gspylib
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>9048</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_ssh
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>57267</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_sshexkey
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6347</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_uninstall
+-rw-r--r-- <span>1</span> breezeshane breezeshane <span>13305</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 gs_upgradectl
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>196</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 impl
+-rw-r--r-- <span>1</span> breezeshane breezeshane     <span>0</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 __init__.py
+-rw-r--r-- <span>1</span> breezeshane breezeshane  <span>6110</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>killall</span>
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>974</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 <span>local</span>
+drwxr-xr-x <span>1</span> breezeshane breezeshane   <span>222</span>  <span>3</span>月 <span>30</span> <span>23</span>:10 os_platform
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br></div></div><p>显然<code>gs_om</code>缺少执行权限, 于是我执行<code>sudo chmod o+x openGauss-OM/script/gs_om</code>后即可通过zsh来使用<code>gs_om</code>了.</p>
+<p>但是, 最后我执行<code>gs_om -t status --detail</code>的时候给出了报错:</p>
+<div><p>Real Error</p>
+<div><pre><code>❯ gs_om -t status --detail
+Traceback <span>(</span>most recent call last<span>)</span>:
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gs_om"</span>, line <span>29</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    from gspylib.common.ParameterParsecheck <span>import</span> Parameter
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/ParameterParsecheck.py"</span>, line <span>27</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    from gspylib.common.Common <span>import</span> DefaultValue
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/gspylib/common/Common.py"</span>, line <span>96</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    from os_platform.UserPlatform <span>import</span> g_Platform
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>67</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    g_Platform <span>=</span> UserPlatform<span>(</span><span>)</span>.userPlatform
+  File <span>"/home/breezeshane/openGauss/openGauss-OM/script/os_platform/UserPlatform.py"</span>, line <span>48</span>, <span>in</span> __init__
+    raise Exception<span>(</span>ErrorCode.GAUSS_519<span>[</span><span>"GAUSS_51900"</span><span>]</span> +
+Exception: <span>[</span>GAUSS-51900<span>]</span> <span>:</span> The current OS is not supported.Supported platforms are: <span>[</span><span>'suse'</span>, <span>'redhat'</span>, <span>'centos'</span>, <span>'euleros'</span>, <span>'openeuler'</span>, <span>'kylin'</span>, <span>'asianux'</span>, <span>'debian'</span>, <span>'ubuntu'</span><span>]</span>.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div></div>
+<p>我的评价是: 寄!!!</p>
+<p>虽然咱没有现成的, 我们还是可以自行编译的, 不是说毫无希望.</p>
+<h2 id="重整旗鼓"> 重整旗鼓</h2>
+<p>官方文档说要保证以下依赖都已经安装好:</p>
+<div><pre><code>libaio-devel
+ncurses-devel
+pam-devel
+libffi-devel
+python3-devel
+libtool
+libtool-devel 
+libtool-ltdl
+python-devel
+openssl-devel
+bison
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>我亲自搜索考察, 确认是当前系统装有以上依赖. 文档提到需要装gcc7.3和cmake(&gt;=3.16.5), 当前我的状态是cmake满足了条件, 但gcc是11.2.0, 版本差距过大, 又回想到曾经使用Manjaro的时候gcc版本更迭后系统出现了问题, 因此认为gcc11不能直接编译(没有亲自实践过, 如果确实能编译, 欢迎前来指正), 我便转而去安装gcc(7.5.0).</p>
+<blockquote>
+<p>编译要很久的, 如果正好是晚上的话我建议你先睡一觉. 另外提示一下, 这个编译功耗比较大, 如果只有笔记本电源支撑的话建议不要编译.</p>
+</blockquote>
+<p>终于编译完成了, 现在我们下载openGauss的第三方依赖库, 下载完之后我们进行编译, 执行:</p>
+<div><pre><code><span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
+</code></pre>
+<div><span>1</span><br></div></div><p>但事情总不会这样顺利, 再次遇到报错:</p>
+<div><p>Error</p>
+<div><pre><code>❯ <span>git</span> clone https://gitee.com/opengauss/openGauss-third_party.git
+Cloning into <span>'openGauss-third_party'</span><span>..</span>.
+remote: Enumerating objects: <span>2936</span>, done.
+remote: Counting objects: <span>100</span>% <span>(</span><span>496</span>/496<span>)</span>, done.
+remote: Compressing objects: <span>100</span>% <span>(</span><span>466</span>/466<span>)</span>, done.
+error: <span>8112</span> bytes of body are still expectedB <span>|</span> <span>2.16</span> MiB/s     
+fetch-pack: unexpected disconnect <span>while</span> reading sideband packet
+fatal: early EOF
+fatal: fetch-pack: invalid index-pack output
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div></div>
+<p>于是我继续查询, 发现它出错的原因是拉取的项目体积过大导致报错，连接中断了. 好吧, 几经折腾才发现其实是网络问题, 换手机热点就能解决了......</p>
+<p>好的, 接下来我们进入到build文件夹下, 按照官方文档给出的那样, 执行<code>sh build_all.sh</code>, 然后看见了这个报错:</p>
+<div><p>Error</p>
+<div><pre><code>❯ <span>sh</span> build_all.sh
+--------------------------------openssl-------------------------------------------------
+Traceback <span>(</span>most recent call last<span>)</span>:
+  File <span>"build.py"</span>, line <span>308</span>, <span>in</span> <span>&lt;</span>module<span>></span>
+    Operator.build_mode<span>(</span><span>)</span>
+  File <span>"build.py"</span>, line <span>96</span>, <span>in</span> build_mode
+    self.binary_parser<span>(</span><span>)</span>
+  File <span>"build.py"</span>, line <span>87</span>, <span>in</span> binary_parser
+    assert False
+AssertionError
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div></div>
+<p>不了解发生了什么, 但是又想到这里其实是在编译依赖库, 我既然已经比对好相应的依赖, 不编译也没关系, 于是直接拉取了openGauss-server的源代码试图直接编译.</p>
+<p>最后我遇到了这个报错:</p>
+<div><p>Error</p>
+<div><pre><code>❯ <span>sh</span> build.sh -m release -3rd ~/binarylibs
+ROOT_DIR <span>:</span> /home/breezeshane/openGauss-server
+We only support openEuler<span>(</span>aarch64<span>)</span>, EulerOS<span>(</span>aarch64<span>)</span>, CentOS, Kylin<span>(</span>aarch64<span>)</span> platform.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></div>
+<p>于是我就知道了, 解决这个问题就应该直接去执行:</p>
+<div><pre><code><span>rm</span> -rf openGauss-* binarylibs
+</code></pre>
+<div><span>1</span><br></div></div><p>至此这篇文章就已经结束了(x).</p>
+<h2 id="找到出路"> 找到出路</h2>
+<p>最后我才使用Docker虚拟化技术来完成安装, 只需要执行:</p>
+<div><pre><code>docker pull enmotech/opengauss
+docker run --name opengauss --privileged<span>=</span>true -d -e <span>GS_PASSWORD</span><span>=</span>Enmo@123 -p <span>15432</span>:5432 enmotech/opengauss:latest
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>如果你没有像我上面删掉库的话, 那么在这个情况下你可以直接使用之前安装好的openGauss, 执行:</p>
+<div><pre><code>gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span> -h <span>127.0</span>.0.1 -p15432
+</code></pre>
+<div><span>1</span><br></div></div><p>但如果不幸你删掉了, 也不用再重新折腾一遍, docker这里你还是可以直接使用的, 需要按照顺序继续执行:</p>
+<div><pre><code>docker <span>exec</span> -it opengauss <span>bash</span>
+<span>su</span> - omm
+gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这才是真正的圆满结局.</p>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-03-30T18:09:59.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">Building Up Servicer</title>
     <id>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</id>
     <link href="https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
 <h2 id="怎么做"> 怎么做？</h2>
@@ -13750,7 +13756,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">关于Vcomputer如何实现循环的哲学问题</title>
     <id>https://breezeshane.github.io/VComputer/</id>
     <link href="https://breezeshane.github.io/VComputer/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
 <hr>
 <p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
@@ -13800,7 +13806,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">Crawler</title>
     <id>https://breezeshane.github.io/Python/Crawler/</id>
     <link href="https://breezeshane.github.io/Python/Crawler/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
 <h2 id="前言"> 前言</h2>
 <p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
@@ -13897,7 +13903,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">数据库</title>
     <id>https://breezeshane.github.io/Web/DataBase/</id>
     <link href="https://breezeshane.github.io/Web/DataBase/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<p><strong>数据库</strong>，又称为数据管理系统，是以一定方式储存在一起、能予多个用户共享、具有尽可能小的冗余度、与应用程序彼此独立的数据集合。</p>
 <h2 id="分类"> 分类</h2>
 <p><strong>关系型数据库</strong>，是指采用了关系模型来组织数据的数据库，其以行和列的形式存储数据，以便于用户理解，关系型数据库这一系列的行和列被称为表，一组表组成了数据库。用户通过查询来检索数据库中的数据，而查询是一个用于限定数据库中某些区域的执行代码。</p>
@@ -14089,7 +14095,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">简单的网页前后端搭建过程</title>
     <id>https://breezeshane.github.io/Web/Frontbackend/</id>
     <link href="https://breezeshane.github.io/Web/Frontbackend/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
 <h3 id="html"> HTML</h3>
 <p><strong>HTML设置字体：</strong></p>
@@ -14241,7 +14247,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">在受限的网站里强制复制粘贴</title>
     <id>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</id>
     <link href="https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
 <blockquote>
 <p>参考：</p>
@@ -14330,7 +14336,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">MySQL初步使用</title>
     <id>https://breezeshane.github.io/Web/MySQL/</id>
     <link href="https://breezeshane.github.io/Web/MySQL/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <p><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a>
 <a href="https://www.runoob.com/mysql/mysql-create-tables.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据表</a>
@@ -14461,7 +14467,7 @@ secure_file_priv =
     <title type="html">SDN入门基础</title>
     <id>https://breezeshane.github.io/Web/SDN/</id>
     <link href="https://breezeshane.github.io/Web/SDN/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<div><p>参考链接</p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&amp;mid=209513316&amp;idx=1&amp;sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd" target="_blank" rel="noopener noreferrer">《SDN软件定义网络从入门到精通》导论课</a>
 <a href="http://www.keyunict.com/news/news-271.html" target="_blank" rel="noopener noreferrer">SDN的主要分层结构</a>
@@ -14866,7 +14872,7 @@ secure_file_priv =
     <title type="html">Windows10 快捷键大全</title>
     <id>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</id>
     <link href="https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
 <h2 id="_2020-11-19"> 2020/11/19</h2>
 <hr>
@@ -15192,7 +15198,7 @@ secure_file_priv =
     <title type="html">𝕬𝖇𝖔𝖚𝖙</title>
     <id>https://breezeshane.github.io/about/</id>
     <link href="https://breezeshane.github.io/about/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -15226,14 +15232,14 @@ secure_file_priv =
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://breezeshane.github.io/intro/</id>
     <link href="https://breezeshane.github.io/intro/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -15243,14 +15249,14 @@ secure_file_priv =
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://breezeshane.github.io/layout/</id>
     <link href="https://breezeshane.github.io/layout/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -15275,14 +15281,14 @@ secure_file_priv =
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">友情链接</title>
     <id>https://breezeshane.github.io/links/</id>
     <link href="https://breezeshane.github.io/links/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -15319,14 +15325,14 @@ secure_file_priv =
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
     <id>https://breezeshane.github.io/qap/</id>
     <link href="https://breezeshane.github.io/qap/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<center>
     <font color="#fa8c35" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
@@ -15363,7 +15369,7 @@ background-size: cover;
     <title type="html">Blog Home</title>
     <id>https://breezeshane.github.io/</id>
     <link href="https://breezeshane.github.io/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content>
     <author>
@@ -15372,14 +15378,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://breezeshane.github.io/slides/</id>
     <link href="https://breezeshane.github.io/slides/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -15388,14 +15394,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-02T03:09:18.000Z</published>
+    <published>2022-04-02T06:13:56.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Linux Shell 编程学习与实战</title>
     <id>https://breezeshane.github.io/Linux/Shells/</id>
     <link href="https://breezeshane.github.io/Linux/Shells/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<h2 id="模拟输入组合键ctrl-anykey"> 模拟输入组合键<kbd>Ctrl</kbd>+<kbd>AnyKey</kbd></h2>
 <p>在<a href="./AutoIAC.html">上一篇笔记</a>中我提到没能将输入内容送入指定的进程PID，但在了解到这一点之前我学到了如下的一些内容：</p>
 <div><pre><code><span>echo</span> <span>$$</span> <span># 这个是显示当前进程的PID。</span>
@@ -16560,7 +16566,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
     <title type="html">记一次局域网搭建私人云盘的过程</title>
     <id>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</id>
     <link href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/"/>
-    <updated>2022-04-02T03:09:18.000Z</updated>
+    <updated>2022-04-02T06:13:56.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
 </blockquote>
