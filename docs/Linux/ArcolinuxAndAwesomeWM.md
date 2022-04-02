@@ -1090,6 +1090,17 @@ electron9
 ::: danger Error
 
 ```shell
+4月 02 14:07:04 Arknights systemd-logind[559]: Watching system buttons on /dev/input/event18 (DURGOD K330w Keyboard)
+4月 02 14:07:07 Arknights tlp[91713]: Warning: systemd-rfkill.service is not masked, radio device switching may not work as configured.
+4月 02 14:07:07 Arknights tlp[91713]: >>> Invoke 'systemctl mask systemd-rfkill.service' to correct this.
+4月 02 14:07:07 Arknights tlp[91713]: Warning: systemd-rfkill.socket is not masked, radio device switching may not work as configured.
+4月 02 14:07:07 Arknights tlp[91713]: >>> Invoke 'systemctl mask systemd-rfkill.socket' to correct this.
+4月 02 14:07:50 Arknights kernel: Bluetooth: hci0: Opcode 0x2043 failed: -110
+4月 02 14:07:50 Arknights kernel: Bluetooth: hci0: request failed to create LE connection: err -110
+4月 02 14:07:54 Arknights kernel: input: DURGOD K330w Keyboard as /devices/virtual/misc/uhid/0005:090A:01C1.000F/input/input48
+4月 02 14:07:54 Arknights kernel: input: DURGOD K330w Mouse as /devices/virtual/misc/uhid/0005:090A:01C1.000F/input/input49
+4月 02 14:07:54 Arknights kernel: hid-generic 0005:090A:01C1.000F: input,hidraw1: BLUETOOTH HID v1.09 Keyboard [DURGOD K330w] on 98:af:65:c9:1a:fc
+4月 02 14:07:55 Arknights systemd-logind[559]: Watching system buttons on /dev/input/event18 (DURGOD K330w Keyboard)
 4月 02 14:08:04 Arknights kernel: Bluetooth: hci0: Opcode 0x 401 failed: -16
 ```
 
