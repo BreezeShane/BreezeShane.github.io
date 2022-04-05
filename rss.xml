@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 05 Apr 2022 03:37:17 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2022 03:37:17 GMT</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2022 06:32:50 GMT</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2022 06:32:50 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -7703,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8262,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,7 +8285,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8296,7 +8296,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8316,7 +8316,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8327,7 +8327,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8354,18 +8354,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>哈希搜索</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">哈希搜索</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:03 GMT</pubDate>
-    </item>
-    <item>
       <title>插值搜索</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</guid>
       <source url="https://breezeshane.github.io/rss.xml">插值搜索</source>
       <pubDate>Sun, 23 Jan 2022 01:25:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>哈希搜索</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">哈希搜索</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:03 GMT</pubDate>
     </item>
     <item>
       <title>顺序搜索</title>
@@ -12414,6 +12414,105 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
+      <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
+      <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
+      <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</source>
+      <pubDate>Sun, 25 Apr 2021 01:25:14 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
+<h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
+<p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
+<blockquote>
+<p>「注」：网上与此相关的资料太少了，我觉得很有必要详细记录下来，因此本文看起来繁琐了一些。</p>
+</blockquote>
+<p>首先在<a href="https://www.zerotier.com/" target="_blank" rel="noopener noreferrer">Zerotier-One官网</a>上注册一个帐号，我选择了使用GitHub登陆。登陆之后会出现这个界面：</p>
+<p><img src="/images/2021-04-28_19-13.png" alt="2021-04-28_19-13" /></p>
+<p>点击创建网络按钮，即可自动生成新的一栏，这时候你需要点击进去即可</p>
+<p><img src="/images/2021-04-28_19-21.png" alt="2021-04-28_19-21" /></p>
+<p><strong>IPv4 Auto-Assign</strong>那一栏选什么地址不用我说，随君喜好！Zerotier One就是可以自己定IP地址！</p>
+<p><strong>IPv6 Auto-Assign</strong>那一栏选中第二项即可。</p>
+<p>往下翻页你会看到这个：</p>
+<p><img src="/images/2021-04-28_22-49.png" alt="2021-04-28_22-49" /></p>
+<p>这里提示可以添加网络成员，但是需要相应设备安装对应的客户端。</p>
+<p><img src="/images/2021-04-28_22-52.png" alt="2021-04-28_22-52" /></p>
+<p>由于我使用的是基于Archlinux的系统，因此从AUR安装即可：</p>
+<div><pre><code>yay -S zerotier-one
+</code></pre>
+<div><span>1</span><br></div></div><p>安装之后，需要启动服务，执行：</p>
+<div><pre><code><span>sudo</span> systemctl start zerotier-one.service
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>我见网上很多博客写的这个指令：<code>curl -s https://install.zerotier.com | sudo bash</code>，但至少在Manjaro里是不能正常执行的，会提示如下的报错信息——找不到与系统版本匹配的客户端。</p>
+<p><img src="/images/2021-04-28_22-58.png" alt="" /></p>
+<p>根据<code>sudo zerotier-one -h</code>的返回结果可知，需要接着输入如下指令：</p>
+<div><pre><code><span>sudo</span> zerotier-one -pdiq
+<span># 如果等了半天没有反应，就终止一下吧。。。我当初就这样做的，实质上执行</span>
+<span># 这个只是为了生成相应的配置文件来解决先前执行下一个指令报的错误——找不到配置文件。</span>
+<span>sudo</span> zerotier-cli status
+<span># 返回200 info *** 1.6.4 ONLINE则正常。</span>
+<span>sudo</span> zerotier-listpeers
+<span># 用于获取当前的连接情况，不执行也可</span>
+<span>sudo</span> zerotier-cli <span>join</span> ******
+<span># 这里的******就是前面特意强调的虚拟内网ID</span>
+<span>sudo</span> zerotier-listpeers
+<span># 确认一下确实成功了，你会看到比原先多出来一行内容，而且最后一个单词是LEAF，其它</span>
+<span># 行最后的单词都是PLANET。</span>
+<span>sudo</span> systemctl start zerotier-one.service
+<span># 启用zerotier-one服务</span>
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+<span># 开机自启动zerotier-one服务</span>
+<span>######</span>
+<span>sudo</span> zerotier-cli <span>set</span> 12ac4a1e7101bb86 <span>allowManaged</span><span>=</span><span>1</span>
+<span># 注意，关于这条指令网上有两种声音，有主张授权为1的，但没见到谁有给理由，而主张授</span>
+<span># 权为0的理由如下：</span>
+<span># 这样就不会导致勾选Authorized后，zerotier自动将路由下发到ubuntu，如果</span>
+<span># zerotier设置的路由为10.0.1.0/24,会导致本来10.0.1.0/24 dev br-lan</span>
+<span># 变成10.0.1.0/24 dev ztxxxxxxxxx,然后你就不能连接路由器了</span>
+<span># 作者：fc790 https://www.bilibili.com/read/cv7586063/ 出处： bilibili</span>
+<span>## 这种就看着弄，出了问题再改回来就好了。</span>
+<span>sudo</span> systemctl restart zerotier-one
+<span># 如果你做了刚才那个做法，需要重启一下服务。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>到此为止，电脑上的ZeroTier One就已经配置得差不多了，我们需要在Android设备上安装客户端了。</p>
+<p>如果你有Google Play并且你还能使用，你可以直接在Google商店上下载。但不幸的是，如果你没有，你可以选择去安装，而更不幸的是，你使用的是华为产品，那恭喜恭喜，您跟我一样，没什么可能走这条路了（毕竟国际形势如此紧张。。。也没办法。。。）</p>
+<p>走的另一条路在此--&gt;<a href="https://apkpure.com/" target="_blank" rel="noopener noreferrer">ApkPure</a>，在这家网站上你可以下载到许许多多好用实用的外国软件，干净、安全、可靠，我是被吸引着主动下载了他们的客户端，真香了。。。</p>
+<p>装好Zerotier One之后，需要新建一个连接配置，点击ADD NETWORK，然后输入虚拟内网ID，完成后点击下方的Add Network，并开启连接，这时候你需要回到电脑上的Zerotier Central，翻到Members这一栏刷新一下，你会发现多出来一个成员，这里需要你点前面的复选框来授权连接（你也可以选择删除或者断开连接并忽略）。然后就可以自己给设备设定名字以及备注了。</p>
+<p><img src="/images/2021-04-29_00-25.png" alt="" /></p>
+<p>然而如果你希望这台设备能被内网的其它设备发现，需要先后点击这两处：</p>
+<p><img src="/images/2021-04-29_00-28.png" alt="" /></p>
+<p>大致上如此，这时候你已经搭建好这个虚拟内网了！</p>
+<p>如果希望某设备（已知Node ID，在客户端下方一栏出现）也能加入这个虚拟内网，需要在Zerotier Central找到<img src="/images/2021-04-28_21-21.png" alt="" />这里并输入对应设备的Node ID。</p>
+<p>另外特意说一下如果希望本机也加入的话，获取Node ID这个问题折磨我好久，最后查到官方文档给的：</p>
+<p><img src="/images/2021-04-29_00-37.png" alt="" /></p>
+<p>我才到终端输入<code>cat /var/lib/zerotier-one/identity.public</code>，来查看节点信息的（写这篇报告之前是这样做的）然而当我写到刚刚那个安装指令的时候，我才发现，有个最简单的方法：</p>
+<div><pre><code><span>sudo</span> zerotier-cli status
+</code></pre>
+<div><span>1</span><br></div></div><p>返回的200 info后面那个就是本机Node ID。。。谁叫我当时不知道呢。。。</p>
+<blockquote>
+<p>不过不算白费努力，咱该明白遇到问题相对要好的解决办法其实是去翻一翻官方文档，尤其是当你发现相关资料特别少的时候。这会让你节省不少力气和时间。</p>
+</blockquote>
+<h2 id="android-arch-linux连接共享控制"> Android &amp; Arch Linux连接共享控制</h2>
+<h3 id="vnc远程控制"> VNC远程控制</h3>
+<p>安装好虚拟内网了，我们要开始Android &amp; Manjaro连接共享控制了，经过我长时间的搜索与实践，最终选择的还是VNC Viewer。安装网址：<a href="https://www.realvnc.com/en/connect/download/vnc/" target="_blank" rel="noopener noreferrer">VNC Server</a>	<a href="https://www.realvnc.com/en/connect/download/viewer/" target="_blank" rel="noopener noreferrer">VNC Viewer</a></p>
+<p>注意两个我是都选了Generic script x64版本，如果你非常清楚应该如何做的话请自行选择。</p>
+<p>下载来的这两个压缩包可以解压到指定文件夹，然后从终端这里分别cd到这两个目录。</p>
+<p>首先说VNC Server：到这个目录下之后执行</p>
+<div><pre><code><span>sudo</span> ./vncinstall
+<span>sudo</span> vnclicense -add 3TH6P-DV5AE-BLHY6-PNENS-B3AQA
+vncserver :1
+<span>ps</span> -ef <span>|</span> <span>grep</span> vnc <span># 查看进程，如果能正常显示vnc进程的话即是安装成功。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>接下来再说VNC Viewer：</p>
+<div><pre><code><span>sudo</span> ./vncinstall
+<span>cd</span> /usr/bin
+./vncviewer
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时候弹出窗口，按照要求安装即可正常使用。</p>
+<p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
+    </item>
+    <item>
       <title>在Arch系中安装openGauss(全失败过程)</title>
       <link>https://breezeshane.github.io/Linux/openGauss/</link>
       <guid>https://breezeshane.github.io/Linux/openGauss/</guid>
@@ -12834,105 +12933,6 @@ gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
-      <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
-      <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</source>
-      <pubDate>Sun, 25 Apr 2021 01:25:14 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
-<h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
-<p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
-<blockquote>
-<p>「注」：网上与此相关的资料太少了，我觉得很有必要详细记录下来，因此本文看起来繁琐了一些。</p>
-</blockquote>
-<p>首先在<a href="https://www.zerotier.com/" target="_blank" rel="noopener noreferrer">Zerotier-One官网</a>上注册一个帐号，我选择了使用GitHub登陆。登陆之后会出现这个界面：</p>
-<p><img src="/images/2021-04-28_19-13.png" alt="2021-04-28_19-13" /></p>
-<p>点击创建网络按钮，即可自动生成新的一栏，这时候你需要点击进去即可</p>
-<p><img src="/images/2021-04-28_19-21.png" alt="2021-04-28_19-21" /></p>
-<p><strong>IPv4 Auto-Assign</strong>那一栏选什么地址不用我说，随君喜好！Zerotier One就是可以自己定IP地址！</p>
-<p><strong>IPv6 Auto-Assign</strong>那一栏选中第二项即可。</p>
-<p>往下翻页你会看到这个：</p>
-<p><img src="/images/2021-04-28_22-49.png" alt="2021-04-28_22-49" /></p>
-<p>这里提示可以添加网络成员，但是需要相应设备安装对应的客户端。</p>
-<p><img src="/images/2021-04-28_22-52.png" alt="2021-04-28_22-52" /></p>
-<p>由于我使用的是基于Archlinux的系统，因此从AUR安装即可：</p>
-<div><pre><code>yay -S zerotier-one
-</code></pre>
-<div><span>1</span><br></div></div><p>安装之后，需要启动服务，执行：</p>
-<div><pre><code><span>sudo</span> systemctl start zerotier-one.service
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>我见网上很多博客写的这个指令：<code>curl -s https://install.zerotier.com | sudo bash</code>，但至少在Manjaro里是不能正常执行的，会提示如下的报错信息——找不到与系统版本匹配的客户端。</p>
-<p><img src="/images/2021-04-28_22-58.png" alt="" /></p>
-<p>根据<code>sudo zerotier-one -h</code>的返回结果可知，需要接着输入如下指令：</p>
-<div><pre><code><span>sudo</span> zerotier-one -pdiq
-<span># 如果等了半天没有反应，就终止一下吧。。。我当初就这样做的，实质上执行</span>
-<span># 这个只是为了生成相应的配置文件来解决先前执行下一个指令报的错误——找不到配置文件。</span>
-<span>sudo</span> zerotier-cli status
-<span># 返回200 info *** 1.6.4 ONLINE则正常。</span>
-<span>sudo</span> zerotier-listpeers
-<span># 用于获取当前的连接情况，不执行也可</span>
-<span>sudo</span> zerotier-cli <span>join</span> ******
-<span># 这里的******就是前面特意强调的虚拟内网ID</span>
-<span>sudo</span> zerotier-listpeers
-<span># 确认一下确实成功了，你会看到比原先多出来一行内容，而且最后一个单词是LEAF，其它</span>
-<span># 行最后的单词都是PLANET。</span>
-<span>sudo</span> systemctl start zerotier-one.service
-<span># 启用zerotier-one服务</span>
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-<span># 开机自启动zerotier-one服务</span>
-<span>######</span>
-<span>sudo</span> zerotier-cli <span>set</span> 12ac4a1e7101bb86 <span>allowManaged</span><span>=</span><span>1</span>
-<span># 注意，关于这条指令网上有两种声音，有主张授权为1的，但没见到谁有给理由，而主张授</span>
-<span># 权为0的理由如下：</span>
-<span># 这样就不会导致勾选Authorized后，zerotier自动将路由下发到ubuntu，如果</span>
-<span># zerotier设置的路由为10.0.1.0/24,会导致本来10.0.1.0/24 dev br-lan</span>
-<span># 变成10.0.1.0/24 dev ztxxxxxxxxx,然后你就不能连接路由器了</span>
-<span># 作者：fc790 https://www.bilibili.com/read/cv7586063/ 出处： bilibili</span>
-<span>## 这种就看着弄，出了问题再改回来就好了。</span>
-<span>sudo</span> systemctl restart zerotier-one
-<span># 如果你做了刚才那个做法，需要重启一下服务。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br></div></div><p>到此为止，电脑上的ZeroTier One就已经配置得差不多了，我们需要在Android设备上安装客户端了。</p>
-<p>如果你有Google Play并且你还能使用，你可以直接在Google商店上下载。但不幸的是，如果你没有，你可以选择去安装，而更不幸的是，你使用的是华为产品，那恭喜恭喜，您跟我一样，没什么可能走这条路了（毕竟国际形势如此紧张。。。也没办法。。。）</p>
-<p>走的另一条路在此--&gt;<a href="https://apkpure.com/" target="_blank" rel="noopener noreferrer">ApkPure</a>，在这家网站上你可以下载到许许多多好用实用的外国软件，干净、安全、可靠，我是被吸引着主动下载了他们的客户端，真香了。。。</p>
-<p>装好Zerotier One之后，需要新建一个连接配置，点击ADD NETWORK，然后输入虚拟内网ID，完成后点击下方的Add Network，并开启连接，这时候你需要回到电脑上的Zerotier Central，翻到Members这一栏刷新一下，你会发现多出来一个成员，这里需要你点前面的复选框来授权连接（你也可以选择删除或者断开连接并忽略）。然后就可以自己给设备设定名字以及备注了。</p>
-<p><img src="/images/2021-04-29_00-25.png" alt="" /></p>
-<p>然而如果你希望这台设备能被内网的其它设备发现，需要先后点击这两处：</p>
-<p><img src="/images/2021-04-29_00-28.png" alt="" /></p>
-<p>大致上如此，这时候你已经搭建好这个虚拟内网了！</p>
-<p>如果希望某设备（已知Node ID，在客户端下方一栏出现）也能加入这个虚拟内网，需要在Zerotier Central找到<img src="/images/2021-04-28_21-21.png" alt="" />这里并输入对应设备的Node ID。</p>
-<p>另外特意说一下如果希望本机也加入的话，获取Node ID这个问题折磨我好久，最后查到官方文档给的：</p>
-<p><img src="/images/2021-04-29_00-37.png" alt="" /></p>
-<p>我才到终端输入<code>cat /var/lib/zerotier-one/identity.public</code>，来查看节点信息的（写这篇报告之前是这样做的）然而当我写到刚刚那个安装指令的时候，我才发现，有个最简单的方法：</p>
-<div><pre><code><span>sudo</span> zerotier-cli status
-</code></pre>
-<div><span>1</span><br></div></div><p>返回的200 info后面那个就是本机Node ID。。。谁叫我当时不知道呢。。。</p>
-<blockquote>
-<p>不过不算白费努力，咱该明白遇到问题相对要好的解决办法其实是去翻一翻官方文档，尤其是当你发现相关资料特别少的时候。这会让你节省不少力气和时间。</p>
-</blockquote>
-<h2 id="android-arch-linux连接共享控制"> Android &amp; Arch Linux连接共享控制</h2>
-<h3 id="vnc远程控制"> VNC远程控制</h3>
-<p>安装好虚拟内网了，我们要开始Android &amp; Manjaro连接共享控制了，经过我长时间的搜索与实践，最终选择的还是VNC Viewer。安装网址：<a href="https://www.realvnc.com/en/connect/download/vnc/" target="_blank" rel="noopener noreferrer">VNC Server</a>	<a href="https://www.realvnc.com/en/connect/download/viewer/" target="_blank" rel="noopener noreferrer">VNC Viewer</a></p>
-<p>注意两个我是都选了Generic script x64版本，如果你非常清楚应该如何做的话请自行选择。</p>
-<p>下载来的这两个压缩包可以解压到指定文件夹，然后从终端这里分别cd到这两个目录。</p>
-<p>首先说VNC Server：到这个目录下之后执行</p>
-<div><pre><code><span>sudo</span> ./vncinstall
-<span>sudo</span> vnclicense -add 3TH6P-DV5AE-BLHY6-PNENS-B3AQA
-vncserver :1
-<span>ps</span> -ef <span>|</span> <span>grep</span> vnc <span># 查看进程，如果能正常显示vnc进程的话即是安装成功。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>接下来再说VNC Viewer：</p>
-<div><pre><code><span>sudo</span> ./vncinstall
-<span>cd</span> /usr/bin
-./vncviewer
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时候弹出窗口，按照要求安装即可正常使用。</p>
-<p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
-    </item>
-    <item>
       <title>Building Up Servicer</title>
       <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
       <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
@@ -12990,6 +12990,122 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
 <div><span>1</span><br></div></div><h2 id="结束"> 结束</h2>
 <p>现在你的服务器已经搭好了，一切都可以正常使用咯～</p>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>记一次局域网搭建私人云盘的过程</title>
+      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
+      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
+      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h2 id="过程"> 过程</h2>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
+<h2 id="还没结束"> 还没结束</h2>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+<div><p>错误指正</p>
+<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
+<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
+<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
+<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
       <title>Crawler</title>
@@ -14387,7 +14503,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -14421,7 +14537,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -14431,7 +14547,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -14456,7 +14572,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -14523,7 +14639,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -14532,10 +14648,49 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 05 Apr 2022 03:36:20 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>Linux 共享 Anaconda</title>
+      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
+      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
+      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>安装Anaconda的步骤这里不做详细记述.</p>
+</blockquote>
+<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
+<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
+<div><pre><code><span>groupadd</span> anaconda
+</code></pre>
+<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
+<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
+<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
+<span>chmod</span> <span>770</span> -R /opt/anaconda/
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
+<div><pre><code><span>chmod</span> g+s /opt/anaconda
+<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
+<p>到这里用户就应该可以正常使用了, 如果还不能的话, 尝试一下做软链接, 执行<code>ln -s /opt/anaconda/ /usr/local/anaconda</code>然后让用户访问<code>/usr/local/anaconda</code>再尝试.</p>
+<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为用户需要先完成初始化, 执行<code>/opt/anaconda/bin/conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
+<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
+  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
+<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
+<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Linux Shell 编程学习与实战</title>
@@ -15694,122 +15849,6 @@ opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
 isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke -flusho -extproc
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
-    </item>
-    <item>
-      <title>记一次局域网搭建私人云盘的过程</title>
-      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
-      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
-      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h2 id="过程"> 过程</h2>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
-<h2 id="还没结束"> 还没结束</h2>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-<div><p>错误指正</p>
-<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
-<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
-<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
-<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
   </channel>
 </rss>
