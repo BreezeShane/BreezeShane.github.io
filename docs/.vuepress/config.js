@@ -265,6 +265,7 @@ module.exports = config({
                   "Shells",
                   "BuildingServer",
                   "openGauss",
+                  "ShareConda",
                 ],
               },
               {
