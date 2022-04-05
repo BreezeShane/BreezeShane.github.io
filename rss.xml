@@ -6,12 +6,19 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 05 Apr 2022 06:32:50 GMT</pubDate>
-    <lastBuildDate>Tue, 05 Apr 2022 06:32:50 GMT</lastBuildDate>
+    <pubDate>Tue, 05 Apr 2022 06:39:15 GMT</pubDate>
+    <lastBuildDate>Tue, 05 Apr 2022 06:39:15 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
     <category>使用指南</category>
+    <item>
+      <title>估计、偏差和方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
+    </item>
     <item>
       <title>有关人工智能与机器学习领域的概况</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</link>
@@ -150,13 +157,6 @@
 <hr>
 <p>这些内容大致了解即可，虽然对具体学习任何内容可能没什么帮助，但会有助于你对整个领域的掌控与了解，同时也是拓宽眼界的机会。</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>估计、偏差和方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
     </item>
     <item>
       <title>促使深度学习发展的挑战</title>
@@ -7703,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8262,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,7 +8285,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8296,7 +8296,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8316,7 +8316,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8327,7 +8327,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8354,18 +8354,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:24:51 GMT</pubDate>
     </item>
     <item>
-      <title>插值搜索</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">插值搜索</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:08 GMT</pubDate>
-    </item>
-    <item>
       <title>哈希搜索</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/HashSearch/</guid>
       <source url="https://breezeshane.github.io/rss.xml">哈希搜索</source>
       <pubDate>Sun, 23 Jan 2022 01:25:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>插值搜索</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/InterpolationSearch/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">插值搜索</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:08 GMT</pubDate>
     </item>
     <item>
       <title>顺序搜索</title>
@@ -12992,122 +12992,6 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>记一次局域网搭建私人云盘的过程</title>
-      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
-      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
-      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h2 id="过程"> 过程</h2>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
-<h2 id="还没结束"> 还没结束</h2>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-<div><p>错误指正</p>
-<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
-<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
-<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
-<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
-    </item>
-    <item>
       <title>Crawler</title>
       <link>https://breezeshane.github.io/Python/Crawler/</link>
       <guid>https://breezeshane.github.io/Python/Crawler/</guid>
@@ -13197,1500 +13081,6 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
 <h2 id="selenium-在学了在学了-tot"> Selenium（在学了在学了(ToT)）</h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/crawler.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>关于Vcomputer如何实现循环的哲学问题</title>
-      <link>https://breezeshane.github.io/VComputer/</link>
-      <guid>https://breezeshane.github.io/VComputer/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
-      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
-<hr>
-<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
-<blockquote>
-<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
-</blockquote>
-<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
-<blockquote>
-<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
-</blockquote>
-<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
-<div><pre><code>2001
-2101
-2201
-2301
-240A
-2501
-8418
-5002
-5112
-5323
-5553
-830C
-9000
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
-<ol>
-<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
-<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
-<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
-<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
-<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
-</ol>
-<hr>
-<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
-    </item>
-    <item>
-      <title>数据库</title>
-      <link>https://breezeshane.github.io/Web/DataBase/</link>
-      <guid>https://breezeshane.github.io/Web/DataBase/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">数据库</source>
-      <pubDate>Mon, 21 Feb 2022 18:59:43 GMT</pubDate>
-      <content:encoded><![CDATA[<p><strong>数据库</strong>，又称为数据管理系统，是以一定方式储存在一起、能予多个用户共享、具有尽可能小的冗余度、与应用程序彼此独立的数据集合。</p>
-<h2 id="分类"> 分类</h2>
-<p><strong>关系型数据库</strong>，是指采用了关系模型来组织数据的数据库，其以行和列的形式存储数据，以便于用户理解，关系型数据库这一系列的行和列被称为表，一组表组成了数据库。用户通过查询来检索数据库中的数据，而查询是一个用于限定数据库中某些区域的执行代码。</p>
-<p>关系模型可以简单理解为二维表格模型，而一个关系型数据库就是由二维表及其之间的关系组成的一个数据组织。</p>
-<details><summary>关系型数据库特点</summary>
-<ol>
-<li><strong>存储方式</strong>：传统的关系型数据库采用表格的储存方式，数据以行和列的方式进行存储，要读取和查询都十分方便。</li>
-<li><strong>存储结构</strong>：关系型数据库按照结构化的方法存储数据，每个数据表都必须对各个字段定义好（也就是先定义好表的结构），再根据表的结构存入数据，这样做的好处就是由于数据的形式和内容在存入数据之前就已经定义好了，所以整个数据表的可靠性和稳定性都比较高，但带来的问题就是一旦存入数据后，如果需要修改数据表的结构就会十分困难。</li>
-<li><strong>存储规范</strong>：关系型数据库为了避免重复、规范化数据以及充分利用好存储空间，把数据按照最小关系表的形式进行存储，这样数据管理的就可以变得很清晰、一目了然，当然这主要是一张数据表的情况。如果是多张表情况就不一样了，由于数据涉及到多张数据表，数据表之间存在着复杂的关系，随着数据表数量的增加，数据管理会越来越复杂。</li>
-<li><strong>扩展方式</strong>：由于关系型数据库将数据存储在数据表中，数据操作的瓶颈出现在多张数据表的操作中，而且数据表越多这个问题越严重，如果要缓解这个问题，只能提高处理能力，也就是选择速度更快性能更高的计算机，这样的方法虽然可以一定的拓展空间，但这样的拓展空间一定有非常有限的，也就是关系型数据库只具备纵向扩展能力。</li>
-<li><strong>查询方式</strong>：关系型数据库采用结构化查询语言（即SQL）来对数据库进行查询，SQL早已获得了各个数据库厂商的支持，成为数据库行业的标准，它能够支持数据库的CRUD（增加，查询，更新，删除）操作，具有非常强大的功能，SQL可以采用类似索引的方法来加快查询操作。</li>
-<li><strong>规范化</strong>：在数据库的设计开发过程中开发人员通常会面对同时需要对一个或者多个数据实体（包括数组、列表和嵌套数据）进行操作，这样在关系型数据库中，一个数据实体一般首先要分割成多个部分，然后再对分割的部分进行规范化，规范化以后再分别存入到多张关系型数据表中，这是一个复杂的过程。好消息是随着软件技术的发展，相当多的软件开发平台都提供一些简单的解决方法，例如，可以利用ORM层（也就是对象关系映射）来将数据库中对象模型映射到基于SQL的关系型数据库中去以及进行不同类型系统的数据之间的转换。</li>
-<li><strong>事务性</strong>：关系型数据库强调ACID规则（原子性（Atomicity）、一致性（Consistency）、隔离性（Isolation）、持久性（Durability）），可以满足对事务性要求较高或者需要进行复杂数据查询的数据操作，而且可以充分满足数据库操作的高性能和操作稳定性的要求。并且关系型数据库十分强调数据的强一致性，对于事务的操作有很好的支持。关系型数据库可以控制事务原子性细粒度，并且一旦操作有误或者有需要，可以马上回滚事务。</li>
-<li><strong>读写性能</strong>：关系型数据库十分强调数据的一致性，并为此降低读写性能付出了巨大的代价，虽然关系型数据库存储数据和处理数据的可靠性很不错，但一旦面对海量数据的处理的时候效率就会变得很差，特别是遇到高并发读写的时候性能就会下降的非常厉害。</li>
-<li><strong>授权方式</strong>：关系型数据库常见的有Oracle，SQLServer，DB2，Mysql，除了Mysql大多数的关系型数据库如果要使用都需要支付一笔价格高昂的费用，即使是免费的Mysql性能也受到了诸多的限制。</li>
-</ol>
-</details>
-<p>非关系型数据库（NoSQL数据库）</p>
-<ol>
-<li>
-<p><strong>文档数据库</strong>——这些数据库通常将每个键与称为文档的复杂数据结构配对。文档可以包含键数组对、键值对甚至嵌套文档。</p>
-<p>示例：MongoDB、Apache CouchDB、ArangoDB、Couchbase、Cosmos DB、IBM Domino、MarkLogic、OrientDB。</p>
-</li>
-<li>
-<p><strong>键值存储</strong>——每个单独的项都存储为键值对。键值存储是所有NoSQL数据库中最简单的数据库。</p>
-<p>示例：Redis,Memcached,Apache Ignite,Riak。</p>
-</li>
-<li>
-<p><strong>宽列存储</strong>——这些类型的数据库针对大型数据集上的查询进行了优化，它们将数据列存储在一起，而不是行。</p>
-<p>示例：Cassandra，Hbase，Scylla。</p>
-</li>
-<li>
-<p><strong>图形存储</strong>——这些存储关于图形、网络的信息，例如社会关系、路线图、交通链接。</p>
-<p>示例：Neo4j，AllegroGraph。</p>
-</li>
-</ol>
-<details><summary>非关系型数据库特点</summary>
-<p>对于NoSQL并没有一个明确的范围和定义，但是他们都普遍存在下面一些共同特征：</p>
-<ol>
-<li><strong>易扩展</strong>：NoSQL数据库种类繁多，但是一个共同的特点都是去掉关系数据库的关系型特性。数据之间无关系，这样就非常容易扩展。无形之间，在架构的层面上带来了可扩展的能力。</li>
-<li><strong>大数据量，高性能</strong>：NoSQL数据库都具有非常高的读写性能，尤其在大数据量下，同样表现优秀。这得益于它的无关系性，数据库的结构简单。一般MySQL使用Query Cache。NoSQL的Cache是记录级的，是一种细粒度的Cache，所以NoSQL在这个层面上来说性能就要高很多。</li>
-<li><strong>灵活的数据模型</strong>：NoSQL无须事先为要存储的数据建立字段，随时可以存储自定义的数据格式。而在关系数据库里，增删字段是一件非常麻烦的事情。如果是非常大数据量的表，增加字段简直就是——个噩梦。这点在大数据量的Web 2.0时代尤其明显。</li>
-<li><strong>高可用</strong>：NoSQL在不太影响性能的情况，就可以方便地实现高可用的架构。比如Cassandra、HBase模型，通过复制模型也能实现高可用。</li>
-</ol>
-</details>
-<div><p>提示</p>
-<p>非关系型数据库的实质：非关系型数据库产品是传统关系型数据库的功能阉割版本，通过减少用不到或很少用的功能，来大幅度提高产品性能。</p>
-</div>
-<h2 id="关系型与非关系型数据库的比较"> 关系型与非关系型数据库的比较</h2>
-<ol>
-<li><strong>成本</strong>:Nosql数据库很容易部署，基本上是开源软件，无需像Oracle那样花费大量成本购买，比关系数据库便宜。</li>
-<li><strong>查询速度</strong>:Nosql数据库将数据存储在高速缓存中，不需要对SQL层进行分析。关系数据库在硬盘上存储数据，自然的查询速度远比Nosql数据库慢。</li>
-<li><strong>存储数据的格式</strong>：Nosql的存储格式是key,value形式、文档形式、图片形式等等，所以可以存储基础类型以及对象或者是集合等各种格式，而数据库则只支持基础类型。</li>
-<li><strong>扩展性</strong>：关系型数据库有类似join这样的多表查询机制的限制导致扩展很艰难。Nosql基于键值对，数据之间没有耦合性，所以非常容易水平扩展。</li>
-<li><strong>持久存储</strong>：Nosql不使用于持久存储，海量数据的持久存储，还是需要关系型数据库</li>
-<li><strong>数据一致性</strong>：非关系数据库通常强调数据的最终一致性，而不是像关系数据库那样强烈的数据一致性，以及从非关系数据库读取的数据可能仍处于中间状态，Nosql不提供对事务的处理。</li>
-</ol>
-<h2 id="特点"> 特点</h2>
-<ol>
-<li>数据结构化数据库系统实现整体数据的结构化，这是数据库的主要特征之一，也是数据库系统与文件系统的本质区别。</li>
-<li>数据的共享性高，冗余度低，易扩充数据库的数据不再面向某个应用而是面向整个系统，因此可以被多个用户、多个应用、用多种不同的语言共享使用。由于数据面向整个系统，是有结构的数据，不仅可以被多个应用共享使用，而且容易增加新的应用，这就使得数据库系统易于扩充，我们称之为弹性大。</li>
-<li>数据独立性高数据独立性包括数据的物理独立性和数据的逻辑独立性。数据库管理系统的模式结构和二级映像功能保证了数据库中的数据具有很高的物理独立性和逻辑独立性。</li>
-<li>数据由DBMS统一管理和控制数据库的共享是并发的共享，即多个用户可以同时存取数据库中的数据甚至可以同时存取数据库中同一个数据。为此，DBMS必须提供统一的数据控制功能，包括数据的安全性保护，数据的完整性检查，并发控制和数据库恢复。</li>
-</ol>
-<h2 id="作用"> 作用</h2>
-<ol>
-<li>实现数据共享：数据共享包含所有用户可同时存取数据库中的数据，也包括用户可以用各种方式通过接口使用数据库，并提供数据共享。</li>
-<li>减少数据的冗余度：同文件系统相比，由于数据库实现了数据共享，从而避免了用户各自建立应用文件。减少了大量重复数据，减少了数据冗余，维护了数据的一致性。</li>
-</ol>
-<div><p>注意</p>
-<p>任何一种性能优良的数据库系统都是不可能避免数据冗余的，因为冗余的数据也是日后进行数据库恢复的技术手段之一。</p>
-</div>
-<h2 id="数据抽象"> 数据抽象</h2>
-<p>数据抽象主要是为了向用户屏蔽复杂性。一共分为三层：</p>
-<ol>
-<li>物理层，物理层的数据抽象主要描述了数据在物理层面是怎么存储的数据，主要是数据库的供应商来研究。</li>
-<li>逻辑层，逻辑层的数据抽象主要描述了数据库中存储着什么数据，这些数据之间有什么关系，这主要是开发人员或者是数据库管理员考虑的，逻辑层的用户不需要去知道我的数据具体是怎么样子存储的。</li>
-<li>视图层，在一些数据库系统中，往往数据库是非常庞大的，而我们用户只关心庞大的数据库中的某一个小部分，视图层描述着庞大的数据库中的一部分，作为一个视图，由于大型数据库中的数据非常多而且具有着多样性，这就不可避免的产生了复杂性，视图层的抽象的定义正是为了给只需要访问一部分数据库的用户提供与系统的交互的简单性。</li>
-</ol>
-<div><p>视图</p>
-<p>数据库为用户在视图层提供一个个的视图，可以隐藏数据库的复杂性，因为如果用户只需要某一部分的数据，那么只需要把那部分拿出来单独作为一个视图提供给用户就好了，用户不用关心这一部分数据与数据库系统中其他数据的关系，而且视图还可以起到不让用户访问某一些数据的作用，可以对数据库的安全性有所保障。</p>
-</div>
-<h2 id="实例和模式"> 实例和模式</h2>
-<p><strong>实例</strong>：数据库会随着时间的推移而发生数据的更改或者是结构的更改，在某一时刻数据库中所有数据的集合。</p>
-<div><p>提示</p>
-<p>数据库实例状态是数据库实例的运行情况。</p>
-</div>
-<p><strong>模式</strong>：数据库的总体设计被称为模式，是数据库中全体数据的结构以及特征的描述，是所有用户的公共视图。</p>
-<h2 id="数据库的三级模式结构"> 数据库的三级模式结构</h2>
-<ol>
-<li>
-<p><strong>外模式</strong>(反映了数据库系统的用户观)</p>
-<p>外模式又称子模式或用户模式，对应于用户级。它是某个或某几个用户所看到的数据库的数据视图，是与某一应用有关的数据的逻辑表示。外模式是从模式导出的一个子集，包含模式中允许特定用户使用的那部分数据。用户可以通过外模式描述语言来描述、定义对应于用户的数据记录(外模式)，也可以利用数据操纵语言(Data Manipulation Language，DML)对这些数据记录进行操作。</p>
-</li>
-<li>
-<p><strong>概念模式</strong>（反映了数据库系统的整体观）</p>
-<p>概念模式又称模式或逻辑模式，对应于概念级。它是由数据库设计者综合所有用户的数据，按照统一的观点构造的全局逻辑结构，是对数据库中全部数据的逻辑结构和特征的总体描述，是所有用户的公共数据视图(全局视图)。它是由数据库管理系统提供的数据模式描述语言(Data Description Language，DDL)来描述、定义的。</p>
-</li>
-<li>
-<p><strong>内模式</strong>（反映了数据库系统的存储观）</p>
-<p>内模式又称存储模式，对应于物理级。它是数据库中全体数据的内部表示或底层描述，是数据库最低一级的逻辑描述，它描述了数据在存储介质上的存储方式和物理结构，对应着实际存储在外存储介质上的数据库。内模式由内模式描述语言来描述、定义的。</p>
-</li>
-</ol>
-<h2 id="数据库的两级映射"> 数据库的两级映射</h2>
-<p>数据库系统在三级模式之间提供了两级映像：模式/内模式的映像、外模式/模式的映像。</p>
-<ul>
-<li>模式/内模式的映像：实现概念模式到内模式之间的相互转换。</li>
-<li>外模式/模式的映像：实现外模式到概念模式之间的相互转换。</li>
-</ul>
-<div><p>提示</p>
-<p>数据的独立性是指数据与程序独立，将数据的定义从程序中分离出来，由DBMS（数据库管理系统）负责数据的存储，从而简化应用程序，大大减少应用程序编制的工作量。</p>
-<p>数据的独立性是由DBMS的二级映像功能来保证的。数据的独立性包括数据的物理独立性和数据的逻辑独立性。</p>
-</div>
-<details><summary>数据的物理独立性和逻辑独立性</summary>
-<p><strong>数据的物理独立性</strong>是指当数据库的内模式发生改变时，数据的的逻辑结构不变。由于应用程序处理的只是数据的逻辑结构，这样物理独立性可以保证，当数据的物理结构改变了，应用程序不用改变。但是，为了保证应用程序能够正确执行，需要修改概念模式/内模式之间的映像。</p>
-<p><strong>数据的逻辑独立性</strong>是指用户的应用程序与数据库结构是相互独立的。数据的逻辑结构发生变化后，用户程序也可以不修改。但是，为了保证应用程序能够正确执行，需要修改外模式/概念模式之间的映像。</p>
-</details>
-<h2 id="数据模型"> 数据模型</h2>
-<p><strong>数据模型</strong>是对现实世界数据特征的抽象。数据模型是用来描述数据、组织数据和对数据进行操作的。</p>
-<div><p>分类</p>
-<ol>
-<li><strong>概念模型</strong>：是按用户的观点来对数据和信息建模，主要用于数据库设计，也称信息模型，用于信息世界的建模，是现实世界到信息世界的第一层抽象，是数据库设计人员进行数据库设计的有力工具，也是数据库设计人员和用户之间进行交流的语言。</li>
-<li><strong>逻辑模型</strong>：主要包括层次模型、网状模型、关系模型、面向对象数据模型和对象关系数据模型、半结构化数据模型等。它是按计算机系统的观点对数据建模，主要用于数据库管理系统的实现。</li>
-<li><strong>物理模型</strong>：描述数据在系统内部的表示方式和存取方式，或在磁盘上的存储方式和存取方法。物理模型的具体实现是数据库管理系统的任务，数据库设计人员要了解和选择物理模型，最终用户则不必考虑物理级的细节。</li>
-</ol>
-</div>
-<p><strong>数据模型的三要素</strong>：</p>
-<ol>
-<li><strong>数据结构</strong>：是所研究的对象类型的集合，是对系统的静态特性的描述。</li>
-<li><strong>数据操作</strong>：是指对数据库中各种对象（型）的实例（值）允许进行的操作的集合，包括操作及有关的操作规则，是对系统动态特性的描述。</li>
-<li><strong>数据的约束条件</strong>：是完整性规则的集合，完整性规则是给定的数据模型中数据及其联系所具有的制约和依存规则，用以限定符合数据模型的数据库状态以及状态的变化，以保证数据的正确、有效、相容。</li>
-</ol>
-<h2 id="数据库系统的核心-数据管理系统"> 数据库系统的核心——数据管理系统</h2>
-<p>数据库管理系统(Database Management System，DBMS)是一个能够科学地组织和存储数据，高效地获取和维护数据的系统软件，是位于用户与操作系统之间的数据管理软件。</p>
-<div><p>主要功能</p>
-<ol>
-<li><strong>数据定义功能</strong>：数据库管理系统提供数据定义语言(DDL)，用户可以通过它可以方便地对数据库中的数据对象的组成与结构进行定义；</li>
-<li><strong>数据组织、存储和管理功能</strong>：数据库管理系统要分类组织、存储和管理数据，包括数据字典，用户数据、数据的存取路径等。要确定以何种文件结构和存取方式在存储上组织这些数据，如何实现数据之间的联系；数据组织和存储的基本目标是提高存储空间利用率和方便存取，提供多种存取方法来提高存取效率；</li>
-<li><strong>数据操纵功能</strong>：数据库系统管理系统还提供数据操纵语言(Data Manipulation Language，DML)，用户可以使用它来操纵数据，实现对数据库的基本操作，如查询、插入、删除和修改等；</li>
-<li><strong>数据库的事务管理和运行管理</strong>：数据库在建立、运用和维护时由数据库管理系统统一管理和控制，以保证事务的正确运行，保证数据的安全性、完整性、多用户对数据的并发使用及发生故障后的系统恢复；</li>
-<li><strong>数据库的建立和维护功能</strong>：包括数据库初始数据的输入和转换功能，数据库的转储、恢复功能，数据库的重组织功能和性能监视、分析功能等，这些功能通常由一些使用程序或管理工具完成的。</li>
-<li><strong>数据库的传输功能</strong>：DBMS提供处理数据的传输，实现用户程序与DBMS之间的通信，通常与操作系统协调完成。</li>
-<li><strong>与其他软件系统的通信功能</strong>。</li>
-</ol>
-</div>
-<details><summary>关系数据库管理系统的完整性控制机制应具有哪三方面的功能？</summary>
-<ol>
-<li><strong>定义功能</strong>，即提供定义完整性约束条件的机制；</li>
-<li><strong>检查功能</strong>，即检查用户发出的操作请求是否违背了完整性约束条件；</li>
-<li><strong>违约反应</strong>：如果发现用户的操作请求使数据违背了完整性约束条件，则采取一定的动作来保证数据的完整性。</li>
-</ol>
-</details>
-<h2 id="数据库系统组成"> 数据库系统组成</h2>
-<ol>
-<li>
-<p><strong>数据库</strong>：是指长期存储在计算机内的，有组织，可共享的数据的集合。数据库中的数据按一定的数学模型组织、描述和存储，具有较小的冗余，较高的数据独立性和易扩展性，并可为各种用户共享。</p>
-</li>
-<li>
-<p><strong>硬件</strong>：构成计算机系统的各种物理设备，包括存储所需的外部设备。硬件的配置应满足整个数据库系统的需要。</p>
-</li>
-<li>
-<p><strong>软件</strong>：包括操作系统、数据库管理系统及应用程序。数据库管理系统（Database Management System，DBMS）是数据库系统的核心软件，是在操作系统的支持下工作，解决如何科学地组织和存储数据，如何高效获取和维护数据的系统软件。其主要功能包括：数据定义功能、数据操纵功能、数据库的运行管理和数据库的建立与维护。</p>
-</li>
-<li>
-<p><strong>人员</strong>：主要有4类。</p>
-<p>第一类为系统分析员和数据库设计人员：系统分析员负责应用系统的需求分析和规范说明，他们和用户及数据库管理员一起确定系统的硬件配置，并参与数据库系统的概要设计。数据库设计人员负责数据库中数据的确定、数据库各级模式的设计。</p>
-<p>第二类为应用程序员，负责编写使用数据库的应用程序。这些应用程序可对数据进行检索、建立、删除或修改。</p>
-<p>第三类为最终用户，他们利用系统的接口或查询语言访问数据库。</p>
-<p>第四类用户是数据库管理员（data base administrator，DBA），负责数据库的总体信息控制。</p>
-</li>
-</ol>
-<div><p>提示</p>
-<p>数据库管理员（Database Administrator，DBA），是从事管理和维护数据库管理系统(DBMS)的相关工作人员的统称，属于运维工程师的一个分支，主要负责业务数据库从设计、测试到部署交付的全生命周期管理。</p>
-<p>DBA的具体职责包括：具体数据库中的信息内容和结构，决定数据库的存储结构和存取策略，定义数据库的安全性要求和完整性约束条件，监控数据库的使用和运行，负责数据库的性能改进、数据库的重组和重构，以提高系统的性能。</p>
-<p>DBA的核心目标是保证数据库管理系统的稳定性、安全性、完整性和高性能。</p>
-<p>数据库管理员一般是由业务水平较高、资历较深的人员担任。</p>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>简单的网页前后端搭建过程</title>
-      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
-      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
-      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
-<h3 id="html"> HTML</h3>
-<p><strong>HTML设置字体：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
-<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
-<span><span><span>&lt;/</span>form</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
-<h3 id="css"> CSS</h3>
-<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
-<p>CSS选择器：</p>
-<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
-<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
-<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
-<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
-<span>background-position</span><span>:</span> center center<span>;</span>
-<span>background-attachment</span><span>:</span> fixed<span>;</span>
-<span>background-size</span><span>:</span> cover<span>;</span>
-<span>margin</span><span>:</span> 0<span>;</span>
-<span>position</span><span>:</span> relative<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
-<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
-<span>top</span><span>:</span> 50%<span>;</span>
-<span>left</span><span>:</span> 50%<span>;</span>
-<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
-<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
-<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
-<h3 id="javascript"> JavaScript</h3>
-<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
-<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
-    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
-    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
-    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
-	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
-
-    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
-	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
-
-    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
-        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
-        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
-        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
-            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
-            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
-        <span>}</span>
-        file_num <span>=</span> fileList<span>.</span>length
-        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
-            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
-        <span>}</span> <span>else</span> <span>{</span>
-            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
-                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
-            <span>}</span>
-            <span>// 以下定义了前端传输的相关信息。</span>
-            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
-                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
-                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
-                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
-                processData<span>:</span> <span>false</span><span>,</span> 
-                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
-                contentType<span>:</span> <span>false</span><span>,</span>
-                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
-                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
-                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
-                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
-                    <span>//后续的两行代码则是修改相应控件的数据。</span>
-                <span>}</span><span>,</span>
-                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
-                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
-                <span>}</span>
-            <span>}</span><span>)</span>
-        <span>}</span>
-    <span>}</span><span>)</span><span>;</span>
-
-    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
-        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
-        <span>// 直接触发选择文件的点击事件。</span>
-    <span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
-<p>使用后端flask之前需要先做好配置：</p>
-<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
-<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
-
-app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
-<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
-    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
-<blockquote>
-<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
-</blockquote>
-<p>调用flask_uploads包后要做如下的配置：</p>
-<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
-configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
-patch_request_class<span>(</span>app<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
-<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
-<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
-<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
-    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
-    file_urls <span>=</span> <span>[</span><span>]</span>
-    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
-    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
-        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
-        fileList<span>.</span>append<span>(</span>filename<span>)</span>
-        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
-    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
-    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
-    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
-<p>「注」：以上所有代码都是项目的主要部分。</p>
-</blockquote>
-<p>最后将整个前后端写好之后，就可以正常执行了！</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>在受限的网站里强制复制粘贴</title>
-      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
-      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
-      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
-<blockquote>
-<p>参考：</p>
-<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
-<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
-<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
-<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
-</blockquote>
-<h2 id="背景"> 背景</h2>
-<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
-<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
-<h2 id="实现方法"> 实现方法</h2>
-<h3 id="插件大法"> 插件大法</h3>
-<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
-<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
-<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
-<h3 id="查看源码大法"> 查看源码大法</h3>
-<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
-<blockquote>
-<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
-</blockquote>
-<h3 id="console操作大法"> Console操作大法</h3>
-<h4 id="全文复制"> 全文复制</h4>
-<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
-<p>如果你遇到如下形式的输出：</p>
-<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
-<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
-<p>写Shell文件，输入如下代码：</p>
-<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
-<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
-<h4 id="选中区域复制"> 选中区域复制</h4>
-<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
-<ol>
-<li>打开开发者工具</li>
-<li>选中网页中要复制的文字</li>
-<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
-</ol>
-<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
-<h3 id="打印预览大法"> 打印预览大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
-<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
-<h3 id="终极杀招"> 终极杀招</h3>
-<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
-<h2 id="补充的小知识"> 补充的小知识</h2>
-<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
-<h3 id="javascript实现方式"> JavaScript实现方式</h3>
-<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-  <span>return</span> <span>false</span><span>;</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
-  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
-    <span>return</span> <span>false</span><span>;</span>
-  <span>}</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
-<div><pre><code><span>body</span> <span>{</span>
-  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
-  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
-  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
-  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
-  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
-  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
-<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
-    </item>
-    <item>
-      <title>MySQL初步使用</title>
-      <link>https://breezeshane.github.io/Web/MySQL/</link>
-      <guid>https://breezeshane.github.io/Web/MySQL/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">MySQL初步使用</source>
-      <pubDate>Thu, 03 Mar 2022 20:06:48 GMT</pubDate>
-      <content:encoded><![CDATA[<details><summary>参考</summary>
-<p><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a>
-<a href="https://www.runoob.com/mysql/mysql-create-tables.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据表</a>
-<a href="http://c.biancheng.net/view/2430.html" target="_blank" rel="noopener noreferrer">MySQL创建数据表（CREATE TABLE语句）</a>
-<a href="https://www.runoob.com/mysql/mysql-data-types.html" target="_blank" rel="noopener noreferrer">MySQL 数据类型</a>
-<a href="https://www.cnblogs.com/Braveliu/p/10728162.html" target="_blank" rel="noopener noreferrer">Mysql 导入文件提示 --secure-file-priv option 问题</a>
-<a href="https://blog.csdn.net/fdipzone/article/details/52705507" target="_blank" rel="noopener noreferrer">mysql 查看当前使用的配置文件my.cnf的方法</a>
-<a href="https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group" target="_blank" rel="noopener noreferrer">MySQL my.cnf file - Found option without preceding group</a>
-<a href="https://blog.csdn.net/qq_32834005/article/details/110443574" target="_blank" rel="noopener noreferrer">解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the</a>
-<a href="https://zhuanlan.zhihu.com/p/26964403" target="_blank" rel="noopener noreferrer">Mysql——将CSV文件导入表中</a>
-<a href="https://blog.csdn.net/qq_29229567/article/details/82743645" target="_blank" rel="noopener noreferrer">MYSQL：如何清空表中的数据</a>
-<a href="https://www.runoob.com/mysql/mysql-drop-tables.html" target="_blank" rel="noopener noreferrer">MySQL 删除数据表</a></p>
-</details>
-<h2 id="mysql安装与配置"> MySQL安装与配置</h2>
-<p>近期上课需要使用MySQL，因此我需要提前做好配置，特此一记：</p>
-<p>安装仅需一步：</p>
-<div><pre><code><span>sudo</span> pacman -S mysql
-</code></pre>
-<div><span>1</span><br></div></div><p>然后就可以开始进行配置，按照其输出的内容，我们执行：</p>
-<div><pre><code><span>sudo</span> mysqld --initialize --user<span>=</span>mysql --basedir<span>=</span>/usr --datadir<span>=</span>/var/lib/mysql
-</code></pre>
-<div><span>1</span><br></div></div><div><p>提示</p>
-<p>如果遇到如下报错：</p>
-<div><pre><code>mysqld: Can<span>'t create directory '</span>/var/lib/mysql/<span>' (OS errno 17 - File exists)
-2022-03-03T00:15:00.207164Z 0 [Warning] [MY-010915] [Server] '</span>NO_ZERO_DATE<span>', '</span>NO_ZERO_IN_DATE<span>' and '</span>ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode <span>in</span> a future release.
-<span>2022</span>-03-03T00:15:00.207238Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-013169<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld <span>(</span>mysqld <span>8.0</span>.28<span>)</span> initializing of server <span>in</span> progress as process <span>283212</span>
-<span>2022</span>-03-03T00:15:00.209622Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-013236<span>]</span> <span>[</span>Server<span>]</span> The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
-<span>2022</span>-03-03T00:15:00.209733Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-010119<span>]</span> <span>[</span>Server<span>]</span> Aborting
-<span>2022</span>-03-03T00:15:00.209929Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-010910<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld: Shutdown complete <span>(</span>mysqld <span>8.0</span>.28<span>)</span>  Source distribution.
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>什么也不用考虑，删除掉<code>/var/lib/mysql/</code>这个文件夹即可</p>
-</div>
-<p>命令执行成功后请留意一下输出的内容，这里会给你默认的MySQL用户及其密码，我们需要特别记下这两个。</p>
-<p>然后就需要启动MySQL服务，执行这两个命令：</p>
-<div><pre><code><span>sudo</span> systemctl <span>enable</span> mysqld
-<span>sudo</span> systemctl start mysqld
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>以普遍的理性而言，这类的密码是反人类的，因此我们需要修改一下登录密码，先执行这个命令来连接数据库：</p>
-<div><pre><code>mysql -uroot -p
-</code></pre>
-<div><span>1</span><br></div></div><p>然后输入刚才记下的那个复杂的密码，便可成功连接。</p>
-<p>在这时你执行命令<code>use mysql;</code>会得到类似这样的提示：</p>
-<div><pre><code>ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
-</code></pre>
-<div><span>1</span><br></div></div><p>所以我们可以根据提示执行这个命令：</p>
-<div><pre><code>ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED WITH mysql_native_password BY &#39;新密码&#39;;
-</code></pre>
-<div><span>1</span><br></div></div><p>这样就可以成功修改密码了，MySQL的安装与配置也到此结束了。</p>
-<h2 id="mysql初步使用"> MySQL初步使用</h2>
-<p>首先我们先连接数据库。要使用数据库，就需要先从新建数据库开始，搜过之后，就知道要使用下面一系列命令：</p>
-<div><pre><code>CREATE DATABASE &lt;NAME_OF_DB&gt;; # 创建新数据库
-use &lt;NAME_OF_DB&gt;; # 此处开始指定使用的数据库，这是每次连接数据库需要做的一步。
-CREATE TABLE &lt;NAME_OF_TB&gt; （ COL_1 TYPE_1, COL_2 TYPE_2 ... ）; # 创建新数据表，并分别指定COL_1和COL_2等的数据类型分别为TYPE_1和TYPE_2等。
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="mysql导入本地文件数据"> MySQL导入本地文件数据</h2>
-<p>本来这件事应该很简单的，执行这个语句就应该结束一切的：</p>
-<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>但就在这里报了错：</p>
-<div><p>警告</p>
-<p>The MySQL server is running with the --secure-file-priv option so it cannot execute this statement.</p>
-</div>
-<p>然后经过我的长时间搜索之后了解到：MySQL在安装的时候是会限制导入和导出的目录权限的，仅在规定的目录下才可以导入。我们可以用<code>SHOW VARIABLES LIKE &quot;secure_file_priv&quot;;</code>来查看这个变量的值应该是什么，结果果然能看到这时的状态是NULL。</p>
-<div><p>secure_file_priv各值代表的意义</p>
-<p>NULL：表示禁止，不接受任何形式的导入。</p>
-<p>某目录：仅接受该目录下的文件，甚至不接受其子文件夹与其内含的文件。</p>
-<p>空：不做限制，接受任何目录的导入。</p>
-</div>
-<p>那么我要解决这个问题就必须要去修改配置文件了。这里又花了我较长时间才找到其配置文件所在的路径：</p>
-<ol>
-<li>/etc/my.cnf</li>
-<li>/etc/mysql/my.cnf</li>
-<li>/usr/local/etc/my.cnf</li>
-<li>~/.my.cnf</li>
-</ol>
-<p>这四个是MySQL默认会搜寻的路径，并且从上到下优先级是逐级降低。</p>
-<p>于是我二话不说直接用管理员身份创建了<code>/etc/my.cnf</code>文件，正满怀期待地保存希望能够成功，当我执行<code>sudo systemctl restart mysqld</code>命令来重启MySQL服务的时候，它挂了……</p>
-<p>当我执行<code>mysql -uroot -p</code>的时候它给出了如下报错：</p>
-<div><p>警告</p>
-<p>ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2)</p>
-</div>
-<p>简单搜索了一下，这个其实意思就是MySQL服务启动失败，因此无法建立联接。当我尝试使用<code>systemctl status mysqld</code>来查看日志，接着看到了下面的报错：</p>
-<div><p>警告</p>
-<p>ERROR Found option without preceding group in config file /etc/my.cnf.</p>
-</div>
-<p>搜索了几下后我才发现，原来是缺少了<code>[mysqld]</code>这个内容，粗略地看了一下，应该就是Group的一种标志，这个mysqld应该是Group的名字。于是这个文件最后长的样子应该是下面的：</p>
-<div><pre><code>[mysqld]
-secure_file_priv = 
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这里等号后面不写东西是对应上面提到的空的情况。最后重启服务果然能成了。</p>
-<p>我想这下应该能解决了吧，于是重新开始执行了下面的语句：</p>
-<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>这回又给出了报错：</p>
-<div><p>警告</p>
-<p>ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides.</p>
-</div>
-<p>搜索了一下，看到有用修改环境变量的方法解决的：</p>
-<p>要修改的关键的环境变量是<code>local_infile</code>，可以使用<code>show variables like 'local_infile';</code>来查看该环境变量的值。果然执行后发现它的值是OFF。因此我需要修改这个环境变量来达到读取文件的目的，执行：<code>SET GLOBAL local_infile=on;</code>这样就可以了，于是我再次执行上面的LOAD命令的时候，又遭遇了报错：</p>
-<div><p>警告</p>
-<p>ERROR 13 (HY000): Can't get stat of '/home/breezeshane/AppData/Subjects/Database/product.csv' (OS errno 13 - Permission denied)</p>
-</div>
-<p>这个问题是我遇到的所有问题当中耗时最久的问题了……四下搜索无果，后来去找周围的大佬请教，终于才知道，是我缺少了LOCAL这个关键词，难怪它总是提示没有权限，我首先就打开方式不对……</p>
-<p>命令的正确写法应该是：</p>
-<div><pre><code>LOAD DATA LOCAL INFILE &#39;/home/breezeshane/AppData/Subjects/Database/product.csv&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERMINATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39; IGNORE 1 ROWS;
-</code></pre>
-<div><span>1</span><br></div></div><p>这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表<code>&lt;NAME_OF_TB&gt;</code>里(<code>LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE &lt;NAME_OF_TB&gt;</code>)，数据的分隔符是<code>,</code>(<code>FIELDS TERMINATED BY ','</code>)，行分隔符是<code>\n</code>(<code>LINES TERMINATED BY '\n'</code>)，最后忽略掉第一行的内容(<code>IGNORE 1 ROWS</code>)。</p>
-<h2 id="mysql的一些命令"> MySQL的一些命令</h2>
-<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
-<ol>
-<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
-<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>SDN入门基础</title>
-      <link>https://breezeshane.github.io/Web/SDN/</link>
-      <guid>https://breezeshane.github.io/Web/SDN/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">SDN入门基础</source>
-      <pubDate>Sun, 23 Jan 2022 21:12:59 GMT</pubDate>
-      <content:encoded><![CDATA[<div><p>参考链接</p>
-<p><a href="https://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&amp;mid=209513316&amp;idx=1&amp;sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd" target="_blank" rel="noopener noreferrer">《SDN软件定义网络从入门到精通》导论课</a>
-<a href="http://www.keyunict.com/news/news-271.html" target="_blank" rel="noopener noreferrer">SDN的主要分层结构</a>
-<a href="https://feisky.gitbooks.io/sdn/content/sdn/dataplane.html" target="_blank" rel="noopener noreferrer">SDN数据平面</a>
-<a href="https://blog.csdn.net/jlwuqi/article/details/90141033" target="_blank" rel="noopener noreferrer">SDN数据平面简介</a>
-<a href="https://blog.csdn.net/chengxuya/article/details/101052621" target="_blank" rel="noopener noreferrer">SDN控制平面</a>
-<a href="https://blog.csdn.net/Reality666/article/details/106919581" target="_blank" rel="noopener noreferrer">SDN网络的工作原理</a>
-<a href="https://blog.csdn.net/vecloud/article/details/109742280" target="_blank" rel="noopener noreferrer">SDN控制器的资源收集过程</a>
-<a href="https://zhuanlan.zhihu.com/p/33383947" target="_blank" rel="noopener noreferrer">SDN学习总结</a>
-<a href="https://zhuanlan.zhihu.com/p/436235017" target="_blank" rel="noopener noreferrer">一张图搞定！关于SDN大神级理解，都在这里了</a>
-<a href="https://pad.zol.com.cn/775/7750037.html" target="_blank" rel="noopener noreferrer">SDN 过时？这些应用让 SDN 长盛不衰</a></p>
-</div>
-<h2 id="sdn的概念"> SDN的概念</h2>
-<div><p>ONF组织给出的定义</p>
-<p>SDN architecture decouples the network control and forwarding functions enabling the network control to become directly programmable and the underlying infrastructure to be abstracted for applications and network services. The OpenFlow protocol is a foundational element for building SDN solutions.</p>
-</div>
-<div><p>ON.LAB组织给出的定义</p>
-<p>SDN's key attributes include: sepatation of the data and control planes; a uniform, vendor-agnostic interface(called OpenFlow) between control and data planes; alogcally centralized control plane that offers a consistent, network wide view to programmers or operators.</p>
-</div>
-<div><p>维基百科的定义</p>
-<p><strong>软件定义网络</strong> （英语：Software-Defined Networking，缩写作  <strong>SDN</strong> ）是一种新型网络架构。它利用OpenFlow协议将路由器的控制平面（Control Plane）从数据平面（Data Plane）中分离，改以软件方式实现，从而使得将分散在各个网络设备上的控制平面进行集中化管理成为可能 ，该架构可使网络管理员在不更动硬件设备的前提下，以中央控制方式用程序重新规划网络，为控制网络流量提供了新方案，也为核心网络和应用创新提供了良好平台。SDN可以按使用领域分为：SD-WAN, SD-LAN, SD-DC, SDN将人工智能引入到网络系统里来，将是未来几年最热门的网络前沿技术之一。</p>
-</div>
-<p>SDN是一种新的网络体系结构，给传统网络带来最大的改变是网络可变成和开放性。网络用户追逐SDN的关键是想获得更多的网络可编程能力，获得更多的网络定制开发能力和自主权。SDN的开放分层架构加速了网络产业的参与度，越来越多的网络用户、网络软件公司和初创公司都加入到网络产业中来，这种开放竞争进一步加速整个产业的创新。</p>
-<h2 id="sdn为什么会出现"> SDN为什么会出现</h2>
-<p>在出现SDN之前的传统网络出现的问题比较多，一般都是缺了什么或者担心什么问题，就新添加一个东西专门解决，以至于后期网络堆叠繁重冗余。</p>
-<details><summary>问题一：传统网络管理和部署非常麻烦</summary>
-<p>对于一个庞大的网络来说，首先显而易见的是网络厂商杂、设备类型多、设备数量多、命令不一致，极大地加重了部署的难度，管理起来十分繁琐。</p>
-<p>我们首先要知道网络设备之间是如何协同工作的：</p>
-<ol>
-<li>网络设备之间的沟通主要通过网络协议「交换、路由、标签、安全等协议」来实现，大体的工作流程都是按照  <code>邻居建立</code>-&gt;<code>信息共享</code>-&gt;<code>路径选择</code>  这三个步骤来实现的，是很多协议设计的逻辑基础。</li>
-<li>大部分的传统网络是采用典型的分布式架构，设备和设备之间以“接力棒”的方式交互本地信息，而后建立数据库信息，再根据路径选择算法进行最优路径的选择，其中最具代表性的算法是SPF算法。</li>
-<li>每个设备会进行独立计算，各自都有自己独立的计算设备和转发设备。</li>
-<li>协议是互联网的基础。</li>
-</ol>
-<p>那么如果网络发生变动，又应该如何进行交互：</p>
-<ol>
-<li>当网络发生动荡时，网络设备会将故障信息以“接力棒”的方式不断告知下一个邻居设备，然后将故障路径信息删除。</li>
-<li>网络收敛过程中，有可能出现冗余的路径通告信息。
-如果遇到流量暴涨拓扑膨胀时：</li>
-<li>随着云计算、大数据、移动互联网等技术发展，流量不断翻番，使得底层网络的体积膨胀，压力增大；网络体积越大，需要收敛的时间越长，等。</li>
-<li>在所有的网络类型中，数据中心网「互联网公司」、电信网「运营商」的网络压力最大，需要变革的意愿最强烈。</li>
-</ol>
-</details>
-<details><summary>问题二：分布式网络架构瓶颈凸显</summary>
-<p>从问题一中可知，传统网络的三大特征是独立计算、接力棒交互、分布式架构，如今这三方面都可以看到瓶颈日益凸显。</p>
-<p>传统网络中网络带宽分配如何解决：</p>
-<ol>
-<li>流量控制一般采用Qos/TE等技术来实现，大体思路是：
-通过为流量分类和标记，定义不同的优先级别，根据业务需求，分配不同的带宽。流量控制的好坏直接影响带宽的利用率，影响客户的投资效益。</li>
-<li>流量控制技术可以在支持Qos/TE的交换机、路由器等产品上执行，也可以在专业的流量控制产品「负载均衡器」上实现。</li>
-<li>不管是软件还是硬件实现流量控制，传统的流量控制产品大体是一种静态带宽处理，即根据业务需求，制定待定规则，走特定的链路等等，策略一般是前期固定好的，无法根据网络情况，智能地实现带宽分配，即动态带宽处理。</li>
-</ol>
-<p>传统网络中还存在着难以流量可视化的情况：</p>
-<ol>
-<li>常规流量控制产品只能实现部分链路带宽分配可视化，常规网管系统只能实现链路状态故障检测等，无法实现全网全局链路带宽可视化。</li>
-<li>全网流量可视化是带宽智能调配的基础。</li>
-</ol>
-</details>
-<details><summary>问题三：流量控制是棘手难题</summary>
-<p>问题二中提到的带宽静态分配、难以流量可视化的情况正是导致流量控制十分棘手的关键所在。</p>
-<p>在传统网络中，我们既不能自定义设备的转发策略，也不能将软件运行在设备上，因为：</p>
-<ol>
-<li>传统网络设备的工作方式一般都是固定好的，如交换机根据MAC地址表转发「基于源MAC学习，基于目的MAC转发」，路由器根据路由表转发「修改源目MAC，源目IP不修改，基于目的IP查表」。</li>
-<li>按照业务需求进行网络设备的策略自定义，实际上是一个可编程的需求。而传统网络设备是一个黑盒子，内部源码、产品功能对用户封闭，话语权在网络厂商这里。</li>
-<li>不可编程，无法按需，是网络设备几十年来的老规矩。</li>
-</ol>
-</details>
-<details><summary>问题四：无法按需，不可编程</summary>
-<p>无法按需，不可编程。这就意味着如果需求有变动，就只能从硬件设计开发开始到软件应用开发来实现这一项大工程了。变更需求就要另起炉灶，即使这个需求可能非常合理、简单，变更的也微小。这一现象也被人形象地描述为“吃硬不吃软”。从中可以看出，传统网络存在着不灵活、不通用的巨大问题，这个问题将导致开发成本十分高昂，开发周期十分漫长。</p>
-</details>
-<h2 id="sdn网络与传统网络的比较"> SDN网络与传统网络的比较</h2>
-<table>
-<thead>
-<tr>
-<th>SDN网络</th>
-<th>传统网络</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>控制转发分离</td>
-<td>控制转发耦合</td>
-</tr>
-<tr>
-<td>集中式控制</td>
-<td>分布式控制</td>
-</tr>
-<tr>
-<td>可编程</td>
-<td>不可编程</td>
-</tr>
-<tr>
-<td>开放接口</td>
-<td>不开放接口</td>
-</tr>
-<tr>
-<td>虚拟化</td>
-<td>实体化</td>
-</tr>
-</tbody>
-</table>
-<h2 id="sdn的三大特性"> SDN的三大特性</h2>
-<ol>
-<li>
-<p><strong>网络开放可编程</strong></p>
-<p>SDN为网络用户提供了丰富的可编程API，用户可以通过南向接口编程网络设备，用户在控制器上面编写自己的网络应用程序。</p>
-</li>
-<li>
-<p><strong>数控分离</strong></p>
-<p>将网络控制平面从数据平面中解耦合。传统的网络设备控制部分与数据处理部分是绑定在一起的，SDN实现了数控分离，网络控制平面与数据平面之间通过南向接口分离开来，不再相互依赖。这样做的好处是：用户不再受限于设备厂商，对网络设备有更多的自主权。另外控制平面与数据平面可以独立完成体系结构的演进，类似于计算机工业的Wintel模式，处理器和操作系统的技术演进不用互相依赖。</p>
-</li>
-<li>
-<p><strong>逻辑上集中控制</strong></p>
-<p>传统的网络设备管理、控制和编程是分布式思路，SDN提倡集中式的管理和控制，通过控制器完成网络设备和整个网络的抽象，用户可以通过编写软件的方式在控制器上实现自己的网络业务和方案。</p>
-</li>
-</ol>
-<h2 id="sdn的分层体系结构"> SDN的分层体系结构</h2>
-<p><img src="/images/SDN/sdn-architecture.png" alt="" /></p>
-<p>SDN在应用中大体可划分为三层体系结构：控制层（Control Layer）、应用层（Application Layer）和基础设施层（Infrastructure Layer）。不同层次之间是通过不同接口进行通信的，比如应用层是通过北向接口（Northboundinterface）与控制层通信，而基础设施层则是通过南向接口（Southboundinterface）与控制层通信。</p>
-<p>而ONF (Open Networking Foundation)也给出这三层的含义及作用：</p>
-<ul>
-<li>应用层包括各种不同的业务应用</li>
-<li>控制层负责数据平面资源的编排、维护网络拓扑和状态信息等</li>
-<li>数据层负责数据处理、转发和状态收集</li>
-</ul>
-<details><summary>控制层</summary>
-<p>控制层是SDN控制器管理网络的基础设施，可以根据需要灵活选择多种控制器。在这一层中，控制器中包含大量业务逻辑，以获取和维护不同类型的网络信息、状态详细信息、拓扑细节、统计详细信息等。</p>
-<p>由于SDN控制器是用于管理网络的，所以它必须具有用于现实世界网络使用情况的控制逻辑，如交换、路由、二三层VPN、防火墙安全规则、DNS、DHCP和集群，网络供应商和开源社区需要在自己的SDN控制器中实现自己的服务，而这些服务会向应用层公开自己的API。</p>
-<p>目前市场上的SDN控制器解决方案大致可以分为两类：大型网络设备厂商提供商业方案，如CiscoOpen SDN controller；社区组织提供的开源方案，如OpenDaylight等。</p>
-</details>
-<details><summary>基础设施层</summary>
-<p>基础设施层，由各种网络设备构成，它可以是数据中心的一组网络交换机和路由器。控制层负责管理底层物理网络，物理层的实现可以是支持OpenFlow的硬件交换机。随着虚拟化技术的完善，SDN交换机可以是软件形态，如OVS就是一款基于开源技术实现的、能够与服务器虚拟化（Hypervisor）集成，具备交换机的功能的虚拟交换机。另外，OVS支持传统的标准管理接口，如NetFlow和sFlow等。</p>
-</details>
-<details><summary>应用层</summary>
-<p>应用层对于开发者来说是开放区域，鼓励开发尽可能多的创新应用。包括网络的可视化：拓扑结构、网络状态、网络统计等；网络自动化相关应用：网络配置管理，网络监控，网络故障排除，网络安全策略等。SDN应用程序可以为企业和数据中心网络提供各种端到端的解决方案。</p>
-</details>
-<details><summary>南向接口</summary>
-<p>控制层到基础设施层（网络交换机）通讯需要经过南向接口，目前主要的协议是OpenFlow、NetConf、OVSDB。OpenFlow协议是事实上的国际行业标准，其中NOX、Onix、Floodlight都是基于OpenFlow协议实现的开源控制器。作为一个开放的协议，OpenFlow突破了传统网络设备厂商各自为政形成的设备能力接口壁垒。</p>
-</details>
-<details><summary>北向接口</summary>
-<p>应用层通过API方式与SDN控制器通讯。与南向接口不同，现在北向接口还缺少业界公认的标准，实现方案思路有的从用户角度出发、有的从运营商角度出发、有的从产品能力角度出发。技术风格上，部分传统的网络设备厂商倾向于在现有的设备上提供编程接口供业务App调用，许多上层应用的开发者也比较倾向于采用 REST API 接口的形式。</p>
-</details>
-<h2 id="sdn数据平面"> SDN数据平面</h2>
-<p><img src="/images/SDN/20190512150552556.png" alt="" /></p>
-<div><p>传统网络数据平面</p>
-<p>数据平面主要执行网络控制逻辑，数据包的处理主要通过查询由控制平面所生成的FIB表来完成包处理流程。</p>
-<p>传统网络数据平面的特点:</p>
-<ul>
-<li>数据转发处理都是协议相关的；</li>
-<li>只支持有限的用户配置，不支持编程自定义。</li>
-</ul>
-</div>
-<p>数据平面负责数据处理、转发和状态收集等。其核心设备为交换机，可以是物理交换机，也可以是虚拟交换机。不同于传统网络转发设备，应用于SDN中的转发设备将数据平面与控制平面完全解耦，所有数据包的控制策略由远端的控制器通过南向接口协议下发，网络的配置管理同样也由控制器完成，这大大提高了网络管控的效率。交换设备只保留数据平面，专注于数据包的高速转发，降低了交换设备的复杂度。</p>
-<p>本质上来说，决定SDN可编程能力的因素在于数据平面的可编程性，所以就有了通用可编程数据平面OpenFlow Switch。通用可编程数据平面支持用户通过软件编程的方式任意定义数据平面的能力，包括数据包的解析、处理等功能。</p>
-<p>SDN数据平面的特点:</p>
-<ul>
-<li>处理流程中的：解析（Parser）、转发（Forwarding）和调度 （Scheduling）都是可编程、协议无关的；</li>
-<li>传统网络设备的二层或三层转发表抽象成流表；</li>
-</ul>
-<h2 id="sdn控制平面及sdn控制器实现原理"> SDN控制平面及SDN控制器实现原理</h2>
-<p>SDN控制平面主要由一个或者多个控制器组成，是作为数据控制分离的SDN的操作系统的存在。一方面，控制器通过南向接口协议对底层网络交换设备进行集中管理、状态监测、转发决策以处理和调度数据平面的流量；另一方面，控制器通过北向接口向上层应用开放多个层次的可编程能力，允许网络用户根据特定的应用场景灵活的制定各种网络策略。</p>
-<p>而控制器的设计目标是通过对底层网络进行完整的抽象，以允许开发者根据业务需求设计出各式各样的网络应用。</p>
-<h3 id="控制器需求"> 控制器需求</h3>
-<ul>
-<li>在广域网部署SDN，单个控制器所面临的网络规模根据场景不同而不同。</li>
-<li>在IPRAN的移动接入场景，在一个城市，目前的规模已经达到2万台设备，未来会更多。</li>
-<li>对于目前典型的骨干网和城域网，设备规模从几百台2000台，主要压力是边缘接入业务路由的计算。</li>
-<li>在数据中心解决方案场景，采用OVERLAY方式完成网络虚拟化功能。这种网络虚拟化是在数据中心服务器上直接启动一个软件交换机，然后使用VXLAN技术，直接构建海量租户的虚拟二层网络。</li>
-</ul>
-<h3 id="sdn控制器现网迁移"> SDN控制器现网迁移</h3>
-<p>迁移演进方式有多种，其中一种是SDN网络的部署可能先在某些局部网络部署，这个单独的SDN网络需要和传统的分布式网络互通，这就需要SDN控制器能够支持传统的一些网络业务协议，比如BGP进行互通。</p>
-<h3 id="sdn控制器与控制平台的关系"> SDN控制器与控制平台的关系</h3>
-<p>控制器是一个大型控制软件系统，它需要一个控制平台，这个平台成为网络操作系统（NOS），主要负责网络资源管理。传统的分布式网络有设备软件系统，但没有网络操作系统。</p>
-<p><strong>网元硬件管理</strong>：对应传统网络中的EMS专业网管，这部分功能可以放在SDN体系内，也可以作为一个单独的网络管理模块部署。</p>
-<p><strong>网元资源管理</strong>：针对不同的网元类型，其网元资源也是不同的。</p>
-<h3 id="基本功能层"> 基本功能层</h3>
-<p>一个通用的控制器可以方便的添加接口协议，这对于动态灵活的部署SDN非常重要，因此在这一层首先要完成就是协议适配功能。</p>
-<p>需要适配的协议主要包含两类：第一类是用来跟底层交换设备进行信息交互的南向接口协议。第二类是用于控制平面分布式部署的东西向接口协议。</p>
-<p>协议适配层主要有以下三方面作用：</p>
-<ol>
-<li>网络的维护人员可以根据网络的实际情况，使用较合适的协议来优化整个SDN；</li>
-<li>考虑到与传统网络的兼容性问题，可以借鉴使用现有网络协议作为南向、东西向接口协议，这样可以以最小的代价来升级和改造传统网络；</li>
-<li>通过协议适配功能，控制器能够完成对底层多种协议的适配，并向上层提供统一的API，达到对上层屏蔽底层多种协议的目的。</li>
-</ol>
-<p>协议适配工作完成后，控制器需要提供用于支撑上层应用开发的功能。这些功能主要包括四部分：</p>
-<ol>
-<li>模块管理：重点完成对控制器中各模块的管理。允许在不停止控制器运行的情况下加载新的应用模块，实现上层业务变化前后底层网络环境的无缝切换。</li>
-<li>事件机制：该模块定义了事件处理相关的操作，包括创建事件、触发事件、事件处理等操作。事件作为消息的通知者，在模块之间划定了清晰地界限，提高了应用程序的可维护性和重用性。</li>
-<li>任务日志：该模块提供基本日志功能。开发者可以用它来快速的调试自己的应用程序，网络管理人员可以用它来高效、便捷的维护SDN。</li>
-<li>资源数据库：这个数据库包含了底层各种网络资源的实时信息，主要包括交换机资源、主机资源、链路资源等，方便开发人员查询使用。</li>
-</ol>
-<h3 id="网络基础服务层"> 网络基础服务层</h3>
-<p>为让开发者能够专注于上层的业务逻辑，提高开发效率，需要在控制器中加入网络基础服务层，以提供基础的网络功能。</p>
-<p>该层中的模块可以通过调用基本功能层的接口来实现设备管理、状态检测等一系列基本功能。这一层涵盖的模块有很多，取决于控制器的具体实现，下面介绍五个主要的功能模块。</p>
-<ol>
-<li>交换机管理：控制器从资源数据库中得到底层交换机信息，并将这些信息以更加直观的方式提供给用户以及上层应用服务的开发者。</li>
-<li>主机管理：与交换机管理模块的功能类似QUESTION，重点负责提取网络中主机的信息。</li>
-<li>拓扑管理：控制器从资源数据库中提到链路、交换机和主机的信息后，就会形成整个网络的拓扑结构图。</li>
-<li>路由、转发策略：提供数据分组的转发策略，最简单的策略有根据二层Mac地址转发、根据IP地址转发数据分组。用户也可以在此基础上继续开发来实现自己的转发策略。</li>
-<li>虚拟网划分：虚拟网划分可以有效利用网络资源，实现网络资源价值的最大化。但是出于安全性的考虑，SDN控制器必须能够通过集中控制和自动配置的方式实现对虚拟网络的安全隔离。</li>
-</ol>
-<div><p>提示</p>
-<p>在这两层的基础上，控制器通过向上层应用开发者提供各个层次的编程接口，以便向网络开发者调用从信令级到各种网络服务的SDN可变层能力，灵活便捷的完成对整个SDN的设计与管理。其中基础功能曾非常重要，实现了对底层硬件的抽象和对上层网络功能模块的管理，所有的网络应用都给予这一层提供的接口进行开发。</p>
-</div>
-<h2 id="sdn的工作原理"> SDN的工作原理</h2>
-<ol>
-<li>控制器和转发器之间的控制通道建立，通常使用传统的IGP来打通控制通道。</li>
-<li>控制器和转发器建立控制协议连接后，需要从转发器收集网络资源信息，包括设备信息，接口信息，标签信息等，控制器还需要通过拓扑收集协议收集网络拓扑信息。</li>
-<li>控制器利用网络拓扑信息和网络资源信息计算网络内部的交换路径，同时控制器会利用一些传统协议和外部网络运行的一些传统路由协议，包括BGP，IGP等学习业务路由并向外扩散业务路由，把这些业务路由和内部交换路径转发信息下发给转发器。</li>
-<li>转发器接受控制器下发的网络内部交换路径转发表数据和业务路由转发表数据，并依据这些转发表进行报文转发。</li>
-<li>当网络状态发生变化时，SDN控制器会事实感知网络状态，并重新计算网络内部交换路径和业务路由，以确保网络能够继续正常提供服务。</li>
-</ol>
-<details><summary>SDN网络的控制器和转发器的控制通道建立过程</summary>
-<p>SDN控制器是SDN网络中的大脑，是控制单元。而转发器是SDN网络的手脚，是执行单元。</p>
-<p>在SDN网络架构下，控制器和转发器之间通道的建立和维护非常重要，SDN控制通道包括带内方式和带外方式这两种通道的通讯方式：</p>
-<ol>
-<li>
-<p>带外方式需要独立的信令物理网络，成本高，独占网络带宽。转发器通过独立的物理网络和控制器连接。这个独立的带外网络，可以直接运行简单的传统分布式控制协议IGP，确保转发器和控制器之间的通信打通。</p>
-</li>
-<li>
-<p>带内方式是业务网络公用物理网络，成本低，通过优先级机制——也就是控制通道和用户业务共用一张物理网络。而对于大型IP网络，出于成本考虑，一般选择带内控制通道方式。更多场景下，用户不可能专门建立一个管理网络，也就是独立的管理网络是不存在的，只能用带内控制通道来进行通信。
-带内方式又有两种方式来建立转发器和控制器之间的通道：</p>
-<ol>
-<li>第一种方法是控制器和每个转发器之间都有一个直接连接的物理线路，这样控制器通过这个物理线路可以和任何一个转发器通信，但这种方法要求控制器配置很多接口，工程上基本不可行。</li>
-<li>第二种方法是在带内利用传统分布式控制协议来打通控制通道，对于这种方法又可以分二层网络和三层网络来分别采用某种协议来打通控制通道。</li>
-</ol>
-</li>
-</ol>
-<p>通道的建立过程分为二层网络的建立和三层网络的建立：</p>
-<p>二层网络可以采用MSTP协议来协助破坏建立二层连接。这种情况的主要应用场景是数据中心控制器，控制器和交换机可以部署在同一个子网内，这样它们之间可以通过二层寻址，而不需要通过三层寻址。为了隔离控制器和转发器通讯与其他用户业务之间的通信，建议把他们之间的通信划分到一个独立的VLAN内部。</p>
-<p>三层网络可以采用传统的IGP来进行路由学习和打通控制通道。在数据中心内部，有时可以采用二层网络来完成控制器和转发器之间的控制通道，但当数据中心网络规模很大时也需要三层网络技术来解决控制器和转发器之间通信通道的建立。在控制器和转发器之间运行IGP，此时的控制器就是一台普通的路由器，可以通过IGP学习到拓扑并生成互联路由，这样一来，控制器和转发器之间的通信关系就如同一个传统分布式网络，从而保持了控制器和转发器之间的高可靠连通性。同时，控制器不是一个普通路由器，可以通过配置IGP（比如ISIS协议中的OVERLOAD功能）来阻止用户业务流量进入控制器。当然，所谓控制器不能转发用户流量可以说是一个限制，但在某些特定场景下这些限制也可以去掉，比如小规模网络中，客户可能希望在某台路由器上直接把控制器软件运行在里面，此时这台控制器本身也同时是一台路由器。</p>
-<i>Not supported content</i>三层网络下控制器其实和传统路由器有着一样的功能，但是要组织流量转发到控制器，很多IGP中有类似的功能来阻止这一点。
-<p>刚刚说的是通过传统分布式控制协议来让控制器学习并生成路由表并下发给转发器，在这种模式下，如果路由表里不存在相应的路由则报文被直接丢弃处理，这个就是IP转发理念。但是控制实现架构中，还有一种技术是流触发生成路由表，也就是说，对于一个转发表中不存在转发表数据的用户流进入转发器时，转发器需要把这个报文递交给控制器，转发器根据这个报文来生成一个转发表下发给转发器，使得该用户流的下一个报文进入系统时就可以命中转发表进行转发了。从安全性角度看，流触发生成路由表容易造成流量攻击，因此流触发技术不是一个合适的技术，也不符合IP技术的核心理念，仅仅在某些极其特殊场景下使用，并且要做好流攻击阻断工作。</p>
-<p>还有一些场景下：控制器需要穿越某些网络去控制远程网络，一个简单的方案就是在控制器和转发器之间建立一个隧道，并在这个隧道上启动IGP。
-用以上描述方法建立的控制通道，当网络发生状态变化时，由于采用了传统的分布式控制网络技术作为控制通道建立的技术，所以能够达到任何时刻只要拓扑上有路连接，通信上就能够打通的要求，同时故障感知到的收敛时间也都在1s以内。</p>
-</details>
-<details><summary>SDN控制器的资源收集过程</summary>
-<p>控制器和转发器的控制通道建立完成后，转发器主动向控制器发起控制协议连接，控制协议为openflow等协议，认证后建立。</p>
-<p><strong>网元资源信息收集</strong>（注册信息，MPLS标签信息，转发器的接口资源信息等）</p>
-<p>接下来，转发器向控制器注册信息、上报资源：接口资源、标签信息、VLAN资源、设备信息等。控制器采集这些信息是用来安装特定厂家设备的驱动程序、根据这些信息安装特定的接口协议和数据转换功能。控制器需要收集标签信息，这里的标签是指MPLS标签。这是因为控制器控制的网络内部交换技术通常采用MPLS交换，因为这项技术非常成熟，报文封装比较短小（4字节），有利于节省网络的带宽占用。另外，厂家差异问题也需要控制器实现动态安装驱动程序的能力。驱动程序会完成控制器到特定厂家的设备的接口协议和数据转换功能。而控制器正是根据设备厂家、设备类型、设备版本号进行本地搜索和加载对应的驱动程序。</p>
-<p>控制器收集标签信息，控制器控制的网络内部交换技术通常采用MPLS交换，原因有以下两点：</p>
-<ol>
-<li>MPLS协议成熟，多厂商均支持</li>
-<li>MPLS封装仅需4字节，转发性能高</li>
-</ol>
-<p>收集标签原因：</p>
-<ol>
-<li>控制器需要为整条LSP分配标签，厂家转发器设备能够支持的标签空间不足，需要控制器收集转发器的标签空间资源。</li>
-<li>分布式控制和SDN控制器混合组网情况下，分布式控制平面会占用一部分标签，为了保证唯一性，需要回收标签资源。</li>
-</ol>
-<p>收集接口信息「接口名字、接口ID、接口类型、接口带宽资源等」原因：</p>
-<ol>
-<li>接口资源分为两类：
-<ol>
-<li>网络外联接口，连接SDN网络外部的网络设备上。控制器需要知道网络下面有多少外联业务口可以部署业务，在部署业务时需要对这些外联口进行业务配置。</li>
-<li>网络内部接口，SDN控制的网络设备之间的接口。控制器需要使用这些接口信息形成最终拓扑，计算出网络内部的交换路径。</li>
-</ol>
-</li>
-<li>根据带宽资源计算出网络内部的交换路径，确保网络业务流量不会集中到某条链路上，造成最短路径拥塞的情况。</li>
-<li>收集VLANID、隧道id等原因，同标签原因类似，需要知道VLAN等可用资源以便外联口的业务接入时使用。</li>
-</ol>
-<p><strong>拓扑信息收集</strong>（网络拓扑包括三个对象：节点对象，接口对象，链路对象。控制器收集转发器的拓扑协议主要是LLDP）</p>
-<p>控制器还需要进行网络拓扑信息收集，网络拓扑是描述网络中节点和链路以及节点之间的连接关系的信息。</p>
-<p>网络拓扑由三个对象组成：</p>
-<ol>
-<li>节点对象，即转发器对象</li>
-<li>接口对象(TP、Terminal Point、业务接入点)转发器上的接口：节点ID+接口ID标记</li>
-<li>链路对象 左接口+右接口ID是(左节点，左接口，右节点，右接口)</li>
-</ol>
-<p>转发器可以上报设备对象和接口对象，但不能上报链路对象，必须要有一个方法来收集这种连接关系以确定链路对象信息，才能获得完整的拓扑信息。</p>
-<p>控制器收集网络拓扑的方法目前有不少标准协议定义：</p>
-<p>其中一个主要的协议是二层网络设备发现协议——链路层发现协议（LLDP），它是IEEE定义的二层网络设备发现协议，尤其适用在数据中心网络，其基本原理是转发器向每个接口发送一个LLDP报文，接收到LLDP报文的设备增加自己接收该报文的接口信息和设备ID，从而控制器就获得两个转发器之间的连接信息，如果控制器从每台转发器都获得类似的信息，最后控制器就获得完整的二层网络拓扑。</p>
-<p>拓扑信息收集的第二个协议是三层拓扑收集协议，通常利用传统的IGP，比如ISIS/OSPF，这两个只能洲际某个区域的拓扑，BGP-ls可以手机多域的拓扑。</p>
-<p>特殊应用场景中，会通过人工配制的方式向拓扑加一些对象，比如数据中心：需要管理接入网络的虚拟机的信息，以便应用程序能获得这个虚拟机从哪个交换机进入网络的位置信息。再比如业务链路需求中：增值业务处理设备(Value Added Service，VAS，通常指防火墙、负载均衡器、内容缓存等)的位置信息，以便控制器能够计算出业务链路由，完成用户链需求。</p>
-<p>用内存存储或者数据存储等内部数据库存储网络信息和设备信息，如何存储取决于性能要求。其中，数据库作为一种持久化存储方式，实时性能有所欠缺，而内存数据库性能提升很大。</p>
-<p>控制器应该收集网元的逻辑信息，对网元进行建模，抽象出一套转发器网元的模型，控制不需要关心转发器网元的模型，如果关注转发器的物理细节，也只是为了把一个网元网管(EMS)集成到控制器，逻辑上仍然分为控制器和网元网管两个逻辑单元。</p>
-<p>通过上述信息，转发器已经收集到了必要的转发器网元资源信息，比如接口、标签、VLANid等信息，有利这些信息，控制器就可以进行下一步的路由计算过程了。</p>
-</details>
-<details><summary>SDN控制器的流表计算和下发过程</summary>
-<p>SDN网络内部交换路由的生成
-边缘业务接入路由的处理，边缘的业务接入点是用于接入网络业务的，所有的用户流量都需要通过边缘业务接入节点进入网络，然后穿过内部交换网，到达另外一个边缘的业务接入节点。</p>
-<p><strong>流表计算</strong>：控制器计算网络交换路径是根据业务策略来进行的，有的业务需要考虑网络的带宽、时延等属性，有的业务可能不关心带宽和时延而是只关心可达性。</p>
-<p><strong>流表下发</strong>：有多种协议支持流表下发，包括PCE协议、BGP协议、Netconf协议、OpenFlow协议等。</p>
-</details>
-<details><summary>SDN转发面的报文转发</summary>
-<p>SDN的转发过程和传统网络的转发过程没有任何区别。</p>
-<p>在SDN网络架构下，尽管转发面的转发技术可以使用OpenFlow转发技术（是OpenFlow转发技术而不是OpenFlow控制协议），但这并不是必需的，使用传统的转发流程是完全一样的。</p>
-</details>
-<h2 id="sdn的优势"> SDN的优势</h2>
-<p>从SDN的特征出发，SDN的优势包括：</p>
-<ul>
-<li>灵活性，动态调整网络设备的配置，再也不需要人工去配置每台设备</li>
-<li>网络硬件简化（如白牌交换机等），只需要关注数据的处理和转发，与业务特性解耦，加快了新业务的引入速度</li>
-<li>网络的自动化部署和运维、故障诊断</li>
-</ul>
-<h2 id="sdn至今存在的问题"> SDN至今存在的问题</h2>
-<ol>
-<li>
-<p>控制器接口不规范。</p>
-</li>
-<li>
-<p>运算任务相对繁重。</p>
-</li>
-<li>
-<p>安全性得不到保障。</p>
-</li>
-<li>
-<p>整体稳定性较差。</p>
-</li>
-<li>
-<p>集中控制的安全问题。</p>
-<p>作为SDN网络核心的控制器将成为攻击的重点，需要解决SDN控制器的防攻击、冗余备份等问题。转发设备被多个控制器控制的场景下，可能面临控制器假冒，转发设备资源非法滥用等风险。</p>
-</li>
-<li>
-<p>控制器和转发面的性能问题。</p>
-<p>Openflow协议需专用化的芯片支撑，通用化的芯片性能差，定制芯片成本高，实际当用SDN技术应用困难。</p>
-</li>
-<li>
-<p>端到端控制的协同问题。</p>
-<p>东西向接口尚未开始标准化，夸厂商控制器通用是难题，当前的协同编排层，仅解决业务策略下发，端到端的拓扑发现和路径计算难以实现。</p>
-</li>
-</ol>
-<h2 id="sdn在广域网中应用场景分析"> SDN在广域网中应用场景分析</h2>
-<details><summary>在广域网多条链路之间可实现流量均衡调度</summary>
-<p>在广域网上，由于用户的分布不均、各业务并发特性不同等原因，经常存在流量不均衡现象，广域网链路目的端通常是城域网或者是云IDC，其用户规模及业务数量存在巨大的差异，几条链路上容易出现流量不均衡情况，严重时部分链路接近拥塞而其余的链路还处于轻载状况，这种情况经常发生在传输网的一级干线、二级干线以及云IDC之间的互联链路上。</p>
-<p>链路流量不均衡的情况涉及路由问题、具体业务应用层以及链路的质量等诸多复杂的问题，同时，在云计算、大数据、移动互联网快速普及应用时代，流量的瞬间动态变化极快，要进行人工干预是不可行的，因此一直是困扰运营商建设运维技术人员的难题。</p>
-<p>在广域网上引入SDN智能化管理器，利用 SDN 智能化全局管控的能力实时收集广域网中各条链路的状态信息，来监控网络状态，计算链路的利用率及带宽使用情况，动态的从交换机、路由器中获取网络状态，为数据包计算出最优的、无碰撞的路径，并动态的调整路由以避免网络拥塞，从而实现广域网传输链路流量的负载均衡。同时还可以利用 SDN 智能化管理，动态地改变带宽，加速广域网链路数据的传输。</p>
-</details>
-<details><summary>利用SDN可优化广域网链路利用率</summary>
-<p>目前，根据通信端到端的网络峰值预测路径和通道网络带宽。交换机、路由器的容量静态固定，根据路由器上行链路失效来重组路由，路径选择会出现重复，资源出现竞争，导致重试和再次失效。网络利用率通常小于 30%。</p>
-<p>利用SDN改进后，具备网络需求和网络组织的全局视图，可对所有流量计算出最佳最明确的路径，确定数据包的网络行为，从而减少保护性带宽的需要，一旦出现故障，可根据错误导向，改变到另一张预先计算好的网络路径。更高的网络利用率和更快的网络收敛，只需少量的资源即可获得更高的网络质量，网络利用率可稳定在70%以上。</p>
-<p>在骨干网中有诸多的业务需要按需动态地提供网络能力，如云数据中心之间平时估计需要的带宽不要太大就能支撑日常的业务运行，但是当有如虚拟机迁移，存储数据复制等业务时就需要很大带宽才能满足业务需要，两个IDC之间就需要随时间动态调整之间的网络流量带宽。</p>
-<p>传统模式是根据IDC之间端到端流量的峰值，来设计固定速率的网络带宽，从而导致了严重低下的带宽利用率;而引入SDN后，通过在网格交汇节点中加入基于OpenFlow的交换机，云服务平台根据需求，通过SDN的控制层，随时随地对网络流量带宽容量进行重新分配，从而保证网络带宽的性能。相对于传统预留空间方式，新模式为关键的通信事务节省约65%左右的容量。</p>
-<p>在广域网中可实现多层次的网络管理，采用SDN前，IP网络与传输网络分离，网络需通过不同的工具和不同的技术组合进行管理。采用SDN后，以统一集中、最优化为驱动力对流量进行控制，使得流量在网络上流转总是恰到好处;网络传输变为动态，主要通过IP进行交互;对与网络流量的优化，SDN 会有选择性地切入，通过重新配合和连接新网络端口来增加带宽，提升性能，减少传统网络割接带来的影响。</p>
-</details>
-<details><summary>利用SDN可有效提升广域网的服务质量</summary>
-<p>目前广域网的服务内容、应用系统、服务层与网络紧耦合，移动网、WiFi网络、固定宽带等不同领域的网络紧耦合，资源利用率低或性能差。</p>
-<p>利用SDN改进后，控制层具有全局的网络组织视图，并可把该信息提供给应用服务层，同时可在用户端与IDC 及具体服务器之间，选择最佳链路。只需少量的资源即可获得更高的服务质量，聚合多种技术来提供服务，优化了如QoS、能耗、利用率等多个方面的性能。</p>
-<p>在感知网络中服务器负载均衡这中应用场景，目前，服务器负载均衡方式是从服务器集群中，根据服务器的可用性和当前资源利用率，选择服务器分担负载，而不考虑网络因素，这样会导致所选服务器是空闲的，但网络路径拥塞。 使用SDN后，可以通过感知网络负载的应用以及SDN控制器，选择一条拥有足够容量的网络路径，从而实现端到端的负载均衡，该场景特别适用于对时延敏感的业务，使其获得更好的业务响应时间，有效提升用户的业务体验。</p>
-<p>现阶段，在广域网中全面部署SDN还不太现实，SDN标准尚未统一，针对广域网的需求缺乏体系化标准化，可使用的主流厂家解决方案差异性大，私有协议多，跨厂家互通难度大，现阶段只能结合特定的需求选择特定的厂商SDN控制器，随着SDN技术的不断完善，在广域网中引入SDN技术应用将会全面展开，广域网的性能必定会得到很好的优化，会更好的为当下快速发展的云计算、大数据、物联网等业务应用提供更加良好的服务。</p>
-</details>
-<h2 id="sdn的典型应用"> SDN的典型应用</h2>
-<ol>
-<li>
-<p>控制面分离和多云互通</p>
-<p>虚拟化产生的大量的虚拟机需要大量的虚拟交换机/路由器，繁琐的进入每台虚拟设备，检查不够直观的端口信息，这类海量配置工作几乎无法完成。虚拟网元的统一管理是必然的选择，虚拟化网络的控制平面分离（Decouple）顺理成章。</p>
-<p>华云SDN是多云网络下的SDN （Multicloud Networking位于Gartner曲线图中的Peak位置），支持不同架构的多集群间的资源互通，其中包括华云CloudSuite所纳管的VMware集群、华云自研的x86版和ARM版安超超融合集群。</p>
-</li>
-<li>
-<p>云原生和软件定义的CNI网络</p>
-<p>容器网络因其服务和POD内外隔离的特性，软件定义的CNI网络在社区中已有众多方案（如Flannel和Calico）。华云数据SDN作为云原生的CNI（也处于Hyper Cycle中的Peak附近），其容器网络方案支持与安超虚拟机，VMware虚拟机的互相连通和统一管理。</p>
-</li>
-<li>
-<p>NFV和网络安全</p>
-<p>因网络被软件定义，因此网络流量调度有了更为柔性的方式。同时，一些服务，如安全服务也可以从硬件中脱离出来云化，紧密的配合SDN提供虚拟网络安全服务，如当处于安全资源池的安全实例检测到威胁的时候，会通过调用管理接口通知CloudSuite通过下发安全组等方式阻断威胁。</p>
-<details><summary>意义</summary>
-<p>此方案充分将安全服务云化，云内运行的安全实例可以同时保护东西向和南北向的流量，避免了硬件安全往往拘泥于南北向边界的问题。</p>
-<p>同时安全实例弹性较强，可以方便的支持升级，灵活部署更高规格的服务，不受硬件影响。扩充和减少服务实例也可以在安全中心中直接操作即可达成，免去硬件配置的繁琐。</p>
-<p>流量镜像方案不影响业务的正常流量，即使安全实例出现服务中断等情况，正常业务仍然可以正常运行。业务流量也避免了“发卡弯”等不必要的转发过程。</p>
-</details>
-</li>
-</ol>
-<h2 id="sdn与sd-wan的区别"> SDN与SD-WAN的区别<i>Not supported content</i></h2>
-<p>SD-WAN 是一种技术，它使用 SDN 概念跨 WAN 分配网络流量，以自动确定最有效的方式来路由进出分支机构和数据中心站点的流量。</p>
-<p>SDN 和 SD-WAN 有相似之处，例如，它们都将控制平面和数据平面分开，并且都支持额外的虚拟网络功能的实现。</p>
-<p>两者的不同之处在于：</p>
-<ol>
-<li>
-<p><strong>作用域不同</strong></p>
-<p>SDN主要侧重于局域网内的内部操作，而SD-WAN侧重于连接组织的不同地理位置。</p>
-</li>
-<li>
-<p><strong>面向群众不同</strong></p>
-<p>客户可以对SDN进行编程，而供应商可以对SD-WAN进行编程。</p>
-</li>
-<li>
-<p><strong>使用平台不同</strong></p>
-<p>SDN由封闭系统内的网络功能虚拟化(NFV)启用，而SD-WAN提供虚拟运行或在SD-WAN设备上运行的应用程序路由。</p>
-</li>
-<li>
-<p><strong>系统、技术、协议不同带来的成本上的不同</strong></p>
-<p>SD-WAN在消费级宽带互联网上使用基于应用程序的路由系统，与对SDN至关重要的多协议标签交换(MPLS)相比，这可实现更好的质量性能和更低的每兆字节成本。</p>
-</li>
-</ol>
-<h2 id="sdn-未来可能的应用"> SDN 未来可能的应用</h2>
-<ol>
-<li>SDN-LAN</li>
-<li>SDN-WAN</li>
-<li>SDN-DCN</li>
-</ol>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Windows10 快捷键大全</title>
-      <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
-      <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Windows10 快捷键大全</source>
-      <pubDate>Thu, 19 Nov 2020 14:33:27 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
-<h2 id="_2020-11-19"> 2020/11/19</h2>
-<hr>
-<p>今年高考结束后的暑假，我买来笔记本电脑。从此我开始使用了Win10，以我个人的使用习惯，我喜欢且经常使用快捷键，因此在初次使用系统的时候我都会花时间了解并尽力记住快捷键。个人认为，经常使用快捷键会提高你的工作效率，而且也会为你增加不少逼格！说不定你随便敲敲快捷键，就真的有人把你当成大佬咯~以下是Windows10的快捷键的列举讲解：</p>
-<hr>
-<hr>
-<hr>
-<blockquote>
-<p>贴靠窗口：Win + 左/右 &gt;  Win + 上/下 &gt; 窗口可以变为 1/4 大小放置在屏幕 4 个角落。</p>
-</blockquote>
-<blockquote>
-<p>创建新的虚拟桌面：Win + Ctrl + D。</p>
-</blockquote>
-<blockquote>
-<p>关闭当前虚拟桌面：Win + Ctrl + F4。</p>
-</blockquote>
-<blockquote>
-<p>切换虚拟桌面：Win + Ctrl + 左/右。</p>
-</blockquote>
-<blockquote>
-<p>Win + R 打开运行对话框</p>
-</blockquote>
-<blockquote>
-<p>Win + Q 快速打开搜索</p>
-</blockquote>
-<blockquote>
-<p>Win + I 快速打开Win10设置栏</p>
-</blockquote>
-<blockquote>
-<p>Win+ ↑：最大化窗口（与开始屏幕应用无关）Win+ ↓：最小化窗口（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+ SHIFT +↑：垂直拉伸窗口，宽度不变（与开始屏幕应用无关）Win+ SHIFT +↓：垂直缩小窗口，宽度不变（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+SHIFT+←：将活动窗口移至左侧显示器 （与开始屏幕应用无关）Win+SHIFT+→：将活动窗口移至右侧显示器（与开始屏幕应用无关）</p>
-</blockquote>
-<blockquote>
-<p>Win+ P：演示设置</p>
-</blockquote>
-<blockquote>
-<p>Win+ Home：最小化所有窗口，第二次键击恢复窗口（不恢复开始屏幕应用）</p>
-</blockquote>
-<blockquote>
-<p>Win+ 数字键：打开或切换位于任务栏指定位置的程序</p>
-</blockquote>
-<blockquote>
-<p>Win+Shift+数字键：打开位于任务栏指定位置程序的新实例</p>
-</blockquote>
-<blockquote>
-<p>Win+B：光标移至通知区域</p>
-</blockquote>
-<blockquote>
-<p>Win+Break：显示“系统属性”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win+Ctrl+F：搜索计算机（如果你在网络上）</p>
-</blockquote>
-<blockquote>
-<p>Win+G：打开游戏屏幕录制</p>
-</blockquote>
-<blockquote>
-<p>Win+L：锁住电脑或切换用户</p>
-</blockquote>
-<blockquote>
-<p>Win+M：最小化所有窗口</p>
-</blockquote>
-<blockquote>
-<p>Win+Shift+M：在桌面恢复所有最小化窗口（不恢复开始屏幕应用）</p>
-</blockquote>
-<blockquote>
-<p>Win+R：打开“运行”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win+T：切换任务栏上的程序</p>
-</blockquote>
-<blockquote>
-<p>Win+U：打开轻松使用</p>
-</blockquote>
-<blockquote>
-<p>Win+F1：打开Windows帮助和支持</p>
-</blockquote>
-<blockquote>
-<p>Win+N：插件新笔记（OneNote）</p>
-</blockquote>
-<blockquote>
-<p>Win+S：打开屏幕截图工具（OneNote）</p>
-</blockquote>
-<blockquote>
-<p>Win+空格键：切换输入语言和键盘布局</p>
-</blockquote>
-<blockquote>
-<p>Win+O：禁用屏幕翻转</p>
-</blockquote>
-<blockquote>
-<p>Win+，：临时查看桌面</p>
-</blockquote>
-<blockquote>
-<p>Win+V：打开剪贴板</p>
-</blockquote>
-<blockquote>
-<p>Win+PgUp：将开始屏幕或开始屏幕应用移至左侧显示器</p>
-</blockquote>
-<blockquote>
-<p>Win+PgDown：将开始屏幕或开始屏幕应用移至右侧显示器</p>
-</blockquote>
-<blockquote>
-<p>Win+.：打开表情输入</p>
-</blockquote>
-<blockquote>
-<p>Win+K：打开蓝牙连接设备</p>
-</blockquote>
-<blockquote>
-<p>Win+H：（与麦克风有关的未知功能）</p>
-</blockquote>
-<blockquote>
-<p>Win+W：打开附加功能（截图、手写板）</p>
-</blockquote>
-<blockquote>
-<p>Win+X：快捷菜单</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Home 最小化除活动窗口之外的所有窗口(传统桌面)</p>
-</blockquote>
-<blockquote>
-<p>开始屏幕直接输入任何字符，开始屏幕下可直接搜索进行搜索</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Pause 显示“系统属性”对话框</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Page Up 在多监视器设置中将开始屏幕移动至左监视器</p>
-</blockquote>
-<blockquote>
-<p>Win键 + Page Down 在多监视器设置中将开始屏幕移动至右监视器</p>
-</blockquote>
-<blockquote>
-<p>Win键 + W 打开所选设置的“搜索”个性分类</p>
-</blockquote>
-<blockquote>
-<p>Alt + Win键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的右键菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向右键 将光标移动到下一个字符的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向左键 将光标移动到上一个字词的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向下键 将光标移动到下一个段落的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+向上键 将光标移动到上一个段落的起始处</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 加某个箭头键 选择一块文本Shift 加任意箭头键 在窗口中或桌面上选择多个项目，或者在文档中选择文本</p>
-</blockquote>
-<blockquote>
-<p>F3 搜索文件或文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+Enter 显示所选项的属性</p>
-</blockquote>
-<blockquote>
-<p>Alt+空格键 为活动窗口打开快捷方式菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+F4 关闭活动文档(在允许同时打开多个文档的程序中)</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+鼠标滚轮 更改图标大小</p>
-</blockquote>
-<blockquote>
-<p>Alt+Esc 以项目打开的顺序循环切换项目</p>
-</blockquote>
-<blockquote>
-<p>F6 在窗口中或桌面上循环切换屏幕元素</p>
-</blockquote>
-<blockquote>
-<p>F4 在 Win资源管理器中显示地址栏列表</p>
-</blockquote>
-<blockquote>
-<p>Shift+F10 显示选定项目的快捷菜单</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Esc 打开“开始”菜单</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 显示相应的菜单</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 执行菜单命令(或其他有下划线的命令)</p>
-</blockquote>
-<blockquote>
-<p>F10 激活活动程序中的菜单栏向右键 打开右侧的下一个菜单或者打开子菜单向左键 打开左侧.的下一个菜单或者关闭子菜单</p>
-</blockquote>
-<blockquote>
-<p>F5(或 Ctrl+R) 刷新活动窗口</p>
-</blockquote>
-<blockquote>
-<p>Alt+向上键 在 Win资源管理器中查看上一级文件夹</p>
-</blockquote>
-<blockquote>
-<p>Esc 取消当前任务</p>
-</blockquote>
-<blockquote>
-<p>插入 CD 时按住 Shift 阻止 CD 自动播放</p>
-</blockquote>
-<blockquote>
-<p>左 Alt+Shift 在启用多种输入语言时切换输入语言</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 在启用多个键盘布局时切换键盘布局 右或左</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift 更改从右到左阅读语言的文本阅读方向</p>
-</blockquote>
-<blockquote>
-<p>Win资源管理器中的快捷键</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+N 打开新窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+W 关闭当前窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+N 新建文件夹</p>
-</blockquote>
-<blockquote>
-<p>End 显示活动窗口的底端</p>
-</blockquote>
-<blockquote>
-<p>Home 显示活动窗口的顶端</p>
-</blockquote>
-<blockquote>
-<p>F11 最大化或最小化活动窗口</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+句点 顺时针旋转图片</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+逗号 逆时针旋转图片</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的星号 (*) 显示所选文件夹下的所有子文件夹</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的加号 (+) 显示所选文件夹的内容</p>
-</blockquote>
-<blockquote>
-<p>Num Lock+数字键盘上的减号 (-) 折叠选定的文件夹 向左键 折叠当前选项(如果它处于展开状态)，或者选择其父文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+Enter 打开所选项目的“属性”对话框Alt+P 显示预览窗格Alt+向左键 查看上一个文件夹</p>
-</blockquote>
-<blockquote>
-<p>Backspace (退格键) 向上，返回父文件夹</p>
-</blockquote>
-<blockquote>
-<p>向右键 显示当前选项(如果它处于折叠状态)，或者选择第一个子文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+向右键 查看下一个文件夹</p>
-</blockquote>
-<blockquote>
-<p>Alt+向上键 查看父文件夹</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+E 显示所选文件夹上面的所有文件夹</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+鼠标滚轮 更改文件和文件夹图标的大小和外观</p>
-</blockquote>
-<blockquote>
-<p>Alt+D 选择地址栏</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+E 选择搜索框</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+F 选择搜索框</p>
-</blockquote>
-<blockquote>
-<p>在对话框中使用的快捷键</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Tab 在选项卡上向前移动</p>
-</blockquote>
-<blockquote>
-<p>Ctrl+Shift+Tab 在选项卡上向后移动</p>
-</blockquote>
-<blockquote>
-<p>Tab 在选项上向前移动</p>
-</blockquote>
-<blockquote>
-<p>Shift+Tab 在选项上向后移动</p>
-</blockquote>
-<blockquote>
-<p>Alt+加下划线的字母 执行与该字母匹配的命令(或选择选项)Enter</p>
-</blockquote>
-<blockquote>
-<p>对于许多选定命令代替单击鼠标</p>
-</blockquote>
-<blockquote>
-<p>空格键 如果活动选项是复选框，则选中或清除该复选框 箭头键 如果活动选项是一组选项按钮，则选择某个按钮F1 显示帮助F4 显示活动列表中的项目Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹</p>
-</blockquote>
-<hr>
-<hr>
-<hr>
-<p>未完待续.     .    .   .  . .</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>𝕬𝖇𝖔𝖚𝖙</title>
-      <link>https://breezeshane.github.io/about/</link>
-      <guid>https://breezeshane.github.io/about/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
-<p>【代号】和风曦日</p>
-<p>【本体】Bug</p>
-<p>【性别】男</p>
-<p>【战斗经验】没有战斗经验</p>
-<p>【出身地】不明</p>
-<p>【生日】本人表示遗忘</p>
-<p>【种族】萨卡兹</p>
-<p>【身高】163cm</p>
-<p>【矿石病感染情况】</p>
-<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
-<h2 id="综合体检测试"> 综合体检测试</h2>
-<p>【物理强度】普通</p>
-<p>【战场机动】普通</p>
-<p>【生理耐受】普通</p>
-<p>【战术规划】普通</p>
-<p>【战斗技巧】普通</p>
-<p>【源石技艺适应性】卓越</p>
-<h2 id="客观履历"> 客观履历</h2>
-<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
-<h2 id="临床诊断分析"> 临床诊断分析</h2>
-<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
-<p>【体细胞与源石融合率】12%</p>
-<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
-<p>【血液源石结晶密度】0.5µ/L</p>
-<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Intro Page</title>
-      <link>https://breezeshane.github.io/intro/</link>
-      <guid>https://breezeshane.github.io/intro/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Custom Layout</title>
-      <link>https://breezeshane.github.io/layout/</link>
-      <guid>https://breezeshane.github.io/layout/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
-      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
-<div><p>注意</p>
-<p>This is just a demo, you should add styles according to your own needs.</p>
-
-
-</div>
-<template #page-top><p>Page top content</p>
-</template><template #page-bottom><p>Page bottom content</p>
-</template><template #content-top><p>Content top content</p>
-</template><template #content-bottom><p>Content bottom content</p>
-</template><template #navbar-start><p>Navbar start content</p>
-</template><template #navbar-center><p>Navbar center content</p>
-</template><template #navbar-end><p>Navbar end content</p>
-</template><template #sidebar-top><p>Sidebar top content</p>
-</template><template #sidebar-center><p>Sidebar center content</p>
-</template><template #sidebar-bottom><p>Sidebar bottom content</p>
-</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>友情链接</title>
-      <link>https://breezeshane.github.io/links/</link>
-      <guid>https://breezeshane.github.io/links/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
-      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
-<div id="1" style="width:128px;height:256px;">
-<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
-<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
-</div>
-<div id="2" style="width:128px;height:256px;">
-<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
-<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
-</div>
-<div id="3" style="width:128px;height:256px;">
-<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
-</div>
-<div id="4" style="width:128px;height:256px;">
-<a href="https://memo.pommespeter.space"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
-<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
-</div>
-<div id="5" style="width:128px;height:256px;">
-<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
-<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
-</div>
-<div id="6" style="width:128px;height:256px;">
-<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
-<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
-</div>
-<div id="7" style="width:128px;height:256px;">
-<a href="https://www.cnblogs.com/whitebunny/"><img src="/images/Softrabbit.jpg" alt="柔小兔 Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#ff7500">白胖雪兔在摇晃着小小的尾巴~</font></center></p>
-</div>
-</div>]]></content:encoded>
-    </item>
-    <item>
-      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
-      <link>https://breezeshane.github.io/qap/</link>
-      <guid>https://breezeshane.github.io/qap/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
-      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
-      <content:encoded><![CDATA[<center>
-    <font color="#fa8c35" size="5">
-    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
-    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
-    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
-    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
-    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
-    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
-    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
-    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
-    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
-    </font>
-</center>
-<style>
-.page{
-margin:0 auto;
-background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
-background-position: center center;
-background-attachment: fixed;
-background-size: cover;
-}
-</style>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Slide page</title>
-      <link>https://breezeshane.github.io/slides/</link>
-      <guid>https://breezeshane.github.io/slides/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 05 Apr 2022 06:31:59 GMT</pubDate>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>Linux 共享 Anaconda</title>
-      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
-      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
-      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>安装Anaconda的步骤这里不做详细记述.</p>
-</blockquote>
-<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
-<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
-<div><pre><code><span>groupadd</span> anaconda
-</code></pre>
-<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
-<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
-<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
-<span>chmod</span> <span>770</span> -R /opt/anaconda/
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
-<div><pre><code><span>chmod</span> g+s /opt/anaconda
-<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
-<p>到这里用户就应该可以正常使用了, 如果还不能的话, 尝试一下做软链接, 执行<code>ln -s /opt/anaconda/ /usr/local/anaconda</code>然后让用户访问<code>/usr/local/anaconda</code>再尝试.</p>
-<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为用户需要先完成初始化, 执行<code>/opt/anaconda/bin/conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
-<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
-  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
-<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
-<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
-]]></content:encoded>
     </item>
     <item>
       <title>Linux Shell 编程学习与实战</title>
@@ -15849,6 +14239,1619 @@ opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
 isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke -flusho -extproc
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>关于Vcomputer如何实现循环的哲学问题</title>
+      <link>https://breezeshane.github.io/VComputer/</link>
+      <guid>https://breezeshane.github.io/VComputer/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">关于Vcomputer如何实现循环的哲学问题</source>
+      <pubDate>Tue, 10 Nov 2020 09:25:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
+<hr>
+<p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
+<blockquote>
+<p>请使用Vcomputer用循环计算1+2+3+4+5+6+7+8+9+10的结果。</p>
+</blockquote>
+<p>当时吧，我一看这题，就去找Vcomputer的操作码表了，扫了一下，发现只有操作码8才符合循环的特性。这个特性其实好恶心的......</p>
+<blockquote>
+<p>8RXY -&gt; 若寄存器R与寄存器0中的值相同，则将数据XY（转移地址）存入程序计数器；否则程序按原来的顺序继续执行。</p>
+</blockquote>
+<p>以前使用高级编程语言的时候，这个问题都不是问题，for直接秒杀。但是这回是用Vcomputer，这可就难办了......经过长足的思考以及与学长们的讨论,终于找到解决问题的方法了,先放上我的代码~</p>
+<div><pre><code>2001
+2101
+2201
+2301
+240A
+2501
+8418
+5002
+5112
+5323
+5553
+830C
+9000
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><p>再来说一下想出这个鬼东西的思路:</p>
+<ol>
+<li>计算这个算式时,首先要知道得有一个寄存器能依次储存1,2,3,4,5,6,7,8,9,10这十个数,既然发现它们依次递增1,那么就可以单独使用一个寄存器做一个迭代运算(如上部代码的<code>5323</code>,也就是相当于<code>i++;</code>),不难发现,必须还要有另一个储存器存放1,否则无法直接使该储存器增加1.</li>
+<li>循环这里是重中之重,是代码的最关键之处.要实现循环,我们首先要想,用几个储存器合适?</li>
+<li>如果只用一个储存器,那么我们会发现,不论怎么写,这个循环总是不会顺利执行,因为总会还没到预期停止的时间就已经和储存器0的值不一样了,无法满足循环条件.</li>
+<li>如果只用两个储存器(其中有一个是储存器0),你会发现,不论怎么做,都不能在需要的地方停下来,因为你总是能够构造出死循环.你既然要循环,就得要求这两个储存器的值始终相同,当你执行代码到应该停下的时候你会发现,你没有任何代码去跳出这个循环,也就是说这个循环是没法终止的,是个死循环.</li>
+<li>那么用三个储存器如何?我们在原来两个储存器的基础上继续思考,你会发现,如果再来一个储存器用来存放你想停下的终点(对于这题来说是10),说到这你很可能就明白了:当你的储存器0执行到与第三个储存器的值相同时,你这时候就有这个条件且能够跳出循环啦!就是用操作码8直接跳到9000的地址即可.</li>
+</ol>
+<hr>
+<p>不得不吐槽的是,机器代码真的好烦人好恶心,但是当我做成这个东西的时候,我会发现,它是这么地有意思,这么地有魅力,这份快乐简直无法替代!</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
+    </item>
+    <item>
+      <title>简单的网页前后端搭建过程</title>
+      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
+      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
+      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
+<h3 id="html"> HTML</h3>
+<p><strong>HTML设置字体：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
+<span><span><span>&lt;/</span>form</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
+<h3 id="css"> CSS</h3>
+<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
+<p>CSS选择器：</p>
+<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
+<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
+<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
+<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
+<span>background-position</span><span>:</span> center center<span>;</span>
+<span>background-attachment</span><span>:</span> fixed<span>;</span>
+<span>background-size</span><span>:</span> cover<span>;</span>
+<span>margin</span><span>:</span> 0<span>;</span>
+<span>position</span><span>:</span> relative<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
+<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
+<span>top</span><span>:</span> 50%<span>;</span>
+<span>left</span><span>:</span> 50%<span>;</span>
+<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
+<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
+<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
+<h3 id="javascript"> JavaScript</h3>
+<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
+<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
+    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
+    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
+    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
+	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
+
+    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
+	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
+
+    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
+        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
+        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
+        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
+            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
+            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
+        <span>}</span>
+        file_num <span>=</span> fileList<span>.</span>length
+        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
+            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
+                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
+            <span>}</span>
+            <span>// 以下定义了前端传输的相关信息。</span>
+            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
+                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
+                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
+                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
+                processData<span>:</span> <span>false</span><span>,</span> 
+                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
+                contentType<span>:</span> <span>false</span><span>,</span>
+                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
+                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
+                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
+                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
+                    <span>//后续的两行代码则是修改相应控件的数据。</span>
+                <span>}</span><span>,</span>
+                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
+                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
+                <span>}</span>
+            <span>}</span><span>)</span>
+        <span>}</span>
+    <span>}</span><span>)</span><span>;</span>
+
+    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
+        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
+        <span>// 直接触发选择文件的点击事件。</span>
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
+<p>使用后端flask之前需要先做好配置：</p>
+<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
+<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
+
+app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
+<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
+    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
+<blockquote>
+<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
+</blockquote>
+<p>调用flask_uploads包后要做如下的配置：</p>
+<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
+configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
+patch_request_class<span>(</span>app<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
+<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
+<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
+<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
+    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
+    file_urls <span>=</span> <span>[</span><span>]</span>
+    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
+    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
+        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
+        fileList<span>.</span>append<span>(</span>filename<span>)</span>
+        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
+    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
+    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
+    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
+<p>「注」：以上所有代码都是项目的主要部分。</p>
+</blockquote>
+<p>最后将整个前后端写好之后，就可以正常执行了！</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>数据库</title>
+      <link>https://breezeshane.github.io/Web/DataBase/</link>
+      <guid>https://breezeshane.github.io/Web/DataBase/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">数据库</source>
+      <pubDate>Mon, 21 Feb 2022 18:59:43 GMT</pubDate>
+      <content:encoded><![CDATA[<p><strong>数据库</strong>，又称为数据管理系统，是以一定方式储存在一起、能予多个用户共享、具有尽可能小的冗余度、与应用程序彼此独立的数据集合。</p>
+<h2 id="分类"> 分类</h2>
+<p><strong>关系型数据库</strong>，是指采用了关系模型来组织数据的数据库，其以行和列的形式存储数据，以便于用户理解，关系型数据库这一系列的行和列被称为表，一组表组成了数据库。用户通过查询来检索数据库中的数据，而查询是一个用于限定数据库中某些区域的执行代码。</p>
+<p>关系模型可以简单理解为二维表格模型，而一个关系型数据库就是由二维表及其之间的关系组成的一个数据组织。</p>
+<details><summary>关系型数据库特点</summary>
+<ol>
+<li><strong>存储方式</strong>：传统的关系型数据库采用表格的储存方式，数据以行和列的方式进行存储，要读取和查询都十分方便。</li>
+<li><strong>存储结构</strong>：关系型数据库按照结构化的方法存储数据，每个数据表都必须对各个字段定义好（也就是先定义好表的结构），再根据表的结构存入数据，这样做的好处就是由于数据的形式和内容在存入数据之前就已经定义好了，所以整个数据表的可靠性和稳定性都比较高，但带来的问题就是一旦存入数据后，如果需要修改数据表的结构就会十分困难。</li>
+<li><strong>存储规范</strong>：关系型数据库为了避免重复、规范化数据以及充分利用好存储空间，把数据按照最小关系表的形式进行存储，这样数据管理的就可以变得很清晰、一目了然，当然这主要是一张数据表的情况。如果是多张表情况就不一样了，由于数据涉及到多张数据表，数据表之间存在着复杂的关系，随着数据表数量的增加，数据管理会越来越复杂。</li>
+<li><strong>扩展方式</strong>：由于关系型数据库将数据存储在数据表中，数据操作的瓶颈出现在多张数据表的操作中，而且数据表越多这个问题越严重，如果要缓解这个问题，只能提高处理能力，也就是选择速度更快性能更高的计算机，这样的方法虽然可以一定的拓展空间，但这样的拓展空间一定有非常有限的，也就是关系型数据库只具备纵向扩展能力。</li>
+<li><strong>查询方式</strong>：关系型数据库采用结构化查询语言（即SQL）来对数据库进行查询，SQL早已获得了各个数据库厂商的支持，成为数据库行业的标准，它能够支持数据库的CRUD（增加，查询，更新，删除）操作，具有非常强大的功能，SQL可以采用类似索引的方法来加快查询操作。</li>
+<li><strong>规范化</strong>：在数据库的设计开发过程中开发人员通常会面对同时需要对一个或者多个数据实体（包括数组、列表和嵌套数据）进行操作，这样在关系型数据库中，一个数据实体一般首先要分割成多个部分，然后再对分割的部分进行规范化，规范化以后再分别存入到多张关系型数据表中，这是一个复杂的过程。好消息是随着软件技术的发展，相当多的软件开发平台都提供一些简单的解决方法，例如，可以利用ORM层（也就是对象关系映射）来将数据库中对象模型映射到基于SQL的关系型数据库中去以及进行不同类型系统的数据之间的转换。</li>
+<li><strong>事务性</strong>：关系型数据库强调ACID规则（原子性（Atomicity）、一致性（Consistency）、隔离性（Isolation）、持久性（Durability）），可以满足对事务性要求较高或者需要进行复杂数据查询的数据操作，而且可以充分满足数据库操作的高性能和操作稳定性的要求。并且关系型数据库十分强调数据的强一致性，对于事务的操作有很好的支持。关系型数据库可以控制事务原子性细粒度，并且一旦操作有误或者有需要，可以马上回滚事务。</li>
+<li><strong>读写性能</strong>：关系型数据库十分强调数据的一致性，并为此降低读写性能付出了巨大的代价，虽然关系型数据库存储数据和处理数据的可靠性很不错，但一旦面对海量数据的处理的时候效率就会变得很差，特别是遇到高并发读写的时候性能就会下降的非常厉害。</li>
+<li><strong>授权方式</strong>：关系型数据库常见的有Oracle，SQLServer，DB2，Mysql，除了Mysql大多数的关系型数据库如果要使用都需要支付一笔价格高昂的费用，即使是免费的Mysql性能也受到了诸多的限制。</li>
+</ol>
+</details>
+<p>非关系型数据库（NoSQL数据库）</p>
+<ol>
+<li>
+<p><strong>文档数据库</strong>——这些数据库通常将每个键与称为文档的复杂数据结构配对。文档可以包含键数组对、键值对甚至嵌套文档。</p>
+<p>示例：MongoDB、Apache CouchDB、ArangoDB、Couchbase、Cosmos DB、IBM Domino、MarkLogic、OrientDB。</p>
+</li>
+<li>
+<p><strong>键值存储</strong>——每个单独的项都存储为键值对。键值存储是所有NoSQL数据库中最简单的数据库。</p>
+<p>示例：Redis,Memcached,Apache Ignite,Riak。</p>
+</li>
+<li>
+<p><strong>宽列存储</strong>——这些类型的数据库针对大型数据集上的查询进行了优化，它们将数据列存储在一起，而不是行。</p>
+<p>示例：Cassandra，Hbase，Scylla。</p>
+</li>
+<li>
+<p><strong>图形存储</strong>——这些存储关于图形、网络的信息，例如社会关系、路线图、交通链接。</p>
+<p>示例：Neo4j，AllegroGraph。</p>
+</li>
+</ol>
+<details><summary>非关系型数据库特点</summary>
+<p>对于NoSQL并没有一个明确的范围和定义，但是他们都普遍存在下面一些共同特征：</p>
+<ol>
+<li><strong>易扩展</strong>：NoSQL数据库种类繁多，但是一个共同的特点都是去掉关系数据库的关系型特性。数据之间无关系，这样就非常容易扩展。无形之间，在架构的层面上带来了可扩展的能力。</li>
+<li><strong>大数据量，高性能</strong>：NoSQL数据库都具有非常高的读写性能，尤其在大数据量下，同样表现优秀。这得益于它的无关系性，数据库的结构简单。一般MySQL使用Query Cache。NoSQL的Cache是记录级的，是一种细粒度的Cache，所以NoSQL在这个层面上来说性能就要高很多。</li>
+<li><strong>灵活的数据模型</strong>：NoSQL无须事先为要存储的数据建立字段，随时可以存储自定义的数据格式。而在关系数据库里，增删字段是一件非常麻烦的事情。如果是非常大数据量的表，增加字段简直就是——个噩梦。这点在大数据量的Web 2.0时代尤其明显。</li>
+<li><strong>高可用</strong>：NoSQL在不太影响性能的情况，就可以方便地实现高可用的架构。比如Cassandra、HBase模型，通过复制模型也能实现高可用。</li>
+</ol>
+</details>
+<div><p>提示</p>
+<p>非关系型数据库的实质：非关系型数据库产品是传统关系型数据库的功能阉割版本，通过减少用不到或很少用的功能，来大幅度提高产品性能。</p>
+</div>
+<h2 id="关系型与非关系型数据库的比较"> 关系型与非关系型数据库的比较</h2>
+<ol>
+<li><strong>成本</strong>:Nosql数据库很容易部署，基本上是开源软件，无需像Oracle那样花费大量成本购买，比关系数据库便宜。</li>
+<li><strong>查询速度</strong>:Nosql数据库将数据存储在高速缓存中，不需要对SQL层进行分析。关系数据库在硬盘上存储数据，自然的查询速度远比Nosql数据库慢。</li>
+<li><strong>存储数据的格式</strong>：Nosql的存储格式是key,value形式、文档形式、图片形式等等，所以可以存储基础类型以及对象或者是集合等各种格式，而数据库则只支持基础类型。</li>
+<li><strong>扩展性</strong>：关系型数据库有类似join这样的多表查询机制的限制导致扩展很艰难。Nosql基于键值对，数据之间没有耦合性，所以非常容易水平扩展。</li>
+<li><strong>持久存储</strong>：Nosql不使用于持久存储，海量数据的持久存储，还是需要关系型数据库</li>
+<li><strong>数据一致性</strong>：非关系数据库通常强调数据的最终一致性，而不是像关系数据库那样强烈的数据一致性，以及从非关系数据库读取的数据可能仍处于中间状态，Nosql不提供对事务的处理。</li>
+</ol>
+<h2 id="特点"> 特点</h2>
+<ol>
+<li>数据结构化数据库系统实现整体数据的结构化，这是数据库的主要特征之一，也是数据库系统与文件系统的本质区别。</li>
+<li>数据的共享性高，冗余度低，易扩充数据库的数据不再面向某个应用而是面向整个系统，因此可以被多个用户、多个应用、用多种不同的语言共享使用。由于数据面向整个系统，是有结构的数据，不仅可以被多个应用共享使用，而且容易增加新的应用，这就使得数据库系统易于扩充，我们称之为弹性大。</li>
+<li>数据独立性高数据独立性包括数据的物理独立性和数据的逻辑独立性。数据库管理系统的模式结构和二级映像功能保证了数据库中的数据具有很高的物理独立性和逻辑独立性。</li>
+<li>数据由DBMS统一管理和控制数据库的共享是并发的共享，即多个用户可以同时存取数据库中的数据甚至可以同时存取数据库中同一个数据。为此，DBMS必须提供统一的数据控制功能，包括数据的安全性保护，数据的完整性检查，并发控制和数据库恢复。</li>
+</ol>
+<h2 id="作用"> 作用</h2>
+<ol>
+<li>实现数据共享：数据共享包含所有用户可同时存取数据库中的数据，也包括用户可以用各种方式通过接口使用数据库，并提供数据共享。</li>
+<li>减少数据的冗余度：同文件系统相比，由于数据库实现了数据共享，从而避免了用户各自建立应用文件。减少了大量重复数据，减少了数据冗余，维护了数据的一致性。</li>
+</ol>
+<div><p>注意</p>
+<p>任何一种性能优良的数据库系统都是不可能避免数据冗余的，因为冗余的数据也是日后进行数据库恢复的技术手段之一。</p>
+</div>
+<h2 id="数据抽象"> 数据抽象</h2>
+<p>数据抽象主要是为了向用户屏蔽复杂性。一共分为三层：</p>
+<ol>
+<li>物理层，物理层的数据抽象主要描述了数据在物理层面是怎么存储的数据，主要是数据库的供应商来研究。</li>
+<li>逻辑层，逻辑层的数据抽象主要描述了数据库中存储着什么数据，这些数据之间有什么关系，这主要是开发人员或者是数据库管理员考虑的，逻辑层的用户不需要去知道我的数据具体是怎么样子存储的。</li>
+<li>视图层，在一些数据库系统中，往往数据库是非常庞大的，而我们用户只关心庞大的数据库中的某一个小部分，视图层描述着庞大的数据库中的一部分，作为一个视图，由于大型数据库中的数据非常多而且具有着多样性，这就不可避免的产生了复杂性，视图层的抽象的定义正是为了给只需要访问一部分数据库的用户提供与系统的交互的简单性。</li>
+</ol>
+<div><p>视图</p>
+<p>数据库为用户在视图层提供一个个的视图，可以隐藏数据库的复杂性，因为如果用户只需要某一部分的数据，那么只需要把那部分拿出来单独作为一个视图提供给用户就好了，用户不用关心这一部分数据与数据库系统中其他数据的关系，而且视图还可以起到不让用户访问某一些数据的作用，可以对数据库的安全性有所保障。</p>
+</div>
+<h2 id="实例和模式"> 实例和模式</h2>
+<p><strong>实例</strong>：数据库会随着时间的推移而发生数据的更改或者是结构的更改，在某一时刻数据库中所有数据的集合。</p>
+<div><p>提示</p>
+<p>数据库实例状态是数据库实例的运行情况。</p>
+</div>
+<p><strong>模式</strong>：数据库的总体设计被称为模式，是数据库中全体数据的结构以及特征的描述，是所有用户的公共视图。</p>
+<h2 id="数据库的三级模式结构"> 数据库的三级模式结构</h2>
+<ol>
+<li>
+<p><strong>外模式</strong>(反映了数据库系统的用户观)</p>
+<p>外模式又称子模式或用户模式，对应于用户级。它是某个或某几个用户所看到的数据库的数据视图，是与某一应用有关的数据的逻辑表示。外模式是从模式导出的一个子集，包含模式中允许特定用户使用的那部分数据。用户可以通过外模式描述语言来描述、定义对应于用户的数据记录(外模式)，也可以利用数据操纵语言(Data Manipulation Language，DML)对这些数据记录进行操作。</p>
+</li>
+<li>
+<p><strong>概念模式</strong>（反映了数据库系统的整体观）</p>
+<p>概念模式又称模式或逻辑模式，对应于概念级。它是由数据库设计者综合所有用户的数据，按照统一的观点构造的全局逻辑结构，是对数据库中全部数据的逻辑结构和特征的总体描述，是所有用户的公共数据视图(全局视图)。它是由数据库管理系统提供的数据模式描述语言(Data Description Language，DDL)来描述、定义的。</p>
+</li>
+<li>
+<p><strong>内模式</strong>（反映了数据库系统的存储观）</p>
+<p>内模式又称存储模式，对应于物理级。它是数据库中全体数据的内部表示或底层描述，是数据库最低一级的逻辑描述，它描述了数据在存储介质上的存储方式和物理结构，对应着实际存储在外存储介质上的数据库。内模式由内模式描述语言来描述、定义的。</p>
+</li>
+</ol>
+<h2 id="数据库的两级映射"> 数据库的两级映射</h2>
+<p>数据库系统在三级模式之间提供了两级映像：模式/内模式的映像、外模式/模式的映像。</p>
+<ul>
+<li>模式/内模式的映像：实现概念模式到内模式之间的相互转换。</li>
+<li>外模式/模式的映像：实现外模式到概念模式之间的相互转换。</li>
+</ul>
+<div><p>提示</p>
+<p>数据的独立性是指数据与程序独立，将数据的定义从程序中分离出来，由DBMS（数据库管理系统）负责数据的存储，从而简化应用程序，大大减少应用程序编制的工作量。</p>
+<p>数据的独立性是由DBMS的二级映像功能来保证的。数据的独立性包括数据的物理独立性和数据的逻辑独立性。</p>
+</div>
+<details><summary>数据的物理独立性和逻辑独立性</summary>
+<p><strong>数据的物理独立性</strong>是指当数据库的内模式发生改变时，数据的的逻辑结构不变。由于应用程序处理的只是数据的逻辑结构，这样物理独立性可以保证，当数据的物理结构改变了，应用程序不用改变。但是，为了保证应用程序能够正确执行，需要修改概念模式/内模式之间的映像。</p>
+<p><strong>数据的逻辑独立性</strong>是指用户的应用程序与数据库结构是相互独立的。数据的逻辑结构发生变化后，用户程序也可以不修改。但是，为了保证应用程序能够正确执行，需要修改外模式/概念模式之间的映像。</p>
+</details>
+<h2 id="数据模型"> 数据模型</h2>
+<p><strong>数据模型</strong>是对现实世界数据特征的抽象。数据模型是用来描述数据、组织数据和对数据进行操作的。</p>
+<div><p>分类</p>
+<ol>
+<li><strong>概念模型</strong>：是按用户的观点来对数据和信息建模，主要用于数据库设计，也称信息模型，用于信息世界的建模，是现实世界到信息世界的第一层抽象，是数据库设计人员进行数据库设计的有力工具，也是数据库设计人员和用户之间进行交流的语言。</li>
+<li><strong>逻辑模型</strong>：主要包括层次模型、网状模型、关系模型、面向对象数据模型和对象关系数据模型、半结构化数据模型等。它是按计算机系统的观点对数据建模，主要用于数据库管理系统的实现。</li>
+<li><strong>物理模型</strong>：描述数据在系统内部的表示方式和存取方式，或在磁盘上的存储方式和存取方法。物理模型的具体实现是数据库管理系统的任务，数据库设计人员要了解和选择物理模型，最终用户则不必考虑物理级的细节。</li>
+</ol>
+</div>
+<p><strong>数据模型的三要素</strong>：</p>
+<ol>
+<li><strong>数据结构</strong>：是所研究的对象类型的集合，是对系统的静态特性的描述。</li>
+<li><strong>数据操作</strong>：是指对数据库中各种对象（型）的实例（值）允许进行的操作的集合，包括操作及有关的操作规则，是对系统动态特性的描述。</li>
+<li><strong>数据的约束条件</strong>：是完整性规则的集合，完整性规则是给定的数据模型中数据及其联系所具有的制约和依存规则，用以限定符合数据模型的数据库状态以及状态的变化，以保证数据的正确、有效、相容。</li>
+</ol>
+<h2 id="数据库系统的核心-数据管理系统"> 数据库系统的核心——数据管理系统</h2>
+<p>数据库管理系统(Database Management System，DBMS)是一个能够科学地组织和存储数据，高效地获取和维护数据的系统软件，是位于用户与操作系统之间的数据管理软件。</p>
+<div><p>主要功能</p>
+<ol>
+<li><strong>数据定义功能</strong>：数据库管理系统提供数据定义语言(DDL)，用户可以通过它可以方便地对数据库中的数据对象的组成与结构进行定义；</li>
+<li><strong>数据组织、存储和管理功能</strong>：数据库管理系统要分类组织、存储和管理数据，包括数据字典，用户数据、数据的存取路径等。要确定以何种文件结构和存取方式在存储上组织这些数据，如何实现数据之间的联系；数据组织和存储的基本目标是提高存储空间利用率和方便存取，提供多种存取方法来提高存取效率；</li>
+<li><strong>数据操纵功能</strong>：数据库系统管理系统还提供数据操纵语言(Data Manipulation Language，DML)，用户可以使用它来操纵数据，实现对数据库的基本操作，如查询、插入、删除和修改等；</li>
+<li><strong>数据库的事务管理和运行管理</strong>：数据库在建立、运用和维护时由数据库管理系统统一管理和控制，以保证事务的正确运行，保证数据的安全性、完整性、多用户对数据的并发使用及发生故障后的系统恢复；</li>
+<li><strong>数据库的建立和维护功能</strong>：包括数据库初始数据的输入和转换功能，数据库的转储、恢复功能，数据库的重组织功能和性能监视、分析功能等，这些功能通常由一些使用程序或管理工具完成的。</li>
+<li><strong>数据库的传输功能</strong>：DBMS提供处理数据的传输，实现用户程序与DBMS之间的通信，通常与操作系统协调完成。</li>
+<li><strong>与其他软件系统的通信功能</strong>。</li>
+</ol>
+</div>
+<details><summary>关系数据库管理系统的完整性控制机制应具有哪三方面的功能？</summary>
+<ol>
+<li><strong>定义功能</strong>，即提供定义完整性约束条件的机制；</li>
+<li><strong>检查功能</strong>，即检查用户发出的操作请求是否违背了完整性约束条件；</li>
+<li><strong>违约反应</strong>：如果发现用户的操作请求使数据违背了完整性约束条件，则采取一定的动作来保证数据的完整性。</li>
+</ol>
+</details>
+<h2 id="数据库系统组成"> 数据库系统组成</h2>
+<ol>
+<li>
+<p><strong>数据库</strong>：是指长期存储在计算机内的，有组织，可共享的数据的集合。数据库中的数据按一定的数学模型组织、描述和存储，具有较小的冗余，较高的数据独立性和易扩展性，并可为各种用户共享。</p>
+</li>
+<li>
+<p><strong>硬件</strong>：构成计算机系统的各种物理设备，包括存储所需的外部设备。硬件的配置应满足整个数据库系统的需要。</p>
+</li>
+<li>
+<p><strong>软件</strong>：包括操作系统、数据库管理系统及应用程序。数据库管理系统（Database Management System，DBMS）是数据库系统的核心软件，是在操作系统的支持下工作，解决如何科学地组织和存储数据，如何高效获取和维护数据的系统软件。其主要功能包括：数据定义功能、数据操纵功能、数据库的运行管理和数据库的建立与维护。</p>
+</li>
+<li>
+<p><strong>人员</strong>：主要有4类。</p>
+<p>第一类为系统分析员和数据库设计人员：系统分析员负责应用系统的需求分析和规范说明，他们和用户及数据库管理员一起确定系统的硬件配置，并参与数据库系统的概要设计。数据库设计人员负责数据库中数据的确定、数据库各级模式的设计。</p>
+<p>第二类为应用程序员，负责编写使用数据库的应用程序。这些应用程序可对数据进行检索、建立、删除或修改。</p>
+<p>第三类为最终用户，他们利用系统的接口或查询语言访问数据库。</p>
+<p>第四类用户是数据库管理员（data base administrator，DBA），负责数据库的总体信息控制。</p>
+</li>
+</ol>
+<div><p>提示</p>
+<p>数据库管理员（Database Administrator，DBA），是从事管理和维护数据库管理系统(DBMS)的相关工作人员的统称，属于运维工程师的一个分支，主要负责业务数据库从设计、测试到部署交付的全生命周期管理。</p>
+<p>DBA的具体职责包括：具体数据库中的信息内容和结构，决定数据库的存储结构和存取策略，定义数据库的安全性要求和完整性约束条件，监控数据库的使用和运行，负责数据库的性能改进、数据库的重组和重构，以提高系统的性能。</p>
+<p>DBA的核心目标是保证数据库管理系统的稳定性、安全性、完整性和高性能。</p>
+<p>数据库管理员一般是由业务水平较高、资历较深的人员担任。</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>在受限的网站里强制复制粘贴</title>
+      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
+      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
+      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
+<blockquote>
+<p>参考：</p>
+<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
+<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
+<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
+<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
+</blockquote>
+<h2 id="背景"> 背景</h2>
+<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
+<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
+<h2 id="实现方法"> 实现方法</h2>
+<h3 id="插件大法"> 插件大法</h3>
+<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
+<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
+<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
+<h3 id="查看源码大法"> 查看源码大法</h3>
+<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
+<blockquote>
+<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
+</blockquote>
+<h3 id="console操作大法"> Console操作大法</h3>
+<h4 id="全文复制"> 全文复制</h4>
+<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
+<p>如果你遇到如下形式的输出：</p>
+<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
+<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
+<p>写Shell文件，输入如下代码：</p>
+<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
+<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
+<h4 id="选中区域复制"> 选中区域复制</h4>
+<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+<ol>
+<li>打开开发者工具</li>
+<li>选中网页中要复制的文字</li>
+<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+</ol>
+<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
+<h3 id="打印预览大法"> 打印预览大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
+<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
+<h3 id="终极杀招"> 终极杀招</h3>
+<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
+<h2 id="补充的小知识"> 补充的小知识</h2>
+<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
+<h3 id="javascript实现方式"> JavaScript实现方式</h3>
+<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
+  <span>return</span> <span>false</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
+  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
+    <span>return</span> <span>false</span><span>;</span>
+  <span>}</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
+<div><pre><code><span>body</span> <span>{</span>
+  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
+  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
+  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
+  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
+  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
+  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
+<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
+    </item>
+    <item>
+      <title>MySQL初步使用</title>
+      <link>https://breezeshane.github.io/Web/MySQL/</link>
+      <guid>https://breezeshane.github.io/Web/MySQL/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">MySQL初步使用</source>
+      <pubDate>Thu, 03 Mar 2022 20:06:48 GMT</pubDate>
+      <content:encoded><![CDATA[<details><summary>参考</summary>
+<p><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a>
+<a href="https://www.runoob.com/mysql/mysql-create-tables.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据表</a>
+<a href="http://c.biancheng.net/view/2430.html" target="_blank" rel="noopener noreferrer">MySQL创建数据表（CREATE TABLE语句）</a>
+<a href="https://www.runoob.com/mysql/mysql-data-types.html" target="_blank" rel="noopener noreferrer">MySQL 数据类型</a>
+<a href="https://www.cnblogs.com/Braveliu/p/10728162.html" target="_blank" rel="noopener noreferrer">Mysql 导入文件提示 --secure-file-priv option 问题</a>
+<a href="https://blog.csdn.net/fdipzone/article/details/52705507" target="_blank" rel="noopener noreferrer">mysql 查看当前使用的配置文件my.cnf的方法</a>
+<a href="https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group" target="_blank" rel="noopener noreferrer">MySQL my.cnf file - Found option without preceding group</a>
+<a href="https://blog.csdn.net/qq_32834005/article/details/110443574" target="_blank" rel="noopener noreferrer">解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the</a>
+<a href="https://zhuanlan.zhihu.com/p/26964403" target="_blank" rel="noopener noreferrer">Mysql——将CSV文件导入表中</a>
+<a href="https://blog.csdn.net/qq_29229567/article/details/82743645" target="_blank" rel="noopener noreferrer">MYSQL：如何清空表中的数据</a>
+<a href="https://www.runoob.com/mysql/mysql-drop-tables.html" target="_blank" rel="noopener noreferrer">MySQL 删除数据表</a></p>
+</details>
+<h2 id="mysql安装与配置"> MySQL安装与配置</h2>
+<p>近期上课需要使用MySQL，因此我需要提前做好配置，特此一记：</p>
+<p>安装仅需一步：</p>
+<div><pre><code><span>sudo</span> pacman -S mysql
+</code></pre>
+<div><span>1</span><br></div></div><p>然后就可以开始进行配置，按照其输出的内容，我们执行：</p>
+<div><pre><code><span>sudo</span> mysqld --initialize --user<span>=</span>mysql --basedir<span>=</span>/usr --datadir<span>=</span>/var/lib/mysql
+</code></pre>
+<div><span>1</span><br></div></div><div><p>提示</p>
+<p>如果遇到如下报错：</p>
+<div><pre><code>mysqld: Can<span>'t create directory '</span>/var/lib/mysql/<span>' (OS errno 17 - File exists)
+2022-03-03T00:15:00.207164Z 0 [Warning] [MY-010915] [Server] '</span>NO_ZERO_DATE<span>', '</span>NO_ZERO_IN_DATE<span>' and '</span>ERROR_FOR_DIVISION_BY_ZERO' sql modes should be used with strict mode. They will be merged with strict mode <span>in</span> a future release.
+<span>2022</span>-03-03T00:15:00.207238Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-013169<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld <span>(</span>mysqld <span>8.0</span>.28<span>)</span> initializing of server <span>in</span> progress as process <span>283212</span>
+<span>2022</span>-03-03T00:15:00.209622Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-013236<span>]</span> <span>[</span>Server<span>]</span> The designated data directory /var/lib/mysql/ is unusable. You can remove all files that the server added to it.
+<span>2022</span>-03-03T00:15:00.209733Z <span>0</span> <span>[</span>ERROR<span>]</span> <span>[</span>MY-010119<span>]</span> <span>[</span>Server<span>]</span> Aborting
+<span>2022</span>-03-03T00:15:00.209929Z <span>0</span> <span>[</span>System<span>]</span> <span>[</span>MY-010910<span>]</span> <span>[</span>Server<span>]</span> /usr/bin/mysqld: Shutdown complete <span>(</span>mysqld <span>8.0</span>.28<span>)</span>  Source distribution.
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>什么也不用考虑，删除掉<code>/var/lib/mysql/</code>这个文件夹即可</p>
+</div>
+<p>命令执行成功后请留意一下输出的内容，这里会给你默认的MySQL用户及其密码，我们需要特别记下这两个。</p>
+<p>然后就需要启动MySQL服务，执行这两个命令：</p>
+<div><pre><code><span>sudo</span> systemctl <span>enable</span> mysqld
+<span>sudo</span> systemctl start mysqld
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>以普遍的理性而言，这类的密码是反人类的，因此我们需要修改一下登录密码，先执行这个命令来连接数据库：</p>
+<div><pre><code>mysql -uroot -p
+</code></pre>
+<div><span>1</span><br></div></div><p>然后输入刚才记下的那个复杂的密码，便可成功连接。</p>
+<p>在这时你执行命令<code>use mysql;</code>会得到类似这样的提示：</p>
+<div><pre><code>ERROR 1820 (HY000): You must reset your password using ALTER USER statement before executing this statement.
+</code></pre>
+<div><span>1</span><br></div></div><p>所以我们可以根据提示执行这个命令：</p>
+<div><pre><code>ALTER USER &#39;root&#39;@&#39;localhost&#39; IDENTIFIED WITH mysql_native_password BY &#39;新密码&#39;;
+</code></pre>
+<div><span>1</span><br></div></div><p>这样就可以成功修改密码了，MySQL的安装与配置也到此结束了。</p>
+<h2 id="mysql初步使用"> MySQL初步使用</h2>
+<p>首先我们先连接数据库。要使用数据库，就需要先从新建数据库开始，搜过之后，就知道要使用下面一系列命令：</p>
+<div><pre><code>CREATE DATABASE &lt;NAME_OF_DB&gt;; # 创建新数据库
+use &lt;NAME_OF_DB&gt;; # 此处开始指定使用的数据库，这是每次连接数据库需要做的一步。
+CREATE TABLE &lt;NAME_OF_TB&gt; （ COL_1 TYPE_1, COL_2 TYPE_2 ... ）; # 创建新数据表，并分别指定COL_1和COL_2等的数据类型分别为TYPE_1和TYPE_2等。
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><h2 id="mysql导入本地文件数据"> MySQL导入本地文件数据</h2>
+<p>本来这件事应该很简单的，执行这个语句就应该结束一切的：</p>
+<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>但就在这里报了错：</p>
+<div><p>警告</p>
+<p>The MySQL server is running with the --secure-file-priv option so it cannot execute this statement.</p>
+</div>
+<p>然后经过我的长时间搜索之后了解到：MySQL在安装的时候是会限制导入和导出的目录权限的，仅在规定的目录下才可以导入。我们可以用<code>SHOW VARIABLES LIKE &quot;secure_file_priv&quot;;</code>来查看这个变量的值应该是什么，结果果然能看到这时的状态是NULL。</p>
+<div><p>secure_file_priv各值代表的意义</p>
+<p>NULL：表示禁止，不接受任何形式的导入。</p>
+<p>某目录：仅接受该目录下的文件，甚至不接受其子文件夹与其内含的文件。</p>
+<p>空：不做限制，接受任何目录的导入。</p>
+</div>
+<p>那么我要解决这个问题就必须要去修改配置文件了。这里又花了我较长时间才找到其配置文件所在的路径：</p>
+<ol>
+<li>/etc/my.cnf</li>
+<li>/etc/mysql/my.cnf</li>
+<li>/usr/local/etc/my.cnf</li>
+<li>~/.my.cnf</li>
+</ol>
+<p>这四个是MySQL默认会搜寻的路径，并且从上到下优先级是逐级降低。</p>
+<p>于是我二话不说直接用管理员身份创建了<code>/etc/my.cnf</code>文件，正满怀期待地保存希望能够成功，当我执行<code>sudo systemctl restart mysqld</code>命令来重启MySQL服务的时候，它挂了……</p>
+<p>当我执行<code>mysql -uroot -p</code>的时候它给出了如下报错：</p>
+<div><p>警告</p>
+<p>ERROR 2002 (HY000): Can't connect to local MySQL server through socket '/run/mysqld/mysqld.sock' (2)</p>
+</div>
+<p>简单搜索了一下，这个其实意思就是MySQL服务启动失败，因此无法建立联接。当我尝试使用<code>systemctl status mysqld</code>来查看日志，接着看到了下面的报错：</p>
+<div><p>警告</p>
+<p>ERROR Found option without preceding group in config file /etc/my.cnf.</p>
+</div>
+<p>搜索了几下后我才发现，原来是缺少了<code>[mysqld]</code>这个内容，粗略地看了一下，应该就是Group的一种标志，这个mysqld应该是Group的名字。于是这个文件最后长的样子应该是下面的：</p>
+<div><pre><code>[mysqld]
+secure_file_priv = 
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这里等号后面不写东西是对应上面提到的空的情况。最后重启服务果然能成了。</p>
+<p>我想这下应该能解决了吧，于是重新开始执行了下面的语句：</p>
+<div><pre><code>LOAD DATA INFILE &#39;PATH_TO_MY_FILE&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERM INATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39;  GNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>这回又给出了报错：</p>
+<div><p>警告</p>
+<p>ERROR 3948 (42000): Loading local data is disabled; this must be enabled on both the client and server sides.</p>
+</div>
+<p>搜索了一下，看到有用修改环境变量的方法解决的：</p>
+<p>要修改的关键的环境变量是<code>local_infile</code>，可以使用<code>show variables like 'local_infile';</code>来查看该环境变量的值。果然执行后发现它的值是OFF。因此我需要修改这个环境变量来达到读取文件的目的，执行：<code>SET GLOBAL local_infile=on;</code>这样就可以了，于是我再次执行上面的LOAD命令的时候，又遭遇了报错：</p>
+<div><p>警告</p>
+<p>ERROR 13 (HY000): Can't get stat of '/home/breezeshane/AppData/Subjects/Database/product.csv' (OS errno 13 - Permission denied)</p>
+</div>
+<p>这个问题是我遇到的所有问题当中耗时最久的问题了……四下搜索无果，后来去找周围的大佬请教，终于才知道，是我缺少了LOCAL这个关键词，难怪它总是提示没有权限，我首先就打开方式不对……</p>
+<p>命令的正确写法应该是：</p>
+<div><pre><code>LOAD DATA LOCAL INFILE &#39;/home/breezeshane/AppData/Subjects/Database/product.csv&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERMINATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39; IGNORE 1 ROWS;
+</code></pre>
+<div><span>1</span><br></div></div><p>这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表<code>&lt;NAME_OF_TB&gt;</code>里(<code>LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE &lt;NAME_OF_TB&gt;</code>)，数据的分隔符是<code>,</code>(<code>FIELDS TERMINATED BY ','</code>)，行分隔符是<code>\n</code>(<code>LINES TERMINATED BY '\n'</code>)，最后忽略掉第一行的内容(<code>IGNORE 1 ROWS</code>)。</p>
+<h2 id="mysql的一些命令"> MySQL的一些命令</h2>
+<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
+<ol>
+<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
+<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>SDN入门基础</title>
+      <link>https://breezeshane.github.io/Web/SDN/</link>
+      <guid>https://breezeshane.github.io/Web/SDN/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">SDN入门基础</source>
+      <pubDate>Sun, 23 Jan 2022 21:12:59 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>参考链接</p>
+<p><a href="https://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&amp;mid=209513316&amp;idx=1&amp;sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd" target="_blank" rel="noopener noreferrer">《SDN软件定义网络从入门到精通》导论课</a>
+<a href="http://www.keyunict.com/news/news-271.html" target="_blank" rel="noopener noreferrer">SDN的主要分层结构</a>
+<a href="https://feisky.gitbooks.io/sdn/content/sdn/dataplane.html" target="_blank" rel="noopener noreferrer">SDN数据平面</a>
+<a href="https://blog.csdn.net/jlwuqi/article/details/90141033" target="_blank" rel="noopener noreferrer">SDN数据平面简介</a>
+<a href="https://blog.csdn.net/chengxuya/article/details/101052621" target="_blank" rel="noopener noreferrer">SDN控制平面</a>
+<a href="https://blog.csdn.net/Reality666/article/details/106919581" target="_blank" rel="noopener noreferrer">SDN网络的工作原理</a>
+<a href="https://blog.csdn.net/vecloud/article/details/109742280" target="_blank" rel="noopener noreferrer">SDN控制器的资源收集过程</a>
+<a href="https://zhuanlan.zhihu.com/p/33383947" target="_blank" rel="noopener noreferrer">SDN学习总结</a>
+<a href="https://zhuanlan.zhihu.com/p/436235017" target="_blank" rel="noopener noreferrer">一张图搞定！关于SDN大神级理解，都在这里了</a>
+<a href="https://pad.zol.com.cn/775/7750037.html" target="_blank" rel="noopener noreferrer">SDN 过时？这些应用让 SDN 长盛不衰</a></p>
+</div>
+<h2 id="sdn的概念"> SDN的概念</h2>
+<div><p>ONF组织给出的定义</p>
+<p>SDN architecture decouples the network control and forwarding functions enabling the network control to become directly programmable and the underlying infrastructure to be abstracted for applications and network services. The OpenFlow protocol is a foundational element for building SDN solutions.</p>
+</div>
+<div><p>ON.LAB组织给出的定义</p>
+<p>SDN's key attributes include: sepatation of the data and control planes; a uniform, vendor-agnostic interface(called OpenFlow) between control and data planes; alogcally centralized control plane that offers a consistent, network wide view to programmers or operators.</p>
+</div>
+<div><p>维基百科的定义</p>
+<p><strong>软件定义网络</strong> （英语：Software-Defined Networking，缩写作  <strong>SDN</strong> ）是一种新型网络架构。它利用OpenFlow协议将路由器的控制平面（Control Plane）从数据平面（Data Plane）中分离，改以软件方式实现，从而使得将分散在各个网络设备上的控制平面进行集中化管理成为可能 ，该架构可使网络管理员在不更动硬件设备的前提下，以中央控制方式用程序重新规划网络，为控制网络流量提供了新方案，也为核心网络和应用创新提供了良好平台。SDN可以按使用领域分为：SD-WAN, SD-LAN, SD-DC, SDN将人工智能引入到网络系统里来，将是未来几年最热门的网络前沿技术之一。</p>
+</div>
+<p>SDN是一种新的网络体系结构，给传统网络带来最大的改变是网络可变成和开放性。网络用户追逐SDN的关键是想获得更多的网络可编程能力，获得更多的网络定制开发能力和自主权。SDN的开放分层架构加速了网络产业的参与度，越来越多的网络用户、网络软件公司和初创公司都加入到网络产业中来，这种开放竞争进一步加速整个产业的创新。</p>
+<h2 id="sdn为什么会出现"> SDN为什么会出现</h2>
+<p>在出现SDN之前的传统网络出现的问题比较多，一般都是缺了什么或者担心什么问题，就新添加一个东西专门解决，以至于后期网络堆叠繁重冗余。</p>
+<details><summary>问题一：传统网络管理和部署非常麻烦</summary>
+<p>对于一个庞大的网络来说，首先显而易见的是网络厂商杂、设备类型多、设备数量多、命令不一致，极大地加重了部署的难度，管理起来十分繁琐。</p>
+<p>我们首先要知道网络设备之间是如何协同工作的：</p>
+<ol>
+<li>网络设备之间的沟通主要通过网络协议「交换、路由、标签、安全等协议」来实现，大体的工作流程都是按照  <code>邻居建立</code>-&gt;<code>信息共享</code>-&gt;<code>路径选择</code>  这三个步骤来实现的，是很多协议设计的逻辑基础。</li>
+<li>大部分的传统网络是采用典型的分布式架构，设备和设备之间以“接力棒”的方式交互本地信息，而后建立数据库信息，再根据路径选择算法进行最优路径的选择，其中最具代表性的算法是SPF算法。</li>
+<li>每个设备会进行独立计算，各自都有自己独立的计算设备和转发设备。</li>
+<li>协议是互联网的基础。</li>
+</ol>
+<p>那么如果网络发生变动，又应该如何进行交互：</p>
+<ol>
+<li>当网络发生动荡时，网络设备会将故障信息以“接力棒”的方式不断告知下一个邻居设备，然后将故障路径信息删除。</li>
+<li>网络收敛过程中，有可能出现冗余的路径通告信息。
+如果遇到流量暴涨拓扑膨胀时：</li>
+<li>随着云计算、大数据、移动互联网等技术发展，流量不断翻番，使得底层网络的体积膨胀，压力增大；网络体积越大，需要收敛的时间越长，等。</li>
+<li>在所有的网络类型中，数据中心网「互联网公司」、电信网「运营商」的网络压力最大，需要变革的意愿最强烈。</li>
+</ol>
+</details>
+<details><summary>问题二：分布式网络架构瓶颈凸显</summary>
+<p>从问题一中可知，传统网络的三大特征是独立计算、接力棒交互、分布式架构，如今这三方面都可以看到瓶颈日益凸显。</p>
+<p>传统网络中网络带宽分配如何解决：</p>
+<ol>
+<li>流量控制一般采用Qos/TE等技术来实现，大体思路是：
+通过为流量分类和标记，定义不同的优先级别，根据业务需求，分配不同的带宽。流量控制的好坏直接影响带宽的利用率，影响客户的投资效益。</li>
+<li>流量控制技术可以在支持Qos/TE的交换机、路由器等产品上执行，也可以在专业的流量控制产品「负载均衡器」上实现。</li>
+<li>不管是软件还是硬件实现流量控制，传统的流量控制产品大体是一种静态带宽处理，即根据业务需求，制定待定规则，走特定的链路等等，策略一般是前期固定好的，无法根据网络情况，智能地实现带宽分配，即动态带宽处理。</li>
+</ol>
+<p>传统网络中还存在着难以流量可视化的情况：</p>
+<ol>
+<li>常规流量控制产品只能实现部分链路带宽分配可视化，常规网管系统只能实现链路状态故障检测等，无法实现全网全局链路带宽可视化。</li>
+<li>全网流量可视化是带宽智能调配的基础。</li>
+</ol>
+</details>
+<details><summary>问题三：流量控制是棘手难题</summary>
+<p>问题二中提到的带宽静态分配、难以流量可视化的情况正是导致流量控制十分棘手的关键所在。</p>
+<p>在传统网络中，我们既不能自定义设备的转发策略，也不能将软件运行在设备上，因为：</p>
+<ol>
+<li>传统网络设备的工作方式一般都是固定好的，如交换机根据MAC地址表转发「基于源MAC学习，基于目的MAC转发」，路由器根据路由表转发「修改源目MAC，源目IP不修改，基于目的IP查表」。</li>
+<li>按照业务需求进行网络设备的策略自定义，实际上是一个可编程的需求。而传统网络设备是一个黑盒子，内部源码、产品功能对用户封闭，话语权在网络厂商这里。</li>
+<li>不可编程，无法按需，是网络设备几十年来的老规矩。</li>
+</ol>
+</details>
+<details><summary>问题四：无法按需，不可编程</summary>
+<p>无法按需，不可编程。这就意味着如果需求有变动，就只能从硬件设计开发开始到软件应用开发来实现这一项大工程了。变更需求就要另起炉灶，即使这个需求可能非常合理、简单，变更的也微小。这一现象也被人形象地描述为“吃硬不吃软”。从中可以看出，传统网络存在着不灵活、不通用的巨大问题，这个问题将导致开发成本十分高昂，开发周期十分漫长。</p>
+</details>
+<h2 id="sdn网络与传统网络的比较"> SDN网络与传统网络的比较</h2>
+<table>
+<thead>
+<tr>
+<th>SDN网络</th>
+<th>传统网络</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>控制转发分离</td>
+<td>控制转发耦合</td>
+</tr>
+<tr>
+<td>集中式控制</td>
+<td>分布式控制</td>
+</tr>
+<tr>
+<td>可编程</td>
+<td>不可编程</td>
+</tr>
+<tr>
+<td>开放接口</td>
+<td>不开放接口</td>
+</tr>
+<tr>
+<td>虚拟化</td>
+<td>实体化</td>
+</tr>
+</tbody>
+</table>
+<h2 id="sdn的三大特性"> SDN的三大特性</h2>
+<ol>
+<li>
+<p><strong>网络开放可编程</strong></p>
+<p>SDN为网络用户提供了丰富的可编程API，用户可以通过南向接口编程网络设备，用户在控制器上面编写自己的网络应用程序。</p>
+</li>
+<li>
+<p><strong>数控分离</strong></p>
+<p>将网络控制平面从数据平面中解耦合。传统的网络设备控制部分与数据处理部分是绑定在一起的，SDN实现了数控分离，网络控制平面与数据平面之间通过南向接口分离开来，不再相互依赖。这样做的好处是：用户不再受限于设备厂商，对网络设备有更多的自主权。另外控制平面与数据平面可以独立完成体系结构的演进，类似于计算机工业的Wintel模式，处理器和操作系统的技术演进不用互相依赖。</p>
+</li>
+<li>
+<p><strong>逻辑上集中控制</strong></p>
+<p>传统的网络设备管理、控制和编程是分布式思路，SDN提倡集中式的管理和控制，通过控制器完成网络设备和整个网络的抽象，用户可以通过编写软件的方式在控制器上实现自己的网络业务和方案。</p>
+</li>
+</ol>
+<h2 id="sdn的分层体系结构"> SDN的分层体系结构</h2>
+<p><img src="/images/SDN/sdn-architecture.png" alt="" /></p>
+<p>SDN在应用中大体可划分为三层体系结构：控制层（Control Layer）、应用层（Application Layer）和基础设施层（Infrastructure Layer）。不同层次之间是通过不同接口进行通信的，比如应用层是通过北向接口（Northboundinterface）与控制层通信，而基础设施层则是通过南向接口（Southboundinterface）与控制层通信。</p>
+<p>而ONF (Open Networking Foundation)也给出这三层的含义及作用：</p>
+<ul>
+<li>应用层包括各种不同的业务应用</li>
+<li>控制层负责数据平面资源的编排、维护网络拓扑和状态信息等</li>
+<li>数据层负责数据处理、转发和状态收集</li>
+</ul>
+<details><summary>控制层</summary>
+<p>控制层是SDN控制器管理网络的基础设施，可以根据需要灵活选择多种控制器。在这一层中，控制器中包含大量业务逻辑，以获取和维护不同类型的网络信息、状态详细信息、拓扑细节、统计详细信息等。</p>
+<p>由于SDN控制器是用于管理网络的，所以它必须具有用于现实世界网络使用情况的控制逻辑，如交换、路由、二三层VPN、防火墙安全规则、DNS、DHCP和集群，网络供应商和开源社区需要在自己的SDN控制器中实现自己的服务，而这些服务会向应用层公开自己的API。</p>
+<p>目前市场上的SDN控制器解决方案大致可以分为两类：大型网络设备厂商提供商业方案，如CiscoOpen SDN controller；社区组织提供的开源方案，如OpenDaylight等。</p>
+</details>
+<details><summary>基础设施层</summary>
+<p>基础设施层，由各种网络设备构成，它可以是数据中心的一组网络交换机和路由器。控制层负责管理底层物理网络，物理层的实现可以是支持OpenFlow的硬件交换机。随着虚拟化技术的完善，SDN交换机可以是软件形态，如OVS就是一款基于开源技术实现的、能够与服务器虚拟化（Hypervisor）集成，具备交换机的功能的虚拟交换机。另外，OVS支持传统的标准管理接口，如NetFlow和sFlow等。</p>
+</details>
+<details><summary>应用层</summary>
+<p>应用层对于开发者来说是开放区域，鼓励开发尽可能多的创新应用。包括网络的可视化：拓扑结构、网络状态、网络统计等；网络自动化相关应用：网络配置管理，网络监控，网络故障排除，网络安全策略等。SDN应用程序可以为企业和数据中心网络提供各种端到端的解决方案。</p>
+</details>
+<details><summary>南向接口</summary>
+<p>控制层到基础设施层（网络交换机）通讯需要经过南向接口，目前主要的协议是OpenFlow、NetConf、OVSDB。OpenFlow协议是事实上的国际行业标准，其中NOX、Onix、Floodlight都是基于OpenFlow协议实现的开源控制器。作为一个开放的协议，OpenFlow突破了传统网络设备厂商各自为政形成的设备能力接口壁垒。</p>
+</details>
+<details><summary>北向接口</summary>
+<p>应用层通过API方式与SDN控制器通讯。与南向接口不同，现在北向接口还缺少业界公认的标准，实现方案思路有的从用户角度出发、有的从运营商角度出发、有的从产品能力角度出发。技术风格上，部分传统的网络设备厂商倾向于在现有的设备上提供编程接口供业务App调用，许多上层应用的开发者也比较倾向于采用 REST API 接口的形式。</p>
+</details>
+<h2 id="sdn数据平面"> SDN数据平面</h2>
+<p><img src="/images/SDN/20190512150552556.png" alt="" /></p>
+<div><p>传统网络数据平面</p>
+<p>数据平面主要执行网络控制逻辑，数据包的处理主要通过查询由控制平面所生成的FIB表来完成包处理流程。</p>
+<p>传统网络数据平面的特点:</p>
+<ul>
+<li>数据转发处理都是协议相关的；</li>
+<li>只支持有限的用户配置，不支持编程自定义。</li>
+</ul>
+</div>
+<p>数据平面负责数据处理、转发和状态收集等。其核心设备为交换机，可以是物理交换机，也可以是虚拟交换机。不同于传统网络转发设备，应用于SDN中的转发设备将数据平面与控制平面完全解耦，所有数据包的控制策略由远端的控制器通过南向接口协议下发，网络的配置管理同样也由控制器完成，这大大提高了网络管控的效率。交换设备只保留数据平面，专注于数据包的高速转发，降低了交换设备的复杂度。</p>
+<p>本质上来说，决定SDN可编程能力的因素在于数据平面的可编程性，所以就有了通用可编程数据平面OpenFlow Switch。通用可编程数据平面支持用户通过软件编程的方式任意定义数据平面的能力，包括数据包的解析、处理等功能。</p>
+<p>SDN数据平面的特点:</p>
+<ul>
+<li>处理流程中的：解析（Parser）、转发（Forwarding）和调度 （Scheduling）都是可编程、协议无关的；</li>
+<li>传统网络设备的二层或三层转发表抽象成流表；</li>
+</ul>
+<h2 id="sdn控制平面及sdn控制器实现原理"> SDN控制平面及SDN控制器实现原理</h2>
+<p>SDN控制平面主要由一个或者多个控制器组成，是作为数据控制分离的SDN的操作系统的存在。一方面，控制器通过南向接口协议对底层网络交换设备进行集中管理、状态监测、转发决策以处理和调度数据平面的流量；另一方面，控制器通过北向接口向上层应用开放多个层次的可编程能力，允许网络用户根据特定的应用场景灵活的制定各种网络策略。</p>
+<p>而控制器的设计目标是通过对底层网络进行完整的抽象，以允许开发者根据业务需求设计出各式各样的网络应用。</p>
+<h3 id="控制器需求"> 控制器需求</h3>
+<ul>
+<li>在广域网部署SDN，单个控制器所面临的网络规模根据场景不同而不同。</li>
+<li>在IPRAN的移动接入场景，在一个城市，目前的规模已经达到2万台设备，未来会更多。</li>
+<li>对于目前典型的骨干网和城域网，设备规模从几百台2000台，主要压力是边缘接入业务路由的计算。</li>
+<li>在数据中心解决方案场景，采用OVERLAY方式完成网络虚拟化功能。这种网络虚拟化是在数据中心服务器上直接启动一个软件交换机，然后使用VXLAN技术，直接构建海量租户的虚拟二层网络。</li>
+</ul>
+<h3 id="sdn控制器现网迁移"> SDN控制器现网迁移</h3>
+<p>迁移演进方式有多种，其中一种是SDN网络的部署可能先在某些局部网络部署，这个单独的SDN网络需要和传统的分布式网络互通，这就需要SDN控制器能够支持传统的一些网络业务协议，比如BGP进行互通。</p>
+<h3 id="sdn控制器与控制平台的关系"> SDN控制器与控制平台的关系</h3>
+<p>控制器是一个大型控制软件系统，它需要一个控制平台，这个平台成为网络操作系统（NOS），主要负责网络资源管理。传统的分布式网络有设备软件系统，但没有网络操作系统。</p>
+<p><strong>网元硬件管理</strong>：对应传统网络中的EMS专业网管，这部分功能可以放在SDN体系内，也可以作为一个单独的网络管理模块部署。</p>
+<p><strong>网元资源管理</strong>：针对不同的网元类型，其网元资源也是不同的。</p>
+<h3 id="基本功能层"> 基本功能层</h3>
+<p>一个通用的控制器可以方便的添加接口协议，这对于动态灵活的部署SDN非常重要，因此在这一层首先要完成就是协议适配功能。</p>
+<p>需要适配的协议主要包含两类：第一类是用来跟底层交换设备进行信息交互的南向接口协议。第二类是用于控制平面分布式部署的东西向接口协议。</p>
+<p>协议适配层主要有以下三方面作用：</p>
+<ol>
+<li>网络的维护人员可以根据网络的实际情况，使用较合适的协议来优化整个SDN；</li>
+<li>考虑到与传统网络的兼容性问题，可以借鉴使用现有网络协议作为南向、东西向接口协议，这样可以以最小的代价来升级和改造传统网络；</li>
+<li>通过协议适配功能，控制器能够完成对底层多种协议的适配，并向上层提供统一的API，达到对上层屏蔽底层多种协议的目的。</li>
+</ol>
+<p>协议适配工作完成后，控制器需要提供用于支撑上层应用开发的功能。这些功能主要包括四部分：</p>
+<ol>
+<li>模块管理：重点完成对控制器中各模块的管理。允许在不停止控制器运行的情况下加载新的应用模块，实现上层业务变化前后底层网络环境的无缝切换。</li>
+<li>事件机制：该模块定义了事件处理相关的操作，包括创建事件、触发事件、事件处理等操作。事件作为消息的通知者，在模块之间划定了清晰地界限，提高了应用程序的可维护性和重用性。</li>
+<li>任务日志：该模块提供基本日志功能。开发者可以用它来快速的调试自己的应用程序，网络管理人员可以用它来高效、便捷的维护SDN。</li>
+<li>资源数据库：这个数据库包含了底层各种网络资源的实时信息，主要包括交换机资源、主机资源、链路资源等，方便开发人员查询使用。</li>
+</ol>
+<h3 id="网络基础服务层"> 网络基础服务层</h3>
+<p>为让开发者能够专注于上层的业务逻辑，提高开发效率，需要在控制器中加入网络基础服务层，以提供基础的网络功能。</p>
+<p>该层中的模块可以通过调用基本功能层的接口来实现设备管理、状态检测等一系列基本功能。这一层涵盖的模块有很多，取决于控制器的具体实现，下面介绍五个主要的功能模块。</p>
+<ol>
+<li>交换机管理：控制器从资源数据库中得到底层交换机信息，并将这些信息以更加直观的方式提供给用户以及上层应用服务的开发者。</li>
+<li>主机管理：与交换机管理模块的功能类似QUESTION，重点负责提取网络中主机的信息。</li>
+<li>拓扑管理：控制器从资源数据库中提到链路、交换机和主机的信息后，就会形成整个网络的拓扑结构图。</li>
+<li>路由、转发策略：提供数据分组的转发策略，最简单的策略有根据二层Mac地址转发、根据IP地址转发数据分组。用户也可以在此基础上继续开发来实现自己的转发策略。</li>
+<li>虚拟网划分：虚拟网划分可以有效利用网络资源，实现网络资源价值的最大化。但是出于安全性的考虑，SDN控制器必须能够通过集中控制和自动配置的方式实现对虚拟网络的安全隔离。</li>
+</ol>
+<div><p>提示</p>
+<p>在这两层的基础上，控制器通过向上层应用开发者提供各个层次的编程接口，以便向网络开发者调用从信令级到各种网络服务的SDN可变层能力，灵活便捷的完成对整个SDN的设计与管理。其中基础功能曾非常重要，实现了对底层硬件的抽象和对上层网络功能模块的管理，所有的网络应用都给予这一层提供的接口进行开发。</p>
+</div>
+<h2 id="sdn的工作原理"> SDN的工作原理</h2>
+<ol>
+<li>控制器和转发器之间的控制通道建立，通常使用传统的IGP来打通控制通道。</li>
+<li>控制器和转发器建立控制协议连接后，需要从转发器收集网络资源信息，包括设备信息，接口信息，标签信息等，控制器还需要通过拓扑收集协议收集网络拓扑信息。</li>
+<li>控制器利用网络拓扑信息和网络资源信息计算网络内部的交换路径，同时控制器会利用一些传统协议和外部网络运行的一些传统路由协议，包括BGP，IGP等学习业务路由并向外扩散业务路由，把这些业务路由和内部交换路径转发信息下发给转发器。</li>
+<li>转发器接受控制器下发的网络内部交换路径转发表数据和业务路由转发表数据，并依据这些转发表进行报文转发。</li>
+<li>当网络状态发生变化时，SDN控制器会事实感知网络状态，并重新计算网络内部交换路径和业务路由，以确保网络能够继续正常提供服务。</li>
+</ol>
+<details><summary>SDN网络的控制器和转发器的控制通道建立过程</summary>
+<p>SDN控制器是SDN网络中的大脑，是控制单元。而转发器是SDN网络的手脚，是执行单元。</p>
+<p>在SDN网络架构下，控制器和转发器之间通道的建立和维护非常重要，SDN控制通道包括带内方式和带外方式这两种通道的通讯方式：</p>
+<ol>
+<li>
+<p>带外方式需要独立的信令物理网络，成本高，独占网络带宽。转发器通过独立的物理网络和控制器连接。这个独立的带外网络，可以直接运行简单的传统分布式控制协议IGP，确保转发器和控制器之间的通信打通。</p>
+</li>
+<li>
+<p>带内方式是业务网络公用物理网络，成本低，通过优先级机制——也就是控制通道和用户业务共用一张物理网络。而对于大型IP网络，出于成本考虑，一般选择带内控制通道方式。更多场景下，用户不可能专门建立一个管理网络，也就是独立的管理网络是不存在的，只能用带内控制通道来进行通信。
+带内方式又有两种方式来建立转发器和控制器之间的通道：</p>
+<ol>
+<li>第一种方法是控制器和每个转发器之间都有一个直接连接的物理线路，这样控制器通过这个物理线路可以和任何一个转发器通信，但这种方法要求控制器配置很多接口，工程上基本不可行。</li>
+<li>第二种方法是在带内利用传统分布式控制协议来打通控制通道，对于这种方法又可以分二层网络和三层网络来分别采用某种协议来打通控制通道。</li>
+</ol>
+</li>
+</ol>
+<p>通道的建立过程分为二层网络的建立和三层网络的建立：</p>
+<p>二层网络可以采用MSTP协议来协助破坏建立二层连接。这种情况的主要应用场景是数据中心控制器，控制器和交换机可以部署在同一个子网内，这样它们之间可以通过二层寻址，而不需要通过三层寻址。为了隔离控制器和转发器通讯与其他用户业务之间的通信，建议把他们之间的通信划分到一个独立的VLAN内部。</p>
+<p>三层网络可以采用传统的IGP来进行路由学习和打通控制通道。在数据中心内部，有时可以采用二层网络来完成控制器和转发器之间的控制通道，但当数据中心网络规模很大时也需要三层网络技术来解决控制器和转发器之间通信通道的建立。在控制器和转发器之间运行IGP，此时的控制器就是一台普通的路由器，可以通过IGP学习到拓扑并生成互联路由，这样一来，控制器和转发器之间的通信关系就如同一个传统分布式网络，从而保持了控制器和转发器之间的高可靠连通性。同时，控制器不是一个普通路由器，可以通过配置IGP（比如ISIS协议中的OVERLOAD功能）来阻止用户业务流量进入控制器。当然，所谓控制器不能转发用户流量可以说是一个限制，但在某些特定场景下这些限制也可以去掉，比如小规模网络中，客户可能希望在某台路由器上直接把控制器软件运行在里面，此时这台控制器本身也同时是一台路由器。</p>
+<i>Not supported content</i>三层网络下控制器其实和传统路由器有着一样的功能，但是要组织流量转发到控制器，很多IGP中有类似的功能来阻止这一点。
+<p>刚刚说的是通过传统分布式控制协议来让控制器学习并生成路由表并下发给转发器，在这种模式下，如果路由表里不存在相应的路由则报文被直接丢弃处理，这个就是IP转发理念。但是控制实现架构中，还有一种技术是流触发生成路由表，也就是说，对于一个转发表中不存在转发表数据的用户流进入转发器时，转发器需要把这个报文递交给控制器，转发器根据这个报文来生成一个转发表下发给转发器，使得该用户流的下一个报文进入系统时就可以命中转发表进行转发了。从安全性角度看，流触发生成路由表容易造成流量攻击，因此流触发技术不是一个合适的技术，也不符合IP技术的核心理念，仅仅在某些极其特殊场景下使用，并且要做好流攻击阻断工作。</p>
+<p>还有一些场景下：控制器需要穿越某些网络去控制远程网络，一个简单的方案就是在控制器和转发器之间建立一个隧道，并在这个隧道上启动IGP。
+用以上描述方法建立的控制通道，当网络发生状态变化时，由于采用了传统的分布式控制网络技术作为控制通道建立的技术，所以能够达到任何时刻只要拓扑上有路连接，通信上就能够打通的要求，同时故障感知到的收敛时间也都在1s以内。</p>
+</details>
+<details><summary>SDN控制器的资源收集过程</summary>
+<p>控制器和转发器的控制通道建立完成后，转发器主动向控制器发起控制协议连接，控制协议为openflow等协议，认证后建立。</p>
+<p><strong>网元资源信息收集</strong>（注册信息，MPLS标签信息，转发器的接口资源信息等）</p>
+<p>接下来，转发器向控制器注册信息、上报资源：接口资源、标签信息、VLAN资源、设备信息等。控制器采集这些信息是用来安装特定厂家设备的驱动程序、根据这些信息安装特定的接口协议和数据转换功能。控制器需要收集标签信息，这里的标签是指MPLS标签。这是因为控制器控制的网络内部交换技术通常采用MPLS交换，因为这项技术非常成熟，报文封装比较短小（4字节），有利于节省网络的带宽占用。另外，厂家差异问题也需要控制器实现动态安装驱动程序的能力。驱动程序会完成控制器到特定厂家的设备的接口协议和数据转换功能。而控制器正是根据设备厂家、设备类型、设备版本号进行本地搜索和加载对应的驱动程序。</p>
+<p>控制器收集标签信息，控制器控制的网络内部交换技术通常采用MPLS交换，原因有以下两点：</p>
+<ol>
+<li>MPLS协议成熟，多厂商均支持</li>
+<li>MPLS封装仅需4字节，转发性能高</li>
+</ol>
+<p>收集标签原因：</p>
+<ol>
+<li>控制器需要为整条LSP分配标签，厂家转发器设备能够支持的标签空间不足，需要控制器收集转发器的标签空间资源。</li>
+<li>分布式控制和SDN控制器混合组网情况下，分布式控制平面会占用一部分标签，为了保证唯一性，需要回收标签资源。</li>
+</ol>
+<p>收集接口信息「接口名字、接口ID、接口类型、接口带宽资源等」原因：</p>
+<ol>
+<li>接口资源分为两类：
+<ol>
+<li>网络外联接口，连接SDN网络外部的网络设备上。控制器需要知道网络下面有多少外联业务口可以部署业务，在部署业务时需要对这些外联口进行业务配置。</li>
+<li>网络内部接口，SDN控制的网络设备之间的接口。控制器需要使用这些接口信息形成最终拓扑，计算出网络内部的交换路径。</li>
+</ol>
+</li>
+<li>根据带宽资源计算出网络内部的交换路径，确保网络业务流量不会集中到某条链路上，造成最短路径拥塞的情况。</li>
+<li>收集VLANID、隧道id等原因，同标签原因类似，需要知道VLAN等可用资源以便外联口的业务接入时使用。</li>
+</ol>
+<p><strong>拓扑信息收集</strong>（网络拓扑包括三个对象：节点对象，接口对象，链路对象。控制器收集转发器的拓扑协议主要是LLDP）</p>
+<p>控制器还需要进行网络拓扑信息收集，网络拓扑是描述网络中节点和链路以及节点之间的连接关系的信息。</p>
+<p>网络拓扑由三个对象组成：</p>
+<ol>
+<li>节点对象，即转发器对象</li>
+<li>接口对象(TP、Terminal Point、业务接入点)转发器上的接口：节点ID+接口ID标记</li>
+<li>链路对象 左接口+右接口ID是(左节点，左接口，右节点，右接口)</li>
+</ol>
+<p>转发器可以上报设备对象和接口对象，但不能上报链路对象，必须要有一个方法来收集这种连接关系以确定链路对象信息，才能获得完整的拓扑信息。</p>
+<p>控制器收集网络拓扑的方法目前有不少标准协议定义：</p>
+<p>其中一个主要的协议是二层网络设备发现协议——链路层发现协议（LLDP），它是IEEE定义的二层网络设备发现协议，尤其适用在数据中心网络，其基本原理是转发器向每个接口发送一个LLDP报文，接收到LLDP报文的设备增加自己接收该报文的接口信息和设备ID，从而控制器就获得两个转发器之间的连接信息，如果控制器从每台转发器都获得类似的信息，最后控制器就获得完整的二层网络拓扑。</p>
+<p>拓扑信息收集的第二个协议是三层拓扑收集协议，通常利用传统的IGP，比如ISIS/OSPF，这两个只能洲际某个区域的拓扑，BGP-ls可以手机多域的拓扑。</p>
+<p>特殊应用场景中，会通过人工配制的方式向拓扑加一些对象，比如数据中心：需要管理接入网络的虚拟机的信息，以便应用程序能获得这个虚拟机从哪个交换机进入网络的位置信息。再比如业务链路需求中：增值业务处理设备(Value Added Service，VAS，通常指防火墙、负载均衡器、内容缓存等)的位置信息，以便控制器能够计算出业务链路由，完成用户链需求。</p>
+<p>用内存存储或者数据存储等内部数据库存储网络信息和设备信息，如何存储取决于性能要求。其中，数据库作为一种持久化存储方式，实时性能有所欠缺，而内存数据库性能提升很大。</p>
+<p>控制器应该收集网元的逻辑信息，对网元进行建模，抽象出一套转发器网元的模型，控制不需要关心转发器网元的模型，如果关注转发器的物理细节，也只是为了把一个网元网管(EMS)集成到控制器，逻辑上仍然分为控制器和网元网管两个逻辑单元。</p>
+<p>通过上述信息，转发器已经收集到了必要的转发器网元资源信息，比如接口、标签、VLANid等信息，有利这些信息，控制器就可以进行下一步的路由计算过程了。</p>
+</details>
+<details><summary>SDN控制器的流表计算和下发过程</summary>
+<p>SDN网络内部交换路由的生成
+边缘业务接入路由的处理，边缘的业务接入点是用于接入网络业务的，所有的用户流量都需要通过边缘业务接入节点进入网络，然后穿过内部交换网，到达另外一个边缘的业务接入节点。</p>
+<p><strong>流表计算</strong>：控制器计算网络交换路径是根据业务策略来进行的，有的业务需要考虑网络的带宽、时延等属性，有的业务可能不关心带宽和时延而是只关心可达性。</p>
+<p><strong>流表下发</strong>：有多种协议支持流表下发，包括PCE协议、BGP协议、Netconf协议、OpenFlow协议等。</p>
+</details>
+<details><summary>SDN转发面的报文转发</summary>
+<p>SDN的转发过程和传统网络的转发过程没有任何区别。</p>
+<p>在SDN网络架构下，尽管转发面的转发技术可以使用OpenFlow转发技术（是OpenFlow转发技术而不是OpenFlow控制协议），但这并不是必需的，使用传统的转发流程是完全一样的。</p>
+</details>
+<h2 id="sdn的优势"> SDN的优势</h2>
+<p>从SDN的特征出发，SDN的优势包括：</p>
+<ul>
+<li>灵活性，动态调整网络设备的配置，再也不需要人工去配置每台设备</li>
+<li>网络硬件简化（如白牌交换机等），只需要关注数据的处理和转发，与业务特性解耦，加快了新业务的引入速度</li>
+<li>网络的自动化部署和运维、故障诊断</li>
+</ul>
+<h2 id="sdn至今存在的问题"> SDN至今存在的问题</h2>
+<ol>
+<li>
+<p>控制器接口不规范。</p>
+</li>
+<li>
+<p>运算任务相对繁重。</p>
+</li>
+<li>
+<p>安全性得不到保障。</p>
+</li>
+<li>
+<p>整体稳定性较差。</p>
+</li>
+<li>
+<p>集中控制的安全问题。</p>
+<p>作为SDN网络核心的控制器将成为攻击的重点，需要解决SDN控制器的防攻击、冗余备份等问题。转发设备被多个控制器控制的场景下，可能面临控制器假冒，转发设备资源非法滥用等风险。</p>
+</li>
+<li>
+<p>控制器和转发面的性能问题。</p>
+<p>Openflow协议需专用化的芯片支撑，通用化的芯片性能差，定制芯片成本高，实际当用SDN技术应用困难。</p>
+</li>
+<li>
+<p>端到端控制的协同问题。</p>
+<p>东西向接口尚未开始标准化，夸厂商控制器通用是难题，当前的协同编排层，仅解决业务策略下发，端到端的拓扑发现和路径计算难以实现。</p>
+</li>
+</ol>
+<h2 id="sdn在广域网中应用场景分析"> SDN在广域网中应用场景分析</h2>
+<details><summary>在广域网多条链路之间可实现流量均衡调度</summary>
+<p>在广域网上，由于用户的分布不均、各业务并发特性不同等原因，经常存在流量不均衡现象，广域网链路目的端通常是城域网或者是云IDC，其用户规模及业务数量存在巨大的差异，几条链路上容易出现流量不均衡情况，严重时部分链路接近拥塞而其余的链路还处于轻载状况，这种情况经常发生在传输网的一级干线、二级干线以及云IDC之间的互联链路上。</p>
+<p>链路流量不均衡的情况涉及路由问题、具体业务应用层以及链路的质量等诸多复杂的问题，同时，在云计算、大数据、移动互联网快速普及应用时代，流量的瞬间动态变化极快，要进行人工干预是不可行的，因此一直是困扰运营商建设运维技术人员的难题。</p>
+<p>在广域网上引入SDN智能化管理器，利用 SDN 智能化全局管控的能力实时收集广域网中各条链路的状态信息，来监控网络状态，计算链路的利用率及带宽使用情况，动态的从交换机、路由器中获取网络状态，为数据包计算出最优的、无碰撞的路径，并动态的调整路由以避免网络拥塞，从而实现广域网传输链路流量的负载均衡。同时还可以利用 SDN 智能化管理，动态地改变带宽，加速广域网链路数据的传输。</p>
+</details>
+<details><summary>利用SDN可优化广域网链路利用率</summary>
+<p>目前，根据通信端到端的网络峰值预测路径和通道网络带宽。交换机、路由器的容量静态固定，根据路由器上行链路失效来重组路由，路径选择会出现重复，资源出现竞争，导致重试和再次失效。网络利用率通常小于 30%。</p>
+<p>利用SDN改进后，具备网络需求和网络组织的全局视图，可对所有流量计算出最佳最明确的路径，确定数据包的网络行为，从而减少保护性带宽的需要，一旦出现故障，可根据错误导向，改变到另一张预先计算好的网络路径。更高的网络利用率和更快的网络收敛，只需少量的资源即可获得更高的网络质量，网络利用率可稳定在70%以上。</p>
+<p>在骨干网中有诸多的业务需要按需动态地提供网络能力，如云数据中心之间平时估计需要的带宽不要太大就能支撑日常的业务运行，但是当有如虚拟机迁移，存储数据复制等业务时就需要很大带宽才能满足业务需要，两个IDC之间就需要随时间动态调整之间的网络流量带宽。</p>
+<p>传统模式是根据IDC之间端到端流量的峰值，来设计固定速率的网络带宽，从而导致了严重低下的带宽利用率;而引入SDN后，通过在网格交汇节点中加入基于OpenFlow的交换机，云服务平台根据需求，通过SDN的控制层，随时随地对网络流量带宽容量进行重新分配，从而保证网络带宽的性能。相对于传统预留空间方式，新模式为关键的通信事务节省约65%左右的容量。</p>
+<p>在广域网中可实现多层次的网络管理，采用SDN前，IP网络与传输网络分离，网络需通过不同的工具和不同的技术组合进行管理。采用SDN后，以统一集中、最优化为驱动力对流量进行控制，使得流量在网络上流转总是恰到好处;网络传输变为动态，主要通过IP进行交互;对与网络流量的优化，SDN 会有选择性地切入，通过重新配合和连接新网络端口来增加带宽，提升性能，减少传统网络割接带来的影响。</p>
+</details>
+<details><summary>利用SDN可有效提升广域网的服务质量</summary>
+<p>目前广域网的服务内容、应用系统、服务层与网络紧耦合，移动网、WiFi网络、固定宽带等不同领域的网络紧耦合，资源利用率低或性能差。</p>
+<p>利用SDN改进后，控制层具有全局的网络组织视图，并可把该信息提供给应用服务层，同时可在用户端与IDC 及具体服务器之间，选择最佳链路。只需少量的资源即可获得更高的服务质量，聚合多种技术来提供服务，优化了如QoS、能耗、利用率等多个方面的性能。</p>
+<p>在感知网络中服务器负载均衡这中应用场景，目前，服务器负载均衡方式是从服务器集群中，根据服务器的可用性和当前资源利用率，选择服务器分担负载，而不考虑网络因素，这样会导致所选服务器是空闲的，但网络路径拥塞。 使用SDN后，可以通过感知网络负载的应用以及SDN控制器，选择一条拥有足够容量的网络路径，从而实现端到端的负载均衡，该场景特别适用于对时延敏感的业务，使其获得更好的业务响应时间，有效提升用户的业务体验。</p>
+<p>现阶段，在广域网中全面部署SDN还不太现实，SDN标准尚未统一，针对广域网的需求缺乏体系化标准化，可使用的主流厂家解决方案差异性大，私有协议多，跨厂家互通难度大，现阶段只能结合特定的需求选择特定的厂商SDN控制器，随着SDN技术的不断完善，在广域网中引入SDN技术应用将会全面展开，广域网的性能必定会得到很好的优化，会更好的为当下快速发展的云计算、大数据、物联网等业务应用提供更加良好的服务。</p>
+</details>
+<h2 id="sdn的典型应用"> SDN的典型应用</h2>
+<ol>
+<li>
+<p>控制面分离和多云互通</p>
+<p>虚拟化产生的大量的虚拟机需要大量的虚拟交换机/路由器，繁琐的进入每台虚拟设备，检查不够直观的端口信息，这类海量配置工作几乎无法完成。虚拟网元的统一管理是必然的选择，虚拟化网络的控制平面分离（Decouple）顺理成章。</p>
+<p>华云SDN是多云网络下的SDN （Multicloud Networking位于Gartner曲线图中的Peak位置），支持不同架构的多集群间的资源互通，其中包括华云CloudSuite所纳管的VMware集群、华云自研的x86版和ARM版安超超融合集群。</p>
+</li>
+<li>
+<p>云原生和软件定义的CNI网络</p>
+<p>容器网络因其服务和POD内外隔离的特性，软件定义的CNI网络在社区中已有众多方案（如Flannel和Calico）。华云数据SDN作为云原生的CNI（也处于Hyper Cycle中的Peak附近），其容器网络方案支持与安超虚拟机，VMware虚拟机的互相连通和统一管理。</p>
+</li>
+<li>
+<p>NFV和网络安全</p>
+<p>因网络被软件定义，因此网络流量调度有了更为柔性的方式。同时，一些服务，如安全服务也可以从硬件中脱离出来云化，紧密的配合SDN提供虚拟网络安全服务，如当处于安全资源池的安全实例检测到威胁的时候，会通过调用管理接口通知CloudSuite通过下发安全组等方式阻断威胁。</p>
+<details><summary>意义</summary>
+<p>此方案充分将安全服务云化，云内运行的安全实例可以同时保护东西向和南北向的流量，避免了硬件安全往往拘泥于南北向边界的问题。</p>
+<p>同时安全实例弹性较强，可以方便的支持升级，灵活部署更高规格的服务，不受硬件影响。扩充和减少服务实例也可以在安全中心中直接操作即可达成，免去硬件配置的繁琐。</p>
+<p>流量镜像方案不影响业务的正常流量，即使安全实例出现服务中断等情况，正常业务仍然可以正常运行。业务流量也避免了“发卡弯”等不必要的转发过程。</p>
+</details>
+</li>
+</ol>
+<h2 id="sdn与sd-wan的区别"> SDN与SD-WAN的区别<i>Not supported content</i></h2>
+<p>SD-WAN 是一种技术，它使用 SDN 概念跨 WAN 分配网络流量，以自动确定最有效的方式来路由进出分支机构和数据中心站点的流量。</p>
+<p>SDN 和 SD-WAN 有相似之处，例如，它们都将控制平面和数据平面分开，并且都支持额外的虚拟网络功能的实现。</p>
+<p>两者的不同之处在于：</p>
+<ol>
+<li>
+<p><strong>作用域不同</strong></p>
+<p>SDN主要侧重于局域网内的内部操作，而SD-WAN侧重于连接组织的不同地理位置。</p>
+</li>
+<li>
+<p><strong>面向群众不同</strong></p>
+<p>客户可以对SDN进行编程，而供应商可以对SD-WAN进行编程。</p>
+</li>
+<li>
+<p><strong>使用平台不同</strong></p>
+<p>SDN由封闭系统内的网络功能虚拟化(NFV)启用，而SD-WAN提供虚拟运行或在SD-WAN设备上运行的应用程序路由。</p>
+</li>
+<li>
+<p><strong>系统、技术、协议不同带来的成本上的不同</strong></p>
+<p>SD-WAN在消费级宽带互联网上使用基于应用程序的路由系统，与对SDN至关重要的多协议标签交换(MPLS)相比，这可实现更好的质量性能和更低的每兆字节成本。</p>
+</li>
+</ol>
+<h2 id="sdn-未来可能的应用"> SDN 未来可能的应用</h2>
+<ol>
+<li>SDN-LAN</li>
+<li>SDN-WAN</li>
+<li>SDN-DCN</li>
+</ol>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Windows10 快捷键大全</title>
+      <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
+      <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Windows10 快捷键大全</source>
+      <pubDate>Thu, 19 Nov 2020 14:33:27 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
+<h2 id="_2020-11-19"> 2020/11/19</h2>
+<hr>
+<p>今年高考结束后的暑假，我买来笔记本电脑。从此我开始使用了Win10，以我个人的使用习惯，我喜欢且经常使用快捷键，因此在初次使用系统的时候我都会花时间了解并尽力记住快捷键。个人认为，经常使用快捷键会提高你的工作效率，而且也会为你增加不少逼格！说不定你随便敲敲快捷键，就真的有人把你当成大佬咯~以下是Windows10的快捷键的列举讲解：</p>
+<hr>
+<hr>
+<hr>
+<blockquote>
+<p>贴靠窗口：Win + 左/右 &gt;  Win + 上/下 &gt; 窗口可以变为 1/4 大小放置在屏幕 4 个角落。</p>
+</blockquote>
+<blockquote>
+<p>创建新的虚拟桌面：Win + Ctrl + D。</p>
+</blockquote>
+<blockquote>
+<p>关闭当前虚拟桌面：Win + Ctrl + F4。</p>
+</blockquote>
+<blockquote>
+<p>切换虚拟桌面：Win + Ctrl + 左/右。</p>
+</blockquote>
+<blockquote>
+<p>Win + R 打开运行对话框</p>
+</blockquote>
+<blockquote>
+<p>Win + Q 快速打开搜索</p>
+</blockquote>
+<blockquote>
+<p>Win + I 快速打开Win10设置栏</p>
+</blockquote>
+<blockquote>
+<p>Win+ ↑：最大化窗口（与开始屏幕应用无关）Win+ ↓：最小化窗口（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+ SHIFT +↑：垂直拉伸窗口，宽度不变（与开始屏幕应用无关）Win+ SHIFT +↓：垂直缩小窗口，宽度不变（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+SHIFT+←：将活动窗口移至左侧显示器 （与开始屏幕应用无关）Win+SHIFT+→：将活动窗口移至右侧显示器（与开始屏幕应用无关）</p>
+</blockquote>
+<blockquote>
+<p>Win+ P：演示设置</p>
+</blockquote>
+<blockquote>
+<p>Win+ Home：最小化所有窗口，第二次键击恢复窗口（不恢复开始屏幕应用）</p>
+</blockquote>
+<blockquote>
+<p>Win+ 数字键：打开或切换位于任务栏指定位置的程序</p>
+</blockquote>
+<blockquote>
+<p>Win+Shift+数字键：打开位于任务栏指定位置程序的新实例</p>
+</blockquote>
+<blockquote>
+<p>Win+B：光标移至通知区域</p>
+</blockquote>
+<blockquote>
+<p>Win+Break：显示“系统属性”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win+Ctrl+F：搜索计算机（如果你在网络上）</p>
+</blockquote>
+<blockquote>
+<p>Win+G：打开游戏屏幕录制</p>
+</blockquote>
+<blockquote>
+<p>Win+L：锁住电脑或切换用户</p>
+</blockquote>
+<blockquote>
+<p>Win+M：最小化所有窗口</p>
+</blockquote>
+<blockquote>
+<p>Win+Shift+M：在桌面恢复所有最小化窗口（不恢复开始屏幕应用）</p>
+</blockquote>
+<blockquote>
+<p>Win+R：打开“运行”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win+T：切换任务栏上的程序</p>
+</blockquote>
+<blockquote>
+<p>Win+U：打开轻松使用</p>
+</blockquote>
+<blockquote>
+<p>Win+F1：打开Windows帮助和支持</p>
+</blockquote>
+<blockquote>
+<p>Win+N：插件新笔记（OneNote）</p>
+</blockquote>
+<blockquote>
+<p>Win+S：打开屏幕截图工具（OneNote）</p>
+</blockquote>
+<blockquote>
+<p>Win+空格键：切换输入语言和键盘布局</p>
+</blockquote>
+<blockquote>
+<p>Win+O：禁用屏幕翻转</p>
+</blockquote>
+<blockquote>
+<p>Win+，：临时查看桌面</p>
+</blockquote>
+<blockquote>
+<p>Win+V：打开剪贴板</p>
+</blockquote>
+<blockquote>
+<p>Win+PgUp：将开始屏幕或开始屏幕应用移至左侧显示器</p>
+</blockquote>
+<blockquote>
+<p>Win+PgDown：将开始屏幕或开始屏幕应用移至右侧显示器</p>
+</blockquote>
+<blockquote>
+<p>Win+.：打开表情输入</p>
+</blockquote>
+<blockquote>
+<p>Win+K：打开蓝牙连接设备</p>
+</blockquote>
+<blockquote>
+<p>Win+H：（与麦克风有关的未知功能）</p>
+</blockquote>
+<blockquote>
+<p>Win+W：打开附加功能（截图、手写板）</p>
+</blockquote>
+<blockquote>
+<p>Win+X：快捷菜单</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Home 最小化除活动窗口之外的所有窗口(传统桌面)</p>
+</blockquote>
+<blockquote>
+<p>开始屏幕直接输入任何字符，开始屏幕下可直接搜索进行搜索</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Pause 显示“系统属性”对话框</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Page Up 在多监视器设置中将开始屏幕移动至左监视器</p>
+</blockquote>
+<blockquote>
+<p>Win键 + Page Down 在多监视器设置中将开始屏幕移动至右监视器</p>
+</blockquote>
+<blockquote>
+<p>Win键 + W 打开所选设置的“搜索”个性分类</p>
+</blockquote>
+<blockquote>
+<p>Alt + Win键 + 数字 打开锁定到任务栏中的由该数字所表示位置处的程序的右键菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向右键 将光标移动到下一个字符的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向左键 将光标移动到上一个字词的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向下键 将光标移动到下一个段落的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+向上键 将光标移动到上一个段落的起始处</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 加某个箭头键 选择一块文本Shift 加任意箭头键 在窗口中或桌面上选择多个项目，或者在文档中选择文本</p>
+</blockquote>
+<blockquote>
+<p>F3 搜索文件或文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+Enter 显示所选项的属性</p>
+</blockquote>
+<blockquote>
+<p>Alt+空格键 为活动窗口打开快捷方式菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+F4 关闭活动文档(在允许同时打开多个文档的程序中)</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+鼠标滚轮 更改图标大小</p>
+</blockquote>
+<blockquote>
+<p>Alt+Esc 以项目打开的顺序循环切换项目</p>
+</blockquote>
+<blockquote>
+<p>F6 在窗口中或桌面上循环切换屏幕元素</p>
+</blockquote>
+<blockquote>
+<p>F4 在 Win资源管理器中显示地址栏列表</p>
+</blockquote>
+<blockquote>
+<p>Shift+F10 显示选定项目的快捷菜单</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Esc 打开“开始”菜单</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 显示相应的菜单</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 执行菜单命令(或其他有下划线的命令)</p>
+</blockquote>
+<blockquote>
+<p>F10 激活活动程序中的菜单栏向右键 打开右侧的下一个菜单或者打开子菜单向左键 打开左侧.的下一个菜单或者关闭子菜单</p>
+</blockquote>
+<blockquote>
+<p>F5(或 Ctrl+R) 刷新活动窗口</p>
+</blockquote>
+<blockquote>
+<p>Alt+向上键 在 Win资源管理器中查看上一级文件夹</p>
+</blockquote>
+<blockquote>
+<p>Esc 取消当前任务</p>
+</blockquote>
+<blockquote>
+<p>插入 CD 时按住 Shift 阻止 CD 自动播放</p>
+</blockquote>
+<blockquote>
+<p>左 Alt+Shift 在启用多种输入语言时切换输入语言</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 在启用多个键盘布局时切换键盘布局 右或左</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift 更改从右到左阅读语言的文本阅读方向</p>
+</blockquote>
+<blockquote>
+<p>Win资源管理器中的快捷键</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+N 打开新窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+W 关闭当前窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+N 新建文件夹</p>
+</blockquote>
+<blockquote>
+<p>End 显示活动窗口的底端</p>
+</blockquote>
+<blockquote>
+<p>Home 显示活动窗口的顶端</p>
+</blockquote>
+<blockquote>
+<p>F11 最大化或最小化活动窗口</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+句点 顺时针旋转图片</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+逗号 逆时针旋转图片</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的星号 (*) 显示所选文件夹下的所有子文件夹</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的加号 (+) 显示所选文件夹的内容</p>
+</blockquote>
+<blockquote>
+<p>Num Lock+数字键盘上的减号 (-) 折叠选定的文件夹 向左键 折叠当前选项(如果它处于展开状态)，或者选择其父文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+Enter 打开所选项目的“属性”对话框Alt+P 显示预览窗格Alt+向左键 查看上一个文件夹</p>
+</blockquote>
+<blockquote>
+<p>Backspace (退格键) 向上，返回父文件夹</p>
+</blockquote>
+<blockquote>
+<p>向右键 显示当前选项(如果它处于折叠状态)，或者选择第一个子文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+向右键 查看下一个文件夹</p>
+</blockquote>
+<blockquote>
+<p>Alt+向上键 查看父文件夹</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+E 显示所选文件夹上面的所有文件夹</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+鼠标滚轮 更改文件和文件夹图标的大小和外观</p>
+</blockquote>
+<blockquote>
+<p>Alt+D 选择地址栏</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+E 选择搜索框</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+F 选择搜索框</p>
+</blockquote>
+<blockquote>
+<p>在对话框中使用的快捷键</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Tab 在选项卡上向前移动</p>
+</blockquote>
+<blockquote>
+<p>Ctrl+Shift+Tab 在选项卡上向后移动</p>
+</blockquote>
+<blockquote>
+<p>Tab 在选项上向前移动</p>
+</blockquote>
+<blockquote>
+<p>Shift+Tab 在选项上向后移动</p>
+</blockquote>
+<blockquote>
+<p>Alt+加下划线的字母 执行与该字母匹配的命令(或选择选项)Enter</p>
+</blockquote>
+<blockquote>
+<p>对于许多选定命令代替单击鼠标</p>
+</blockquote>
+<blockquote>
+<p>空格键 如果活动选项是复选框，则选中或清除该复选框 箭头键 如果活动选项是一组选项按钮，则选择某个按钮F1 显示帮助F4 显示活动列表中的项目Backspace 如果在“另存为”或“打开”对话框中选中了某个文件夹，则打开上一级文件夹</p>
+</blockquote>
+<hr>
+<hr>
+<hr>
+<p>未完待续.     .    .   .  . .</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
+    </item>
+    <item>
+      <title>𝕬𝖇𝖔𝖚𝖙</title>
+      <link>https://breezeshane.github.io/about/</link>
+      <guid>https://breezeshane.github.io/about/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
+<p>【代号】和风曦日</p>
+<p>【本体】Bug</p>
+<p>【性别】男</p>
+<p>【战斗经验】没有战斗经验</p>
+<p>【出身地】不明</p>
+<p>【生日】本人表示遗忘</p>
+<p>【种族】萨卡兹</p>
+<p>【身高】163cm</p>
+<p>【矿石病感染情况】</p>
+<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
+<h2 id="综合体检测试"> 综合体检测试</h2>
+<p>【物理强度】普通</p>
+<p>【战场机动】普通</p>
+<p>【生理耐受】普通</p>
+<p>【战术规划】普通</p>
+<p>【战斗技巧】普通</p>
+<p>【源石技艺适应性】卓越</p>
+<h2 id="客观履历"> 客观履历</h2>
+<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
+<h2 id="临床诊断分析"> 临床诊断分析</h2>
+<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
+<p>【体细胞与源石融合率】12%</p>
+<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
+<p>【血液源石结晶密度】0.5µ/L</p>
+<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Intro Page</title>
+      <link>https://breezeshane.github.io/intro/</link>
+      <guid>https://breezeshane.github.io/intro/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Layout</title>
+      <link>https://breezeshane.github.io/layout/</link>
+      <guid>https://breezeshane.github.io/layout/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
+      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
+<div><p>注意</p>
+<p>This is just a demo, you should add styles according to your own needs.</p>
+
+
+</div>
+<template #page-top><p>Page top content</p>
+</template><template #page-bottom><p>Page bottom content</p>
+</template><template #content-top><p>Content top content</p>
+</template><template #content-bottom><p>Content bottom content</p>
+</template><template #navbar-start><p>Navbar start content</p>
+</template><template #navbar-center><p>Navbar center content</p>
+</template><template #navbar-end><p>Navbar end content</p>
+</template><template #sidebar-top><p>Sidebar top content</p>
+</template><template #sidebar-center><p>Sidebar center content</p>
+</template><template #sidebar-bottom><p>Sidebar bottom content</p>
+</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>友情链接</title>
+      <link>https://breezeshane.github.io/links/</link>
+      <guid>https://breezeshane.github.io/links/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
+      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
+<div id="1" style="width:128px;height:256px;">
+<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
+<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
+</div>
+<div id="2" style="width:128px;height:256px;">
+<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
+<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
+</div>
+<div id="3" style="width:128px;height:256px;">
+<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
+</div>
+<div id="4" style="width:128px;height:256px;">
+<a href="https://memo.pommespeter.space"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
+<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
+</div>
+<div id="5" style="width:128px;height:256px;">
+<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
+<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
+</div>
+<div id="6" style="width:128px;height:256px;">
+<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
+<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
+</div>
+<div id="7" style="width:128px;height:256px;">
+<a href="https://www.cnblogs.com/whitebunny/"><img src="/images/Softrabbit.jpg" alt="柔小兔 Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#ff7500">白胖雪兔在摇晃着小小的尾巴~</font></center></p>
+</div>
+</div>]]></content:encoded>
+    </item>
+    <item>
+      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
+      <link>https://breezeshane.github.io/qap/</link>
+      <guid>https://breezeshane.github.io/qap/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
+      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
+      <content:encoded><![CDATA[<center>
+    <font color="#fa8c35" size="5">
+    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
+    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
+    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
+    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
+    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
+    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
+    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
+    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
+    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
+    </font>
+</center>
+<style>
+.page{
+margin:0 auto;
+background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+</style>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Slide page</title>
+      <link>https://breezeshane.github.io/slides/</link>
+      <guid>https://breezeshane.github.io/slides/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
+      <pubDate>Tue, 05 Apr 2022 06:38:22 GMT</pubDate>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>Linux 共享 Anaconda</title>
+      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
+      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
+      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>安装Anaconda的步骤这里不做详细记述.</p>
+</blockquote>
+<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
+<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
+<div><pre><code><span>groupadd</span> anaconda
+</code></pre>
+<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
+<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
+<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
+<span>chmod</span> <span>770</span> -R /opt/anaconda/
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
+<div><pre><code><span>chmod</span> g+s /opt/anaconda
+<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
+<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
+<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>保存即可.</p>
+<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
+<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
+  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
+<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
+<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>记一次局域网搭建私人云盘的过程</title>
+      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
+      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
+      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h2 id="过程"> 过程</h2>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
+<h2 id="还没结束"> 还没结束</h2>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+<div><p>错误指正</p>
+<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
+<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
+<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
+<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
   </channel>
 </rss>
