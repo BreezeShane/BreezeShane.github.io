@@ -37,9 +37,13 @@ chmod g+s `find /opt/anaconda -type d`
 ```
 第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.
 
-到这里用户就应该可以正常使用了, 如果还不能的话, 尝试一下做软链接, 执行`ln -s /opt/anaconda/ /usr/local/anaconda`然后让用户访问`/usr/local/anaconda`再尝试.
+接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:
+```shell
+export PATH="/opt/anaconda/bin:$PATH"
+```
+保存即可.
 
-接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为用户需要先完成初始化, 执行`/opt/anaconda/bin/conda init bash`, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了`source ~/.bashrc`才能继续使用conda, 因此需要编辑一下`.profile`文件, 执行`vim $HOME/.profile`后输入以下内容:
+然后用户需要先完成初始化, 执行`conda init bash`, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了`source ~/.bashrc`才能继续使用conda, 因此需要编辑一下`.profile`文件, 执行`vim $HOME/.profile`后输入以下内容:
 ```shell
 if [ -s $HOME/.bashrc ]; then
   source $HOME/.bashrc;
