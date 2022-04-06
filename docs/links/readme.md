@@ -42,4 +42,9 @@ comment: false
 <p><center><font color="#ff7500">白胖雪兔在摇晃着小小的尾巴~</font></center></p>
 </div>
 
+<div id="8" style="width:128px;height:256px;">
+<a href="https://blog.csdn.net/qq_51415601"><img src="/images/cwt.jpg" alt="野er Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#395260">野哥野人野性足! </font></center></p>
+</div>
+
 </div>
