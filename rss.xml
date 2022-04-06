@@ -6,12 +6,19 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 06 Apr 2022 16:50:40 GMT</pubDate>
-    <lastBuildDate>Wed, 06 Apr 2022 16:50:40 GMT</lastBuildDate>
+    <pubDate>Wed, 06 Apr 2022 16:57:13 GMT</pubDate>
+    <lastBuildDate>Wed, 06 Apr 2022 16:57:13 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
     <category>使用指南</category>
+    <item>
+      <title>估计、偏差和方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
+    </item>
     <item>
       <title>有关人工智能与机器学习领域的概况</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</link>
@@ -152,13 +159,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>估计、偏差和方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
-    </item>
-    <item>
       <title>促使深度学习发展的挑战</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</guid>
@@ -264,6 +264,18 @@
       <pubDate>Sun, 23 Jan 2022 01:06:46 GMT</pubDate>
     </item>
     <item>
+      <title>前言</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">前言</source>
+      <pubDate>Sun, 16 Jan 2022 14:52:36 GMT</pubDate>
+      <content:encoded><![CDATA[<p>该系列下所有内容均来自书籍《Deep Learning》的译作《深度学习》，即业界内俗称的“花书”。该系列主要用于记录本人的读书笔记，并会在一些地方做延伸讨论，增加一些内容。</p>
+<div><p>相关信息</p>
+<p>需要掌握的数学知识「线性代数、概率论等」位于Mathematics栏目下，此栏目不作重复性描述。</p>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
       <title>入门机器学习的安装与配置</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</guid>
@@ -328,18 +340,6 @@
 </ol>
 <p>当然远不止上面这些，像Pydev、Sublime Text、Vim、GNU/Emacs、Atom、IDLE、Thonny等等都可以用来写Python。</p>
 <p>不过我更推荐使用PyCharm、DataSpell和Jupyter系列的，PyCharm和DataSpell的功能非常强大，而Jupyter系列一方面是基于Web页面设计的，另一方面则是可以做到分块分阶段输出结果，还可以局部运行代码，也值得一试。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>前言</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">前言</source>
-      <pubDate>Sun, 16 Jan 2022 14:52:36 GMT</pubDate>
-      <content:encoded><![CDATA[<p>该系列下所有内容均来自书籍《Deep Learning》的译作《深度学习》，即业界内俗称的“花书”。该系列主要用于记录本人的读书笔记，并会在一些地方做延伸讨论，增加一些内容。</p>
-<div><p>相关信息</p>
-<p>需要掌握的数学知识「线性代数、概率论等」位于Mathematics栏目下，此栏目不作重复性描述。</p>
-</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -7703,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8262,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,7 +8285,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8296,7 +8296,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8316,7 +8316,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8327,7 +8327,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8389,18 +8389,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:25:41 GMT</pubDate>
     </item>
     <item>
-      <title>桶排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">桶排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:49 GMT</pubDate>
-    </item>
-    <item>
       <title>计数排序</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/CountingSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">计数排序</source>
       <pubDate>Sun, 23 Jan 2022 01:25:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>桶排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/BucketSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">桶排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:49 GMT</pubDate>
     </item>
     <item>
       <title>堆排序</title>
@@ -8450,6 +8450,159 @@ $$
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/ShellSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">希尔排序</source>
       <pubDate>Sun, 23 Jan 2022 01:26:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>双链表</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">双链表</source>
+      <pubDate>Thu, 14 Oct 2021 19:26:31 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
+<p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
+<p>结构代码的定义：</p>
+<div><pre><code><span>struct</span> <span>node</span> <span>{</span>
+    <span>int</span> data <span>;</span>
+    <span>struct</span> <span>node</span> <span>*</span>llink<span>,</span> <span>*</span>rlink <span>;</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>如果希望对双链表做一次封装，可以额外使用如下的代码：</p>
+<div><pre><code><span>struct</span> <span>Hnode</span> <span>{</span>
+    <span>struct</span> <span>node</span> <span>*</span>head<span>,</span> <span>*</span>tail<span>;</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>双链表的出现是为了解决单链表不能直接访问前驱的问题。</p>
+<h2 id="双向炼表的基本操作与实现"> 双向炼表的基本操作与实现</h2>
+<h3 id="创建"> 创建</h3>
+<p><strong>实现思路</strong>：</p>
+<p>创建好相关的封装，并在此基础上创建双链表中的头结点，彼此相连构建成一个空的双链表。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>struct</span> <span>Hnode</span> <span>*</span><span>createDlist</span><span>(</span><span>)</span> <span>{</span>
+    <span>struct</span> <span>Hnode</span><span>*</span> HEAD <span>=</span> <span>(</span><span>struct</span> <span>Hnode</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>Hnode</span><span>)</span><span>)</span><span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+    headNode<span>-></span>data <span>=</span> <span>0</span><span>;</span>
+    headNode<span>-></span>llink <span>=</span> <span>NULL</span><span>;</span>
+    headNode<span>-></span>rlink <span>=</span> <span>NULL</span><span>;</span>
+    HEAD<span>-></span>head <span>=</span> headNode<span>;</span>
+    HEAD<span>-></span>tail <span>=</span> headNode<span>;</span>
+    <span>return</span> HEAD<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：该函数仅做有限的操作，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该函数申请的空间大小与用户输入规模不相关，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="插入"> 插入</h3>
+<p><strong>实现思路</strong>：</p>
+<p>如果双链表为空，则需完成如下的操作：</p>
+<ol>
+<li>头结点指向新结点</li>
+<li>新结点左指针指向头结点</li>
+<li>封装的尾指针指向尾结点</li>
+</ol>
+<p>如果双链表非空，则需按照如下顺序执行：</p>
+<ol>
+<li>头结点后继的左指针指向新结点</li>
+<li>新结点右指针指向头结点后继</li>
+<li>新结点左指针指向头结点</li>
+<li>头结点右指针指向新结点</li>
+</ol>
+<p><strong>「注意」</strong>：该情况下第四点必须要在第一、二点之后做，其他顺序任意调整即可。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>void</span> <span>insertDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>,</span> <span>int</span> insData<span>)</span> <span>{</span>
+    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> list<span>-></span>head<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> newNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
+    newNode<span>-></span>data <span>=</span> insData<span>;</span>
+
+    <span>if</span> <span>(</span>headNode <span>==</span> list<span>-></span>tail<span>)</span><span>{</span>
+        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
+        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
+        list<span>-></span>tail <span>=</span> newNode<span>;</span>
+    <span>}</span> <span>else</span> <span>{</span>
+        headNode<span>-></span>rlink<span>-></span>llink <span>=</span> newNode<span>;</span>
+        newNode<span>-></span>rlink <span>=</span> headNode<span>-></span>rlink<span>;</span>
+        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
+        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
+    <span>}</span>
+    headNode<span>-></span>data<span>++</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p><strong>时间复杂度</strong>：该插入操作执行次数与用户输入规模不相关，每一次插入都是固定执行这些语句，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该插入操作只需要申请固定变量所占的空间大小，因此认为该操作空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="删除"> 删除</h3>
+<p><strong>实现思路</strong>：</p>
+<p>遍历每一个结点，找到要删除的数据时，将其前驱的右指针指向该结点的后继，其后继的左指针指向该结点的前驱，然后释放该空间。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>int</span> <span>deleteData</span><span>(</span><span>struct</span> <span>Hnode</span>  <span>*</span>list<span>,</span> <span>int</span> delData<span>)</span> <span>{</span>
+    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
+    <span>while</span> <span>(</span>watcher<span>)</span> <span>{</span>
+        <span>if</span> <span>(</span>watcher<span>-></span>data <span>==</span> delData<span>)</span><span>{</span>
+            toDel <span>=</span> watcher<span>;</span>
+            watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
+            watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
+            <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
+            <span>return</span> <span>1</span><span>;</span>
+        <span>}</span>
+        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
+    <span>}</span>
+    <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p><strong>时间复杂度</strong>：该操作执行次数与用户输入的规模线性相关，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="输出"> 输出</h3>
+<p><strong>实现思路</strong>：</p>
+<p>遍历每一个结点并输出，终止条件应该是指针为空时。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>void</span> <span>printDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
+    <span>//输出双向循环链表中各数据元素的值，每输出一个数据元素换行</span>
+    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
+    <span>while</span><span>(</span>watcher<span>)</span><span>{</span>
+        <span>printf</span><span>(</span><span>"%d\n"</span><span>,</span> watcher<span>-></span>data<span>)</span><span>;</span>
+        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：该操作与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h3 id="销毁"> 销毁</h3>
+<p><strong>实现思路</strong>：</p>
+<p>遍历每一个结点，执行删除操作，删除操作与上面的删除指定数据的结点思路是一致的。</p>
+<p><strong>源代码</strong>：</p>
+<div><pre><code><span>int</span> <span>destroyDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
+    <span>int</span> delNum <span>=</span> <span>0</span><span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
+    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
+    <span>while</span> <span>(</span>watcher<span>-></span>rlink<span>)</span><span>{</span>
+        toDel <span>=</span> watcher<span>;</span>
+        watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
+        watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
+        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
+        <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
+        delNum<span>++</span><span>;</span>
+        list<span>-></span>head<span>-></span>data<span>--</span><span>;</span>
+    <span>}</span>
+    <span>free</span><span>(</span>list<span>-></span>head<span>)</span><span>;</span>
+    <span>free</span><span>(</span>list<span>-></span>tail<span>)</span><span>;</span>
+    list<span>-></span>head <span>=</span> list<span>-></span>tail <span>=</span> <span>NULL</span><span>;</span>
+    delNum<span>++</span><span>;</span>
+    <span>return</span> delNum<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div><p><strong>时间复杂度</strong>：由于需要遍历用户输入的所有数据，执行次数与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
+<p><strong>空间复杂度</strong>：由于删除操作只需要使用固定的变量空间，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
+<h2 id="双向链表优缺点"> 双向链表优缺点</h2>
+<p><strong>优点</strong>：</p>
+<ol>
+<li>可以找到前驱和后继，向前遍历和向后遍历。</li>
+<li>在当前结点前面、后面插入操作方便</li>
+<li>针对前驱、后继以及结点本身的删除操作方便。</li>
+</ol>
+<p><strong>缺点</strong>：</p>
+<ol>
+<li>增加删除结点操作复杂。</li>
+<li>较单链表需要占据更多的指针空间。</li>
+<li>存储密度较单链表低。</li>
+</ol>
+]]></content:encoded>
     </item>
     <item>
       <title>循环链表</title>
@@ -8610,159 +8763,6 @@ $$
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：详细分析请查看单链表查询，这里直接给出结果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
 <p><strong>空间复杂度</strong>：详细分析请查看单链表查询，这里直接给出结果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
 <h3 id="关于循环链表的一些问题"> <a href="">关于循环链表的一些问题</a></h3>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>双链表</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/DoubleLinkedList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">双链表</source>
-      <pubDate>Thu, 14 Oct 2021 19:26:31 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
-<p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
-<p>结构代码的定义：</p>
-<div><pre><code><span>struct</span> <span>node</span> <span>{</span>
-    <span>int</span> data <span>;</span>
-    <span>struct</span> <span>node</span> <span>*</span>llink<span>,</span> <span>*</span>rlink <span>;</span>
-<span>}</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>如果希望对双链表做一次封装，可以额外使用如下的代码：</p>
-<div><pre><code><span>struct</span> <span>Hnode</span> <span>{</span>
-    <span>struct</span> <span>node</span> <span>*</span>head<span>,</span> <span>*</span>tail<span>;</span>
-<span>}</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>双链表的出现是为了解决单链表不能直接访问前驱的问题。</p>
-<h2 id="双向炼表的基本操作与实现"> 双向炼表的基本操作与实现</h2>
-<h3 id="创建"> 创建</h3>
-<p><strong>实现思路</strong>：</p>
-<p>创建好相关的封装，并在此基础上创建双链表中的头结点，彼此相连构建成一个空的双链表。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>struct</span> <span>Hnode</span> <span>*</span><span>createDlist</span><span>(</span><span>)</span> <span>{</span>
-    <span>struct</span> <span>Hnode</span><span>*</span> HEAD <span>=</span> <span>(</span><span>struct</span> <span>Hnode</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>Hnode</span><span>)</span><span>)</span><span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-    headNode<span>-></span>data <span>=</span> <span>0</span><span>;</span>
-    headNode<span>-></span>llink <span>=</span> <span>NULL</span><span>;</span>
-    headNode<span>-></span>rlink <span>=</span> <span>NULL</span><span>;</span>
-    HEAD<span>-></span>head <span>=</span> headNode<span>;</span>
-    HEAD<span>-></span>tail <span>=</span> headNode<span>;</span>
-    <span>return</span> HEAD<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><p><strong>时间复杂度</strong>：该函数仅做有限的操作，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该函数申请的空间大小与用户输入规模不相关，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="插入"> 插入</h3>
-<p><strong>实现思路</strong>：</p>
-<p>如果双链表为空，则需完成如下的操作：</p>
-<ol>
-<li>头结点指向新结点</li>
-<li>新结点左指针指向头结点</li>
-<li>封装的尾指针指向尾结点</li>
-</ol>
-<p>如果双链表非空，则需按照如下顺序执行：</p>
-<ol>
-<li>头结点后继的左指针指向新结点</li>
-<li>新结点右指针指向头结点后继</li>
-<li>新结点左指针指向头结点</li>
-<li>头结点右指针指向新结点</li>
-</ol>
-<p><strong>「注意」</strong>：该情况下第四点必须要在第一、二点之后做，其他顺序任意调整即可。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>void</span> <span>insertDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>,</span> <span>int</span> insData<span>)</span> <span>{</span>
-    <span>struct</span> <span>node</span><span>*</span> headNode <span>=</span> list<span>-></span>head<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> newNode <span>=</span> <span>(</span><span>struct</span> <span>node</span><span>*</span><span>)</span> <span>malloc</span><span>(</span><span>sizeof</span> <span>(</span><span>struct</span> <span>node</span><span>)</span><span>)</span><span>;</span>
-    newNode<span>-></span>data <span>=</span> insData<span>;</span>
-
-    <span>if</span> <span>(</span>headNode <span>==</span> list<span>-></span>tail<span>)</span><span>{</span>
-        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
-        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
-        list<span>-></span>tail <span>=</span> newNode<span>;</span>
-    <span>}</span> <span>else</span> <span>{</span>
-        headNode<span>-></span>rlink<span>-></span>llink <span>=</span> newNode<span>;</span>
-        newNode<span>-></span>rlink <span>=</span> headNode<span>-></span>rlink<span>;</span>
-        newNode<span>-></span>llink <span>=</span> headNode<span>;</span>
-        headNode<span>-></span>rlink <span>=</span> newNode<span>;</span>
-    <span>}</span>
-    headNode<span>-></span>data<span>++</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p><strong>时间复杂度</strong>：该插入操作执行次数与用户输入规模不相关，每一次插入都是固定执行这些语句，因此认为时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该插入操作只需要申请固定变量所占的空间大小，因此认为该操作空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="删除"> 删除</h3>
-<p><strong>实现思路</strong>：</p>
-<p>遍历每一个结点，找到要删除的数据时，将其前驱的右指针指向该结点的后继，其后继的左指针指向该结点的前驱，然后释放该空间。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>int</span> <span>deleteData</span><span>(</span><span>struct</span> <span>Hnode</span>  <span>*</span>list<span>,</span> <span>int</span> delData<span>)</span> <span>{</span>
-    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
-    <span>while</span> <span>(</span>watcher<span>)</span> <span>{</span>
-        <span>if</span> <span>(</span>watcher<span>-></span>data <span>==</span> delData<span>)</span><span>{</span>
-            toDel <span>=</span> watcher<span>;</span>
-            watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
-            watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
-            <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
-            <span>return</span> <span>1</span><span>;</span>
-        <span>}</span>
-        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
-    <span>}</span>
-    <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p><strong>时间复杂度</strong>：该操作执行次数与用户输入的规模线性相关，显然时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="输出"> 输出</h3>
-<p><strong>实现思路</strong>：</p>
-<p>遍历每一个结点并输出，终止条件应该是指针为空时。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>void</span> <span>printDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
-    <span>//输出双向循环链表中各数据元素的值，每输出一个数据元素换行</span>
-    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
-    <span>while</span><span>(</span>watcher<span>)</span><span>{</span>
-        <span>printf</span><span>(</span><span>"%d\n"</span><span>,</span> watcher<span>-></span>data<span>)</span><span>;</span>
-        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：该操作与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：该操作只需要在原有数据的基础上做操作，申请固定的变量空间大小，因此空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h3 id="销毁"> 销毁</h3>
-<p><strong>实现思路</strong>：</p>
-<p>遍历每一个结点，执行删除操作，删除操作与上面的删除指定数据的结点思路是一致的。</p>
-<p><strong>源代码</strong>：</p>
-<div><pre><code><span>int</span> <span>destroyDlist</span><span>(</span><span>struct</span> <span>Hnode</span> <span>*</span>list<span>)</span> <span>{</span>
-    <span>int</span> delNum <span>=</span> <span>0</span><span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> watcher <span>=</span> list<span>-></span>head<span>-></span>rlink<span>;</span>
-    <span>struct</span> <span>node</span><span>*</span> toDel <span>=</span> <span>NULL</span><span>;</span>
-    <span>while</span> <span>(</span>watcher<span>-></span>rlink<span>)</span><span>{</span>
-        toDel <span>=</span> watcher<span>;</span>
-        watcher<span>-></span>llink<span>-></span>rlink <span>=</span> watcher<span>-></span>rlink<span>;</span>
-        watcher<span>-></span>rlink<span>-></span>llink <span>=</span> watcher<span>-></span>llink<span>;</span>
-        watcher <span>=</span> watcher<span>-></span>rlink<span>;</span>
-        <span>free</span><span>(</span>toDel<span>)</span><span>;</span>
-        delNum<span>++</span><span>;</span>
-        list<span>-></span>head<span>-></span>data<span>--</span><span>;</span>
-    <span>}</span>
-    <span>free</span><span>(</span>list<span>-></span>head<span>)</span><span>;</span>
-    <span>free</span><span>(</span>list<span>-></span>tail<span>)</span><span>;</span>
-    list<span>-></span>head <span>=</span> list<span>-></span>tail <span>=</span> <span>NULL</span><span>;</span>
-    delNum<span>++</span><span>;</span>
-    <span>return</span> delNum<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br></div></div><p><strong>时间复杂度</strong>：由于需要遍历用户输入的所有数据，执行次数与用户输入规模线性相关，因此时间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>n</span><span>)</span></span></span></span>。</p>
-<p><strong>空间复杂度</strong>：由于删除操作只需要使用固定的变量空间，因此认为空间复杂度为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.02778em;">O</span><span>(</span><span>1</span><span>)</span></span></span></span>。</p>
-<h2 id="双向链表优缺点"> 双向链表优缺点</h2>
-<p><strong>优点</strong>：</p>
-<ol>
-<li>可以找到前驱和后继，向前遍历和向后遍历。</li>
-<li>在当前结点前面、后面插入操作方便</li>
-<li>针对前驱、后继以及结点本身的删除操作方便。</li>
-</ol>
-<p><strong>缺点</strong>：</p>
-<ol>
-<li>增加删除结点操作复杂。</li>
-<li>较单链表需要占据更多的指针空间。</li>
-<li>存储密度较单链表低。</li>
-</ol>
 ]]></content:encoded>
     </item>
     <item>
@@ -13373,122 +13373,6 @@ gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>记一次局域网搭建私人云盘的过程</title>
-      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
-      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
-      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h2 id="过程"> 过程</h2>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
-<h2 id="还没结束"> 还没结束</h2>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-<div><p>错误指正</p>
-<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
-<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
-<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
-<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
-    </item>
-    <item>
       <title>Building Up Servicer</title>
       <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
       <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
@@ -14943,7 +14827,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -14977,7 +14861,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -14987,7 +14871,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -15012,7 +14896,7 @@ secure_file_priv =
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -15050,15 +14934,6 @@ secure_file_priv =
 ]]></content:encoded>
     </item>
     <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
-    </item>
-    <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
       <link>https://breezeshane.github.io/qap/</link>
       <guid>https://breezeshane.github.io/qap/</guid>
@@ -15089,55 +14964,12 @@ background-size: cover;
 ]]></content:encoded>
     </item>
     <item>
-      <title>Slide page</title>
-      <link>https://breezeshane.github.io/slides/</link>
-      <guid>https://breezeshane.github.io/slides/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Wed, 06 Apr 2022 16:49:47 GMT</pubDate>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>Linux 共享 Anaconda</title>
-      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
-      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
-      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>安装Anaconda的步骤这里不做详细记述.</p>
-</blockquote>
-<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
-<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
-<div><pre><code><span>groupadd</span> anaconda
-</code></pre>
-<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
-<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
-<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
-<span>chmod</span> <span>770</span> -R /opt/anaconda/
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
-<div><pre><code><span>chmod</span> g+s /opt/anaconda
-<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
-<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
-<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>保存即可.</p>
-<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
-<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
-  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
-<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
-<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
     <item>
@@ -16297,6 +16129,174 @@ opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
 isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke -flusho -extproc
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Slide page</title>
+      <link>https://breezeshane.github.io/slides/</link>
+      <guid>https://breezeshane.github.io/slides/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
+      <pubDate>Wed, 06 Apr 2022 16:56:11 GMT</pubDate>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>Linux 共享 Anaconda</title>
+      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
+      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
+      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>安装Anaconda的步骤这里不做详细记述.</p>
+</blockquote>
+<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
+<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
+<div><pre><code><span>groupadd</span> anaconda
+</code></pre>
+<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
+<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
+<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
+<span>chmod</span> <span>770</span> -R /opt/anaconda/
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
+<div><pre><code><span>chmod</span> g+s /opt/anaconda
+<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
+<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
+<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>保存即可.</p>
+<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
+<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
+  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
+<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
+<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>记一次局域网搭建私人云盘的过程</title>
+      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
+      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
+      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h2 id="过程"> 过程</h2>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
+<h2 id="还没结束"> 还没结束</h2>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+<div><p>错误指正</p>
+<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
+<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
+<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
+<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
   </channel>
 </rss>
