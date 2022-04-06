@@ -266,6 +266,7 @@ module.exports = config({
                   "BuildingServer",
                   "openGauss",
                   "ShareConda",
+                  "UUA",
                 ],
               },
               {
