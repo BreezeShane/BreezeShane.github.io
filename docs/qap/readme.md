@@ -6,7 +6,7 @@ article: false
 comment: false
 ---
 <center>
-    <font color="#fa8c35" size="5">
+    <font color="#4b5cc4" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
     𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
     𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
