@@ -6,12 +6,19 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 07 Apr 2022 12:10:12 GMT</pubDate>
-    <lastBuildDate>Thu, 07 Apr 2022 12:10:12 GMT</lastBuildDate>
+    <pubDate>Thu, 07 Apr 2022 13:03:06 GMT</pubDate>
+    <lastBuildDate>Thu, 07 Apr 2022 13:03:06 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
     <category>使用指南</category>
+    <item>
+      <title>估计、偏差和方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
+    </item>
     <item>
       <title>有关人工智能与机器学习领域的概况</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</link>
@@ -152,13 +159,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>估计、偏差和方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
-    </item>
-    <item>
       <title>促使深度学习发展的挑战</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</guid>
@@ -215,6 +215,13 @@
       <pubDate>Sun, 23 Jan 2022 01:05:33 GMT</pubDate>
     </item>
     <item>
+      <title>超参数和验证集</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">超参数和验证集</source>
+      <pubDate>Sun, 23 Jan 2022 01:05:49 GMT</pubDate>
+    </item>
+    <item>
       <title>随机梯度下降</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/</guid>
@@ -227,13 +234,6 @@
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%5B%E5%AE%9E%E4%BE%8B%5D%E7%BA%BF%E6%80%A7%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/</guid>
       <source url="https://breezeshane.github.io/rss.xml">「实例」线性最小二乘</source>
       <pubDate>Sun, 23 Jan 2022 01:06:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>超参数和验证集</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">超参数和验证集</source>
-      <pubDate>Sun, 23 Jan 2022 01:05:49 GMT</pubDate>
     </item>
     <item>
       <title>上溢和下溢</title>
@@ -7703,7 +7703,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7728,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7743,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8262,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,7 +8285,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8296,7 +8296,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8316,7 +8316,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8327,17 +8327,10 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>分块查找</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">分块查找</source>
-      <pubDate>Sun, 23 Jan 2022 01:24:44 GMT</pubDate>
     </item>
     <item>
       <title>二叉搜索树</title>
@@ -8345,6 +8338,13 @@ $$
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BinarySearch/</guid>
       <source url="https://breezeshane.github.io/rss.xml">二叉搜索树</source>
       <pubDate>Sun, 23 Jan 2022 01:24:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>分块查找</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SearchAlgorithms/BlockSearch/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">分块查找</source>
+      <pubDate>Sun, 23 Jan 2022 01:24:44 GMT</pubDate>
     </item>
     <item>
       <title>斐波那契搜索</title>
@@ -9373,13 +9373,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>2-3树</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">2-3树</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:27 GMT</pubDate>
-    </item>
-    <item>
       <title>底层原因</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Statement/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Statement/</guid>
@@ -9430,6 +9423,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <p><strong>另一方面来说</strong>，临时变量的写法是将这个临时变量交给操作系统来管理，程序员将无法控制它，这意味着可能在某些时候系统认为它已失去作用，这时它将被回收，而这会导致此后如果再访问使用它将成为非法行为。但使用指针变量写法可以保证你申请的空间不会被意外回收，你拥有管理它的一切权限。</p>
 <center><font size="6" color="#f2be45"><strong>综上所述，我们认为<br>使用指针变量的写法要优于使用临时变量写法。</strong></font></center>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>2-3树</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/Tree/2-3Tree/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">2-3树</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:27 GMT</pubDate>
     </item>
     <item>
       <title>B+树</title>
@@ -9941,7 +9941,52 @@ secure_file_priv =
 <li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
 <li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
 </ol>
-<p>实际上需要用什么去查官方文档就好了。</p>
+<p>实际上需要用什么去查官方文档就好了。下面给出常见语句的模板:</p>
+<div><pre><code><span>Select</span> <span>&lt;</span>RowName<span>></span><span>|</span>expr<span>|</span>agfunc<span>(</span><span>&lt;</span>RowName<span>></span><span>)</span> <span>[</span><span>[</span><span>,</span> <span>&lt;</span>RowName<span>></span><span>|</span>expr<span>|</span>agfunc<span>(</span><span>&lt;</span>RowName<span>></span><span>)</span><span>]</span> <span>.</span><span>.</span><span>.</span> <span>]</span>
+<span>From</span> TableName1 <span>[</span><span>,</span> TableName2 <span>.</span><span>.</span><span>.</span> <span>]</span>
+<span>[</span> <span>Where</span> <span>&lt;</span>SearchingConditions<span>></span> <span>]</span>
+<span>[</span><span>Group</span> <span>by</span> <span>&lt;</span>GroupingConditions<span>></span> <span>[</span> <span>Having</span> <span>&lt;</span>FilteringConditions<span>></span><span>]</span><span>]</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>expr</code>可以是常量, 列名或由常量, 列名, 特殊函数及算术运算符构成的算数运算式. 特殊函数的使用需要结合DBMS的文档. <code>agfunc()</code>是一些聚集函数.</p>
+<h2 id="schema的浅析"> Schema的浅析</h2>
+<p><strong>模式与数据库、表的关系</strong>: 一个数据库(Database)内有多个模式(Schema), 一个模式有多个表(Table).</p>
+<p>定义模式实际上定义了一个命名空间, 在这个空间中可以定义该模式包含的数据库对象，例如基本表、视图、索引等.</p>
+<p>创建方法:</p>
+<div><pre><code><span>CREATE</span> <span>SCHEMA</span> <span>&lt;</span>Name<span>></span> <span>AUTHORIZATION</span> <span>&lt;</span>UserName<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这个命令需要用户具有DBA的权限, 否则失败.</p>
+<p>删除方法:</p>
+<div><pre><code><span>DROP</span> <span>SCHEMA</span> <span>&lt;</span>Name<span>></span> <span>&lt;</span><span>CASCADE</span> <span>|</span> <span>RESTRICT</span><span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><ul>
+<li><code>CASCADE</code>(级联)：删除模式的同时把该模式中所有的数据库对象全部删除；</li>
+<li><code>RESTRICT</code>(限制)：如果该模式中定义了下属的数据库对象（如表、视图等），则拒绝该删除语句的执行。即当该模式中没有任何下属对象时, 才可以删除。</li>
+</ul>
+<div><p>警告</p>
+<p>不管任何时候删除操作都是一个需要非常慎重考虑, 仔细琢磨并小心执行的危险行为, 如果你选择要做这样的操作, 就要做好应对损失这些数据的准备, 或许可能还要做好损失其他数据的准备(大都是误删......).</p>
+</div>
+<h2 id="索引的建立与删除"> 索引的建立与删除</h2>
+<p>DBMS中索引一般采用B+树、HASH索引来实现, B+树索引具有动态平衡的优点, HASH索引具有查找速度快的特点. 索引是关系数据库的内部实现技术，属于内模式的范畴.</p>
+<p>应该知道, 索引会占用额外的存储空间，并且降低插入、删除和更新行的速度，但会提高查询速度; 应在频繁进行查询操作的列上建立索引; 系统在查询数据时自动选择合适的索引作为存储路径，用户不必也不能选择索引。</p>
+<div><p>坑</p>
+
+
+<p>我在这里先埋下大坑, 等我学完B+树和HASH表检索算法之后再回来写写这两个策略的优异性和劣势性.</p>
+</div>
+<p>索引有两种类型:</p>
+<ul>
+<li><strong>聚簇索引</strong>: 表中数据的物理存储顺序按照索引键的排序次序存储; 一个数据表只能建立一个聚簇索引</li>
+<li><strong>非聚簇索引</strong></li>
+</ul>
+<details><summary>浅谈聚簇索引和非聚簇索引</summary>
+</details>
+<p>创建方法:</p>
+<div><pre><code><span>CREATE</span> <span>[</span><span>UNIQUE</span><span>]</span> <span>[</span><span>CLUSTERED</span><span>|</span><span>NONCLUSTERED</span><span>]</span> <span>INDEX</span> <span>&lt;</span>IndexName<span>></span> 
+<span>ON</span> <span>&lt;</span>TableName<span>></span><span>(</span> <span>&lt;</span>RowName<span>></span><span>[</span><span>&lt;</span><span>Order</span><span>></span><span>]</span>
+                <span>[</span><span>,</span><span>&lt;</span>RowName<span>></span><span>[</span><span>&lt;</span><span>Order</span><span>></span><span>]</span> <span>.</span><span>.</span><span>.</span> <span>]</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><code>&lt;Order&gt;</code>有两个值: <code>ASC</code>和<code>DESC</code>.</p>
+<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -11442,6 +11487,122 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
     </item>
     <item>
+      <title>记一次局域网搭建私人云盘的过程</title>
+      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
+      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
+      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h2 id="过程"> 过程</h2>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
+<h2 id="还没结束"> 还没结束</h2>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+<div><p>错误指正</p>
+<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
+<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
+<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
+<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
+    </item>
+    <item>
       <title>Linux 共享 Anaconda</title>
       <link>https://breezeshane.github.io/Linux/ShareConda/</link>
       <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
@@ -12640,122 +12801,6 @@ opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
 isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke -flusho -extproc
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
-    </item>
-    <item>
-      <title>记一次局域网搭建私人云盘的过程</title>
-      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
-      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
-      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h2 id="过程"> 过程</h2>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
-<h2 id="还没结束"> 还没结束</h2>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-<div><p>错误指正</p>
-<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
-<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
-<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
-<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
       <title>Linux 用户与组和权限分配杂谈</title>
@@ -14858,166 +14903,6 @@ patch_request_class<span>(</span>app<span>)</span>
       <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
     </item>
     <item>
-      <title>𝕬𝖇𝖔𝖚𝖙</title>
-      <link>https://breezeshane.github.io/about/</link>
-      <guid>https://breezeshane.github.io/about/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
-<p>【代号】和风曦日</p>
-<p>【本体】Bug</p>
-<p>【性别】男</p>
-<p>【战斗经验】没有战斗经验</p>
-<p>【出身地】不明</p>
-<p>【生日】本人表示遗忘</p>
-<p>【种族】萨卡兹</p>
-<p>【身高】163cm</p>
-<p>【矿石病感染情况】</p>
-<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
-<h2 id="综合体检测试"> 综合体检测试</h2>
-<p>【物理强度】普通</p>
-<p>【战场机动】普通</p>
-<p>【生理耐受】普通</p>
-<p>【战术规划】普通</p>
-<p>【战斗技巧】普通</p>
-<p>【源石技艺适应性】卓越</p>
-<h2 id="客观履历"> 客观履历</h2>
-<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
-<h2 id="临床诊断分析"> 临床诊断分析</h2>
-<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
-<p>【体细胞与源石融合率】12%</p>
-<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
-<p>【血液源石结晶密度】0.5µ/L</p>
-<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Intro Page</title>
-      <link>https://breezeshane.github.io/intro/</link>
-      <guid>https://breezeshane.github.io/intro/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
-<p>Place your introducation and profile here.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Custom Layout</title>
-      <link>https://breezeshane.github.io/layout/</link>
-      <guid>https://breezeshane.github.io/layout/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
-      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
-<div><p>注意</p>
-<p>This is just a demo, you should add styles according to your own needs.</p>
-
-
-</div>
-<template #page-top><p>Page top content</p>
-</template><template #page-bottom><p>Page bottom content</p>
-</template><template #content-top><p>Content top content</p>
-</template><template #content-bottom><p>Content bottom content</p>
-</template><template #navbar-start><p>Navbar start content</p>
-</template><template #navbar-center><p>Navbar center content</p>
-</template><template #navbar-end><p>Navbar end content</p>
-</template><template #sidebar-top><p>Sidebar top content</p>
-</template><template #sidebar-center><p>Sidebar center content</p>
-</template><template #sidebar-bottom><p>Sidebar bottom content</p>
-</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>友情链接</title>
-      <link>https://breezeshane.github.io/links/</link>
-      <guid>https://breezeshane.github.io/links/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
-      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
-<div id="1" style="width:128px;height:256px;">
-<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
-<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
-</div>
-<div id="2" style="width:128px;height:256px;">
-<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
-<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
-</div>
-<div id="3" style="width:128px;height:256px;">
-<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
-</div>
-<div id="4" style="width:128px;height:256px;">
-<a href="https://memo.pommespeter.space"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
-<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
-</div>
-<div id="5" style="width:128px;height:256px;">
-<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
-<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
-</div>
-<div id="6" style="width:128px;height:256px;">
-<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
-<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
-</div>
-<div id="7" style="width:128px;height:256px;">
-<a href="https://www.cnblogs.com/whitebunny/"><img src="/images/Softrabbit.jpg" alt="柔小兔 Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#ff7500">白胖雪兔在摇晃着小小的尾巴~</font></center></p>
-</div>
-<div id="8" style="width:128px;height:256px;">
-<a href="https://blog.csdn.net/qq_51415601"><img src="/images/cwt.jpg" alt="野er Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#395260">野哥野人野性足! </font></center></p>
-</div>
-</div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
-      <link>https://breezeshane.github.io/qap/</link>
-      <guid>https://breezeshane.github.io/qap/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
-      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
-      <content:encoded><![CDATA[<center>
-    <font color="#4b5cc4" size="5">
-    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
-    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
-    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
-    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
-    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
-    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
-    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
-    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
-    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
-    </font>
-</center>
-<style>
-.page{
-margin:0 auto;
-background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
-background-position: center center;
-background-attachment: fixed;
-background-size: cover;
-}
-</style>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Slide page</title>
-      <link>https://breezeshane.github.io/slides/</link>
-      <guid>https://breezeshane.github.io/slides/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Thu, 07 Apr 2022 12:09:13 GMT</pubDate>
-      <content:encoded><![CDATA[
-<i>Not supported content</i>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
       <title>Manjaro Linux</title>
       <link>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</link>
       <guid>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</guid>
@@ -16281,6 +16166,166 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
 <p>我是喜欢折腾，但是我不喜欢在有事要忙的时候还不得不为这些问题折腾，我需要的是一个稳定高效的Linux。</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
+    </item>
+    <item>
+      <title>𝕬𝖇𝖔𝖚𝖙</title>
+      <link>https://breezeshane.github.io/about/</link>
+      <guid>https://breezeshane.github.io/about/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
+<p>【代号】和风曦日</p>
+<p>【本体】Bug</p>
+<p>【性别】男</p>
+<p>【战斗经验】没有战斗经验</p>
+<p>【出身地】不明</p>
+<p>【生日】本人表示遗忘</p>
+<p>【种族】萨卡兹</p>
+<p>【身高】163cm</p>
+<p>【矿石病感染情况】</p>
+<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
+<h2 id="综合体检测试"> 综合体检测试</h2>
+<p>【物理强度】普通</p>
+<p>【战场机动】普通</p>
+<p>【生理耐受】普通</p>
+<p>【战术规划】普通</p>
+<p>【战斗技巧】普通</p>
+<p>【源石技艺适应性】卓越</p>
+<h2 id="客观履历"> 客观履历</h2>
+<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
+<h2 id="临床诊断分析"> 临床诊断分析</h2>
+<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
+<p>【体细胞与源石融合率】12%</p>
+<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
+<p>【血液源石结晶密度】0.5µ/L</p>
+<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Intro Page</title>
+      <link>https://breezeshane.github.io/intro/</link>
+      <guid>https://breezeshane.github.io/intro/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
+<p>Place your introducation and profile here.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Custom Layout</title>
+      <link>https://breezeshane.github.io/layout/</link>
+      <guid>https://breezeshane.github.io/layout/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
+      <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
+<div><p>注意</p>
+<p>This is just a demo, you should add styles according to your own needs.</p>
+
+
+</div>
+<template #page-top><p>Page top content</p>
+</template><template #page-bottom><p>Page bottom content</p>
+</template><template #content-top><p>Content top content</p>
+</template><template #content-bottom><p>Content bottom content</p>
+</template><template #navbar-start><p>Navbar start content</p>
+</template><template #navbar-center><p>Navbar center content</p>
+</template><template #navbar-end><p>Navbar end content</p>
+</template><template #sidebar-top><p>Sidebar top content</p>
+</template><template #sidebar-center><p>Sidebar center content</p>
+</template><template #sidebar-bottom><p>Sidebar bottom content</p>
+</template><p>For details, see <a href="https://vuepress-theme-hope.github.io/guide/layout/custom/" target="_blank" rel="noopener noreferrer">Custom layout</a>.</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>友情链接</title>
+      <link>https://breezeshane.github.io/links/</link>
+      <guid>https://breezeshane.github.io/links/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
+      <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
+<div id="1" style="width:128px;height:256px;">
+<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
+<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
+</div>
+<div id="2" style="width:128px;height:256px;">
+<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
+<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
+</div>
+<div id="3" style="width:128px;height:256px;">
+<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
+</div>
+<div id="4" style="width:128px;height:256px;">
+<a href="https://memo.pommespeter.space"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
+<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
+</div>
+<div id="5" style="width:128px;height:256px;">
+<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
+<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
+</div>
+<div id="6" style="width:128px;height:256px;">
+<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
+<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
+</div>
+<div id="7" style="width:128px;height:256px;">
+<a href="https://www.cnblogs.com/whitebunny/"><img src="/images/Softrabbit.jpg" alt="柔小兔 Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#ff7500">白胖雪兔在摇晃着小小的尾巴~</font></center></p>
+</div>
+<div id="8" style="width:128px;height:256px;">
+<a href="https://blog.csdn.net/qq_51415601"><img src="/images/cwt.jpg" alt="野er Blog" width="128px" height="128px"></img></a>
+<p><center><font color="#395260">野哥野人野性足! </font></center></p>
+</div>
+</div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
+      <link>https://breezeshane.github.io/qap/</link>
+      <guid>https://breezeshane.github.io/qap/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</source>
+      <pubDate>Thu, 06 May 2021 20:47:08 GMT</pubDate>
+      <content:encoded><![CDATA[<center>
+    <font color="#4b5cc4" size="5">
+    𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
+    𝓹𝓻𝓲𝓿𝓪𝓽𝓮 𝓫𝓵𝓸𝓰 𝓪𝓷𝓭 𝔀𝓸𝓻𝓵𝓭!<br><br><br>
+    𝓗𝓮𝓻𝓮 𝓻𝓮𝓬𝓸𝓻𝓭𝓼 𝔀𝓱𝓪𝓽 𝓘'𝓿𝓮 𝓵𝓮𝓪𝓻𝓷𝓽 𝓪𝓷𝓭 <br><br><br>
+    𝔀𝓱𝓪𝓽 𝓘'𝓶 𝓵𝓮𝓪𝓻𝓷𝓲𝓷𝓰. 𝓗𝓸𝓹𝓮 𝔀𝓮 𝓪𝓻𝓮 𝓪𝓫𝓵𝓮 𝓽𝓸 <br><br><br>
+    𝓱𝓪𝓿𝓮 𝓪 𝓼𝓶𝓸𝓸𝓽𝓱 𝓫𝓮𝓪𝓾𝓽𝓲𝓯𝓾𝓵 𝓵𝓲𝓯𝓮 𝓲𝓷 𝓽𝓱𝓮 𝓯𝓾𝓽𝓾𝓻𝓮!<br><br><br>
+    𝓘 𝓱𝓪𝓻𝓫𝓸𝓻 𝓽𝓱𝓮 𝔀𝓲𝓼𝓱 𝓽𝓸 𝓫𝓮 𝓽𝓱𝓮 𝓫𝓻𝓮𝓮𝔃𝓮 𝓽𝓸 𝓼𝓽𝓻𝓸𝓴𝓮 𝔂𝓸𝓾, <br><br><br>
+    𝔀𝓪𝓷𝓷𝓪 𝓫𝓮 𝓽𝓱𝓮 𝓼𝓾𝓷 𝓽𝓸 𝓼𝓱𝓲𝓷𝓮 𝓾𝓹𝓸𝓷 𝔂𝓸𝓾, <br><br><br>
+    𝓪𝓷𝓭 𝓭𝓮𝓵𝓲𝓿𝓮𝓻 𝓽𝓱𝓮 𝔀𝓪𝓻𝓶𝓽𝓱 𝓪𝓷𝓭 <br><br><br>
+    𝓬𝓸𝓼𝓲𝓷𝓮𝓼𝓼 𝓽𝓸 𝓨𝓞𝓤, 𝓶𝔂 𝓯𝓻𝓲𝓮𝓷𝓭𝓼!
+    </font>
+</center>
+<style>
+.page{
+margin:0 auto;
+background-image: url(/images/Wallpapers/morning-sunrise-wallpaper-1638x1024.jpg);
+background-position: center center;
+background-attachment: fixed;
+background-size: cover;
+}
+</style>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Slide page</title>
+      <link>https://breezeshane.github.io/slides/</link>
+      <guid>https://breezeshane.github.io/slides/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
+      <pubDate>Thu, 07 Apr 2022 13:02:13 GMT</pubDate>
+      <content:encoded><![CDATA[
+<i>Not supported content</i>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
       <title>Magic SysRq 组合键功能表</title>
