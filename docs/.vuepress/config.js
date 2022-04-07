@@ -242,6 +242,14 @@ module.exports = config({
               ],
             },
             {
+              title: "DataBase",
+              prefix: "Database/",
+              children: [
+                "DataBase",
+                "MySQL"
+              ],
+            },
+            {
                 title: "Blog",
                 prefix: "BlogBuildingAndUsing/",
                 children: [
