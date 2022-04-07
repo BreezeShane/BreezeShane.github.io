@@ -208,4 +208,72 @@ SQL语句我第一次接触，因此打算记录下来（因为我知道我大�
 4. **清空数据表**：`truncate <NAME_OF_TB>`/`DELETE FROM <NAME_OF_TB>`。
 5. **删除表中指定行**：`DELETE FROM <NAME_OF_TB> WHERE <Options>`。
 
-实际上需要用什么去查官方文档就好了。
+实际上需要用什么去查官方文档就好了。下面给出常见语句的模板: 
+```sql
+Select <RowName>|expr|agfunc(<RowName>) [[, <RowName>|expr|agfunc(<RowName>)] ... ]
+From TableName1 [, TableName2 ... ]
+[ Where <SearchingConditions> ]
+[Group by <GroupingConditions> [ Having <FilteringConditions>]];
+```
+其中`expr`可以是常量, 列名或由常量, 列名, 特殊函数及算术运算符构成的算数运算式. 特殊函数的使用需要结合DBMS的文档. `agfunc()`是一些聚集函数. 
+
+## Schema的浅析
+
+**模式与数据库、表的关系**: 一个数据库(Database)内有多个模式(Schema), 一个模式有多个表(Table). 
+
+定义模式实际上定义了一个命名空间, 在这个空间中可以定义该模式包含的数据库对象，例如基本表、视图、索引等.
+
+创建方法: 
+```sql
+CREATE SCHEMA <Name> AUTHORIZATION <UserName>
+```
+这个命令需要用户具有DBA的权限, 否则失败. 
+
+删除方法: 
+```sql
+DROP SCHEMA <Name> <CASCADE | RESTRICT>
+```
+ - `CASCADE`(级联)：删除模式的同时把该模式中所有的数据库对象全部删除；
+ - `RESTRICT`(限制)：如果该模式中定义了下属的数据库对象（如表、视图等），则拒绝该删除语句的执行。即当该模式中没有任何下属对象时, 才可以删除。
+
+::: warning 警告
+
+不管任何时候删除操作都是一个需要非常慎重考虑, 仔细琢磨并小心执行的危险行为, 如果你选择要做这样的操作, 就要做好应对损失这些数据的准备, 或许可能还要做好损失其他数据的准备(大都是误删......).
+
+:::
+
+## 索引的建立与删除
+
+DBMS中索引一般采用B+树、HASH索引来实现, B+树索引具有动态平衡的优点, HASH索引具有查找速度快的特点. 索引是关系数据库的内部实现技术，属于内模式的范畴. 
+
+应该知道, 索引会占用额外的存储空间，并且降低插入、删除和更新行的速度，但会提高查询速度; 应在频繁进行查询操作的列上建立索引; 系统在查询数据时自动选择合适的索引作为存储路径，用户不必也不能选择索引。 
+
+::: danger 坑
+
+<!-- https://blog.csdn.net/weiliangliang111/article/details/51333169 参考链接-->
+
+<!-- https://zhuanlan.zhihu.com/p/23624390 参考链接-->
+
+我在这里先埋下大坑, 等我学完B+树和HASH表检索算法之后再回来写写这两个策略的优异性和劣势性.
+
+:::
+
+索引有两种类型: 
+ - **聚簇索引**: 表中数据的物理存储顺序按照索引键的排序次序存储; 一个数据表只能建立一个聚簇索引
+ - **非聚簇索引**
+
+::: details 浅谈聚簇索引和非聚簇索引
+
+
+
+:::
+
+创建方法: 
+```sql
+CREATE [UNIQUE] [CLUSTERED|NONCLUSTERED] INDEX <IndexName> 
+ON <TableName>( <RowName>[<Order>]
+                [,<RowName>[<Order>] ... ]);
+```
+`<Order>`有两个值: `ASC`和`DESC`. 
+
+(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)
