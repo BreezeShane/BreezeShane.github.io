@@ -207,3 +207,5 @@ SQL语句我第一次接触，因此打算记录下来（因为我知道我大�
 3. **查看整表**：`SELECT * FROM <NAME_OF_TB>`。
 4. **清空数据表**：`truncate <NAME_OF_TB>`/`DELETE FROM <NAME_OF_TB>`。
 5. **删除表中指定行**：`DELETE FROM <NAME_OF_TB> WHERE <Options>`。
+
+实际上需要用什么去查官方文档就好了。
