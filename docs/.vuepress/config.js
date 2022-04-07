@@ -246,7 +246,8 @@ module.exports = config({
               prefix: "Database/",
               children: [
                 "DataBase",
-                "MySQL"
+                "MySQL",
+                "RelationalAlgebra",
               ],
             },
             {
