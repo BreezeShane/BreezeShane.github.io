@@ -511,7 +511,7 @@ autorandr --default <YOUR_CONFIG_NAME>
 
 起初我尝试了它给出的解决方案，但是我实践后发现，我直接这样用，会多出来另外十个tag，心里分外不解，于是我东查西查，最后也没能找到真正行之有效的方法。
 
-但是，我要强调：<font size=7>`<a href="https://awesomewm.org/doc/api/index.html">`官方文档 `</a>`一定要常翻常看！`</font>`
+但是，我要强调：<font size=7><a href="https://awesomewm.org/doc/api/index.html">官方文档 </a>一定要常翻常看！</font>
 
 最后我是查询了官方给出的API文档：「[Class tag](https://awesomewm.org/doc/api/classes/tag.html#)」。注意到文档给出的这个内容：
 
