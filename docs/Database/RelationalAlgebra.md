@@ -10,6 +10,34 @@ categories:
 tags: 
  - Database
 ---
+
+::: details 参考
+
+1. [外键约束详解及术语释疑](https://blog.csdn.net/cnds123/article/details/39827049)
+2. [关系型数据库的三类完整性约束](https://blog.csdn.net/weixin_44915226/article/details/105711836)
+3. [数据库关系模型的三类完整性约束](https://blog.csdn.net/qq_32623363/article/details/87911560)
+4. [关系数据模型要素三 关系完整性约束](https://owen027.github.io/2019/09/19/integrity_constraint_of_relational/)
+5. [数据库系统的关系数据结构](https://kjhhhh.github.io/2021/03/07/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/)
+6. [关系数据模型要素一 （关系数据结构）](https://owen027.github.io/2019/09/09/relation_data_model/)
+7. [数据库学习--关系模式](https://segmentfault.com/a/1190000017295639)
+8. [数据库中几个基本概念 主码 外码](https://blog.csdn.net/u014698348/article/details/46923587)
+9. [数据库中的候选码、主码、全码、外码、主属性](https://blog.csdn.net/qq_35293120/article/details/105413418)
+10. [关系代数 (数据库)](https://zh.wikipedia.org/wiki/%E5%85%B3%E7%B3%BB%E4%BB%A3%E6%95%B0_(%E6%95%B0%E6%8D%AE%E5%BA%93))
+11. [利用SQL语言进行结果运算与聚集运算](https://www.csdn.net/tags/MtjacgwsODc0My1ibG9n.html)
+12. [SQL——聚集函数](https://www.jianshu.com/p/5e1f9b8a2ec9)
+13. [数据库常用关系代数符号在 LaTeX 中的表示](https://billc.io/2020/04/latex-relational-algebra/)
+14. [数据库Schema模式的理解——模式与数据库的区别](https://blog.csdn.net/FallingU/article/details/78955707)
+15. [聚集函数 - IBM](https://www.ibm.com/docs/zh/was/9.0.5?topic=language-aggregation-functions)
+16. [数据库关系代数的聚集函数](https://blog.csdn.net/Gosick_Geass_Gate/article/details/85794100)
+17. [第9讲：结果计算与聚集计算](cnblogs.com/xzxl/p/10742584.html)
+18. [Tuple - Wikipedia](https://en.wikipedia.org/wiki/Tuple#Tuples_as_nested_ordered_pairs)
+19. [MDX查询学习笔记1-元组和集合](https://blog.csdn.net/doiit/article/details/89068580)
+20. [What does the term "Tuple" Mean in Relational Databases?](https://stackoverflow.com/questions/751264/what-does-the-term-tuple-mean-in-relational-databases)
+21. [mondrian 源码解读（二）-MDX](https://sqtds.github.io/2014/10/26/2014/mondrian-source-code-2/)
+22. [多维数据表达式MDX笔记](https://www.bianchengquan.com/article/359307.html)
+
+:::
+
 ## 关系数据结构
 
 **候选码**: 能够唯一标识一条记录的最小属性集. 若关系中的一个属性或属性组的值能够唯一地标识一个元组, 且他的真子集不能唯一的标识一个元组, 则称这个属性或属性组做候选码. 

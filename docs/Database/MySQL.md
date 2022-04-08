@@ -15,17 +15,28 @@ tags:
 
 ::: details 参考
 
-[MySQL 创建数据库](https://www.runoob.com/mysql/mysql-create-database.html)
-[MySQL 创建数据表](https://www.runoob.com/mysql/mysql-create-tables.html)
-[MySQL创建数据表（CREATE TABLE语句）](http://c.biancheng.net/view/2430.html)
-[MySQL 数据类型](https://www.runoob.com/mysql/mysql-data-types.html)
-[Mysql 导入文件提示 --secure-file-priv option 问题](https://www.cnblogs.com/Braveliu/p/10728162.html)
-[mysql 查看当前使用的配置文件my.cnf的方法](https://blog.csdn.net/fdipzone/article/details/52705507)
-[MySQL my.cnf file - Found option without preceding group](https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group)
-[解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the](https://blog.csdn.net/qq_32834005/article/details/110443574)
-[Mysql——将CSV文件导入表中](https://zhuanlan.zhihu.com/p/26964403)
-[MYSQL：如何清空表中的数据](https://blog.csdn.net/qq_29229567/article/details/82743645)
-[MySQL 删除数据表](https://www.runoob.com/mysql/mysql-drop-tables.html)
+1. [MySQL 创建数据库](https://www.runoob.com/mysql/mysql-create-database.html)
+2. [MySQL 创建数据表](https://www.runoob.com/mysql/mysql-create-tables.html)
+3. [MySQL创建数据表（CREATE TABLE语句）](http://c.biancheng.net/view/2430.html)
+4. [MySQL 数据类型](https://www.runoob.com/mysql/mysql-data-types.html)
+5. [Mysql 导入文件提示 --secure-file-priv option 问题](https://www.cnblogs.com/Braveliu/p/10728162.html)
+6. [mysql 查看当前使用的配置文件my.cnf的方法](https://blog.csdn.net/fdipzone/article/details/52705507)
+7. [MySQL my.cnf file - Found option without preceding group](https://stackoverflow.com/questions/8020297/mysql-my-cnf-file-found-option-without-preceding-group)
+8. [解决方法MySQL ERROR 3948 (42000): Loading local data is disabled； this must be enabled on both the](https://blog.csdn.net/qq_32834005/article/details/110443574)
+9. [Mysql——将CSV文件导入表中](https://zhuanlan.zhihu.com/p/26964403)
+10. [MYSQL：如何清空表中的数据](https://blog.csdn.net/qq_29229567/article/details/82743645)
+11. [MySQL 删除数据表](https://www.runoob.com/mysql/mysql-drop-tables.html)
+12. [数据库索引到底是什么，是怎样工作的？](https://blog.csdn.net/weiliangliang111/article/details/51333169)
+13. [深入浅出数据库索引原理](https://zhuanlan.zhihu.com/p/23624390)
+14. [说一下聚簇索引 & 非聚簇索引](https://juejin.cn/post/6844903845554814983)
+15. [MySQL：聚簇索引的优缺点](https://zhuanlan.zhihu.com/p/388252001)
+16. [索引 - 廖雪峰的官方网站](https://www.liaoxuefeng.com/wiki/1177760294764384/1218728442198976)
+17. [数据库索引的知识点，你所需要了解的都在这儿了](https://segmentfault.com/a/1190000023314270)
+18. [你真的会使用数据库的索引吗？](https://developer.huawei.com/consumer/cn/forum/topic/0202699338499720961?fid=0101592429757310384)
+19. [16 个该搞定的数据库索引问题！](https://www.51cto.com/article/696360.html)
+20. [数据库索引原理，读懂这篇文章就可以跟面试官掰掰手腕了！](https://www.modb.pro/db/134175)
+21. [数据库--视图的基本概念以及作用](https://blog.csdn.net/buhuikanjian/article/details/53105416)
+22. [数据库视图是什么？视图的作用？](https://zhuanlan.zhihu.com/p/372569011)
 
 
 :::
@@ -254,6 +265,8 @@ DBMS中索引一般采用B+树、HASH索引来实现, B+树索引具有动态平
 
 <!-- https://zhuanlan.zhihu.com/p/23624390 参考链接-->
 
+(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)
+
 我在这里先埋下大坑, 等我学完B+树和HASH表检索算法之后再回来写写这两个策略的优异性和劣势性.
 
 :::
@@ -264,7 +277,7 @@ DBMS中索引一般采用B+树、HASH索引来实现, B+树索引具有动态平
 
 ::: details 浅谈聚簇索引和非聚簇索引
 
-
+(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)
 
 :::
 
@@ -276,4 +289,43 @@ ON <TableName>( <RowName>[<Order>]
 ```
 `<Order>`有两个值: `ASC`和`DESC`. 
 
-(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)
+删除方法: 
+```sql
+DROP INDEX <IndexName>;
+```
+
+::: warning 注意
+
+索引也存在失效的情况, 比如在使用`where`语句时使用了负向查询.
+
+> 负向查询包括: `NOT`, `!=`, `<>`, `!<`, `!>`, `NOT IN`, `NOT LIKE`, `NOT BETWEEN ... AND ...`等. 
+
+在允许为`null`的列上建立索引也会导致这样的问题.
+
+还有在使用`A OR B`语句中, 有一个是没有索引的这种情况也是如此.
+
+另外, 如果对索引列进行运算, 索引一定会失效.
+
+:::
+
+## 视图
+
+**定义**: 是从一个或多个表导出的虚拟的表，其内容由查询定义. 它具有普通表的结构, 但是不实现数据存储. 
+
+::: warning 注意
+
+视图定义约束要求:
+1. 组成视图的属性列名要么是全部省略, 要么就是全部指定. 
+2. 子查询不允许使用`order by`子句和`distinct`短语. 
+
+:::
+
+**作用**: 
+1. 视图能够简化用户的操作，适当的用视图可以更清晰地表达查询.
+2. 视图使用户能以多种角度看待同一数据. 
+3. 视图对重构数据库提供了一定程度的逻辑独立性, 屏蔽了真实表的结构带来的影响.
+4. 视图能够对机密数据提供安全防护, 用户只能查询和修改能看到的数据. 
+
+**缺点**: 
+1. 性能差: 数据库必须把视图查询转化成对基本表的查询，如果这个视图是由一个复杂的多表查询所定义，那么，即使是视图的一个简单查询，数据库也要把它变成一个复杂的结合体，需要花费一定的时间。
+2. 修改受限: 当用户试图修改视图的某些信息时，数据库必须把它转化为对基本表的某些信息的修改，对于简单的视图来说，这是很方便的，但是，对于比较复杂的试图，可能是不可修改的。
