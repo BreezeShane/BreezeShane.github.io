@@ -37,6 +37,13 @@ tags:
 20. [数据库索引原理，读懂这篇文章就可以跟面试官掰掰手腕了！](https://www.modb.pro/db/134175)
 21. [数据库--视图的基本概念以及作用](https://blog.csdn.net/buhuikanjian/article/details/53105416)
 22. [数据库视图是什么？视图的作用？](https://zhuanlan.zhihu.com/p/372569011)
+23. [SQL模糊查询的四种匹配模式](https://cloud.tencent.com/developer/article/1492397)
+24. [数据库学习 - like（模糊查询）](https://blog.csdn.net/linan_pin/article/details/70154416)
+25. [MySQL 数据库 like 语句通配符模糊查询小结](https://bbs.huaweicloud.com/blogs/242256)
+26. [如何实现mysql数据库单表多字段的模糊查询？](https://uhomework.com/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8D%95%E8%A1%A8%E5%A4%9A%E5%AD%97%E6%AE%B5%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%9F%A5%E8%AF%A2%EF%BC%9F/)
+27. [MySQL模糊搜索的几种姿势](https://www.51cto.com/article/614332.html)
+28. [MySQL模糊查询用法大全（正则、通配符、内置函数等）](https://blog.csdn.net/qq_39390545/article/details/106414765)
+29. [讲一讲加密数据如何进行模糊查询](https://ningyu1.github.io/20201230/encrypted-data-fuzzy-query.html)
 
 
 :::
@@ -209,25 +216,6 @@ LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv'
 
 这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表`<NAME_OF_TB>`里(`LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE <NAME_OF_TB>`)，数据的分隔符是`,`(`FIELDS TERMINATED BY ','`)，行分隔符是`\n`(`LINES TERMINATED BY '\n'`)，最后忽略掉第一行的内容(`IGNORE 1 ROWS`)。
 
-## MySQL的一些命令
-
-SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。
-
-1. **删除数据表/数据库**：`DROP TABLE <NAME_OF_TB>`/`DROP DATABASE <NAME_OF_DB>`。
-2. **查看表的属性及类型**：`DESCRIBE <NAME_OF_TB>`/`SHOW COLUMNS FROM <NAME_OF_TB>`。
-3. **查看整表**：`SELECT * FROM <NAME_OF_TB>`。
-4. **清空数据表**：`truncate <NAME_OF_TB>`/`DELETE FROM <NAME_OF_TB>`。
-5. **删除表中指定行**：`DELETE FROM <NAME_OF_TB> WHERE <Options>`。
-
-实际上需要用什么去查官方文档就好了。下面给出常见语句的模板: 
-```sql
-Select <RowName>|expr|agfunc(<RowName>) [[, <RowName>|expr|agfunc(<RowName>)] ... ]
-From TableName1 [, TableName2 ... ]
-[ Where <SearchingConditions> ]
-[Group by <GroupingConditions> [ Having <FilteringConditions>]];
-```
-其中`expr`可以是常量, 列名或由常量, 列名, 特殊函数及算术运算符构成的算数运算式. 特殊函数的使用需要结合DBMS的文档. `agfunc()`是一些聚集函数. 
-
 ## Schema的浅析
 
 **模式与数据库、表的关系**: 一个数据库(Database)内有多个模式(Schema), 一个模式有多个表(Table). 
@@ -329,3 +317,190 @@ DROP INDEX <IndexName>;
 **缺点**: 
 1. 性能差: 数据库必须把视图查询转化成对基本表的查询，如果这个视图是由一个复杂的多表查询所定义，那么，即使是视图的一个简单查询，数据库也要把它变成一个复杂的结合体，需要花费一定的时间。
 2. 修改受限: 当用户试图修改视图的某些信息时，数据库必须把它转化为对基本表的某些信息的修改，对于简单的视图来说，这是很方便的，但是，对于比较复杂的试图，可能是不可修改的。
+
+## 数据操作
+
+SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。
+
+1. **删除数据表/数据库**：`DROP TABLE <NAME_OF_TB>`/`DROP DATABASE <NAME_OF_DB>`。
+2. **查看表的属性及类型**：`DESCRIBE <NAME_OF_TB>`/`SHOW COLUMNS FROM <NAME_OF_TB>`。
+3. **查看整表**：`SELECT * FROM <NAME_OF_TB>`。
+4. **清空数据表**：`truncate <NAME_OF_TB>`/`DELETE FROM <NAME_OF_TB>`。
+5. **删除表中指定行**：`DELETE FROM <NAME_OF_TB> WHERE <Options>`。
+
+实际上需要用什么去查官方文档就好了。下面给出常见语句的模板: 
+```sql
+Select <RowName>|expr|agfunc(<RowName>) [[, <RowName>|expr|agfunc(<RowName>)] ... ]
+From TableName1 [, TableName2 ... ]
+[ Where <SearchingConditions> ]
+[Group by <GroupingConditions> [ Having <FilteringConditions>]];
+```
+其中`expr`可以是常量, 列名或由常量, 列名, 特殊函数及算术运算符构成的算数运算式. 特殊函数的使用需要结合DBMS的文档. `agfunc()`是一些聚集函数. 
+
+::: details 一些运算操作对应的语句参考
+
+首先要强调一下, 这里的语句未必在一些数据库上适用, 如果要了解这些差异性内容应该去查阅官方文档. 
+
+$R\cup S$: 
+```sql
+select * from R
+union
+select * from S
+```
+
+$R - S$: 
+```sql
+select * from R
+except
+select * from S
+```
+
+$R\cap S$: 
+```sql
+select * from R
+intersect
+select * from S
+```
+
+$R\times S$: 
+```sql
+select R.*, S.* from R, S
+select R.*, S.* from R cross join S
+```
+
+$\sigma_{C}(R)$: 
+```sql
+select * from R where C
+```
+
+$\prod_L(R)$: 
+```sql
+select L from R
+```
+
+$\Pi_L(\sigma_C(R))$:
+```sql
+select L from R where C
+select L from (select * from R where C) S   
+```
+
+$R\bowtie_{A=B}S$:
+```sql
+select R.*, S.* from R join S on R.A=S.B
+```
+
+$R\bowtie S$:
+```sql
+select R.*, S.* from R join S on R.A=S.A
+```
+
+$R\ltimes_C S$: 
+```sql
+select R.*, S.* from R left outer join S on C
+```
+
+$R\rtimes_C S$: 
+```sql
+select R.*, S.* from R right outer join S on C
+```
+
+$\delta(R)$:
+```sql
+select distinct * from R
+```
+
+$\tau_L(R)$:
+```sql
+select * from R order by L
+```
+
+$\gamma_{L,f}(R)$:
+```sql
+select L,f from R group by L [ having <Conditions> ]
+```
+其中$f$表示任意一个聚合算子.
+
+:::
+
+### 深入使用条件表达式
+
+SQL语句中有确定值范围的谓词: `BETWEEN ... AND ...`
+
+SQL语句也有确定元素属于集合的谓词: `IN`
+
+SQL查询语句还支持模糊查询, 详情如下. 
+
+**SQL模糊查询**: 
+
+四种匹配模式: 
+1. `%` : 表示任意0个或多个字符，可匹配任意类型和长度的字符。
+2. `_` : 表示任意单个字符。
+3. `[ ]` : 表示括号内所列字符中的一个.
+4. `[^ ]` : 表示不在括号所列之内的单个字符。
+
+> **注**: 如果`[ ]`或者`[^ ]`内含一系列连续字符集的话, 可以用`-`来简洁表示, 如`0123456789`就可以直接写成`0-9`即可.
+
+::: warning 注意
+
+SQL语句的`like`关键字主要支持前两个`%`和`_`, `[ ]`和`[^ ]`并不受支持. 相应地这两个都受`regexp`和`rlike`支持. 
+
+如果待匹配的字符内含`%`或`_`, 这时应该使用`ESCAPE`关键字来自行定义转义符号, 然后使用这个转义符号来完成字符转义, 使用法则和C语言的转义类似. 
+
+:::
+
+`regexp`关键字比`like`关键字要更加细粒化, 匹配更加具体, 因为它支持正则表达式匹配, 几乎可以满足所有需求. 
+
+**SQL统计查询结果**:
+|函数名|使用格式|描述|
+|:--:|:--:|:--:|
+|COUNT|`COUNT( [DISTINCT\|ALL] * )`|统计元组个数|
+|COUNT|`COUNT( [DISTINCT\|ALL] <RowName> )`|统计一列中值的个数|
+|SUM|`SUM( [DISTINCT\|ALL] <RowName> )`|计算一列值的总和|
+|AVG|`AVG( [DISTINCT\|ALL] <RowName> )`|计算一列值的平均值|
+|MAX|`MAX( [DISTINCT\|ALL] <RowName> )`|求一列值的函数名最大值|
+|MIN|`MIN( [DISTINCT\|ALL] <RowName> )`|求一列值的最小值|
+
+**SQL的其他查询**: 
+
+ - 如果涉及到空值的查询, 我们使用谓词`IS NULL`或`IS NOT NULL`. 
+ - 逻辑运算符`AND`优先级要比`OR`要高, 但可以使用`()`来决定查询条件的各部分优先级. 
+ - `ORDER BY`子句中`ASC`表示升序, 而`DESC`表示降序, 缺省值为`ASC`. 如果排序列内含有空值, `ASC`会将空值放在最后显示, `DESC`则会将空值放在首处显示.
+
+**SQL数据更新与删除**:
+
+ - `INSERT`: 
+    ```sql
+    insert
+    into <TableName> [ ( <Attr1> [, <Attr2> ] ... ) ]
+    values( <ConstVar1> [, <ConstVar2> ] ... )
+
+    insert
+    into <TableName> [ ( <Attr1> [, <Attr2> ] ... ) ]
+    <Subquery>
+    ```
+ - `UPDATE`: 
+    ```sql
+    update <TableName>
+    set <RowName>-<Expression> [, <RowName>-<Expression> ] ...
+    [where <Conditions>]
+    ```
+ - `DELETE`: 
+    ```sql
+    delete
+    from <TableName>
+    [where <Conditions>]
+    ```
+
+::: tip 注意
+
+RDBMS在执行**插入**语句时会检查所插元组是否破坏表上已定义的完整性规则:
+ - **实体完整性**
+ - **参照完整性**
+ - **用户定义的完整性**: `NOT NULL`约束, `UNIQUE`约束, 值域约束
+
+RDBMS在执行**修改**语句时会检查修改操作是否破坏表上已定义的完整性规则:
+ - **实体完整性**
+ - **主码不允许修改**
+ - **用户定义的完整性**: `NOT NULL`约束, `UNIQUE`约束, 值域约束
+
+:::
