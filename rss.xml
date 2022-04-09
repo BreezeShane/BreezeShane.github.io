@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Fri, 08 Apr 2022 06:15:00 GMT</pubDate>
-    <lastBuildDate>Fri, 08 Apr 2022 06:15:00 GMT</lastBuildDate>
+    <pubDate>Sat, 09 Apr 2022 02:18:27 GMT</pubDate>
+    <lastBuildDate>Sat, 09 Apr 2022 02:18:27 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -850,8 +850,7 @@
 <div><p>定义</p>
 <p>给定广义实值函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>和非空集合<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.14643em;">X</span></span></span></span>.如果存在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.14643em;">X</span></span></span></span>使得<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>+</span><span>∞</span></span></span></span>,并且对任意的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.14643em;">X</span></span></span></span>,都有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>&gt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>−∞</span></span></span></span>,那么称函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>关于集合<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.14643em;">X</span></span></span></span> 是适当的.</p>
 </div>
-<p>概括来说,适当函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>的特点是“至少有一处取值不为正无穷”,以及“处
-处取值不为负无穷”.</p>
+<p>概括来说,适当函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>的特点是“至少有一处取值不为正无穷”,以及“处处取值不为负无穷”.</p>
 <h3 id="下水平集"> 下水平集</h3>
 <div><p>定义</p>
 <p>对于广义实值函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68889em;vertical-align:0em;"></span><span><span>R</span><span><span><span><span style="height:0.664392em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888900000000001em;vertical-align:0em;"></span><span><span><span><span style="height:0.8888900000000001em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span>R</span></span></span><span style="top:-3.80889em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span></span></span></span></span></span></span></span>,</p>
@@ -1938,18 +1937,18 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>结构化概率模型</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
-    </item>
-    <item>
       <title>贝叶斯规则</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</guid>
       <source url="https://breezeshane.github.io/rss.xml">贝叶斯规则</source>
       <pubDate>Sun, 23 Jan 2022 01:15:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>结构化概率模型</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
     </item>
     <item>
       <title>边缘概率</title>
@@ -2821,6 +2820,128 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
       <enclosure url="https://breezeshane.github.io/images/wgan-gp.png" type="image/png"/>
     </item>
     <item>
+      <title>多灾多难的博客搭建过程</title>
+      <link>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</link>
+      <guid>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">多灾多难的博客搭建过程</source>
+      <pubDate>Fri, 07 May 2021 14:00:56 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="blog-building"> Blog Building</h1>
+<blockquote>
+<p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
+</blockquote>
+<h2 id="搭建博客的原因¿"> 搭建博客的原因¿</h2>
+<p>自从换了方向之后，发现我需要写的公式数量急剧增长，很多时候我都发现使用特殊符号是远不能满足这一需求的，比如如果我想打$$\int_a<sup>b$$、$$\frac{1}{N}\sum_{i=0}</sup>{n}{N_i}$$等等就非常难顶。。。</p>
+<h2 id="怎么搭建的博客¿"> 怎么搭建的博客¿</h2>
+<h3 id="初始安装"> 初始安装</h3>
+<p>首先需要安装好hexo以及其所需要的环境Node.js和包管理器npm，我选择的主题是fluid,简单轻便雅观，最重要的是原生支持LaTeX渲染！</p>
+<div><pre><code><span>sudo</span> pacman -S nodejs <span>npm</span>
+<span>cd</span> ~/your_blog
+<span>sudo</span> <span>npm</span> <span>install</span> -g hexo-cli --save
+<span>cd</span> <span>..</span>
+hexo init your_blog
+<span>cd</span> ~/your_blog/themes
+<span>mkdir</span> fluid <span>&amp;&amp;</span> <span>cd</span> fluid
+<span>git</span> clone https://github.com/fluid-dev/hexo-theme-fluid.git
+<span>cd</span> <span>..</span> <span>&amp;&amp;</span> <span>cd</span> <span>..</span>
+<span>npm</span> <span>install</span>
+hexo cl <span>&amp;&amp;</span> hexo g <span>&amp;&amp;</span> hexo s
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>这时候你进入<a href="localhost:4000">你的博客</a>就可以看到你的网站啦！</p>
+<h3 id="ssh链接配置"> SSH链接配置</h3>
+<p>接下来我们要创建SSH链接。***「注意：此处的前提条件是你已经拥有GitHub账户且已经建好&lt;用户名&gt;.github.io仓库。」***</p>
+<p>在控制台这里输入<code>ssh-keygen -t rsa -C &quot;Your@email.com&quot;</code>，其中<code>Your@email.com</code>是你的邮箱，可以拿注册GitHub的邮箱。然后执行<code>cat ~/.ssh/id_rsa.pub</code>来查看SSH key。别忘了复制好ssh-rsa 后面的那一串字符串。</p>
+<p>接下来进入你的GitHub，点击你的右上角的用户头像并点击Settings，再选择SSH and GPG keys，点击New SSH key创建一个新的SSH链接，然后在Key这一文本框里粘贴你刚才复制的东西，最后点击Add SSH key。</p>
+<p>输入<code>ssh -T git@github.com</code>即可测试是否链接成功。</p>
+<p>如果看到它在向你打招呼，那就是连接成功了。</p>
+<h2 id="遇到了什么问题-怎么解决‽"> 遇到了什么问题？怎么解决‽</h2>
+<h3 id="md渲染问题"> Md渲染问题</h3>
+<p>我在执行<code>hexo g</code>时遇到了如下报错：</p>
+<div><pre><code>INFO  Validating config
+INFO  Start processing
+INFO  [Fluid] 读取 _config.yml 中 theme_config 配置项覆盖配置
+FATAL {
+  err: Template render error: (unknown path)
+    Error: expected end of comment, got end of file
+      at Object._prettifyError (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/lib.js:36:11)
+      at Template.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:538:21)
+      at Environment.renderString (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:380:17)
+      at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:236:16
+      at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
+      at Function.Promise.fromNode.Promise.fromCallback (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:209:30)
+      at Tag.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:235:20)
+      at Object.onRenderEnd (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/post.js:297:22)
+      at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/render.js:79:21
+      at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
+      at Promise._settlePromiseFromHandler (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:547:31)
+      at Promise._settlePromise (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:604:18)
+      at Promise._settlePromise0 (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:649:10)
+      at Promise._settlePromises (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:729:18)
+      at _drainQueueStep (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:93:12)
+      at _drainQueue (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:86:9)
+      at Async._drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:102:5)
+      at Immediate.Async.drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:15:14)
+      at processImmediate (node:internal/timers:464:21) {
+    cause: Template render error: (unknown path)
+      Error: expected end of comment, got end of file
+        at Object._prettifyError (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/lib.js:36:11)
+        at Template.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:538:21)
+        at Environment.renderString (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:380:17)
+        at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:236:16
+        at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
+        at Function.Promise.fromNode.Promise.fromCallback (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:209:30)
+        at Tag.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:235:20)
+        at Object.onRenderEnd (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/post.js:297:22)
+        at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/render.js:79:21
+        at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
+        at Promise._settlePromiseFromHandler (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:547:31)
+        at Promise._settlePromise (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:604:18)
+        at Promise._settlePromise0 (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:649:10)
+        at Promise._settlePromises (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:729:18)
+        at _drainQueueStep (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:93:12)
+        at _drainQueue (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:86:9)
+        at Async._drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:102:5)
+        at Immediate.Async.drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:15:14)
+        at processImmediate (node:internal/timers:464:21),
+    isOperational: true
+  }
+} Something&#39;s wrong. Maybe you can find the solution here: %s https://hexo.io/docs/troubleshooting.html
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br></div></div><p>经过查询资料，了解到这其实是渲染md文件的问题，需要修改一下渲染器的代码来解决渲染失败的问题。</p>
+<p>首先需要打开博客根目录下的node_modules/nunjucks/src/lexer.js，打开时会看到如下代码，我们需要修改一下这个红框中的内容：</p>
+<p><img src="/images/2021-05-07_14-28.png" alt="" /></p>
+<p>改成如下形式即可：</p>
+<div><pre><code><span>var</span> <span>VARIABLE_START</span> <span>=</span> <span>'{$'</span><span>;</span>
+<span>var</span> <span>VARIABLE_END</span> <span>=</span> <span>'$}'</span><span>;</span>
+<span>var</span> <span>COMMENT_START</span> <span>=</span> <span>'{##'</span><span>;</span>
+<span>var</span> <span>COMMENT_END</span> <span>=</span> <span>'##}'</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>不过缺点就是每次更新numjucks的话这个文件会被还原，需要再次修改。</p>
+<h3 id="如何将pdf挂在文章上"> 如何将pdf挂在文章上？</h3>
+<p>一种做法是安装hexo-pdf插件「执行<code>npm i --save hexo-pdf</code>」，然后在文章内要插入的位置中写<code>{% pdf YOURPDFURL %}</code>即可。</p>
+<p>另一种做法是使用HTML语法，不过未经过本人亲自测试。</p>
+<ol>
+<li>
+<p>将_config.yml中的post_asset_folder选项置为true。</p>
+</li>
+<li>
+<p>在文章中要插入的位置中写<code>&lt;object data=&quot;YOURPDFURL&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;</code></p>
+<blockquote>
+<p>这里不一定非用object标签，embed、iframe标签也一样；另外如果不能接受pdf的显示方式的话，可以自己手动调整height的参数值。</p>
+</blockquote>
+</li>
+</ol>
+<p>「注」：以上两种做法的YOURPDFURL就要替换成你要放的pdf文件的位置，可以是链接到其他网站的超链接，也可以是本地的相对路径。</p>
+<h3 id="如何绘制思维导图"> 如何绘制思维导图？</h3>
+<h2 id="¿要注意哪些问题"> ¿要注意哪些问题？</h2>
+<ul>
+<li>public文件夹是执行<code>hexo g</code>后生成的，这是为了后面执行<code>hexo d</code>时做的准备，你在_config.yml文件中写到的所有/img/最后都会链接到这个文件夹。如果你希望显示自己的图片的话一种做法是将这些图片复制到/img/文件夹下。</li>
+<li>执行<code>hexo clean</code>的时候会删除博客根目录下的public整个文件夹，这包括一切你存放在img文件夹下的所有图片，因此如果你经常执行这个语句的花需要提前做好相关备份。</li>
+<li>如果不希望总是做这些重复性工作，做法之一是写脚本，另一种做法便是在source文件夹下创建任意名称的文件夹，然后在这个新建的文件夹里存放图片，执行<code>hexo g</code>后会自动在public文件夹下生成相同文件夹（盲猜是直接复制过去），接下来你就可以在文档这里直接链接到这个文件夹的图片了。</li>
+</ul>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/black_hole_4k.jpg" type="image/jpeg"/>
+    </item>
+    <item>
       <title>Wasserstein Generative Adversarial Networks</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</guid>
@@ -2961,128 +3082,6 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
 </section>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/v2-3cfe84e6b6b58c00e013975fe649398e_b.jpg" type="image/jpeg"/>
-    </item>
-    <item>
-      <title>多灾多难的博客搭建过程</title>
-      <link>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</link>
-      <guid>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">多灾多难的博客搭建过程</source>
-      <pubDate>Fri, 07 May 2021 14:00:56 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="blog-building"> Blog Building</h1>
-<blockquote>
-<p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
-</blockquote>
-<h2 id="搭建博客的原因¿"> 搭建博客的原因¿</h2>
-<p>自从换了方向之后，发现我需要写的公式数量急剧增长，很多时候我都发现使用特殊符号是远不能满足这一需求的，比如如果我想打$$\int_a<sup>b$$、$$\frac{1}{N}\sum_{i=0}</sup>{n}{N_i}$$等等就非常难顶。。。</p>
-<h2 id="怎么搭建的博客¿"> 怎么搭建的博客¿</h2>
-<h3 id="初始安装"> 初始安装</h3>
-<p>首先需要安装好hexo以及其所需要的环境Node.js和包管理器npm，我选择的主题是fluid,简单轻便雅观，最重要的是原生支持LaTeX渲染！</p>
-<div><pre><code><span>sudo</span> pacman -S nodejs <span>npm</span>
-<span>cd</span> ~/your_blog
-<span>sudo</span> <span>npm</span> <span>install</span> -g hexo-cli --save
-<span>cd</span> <span>..</span>
-hexo init your_blog
-<span>cd</span> ~/your_blog/themes
-<span>mkdir</span> fluid <span>&amp;&amp;</span> <span>cd</span> fluid
-<span>git</span> clone https://github.com/fluid-dev/hexo-theme-fluid.git
-<span>cd</span> <span>..</span> <span>&amp;&amp;</span> <span>cd</span> <span>..</span>
-<span>npm</span> <span>install</span>
-hexo cl <span>&amp;&amp;</span> hexo g <span>&amp;&amp;</span> hexo s
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br></div></div><p>这时候你进入<a href="localhost:4000">你的博客</a>就可以看到你的网站啦！</p>
-<h3 id="ssh链接配置"> SSH链接配置</h3>
-<p>接下来我们要创建SSH链接。***「注意：此处的前提条件是你已经拥有GitHub账户且已经建好&lt;用户名&gt;.github.io仓库。」***</p>
-<p>在控制台这里输入<code>ssh-keygen -t rsa -C &quot;Your@email.com&quot;</code>，其中<code>Your@email.com</code>是你的邮箱，可以拿注册GitHub的邮箱。然后执行<code>cat ~/.ssh/id_rsa.pub</code>来查看SSH key。别忘了复制好ssh-rsa 后面的那一串字符串。</p>
-<p>接下来进入你的GitHub，点击你的右上角的用户头像并点击Settings，再选择SSH and GPG keys，点击New SSH key创建一个新的SSH链接，然后在Key这一文本框里粘贴你刚才复制的东西，最后点击Add SSH key。</p>
-<p>输入<code>ssh -T git@github.com</code>即可测试是否链接成功。</p>
-<p>如果看到它在向你打招呼，那就是连接成功了。</p>
-<h2 id="遇到了什么问题-怎么解决‽"> 遇到了什么问题？怎么解决‽</h2>
-<h3 id="md渲染问题"> Md渲染问题</h3>
-<p>我在执行<code>hexo g</code>时遇到了如下报错：</p>
-<div><pre><code>INFO  Validating config
-INFO  Start processing
-INFO  [Fluid] 读取 _config.yml 中 theme_config 配置项覆盖配置
-FATAL {
-  err: Template render error: (unknown path)
-    Error: expected end of comment, got end of file
-      at Object._prettifyError (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/lib.js:36:11)
-      at Template.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:538:21)
-      at Environment.renderString (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:380:17)
-      at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:236:16
-      at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
-      at Function.Promise.fromNode.Promise.fromCallback (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:209:30)
-      at Tag.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:235:20)
-      at Object.onRenderEnd (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/post.js:297:22)
-      at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/render.js:79:21
-      at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
-      at Promise._settlePromiseFromHandler (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:547:31)
-      at Promise._settlePromise (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:604:18)
-      at Promise._settlePromise0 (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:649:10)
-      at Promise._settlePromises (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:729:18)
-      at _drainQueueStep (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:93:12)
-      at _drainQueue (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:86:9)
-      at Async._drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:102:5)
-      at Immediate.Async.drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:15:14)
-      at processImmediate (node:internal/timers:464:21) {
-    cause: Template render error: (unknown path)
-      Error: expected end of comment, got end of file
-        at Object._prettifyError (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/lib.js:36:11)
-        at Template.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:538:21)
-        at Environment.renderString (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/nunjucks/src/environment.js:380:17)
-        at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:236:16
-        at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
-        at Function.Promise.fromNode.Promise.fromCallback (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:209:30)
-        at Tag.render (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/extend/tag.js:235:20)
-        at Object.onRenderEnd (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/post.js:297:22)
-        at /home/breeze_shane/Mydata/GitHub_Blog/node_modules/hexo/lib/hexo/render.js:79:21
-        at tryCatcher (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/util.js:16:23)
-        at Promise._settlePromiseFromHandler (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:547:31)
-        at Promise._settlePromise (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:604:18)
-        at Promise._settlePromise0 (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:649:10)
-        at Promise._settlePromises (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/promise.js:729:18)
-        at _drainQueueStep (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:93:12)
-        at _drainQueue (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:86:9)
-        at Async._drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:102:5)
-        at Immediate.Async.drainQueues (/home/breeze_shane/Mydata/GitHub_Blog/node_modules/bluebird/js/release/async.js:15:14)
-        at processImmediate (node:internal/timers:464:21),
-    isOperational: true
-  }
-} Something&#39;s wrong. Maybe you can find the solution here: %s https://hexo.io/docs/troubleshooting.html
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br></div></div><p>经过查询资料，了解到这其实是渲染md文件的问题，需要修改一下渲染器的代码来解决渲染失败的问题。</p>
-<p>首先需要打开博客根目录下的node_modules/nunjucks/src/lexer.js，打开时会看到如下代码，我们需要修改一下这个红框中的内容：</p>
-<p><img src="/images/2021-05-07_14-28.png" alt="" /></p>
-<p>改成如下形式即可：</p>
-<div><pre><code><span>var</span> <span>VARIABLE_START</span> <span>=</span> <span>'{$'</span><span>;</span>
-<span>var</span> <span>VARIABLE_END</span> <span>=</span> <span>'$}'</span><span>;</span>
-<span>var</span> <span>COMMENT_START</span> <span>=</span> <span>'{##'</span><span>;</span>
-<span>var</span> <span>COMMENT_END</span> <span>=</span> <span>'##}'</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>不过缺点就是每次更新numjucks的话这个文件会被还原，需要再次修改。</p>
-<h3 id="如何将pdf挂在文章上"> 如何将pdf挂在文章上？</h3>
-<p>一种做法是安装hexo-pdf插件「执行<code>npm i --save hexo-pdf</code>」，然后在文章内要插入的位置中写<code>{% pdf YOURPDFURL %}</code>即可。</p>
-<p>另一种做法是使用HTML语法，不过未经过本人亲自测试。</p>
-<ol>
-<li>
-<p>将_config.yml中的post_asset_folder选项置为true。</p>
-</li>
-<li>
-<p>在文章中要插入的位置中写<code>&lt;object data=&quot;YOURPDFURL&quot; type=&quot;application/pdf&quot; width=&quot;100%&quot; height=&quot;100%&quot;&gt;</code></p>
-<blockquote>
-<p>这里不一定非用object标签，embed、iframe标签也一样；另外如果不能接受pdf的显示方式的话，可以自己手动调整height的参数值。</p>
-</blockquote>
-</li>
-</ol>
-<p>「注」：以上两种做法的YOURPDFURL就要替换成你要放的pdf文件的位置，可以是链接到其他网站的超链接，也可以是本地的相对路径。</p>
-<h3 id="如何绘制思维导图"> 如何绘制思维导图？</h3>
-<h2 id="¿要注意哪些问题"> ¿要注意哪些问题？</h2>
-<ul>
-<li>public文件夹是执行<code>hexo g</code>后生成的，这是为了后面执行<code>hexo d</code>时做的准备，你在_config.yml文件中写到的所有/img/最后都会链接到这个文件夹。如果你希望显示自己的图片的话一种做法是将这些图片复制到/img/文件夹下。</li>
-<li>执行<code>hexo clean</code>的时候会删除博客根目录下的public整个文件夹，这包括一切你存放在img文件夹下的所有图片，因此如果你经常执行这个语句的花需要提前做好相关备份。</li>
-<li>如果不希望总是做这些重复性工作，做法之一是写脚本，另一种做法便是在source文件夹下创建任意名称的文件夹，然后在这个新建的文件夹里存放图片，执行<code>hexo g</code>后会自动在public文件夹下生成相同文件夹（盲猜是直接复制过去），接下来你就可以在文档这里直接链接到这个文件夹的图片了。</li>
-</ul>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/black_hole_4k.jpg" type="image/jpeg"/>
     </item>
     <item>
       <title>Changing Blog Theme</title>
@@ -7703,7 +7702,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -7728,7 +7727,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -7743,7 +7742,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8262,7 +8261,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8285,7 +8284,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8296,7 +8295,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8316,7 +8315,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8327,7 +8326,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8424,18 +8423,18 @@ $$
       <pubDate>Sun, 23 Jan 2022 01:26:08 GMT</pubDate>
     </item>
     <item>
-      <title>快速排序</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">快速排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:26:20 GMT</pubDate>
-    </item>
-    <item>
       <title>基数排序</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/RadixSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">基数排序</source>
       <pubDate>Sun, 23 Jan 2022 01:26:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>快速排序</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/Algorithms/SortAlgorithms/QuickSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">快速排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:26:20 GMT</pubDate>
     </item>
     <item>
       <title>选择排序</title>
@@ -9067,6 +9066,108 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/SequentialLinearList.png" type="image/png"/>
     </item>
     <item>
+      <title>顺序线性栈</title>
+      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/</link>
+      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">顺序线性栈</source>
+      <pubDate>Wed, 22 Dec 2021 16:45:35 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
+<p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
+<h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
+<p>顾名思义，就是使用顺序线性表来实现栈的功能。</p>
+<p>结构体定义如下：</p>
+<div><pre><code><span>typedef</span> <span>int</span> DataType<span>;</span>
+<span>struct</span> <span>seqStack</span> <span>{</span>
+  <span>int</span> MAXNUM<span>;</span>
+  <span>int</span> top<span>;</span>
+  DataType <span>*</span>element<span>;</span>
+<span>}</span><span>;</span>
+
+<span>typedef</span> <span>struct</span> <span>seqStack</span><span>*</span> PseqStack<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="顺序线性栈的基本操作与实现"> 顺序线性栈的基本操作与实现</h2>
+<h3 id="创建"> 创建</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>PseqStack <span>createNullStack_seq</span><span>(</span><span>int</span> m<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> m <span>&lt;=</span> <span>0</span> <span>)</span> <span>return</span> <span>NULL</span><span>;</span>
+    PseqStack stack <span>=</span> <span>(</span>PseqStack<span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>seqStack</span><span>)</span><span>)</span><span>;</span>
+    stack<span>-></span>MAXNUM <span>=</span> m<span>;</span>
+    stack<span>-></span>top <span>=</span> <span>0</span><span>;</span>
+    stack<span>-></span>element <span>=</span> <span>(</span>DataType<span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span>DataType<span>)</span> <span>*</span> stack<span>-></span>MAXNUM<span>)</span><span>;</span>
+    <span>return</span> stack<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="入栈"> 入栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code><span>int</span> <span>isNullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>!</span>L <span>)</span>  <span>return</span> <span>-</span><span>1</span><span>;</span> 
+    <span>else</span> <span>if</span> <span>(</span> L<span>-></span>top <span>-</span> <span>1</span> <span>&lt;</span> <span>0</span><span>)</span> <span>return</span> <span>1</span><span>;</span>
+    <span>else</span> <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+
+
+<span>//第三关 </span>
+<span>int</span> <span>isFullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> L<span>-></span>top <span>==</span> L<span>-></span>MAXNUM <span>)</span> <span>return</span> <span>1</span><span>;</span>
+    <span>else</span> <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+
+
+<span>//第四关</span>
+<span>int</span> <span>push_seq</span><span>(</span>PseqStack L <span>,</span>DataType x<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>||</span> <span>isFullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
+    <span>else</span> <span>{</span>
+      L<span>-></span>element<span>[</span>L<span>-></span>top<span>]</span> <span>=</span> x<span>;</span>
+      L<span>-></span>top<span>++</span><span>;</span>
+      <span>return</span> <span>1</span><span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="出栈"> 出栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>DataType <span>pop_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>!</span><span>(</span>L<span>-></span>top<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
+    <span>int</span> temp <span>=</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span> <span>1</span><span>]</span><span>;</span>
+    L<span>-></span>top<span>--</span><span>;</span>
+    <span>return</span> temp<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="读取栈顶元素"> 读取栈顶元素</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>DataType <span>top_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+  <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
+  <span>return</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span><span>1</span><span>]</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="销毁栈"> 销毁栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code><span>int</span> <span>destroystack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
+    <span>free</span><span>(</span>L<span>-></span>element<span>)</span><span>;</span>
+    <span>return</span> L<span>-></span>top<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h2 id="顺序线性栈的优缺点"> 顺序线性栈的优缺点</h2>
+<p><strong>优点</strong>：</p>
+<p><strong>缺点</strong>：</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>单向链表</title>
       <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</link>
       <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/SingleLinkedList/</guid>
@@ -9250,108 +9351,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <h2 id="单链表对应的一些难题"> 单链表对应的一些难题--&gt;<a href=""></a></h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/SingleLinkedList.png" type="image/png"/>
-    </item>
-    <item>
-      <title>顺序线性栈</title>
-      <link>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/</link>
-      <guid>https://breezeshane.github.io/DataStructuresandAlgorithms/DataStructures/StackBasedonSequentialLinearList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">顺序线性栈</source>
-      <pubDate>Wed, 22 Dec 2021 16:45:35 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
-<p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
-<h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
-<p>顾名思义，就是使用顺序线性表来实现栈的功能。</p>
-<p>结构体定义如下：</p>
-<div><pre><code><span>typedef</span> <span>int</span> DataType<span>;</span>
-<span>struct</span> <span>seqStack</span> <span>{</span>
-  <span>int</span> MAXNUM<span>;</span>
-  <span>int</span> top<span>;</span>
-  DataType <span>*</span>element<span>;</span>
-<span>}</span><span>;</span>
-
-<span>typedef</span> <span>struct</span> <span>seqStack</span><span>*</span> PseqStack<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="顺序线性栈的基本操作与实现"> 顺序线性栈的基本操作与实现</h2>
-<h3 id="创建"> 创建</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>PseqStack <span>createNullStack_seq</span><span>(</span><span>int</span> m<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> m <span>&lt;=</span> <span>0</span> <span>)</span> <span>return</span> <span>NULL</span><span>;</span>
-    PseqStack stack <span>=</span> <span>(</span>PseqStack<span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>seqStack</span><span>)</span><span>)</span><span>;</span>
-    stack<span>-></span>MAXNUM <span>=</span> m<span>;</span>
-    stack<span>-></span>top <span>=</span> <span>0</span><span>;</span>
-    stack<span>-></span>element <span>=</span> <span>(</span>DataType<span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span>DataType<span>)</span> <span>*</span> stack<span>-></span>MAXNUM<span>)</span><span>;</span>
-    <span>return</span> stack<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="入栈"> 入栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code><span>int</span> <span>isNullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>!</span>L <span>)</span>  <span>return</span> <span>-</span><span>1</span><span>;</span> 
-    <span>else</span> <span>if</span> <span>(</span> L<span>-></span>top <span>-</span> <span>1</span> <span>&lt;</span> <span>0</span><span>)</span> <span>return</span> <span>1</span><span>;</span>
-    <span>else</span> <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-
-
-<span>//第三关 </span>
-<span>int</span> <span>isFullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> L<span>-></span>top <span>==</span> L<span>-></span>MAXNUM <span>)</span> <span>return</span> <span>1</span><span>;</span>
-    <span>else</span> <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-
-
-<span>//第四关</span>
-<span>int</span> <span>push_seq</span><span>(</span>PseqStack L <span>,</span>DataType x<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>||</span> <span>isFullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
-    <span>else</span> <span>{</span>
-      L<span>-></span>element<span>[</span>L<span>-></span>top<span>]</span> <span>=</span> x<span>;</span>
-      L<span>-></span>top<span>++</span><span>;</span>
-      <span>return</span> <span>1</span><span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="出栈"> 出栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>DataType <span>pop_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>!</span><span>(</span>L<span>-></span>top<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
-    <span>int</span> temp <span>=</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span> <span>1</span><span>]</span><span>;</span>
-    L<span>-></span>top<span>--</span><span>;</span>
-    <span>return</span> temp<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="读取栈顶元素"> 读取栈顶元素</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>DataType <span>top_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-  <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
-  <span>return</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span><span>1</span><span>]</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="销毁栈"> 销毁栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code><span>int</span> <span>destroystack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
-    <span>free</span><span>(</span>L<span>-></span>element<span>)</span><span>;</span>
-    <span>return</span> L<span>-></span>top<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h2 id="顺序线性栈的优缺点"> 顺序线性栈的优缺点</h2>
-<p><strong>优点</strong>：</p>
-<p><strong>缺点</strong>：</p>
-]]></content:encoded>
     </item>
     <item>
       <title>链式栈</title>
@@ -9849,6 +9848,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <li><a href="https://www.modb.pro/db/134175" target="_blank" rel="noopener noreferrer">数据库索引原理，读懂这篇文章就可以跟面试官掰掰手腕了！</a></li>
 <li><a href="https://blog.csdn.net/buhuikanjian/article/details/53105416" target="_blank" rel="noopener noreferrer">数据库--视图的基本概念以及作用</a></li>
 <li><a href="https://zhuanlan.zhihu.com/p/372569011" target="_blank" rel="noopener noreferrer">数据库视图是什么？视图的作用？</a></li>
+<li><a href="https://cloud.tencent.com/developer/article/1492397" target="_blank" rel="noopener noreferrer">SQL模糊查询的四种匹配模式</a></li>
+<li><a href="https://blog.csdn.net/linan_pin/article/details/70154416" target="_blank" rel="noopener noreferrer">数据库学习 - like（模糊查询）</a></li>
+<li><a href="https://bbs.huaweicloud.com/blogs/242256" target="_blank" rel="noopener noreferrer">MySQL 数据库 like 语句通配符模糊查询小结</a></li>
+<li><a href="https://uhomework.com/%E5%A6%82%E4%BD%95%E5%AE%9E%E7%8E%B0mysql%E6%95%B0%E6%8D%AE%E5%BA%93%E5%8D%95%E8%A1%A8%E5%A4%9A%E5%AD%97%E6%AE%B5%E7%9A%84%E6%A8%A1%E7%B3%8A%E6%9F%A5%E8%AF%A2%EF%BC%9F/" target="_blank" rel="noopener noreferrer">如何实现mysql数据库单表多字段的模糊查询？</a></li>
+<li><a href="https://www.51cto.com/article/614332.html" target="_blank" rel="noopener noreferrer">MySQL模糊搜索的几种姿势</a></li>
+<li><a href="https://blog.csdn.net/qq_39390545/article/details/106414765" target="_blank" rel="noopener noreferrer">MySQL模糊查询用法大全（正则、通配符、内置函数等）</a></li>
+<li><a href="https://ningyu1.github.io/20201230/encrypted-data-fuzzy-query.html" target="_blank" rel="noopener noreferrer">讲一讲加密数据如何进行模糊查询</a></li>
 </ol>
 </details>
 <h2 id="mysql安装与配置"> MySQL安装与配置</h2>
@@ -9945,22 +9951,6 @@ secure_file_priv =
 <div><pre><code>LOAD DATA LOCAL INFILE &#39;/home/breezeshane/AppData/Subjects/Database/product.csv&#39; INTO TABLE &lt;NAME_OF_TB&gt; FIELDS TERMINATED BY &#39;,&#39; LINES TERMINATED BY &#39;\n&#39; IGNORE 1 ROWS;
 </code></pre>
 <div><span>1</span><br></div></div><p>这里的命令含义是：通过给出的路径获取本地文件并从中加载数据到表<code>&lt;NAME_OF_TB&gt;</code>里(<code>LOAD DATA LOCAL INFILE '/home/breezeshane/AppData/Subjects/Database/product.csv' INTO TABLE &lt;NAME_OF_TB&gt;</code>)，数据的分隔符是<code>,</code>(<code>FIELDS TERMINATED BY ','</code>)，行分隔符是<code>\n</code>(<code>LINES TERMINATED BY '\n'</code>)，最后忽略掉第一行的内容(<code>IGNORE 1 ROWS</code>)。</p>
-<h2 id="mysql的一些命令"> MySQL的一些命令</h2>
-<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
-<ol>
-<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
-<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
-<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
-</ol>
-<p>实际上需要用什么去查官方文档就好了。下面给出常见语句的模板:</p>
-<div><pre><code><span>Select</span> <span>&lt;</span>RowName<span>></span><span>|</span>expr<span>|</span>agfunc<span>(</span><span>&lt;</span>RowName<span>></span><span>)</span> <span>[</span><span>[</span><span>,</span> <span>&lt;</span>RowName<span>></span><span>|</span>expr<span>|</span>agfunc<span>(</span><span>&lt;</span>RowName<span>></span><span>)</span><span>]</span> <span>.</span><span>.</span><span>.</span> <span>]</span>
-<span>From</span> TableName1 <span>[</span><span>,</span> TableName2 <span>.</span><span>.</span><span>.</span> <span>]</span>
-<span>[</span> <span>Where</span> <span>&lt;</span>SearchingConditions<span>></span> <span>]</span>
-<span>[</span><span>Group</span> <span>by</span> <span>&lt;</span>GroupingConditions<span>></span> <span>[</span> <span>Having</span> <span>&lt;</span>FilteringConditions<span>></span><span>]</span><span>]</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>expr</code>可以是常量, 列名或由常量, 列名, 特殊函数及算术运算符构成的算数运算式. 特殊函数的使用需要结合DBMS的文档. <code>agfunc()</code>是一些聚集函数.</p>
 <h2 id="schema的浅析"> Schema的浅析</h2>
 <p><strong>模式与数据库、表的关系</strong>: 一个数据库(Database)内有多个模式(Schema), 一个模式有多个表(Table).</p>
 <p>定义模式实际上定义了一个命名空间, 在这个空间中可以定义该模式包含的数据库对象，例如基本表、视图、索引等.</p>
@@ -10034,6 +10024,180 @@ secure_file_priv =
 <li>性能差: 数据库必须把视图查询转化成对基本表的查询，如果这个视图是由一个复杂的多表查询所定义，那么，即使是视图的一个简单查询，数据库也要把它变成一个复杂的结合体，需要花费一定的时间。</li>
 <li>修改受限: 当用户试图修改视图的某些信息时，数据库必须把它转化为对基本表的某些信息的修改，对于简单的视图来说，这是很方便的，但是，对于比较复杂的试图，可能是不可修改的。</li>
 </ol>
+<h2 id="数据操作"> 数据操作</h2>
+<p>SQL语句我第一次接触，因此打算记录下来（因为我知道我大有可能不打算常用它，总会忘掉的）。</p>
+<ol>
+<li><strong>删除数据表/数据库</strong>：<code>DROP TABLE &lt;NAME_OF_TB&gt;</code>/<code>DROP DATABASE &lt;NAME_OF_DB&gt;</code>。</li>
+<li><strong>查看表的属性及类型</strong>：<code>DESCRIBE &lt;NAME_OF_TB&gt;</code>/<code>SHOW COLUMNS FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>查看整表</strong>：<code>SELECT * FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>清空数据表</strong>：<code>truncate &lt;NAME_OF_TB&gt;</code>/<code>DELETE FROM &lt;NAME_OF_TB&gt;</code>。</li>
+<li><strong>删除表中指定行</strong>：<code>DELETE FROM &lt;NAME_OF_TB&gt; WHERE &lt;Options&gt;</code>。</li>
+</ol>
+<p>实际上需要用什么去查官方文档就好了。下面给出常见语句的模板:</p>
+<div><pre><code><span>Select</span> <span>&lt;</span>RowName<span>></span><span>|</span>expr<span>|</span>agfunc<span>(</span><span>&lt;</span>RowName<span>></span><span>)</span> <span>[</span><span>[</span><span>,</span> <span>&lt;</span>RowName<span>></span><span>|</span>expr<span>|</span>agfunc<span>(</span><span>&lt;</span>RowName<span>></span><span>)</span><span>]</span> <span>.</span><span>.</span><span>.</span> <span>]</span>
+<span>From</span> TableName1 <span>[</span><span>,</span> TableName2 <span>.</span><span>.</span><span>.</span> <span>]</span>
+<span>[</span> <span>Where</span> <span>&lt;</span>SearchingConditions<span>></span> <span>]</span>
+<span>[</span><span>Group</span> <span>by</span> <span>&lt;</span>GroupingConditions<span>></span> <span>[</span> <span>Having</span> <span>&lt;</span>FilteringConditions<span>></span><span>]</span><span>]</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>expr</code>可以是常量, 列名或由常量, 列名, 特殊函数及算术运算符构成的算数运算式. 特殊函数的使用需要结合DBMS的文档. <code>agfunc()</code>是一些聚集函数.</p>
+<details><summary>一些运算操作对应的语句参考</summary>
+<p>首先要强调一下, 这里的语句未必在一些数据库上适用, 如果要了解这些差异性内容应该去查阅官方文档.</p>
+<p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> <span>*</span> <span>from</span> R
+<span>union</span>
+<span>select</span> <span>*</span> <span>from</span> S
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> <span>*</span> <span>from</span> R
+<span>except</span>
+<span>select</span> <span>*</span> <span>from</span> S
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∩</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> <span>*</span> <span>from</span> R
+<span>intersect</span>
+<span>select</span> <span>*</span> <span>from</span> S
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> R<span>.</span><span>*</span><span>,</span> S<span>.</span><span>*</span> <span>from</span> R<span>,</span> S
+<span>select</span> R<span>.</span><span>*</span><span>,</span> S<span>.</span><span>*</span> <span>from</span> R <span>cross</span> <span>join</span> S
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.03588em;">σ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.07153em;">C</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>:</p>
+<div><pre><code><span>select</span> <span>*</span> <span>from</span> R <span>where</span> C
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.0497100000000001em;vertical-align:-0.29971000000000003em;"></span><span><span style="position:relative;top:-0.0000050000000000050004em;">∏</span><span><span><span><span style="height:0.17862099999999992em;"><span style="top:-2.40029em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.29971000000000003em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>:</p>
+<div><pre><code><span>select</span> L <span>from</span> R
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>Π</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span><span style="margin-right:0.03588em;">σ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.07153em;">C</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>))</span></span></span></span>:</p>
+<div><pre><code><span>select</span> L <span>from</span> R <span>where</span> C
+<span>select</span> L <span>from</span> <span>(</span><span>select</span> <span>*</span> <span>from</span> R <span>where</span> C<span>)</span> S   
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span><span>⋈</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>A</span><span>=</span><span style="margin-right:0.05017em;">B</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> R<span>.</span><span>*</span><span>,</span> S<span>.</span><span>*</span> <span>from</span> R <span>join</span> S <span>on</span> R<span>.</span>A<span>=</span>S<span>.</span>B
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68833em;vertical-align:-0.005em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>⋈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> R<span>.</span><span>*</span><span>,</span> S<span>.</span><span>*</span> <span>from</span> R <span>join</span> S <span>on</span> R<span>.</span>A<span>=</span>S<span>.</span>A
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span><span>⋉</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.07153em;">C</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> R<span>.</span><span>*</span><span>,</span> S<span>.</span><span>*</span> <span>from</span> R <span>left</span> <span>outer</span> <span>join</span> S <span>on</span> C
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span><span>⋊</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.07153em;">C</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>:</p>
+<div><pre><code><span>select</span> R<span>.</span><span>*</span><span>,</span> S<span>.</span><span>*</span> <span>from</span> R <span>right</span> <span>outer</span> <span>join</span> S <span>on</span> C
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03785em;">δ</span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>:</p>
+<div><pre><code><span>select</span> <span>distinct</span> <span>*</span> <span>from</span> R
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.1132em;">τ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.1132em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>:</p>
+<div><pre><code><span>select</span> <span>*</span> <span>from</span> R <span>order</span> <span>by</span> L
+</code></pre>
+<div><span>1</span><br></div></div><p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.036108em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.05556em;">γ</span><span><span><span><span style="height:0.3361079999999999em;"><span style="top:-2.5500000000000003em;margin-left:-0.05556em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>L</span><span>,</span><span style="margin-right:0.10764em;">f</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>:</p>
+<div><pre><code><span>select</span> L<span>,</span>f <span>from</span> R <span>group</span> <span>by</span> L <span>[</span> <span>having</span> <span>&lt;</span>Conditions<span>></span> <span>]</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>表示任意一个聚合算子.</p>
+</details>
+<h3 id="深入使用条件表达式"> 深入使用条件表达式</h3>
+<p>SQL语句中有确定值范围的谓词: <code>BETWEEN ... AND ...</code></p>
+<p>SQL语句也有确定元素属于集合的谓词: <code>IN</code></p>
+<p>SQL查询语句还支持模糊查询, 详情如下.</p>
+<p><strong>SQL模糊查询</strong>:</p>
+<p>四种匹配模式:</p>
+<ol>
+<li><code>%</code> : 表示任意0个或多个字符，可匹配任意类型和长度的字符。</li>
+<li><code>_</code> : 表示任意单个字符。</li>
+<li><code>[ ]</code> : 表示括号内所列字符中的一个.</li>
+<li><code>[^ ]</code> : 表示不在括号所列之内的单个字符。</li>
+</ol>
+<blockquote>
+<p><strong>注</strong>: 如果<code>[ ]</code>或者<code>[^ ]</code>内含一系列连续字符集的话, 可以用<code>-</code>来简洁表示, 如<code>0123456789</code>就可以直接写成<code>0-9</code>即可.</p>
+</blockquote>
+<div><p>注意</p>
+<p>SQL语句的<code>like</code>关键字主要支持前两个<code>%</code>和<code>_</code>, <code>[ ]</code>和<code>[^ ]</code>并不受支持. 相应地这两个都受<code>regexp</code>和<code>rlike</code>支持.</p>
+<p>如果待匹配的字符内含<code>%</code>或<code>_</code>, 这时应该使用<code>ESCAPE</code>关键字来自行定义转义符号, 然后使用这个转义符号来完成字符转义, 使用法则和C语言的转义类似.</p>
+</div>
+<p><code>regexp</code>关键字比<code>like</code>关键字要更加细粒化, 匹配更加具体, 因为它支持正则表达式匹配, 几乎可以满足所有需求.</p>
+<p><strong>SQL统计查询结果</strong>:</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">函数名</th>
+<th style="text-align:center">使用格式</th>
+<th style="text-align:center">描述</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center">COUNT</td>
+<td style="text-align:center"><code>COUNT( [DISTINCT\|ALL] * )</code></td>
+<td style="text-align:center">统计元组个数</td>
+</tr>
+<tr>
+<td style="text-align:center">COUNT</td>
+<td style="text-align:center"><code>COUNT( [DISTINCT\|ALL] &lt;RowName&gt; )</code></td>
+<td style="text-align:center">统计一列中值的个数</td>
+</tr>
+<tr>
+<td style="text-align:center">SUM</td>
+<td style="text-align:center"><code>SUM( [DISTINCT\|ALL] &lt;RowName&gt; )</code></td>
+<td style="text-align:center">计算一列值的总和</td>
+</tr>
+<tr>
+<td style="text-align:center">AVG</td>
+<td style="text-align:center"><code>AVG( [DISTINCT\|ALL] &lt;RowName&gt; )</code></td>
+<td style="text-align:center">计算一列值的平均值</td>
+</tr>
+<tr>
+<td style="text-align:center">MAX</td>
+<td style="text-align:center"><code>MAX( [DISTINCT\|ALL] &lt;RowName&gt; )</code></td>
+<td style="text-align:center">求一列值的函数名最大值</td>
+</tr>
+<tr>
+<td style="text-align:center">MIN</td>
+<td style="text-align:center"><code>MIN( [DISTINCT\|ALL] &lt;RowName&gt; )</code></td>
+<td style="text-align:center">求一列值的最小值</td>
+</tr>
+</tbody>
+</table>
+<p><strong>SQL的其他查询</strong>:</p>
+<ul>
+<li>如果涉及到空值的查询, 我们使用谓词<code>IS NULL</code>或<code>IS NOT NULL</code>.</li>
+<li>逻辑运算符<code>AND</code>优先级要比<code>OR</code>要高, 但可以使用<code>()</code>来决定查询条件的各部分优先级.</li>
+<li><code>ORDER BY</code>子句中<code>ASC</code>表示升序, 而<code>DESC</code>表示降序, 缺省值为<code>ASC</code>. 如果排序列内含有空值, <code>ASC</code>会将空值放在最后显示, <code>DESC</code>则会将空值放在首处显示.</li>
+</ul>
+<p><strong>SQL数据更新与删除</strong>:</p>
+<ul>
+<li><code>INSERT</code>:<div><pre><code><span>insert</span>
+<span>into</span> <span>&lt;</span>TableName<span>></span> <span>[</span> <span>(</span> <span>&lt;</span>Attr1<span>></span> <span>[</span><span>,</span> <span>&lt;</span>Attr2<span>></span> <span>]</span> <span>.</span><span>.</span><span>.</span> <span>)</span> <span>]</span>
+<span>values</span><span>(</span> <span>&lt;</span>ConstVar1<span>></span> <span>[</span><span>,</span> <span>&lt;</span>ConstVar2<span>></span> <span>]</span> <span>.</span><span>.</span><span>.</span> <span>)</span>
+
+<span>insert</span>
+<span>into</span> <span>&lt;</span>TableName<span>></span> <span>[</span> <span>(</span> <span>&lt;</span>Attr1<span>></span> <span>[</span><span>,</span> <span>&lt;</span>Attr2<span>></span> <span>]</span> <span>.</span><span>.</span><span>.</span> <span>)</span> <span>]</span>
+<span>&lt;</span>Subquery<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div></li>
+<li><code>UPDATE</code>:<div><pre><code><span>update</span> <span>&lt;</span>TableName<span>></span>
+<span>set</span> <span>&lt;</span>RowName<span>></span><span>-</span><span>&lt;</span>Expression<span>></span> <span>[</span><span>,</span> <span>&lt;</span>RowName<span>></span><span>-</span><span>&lt;</span>Expression<span>></span> <span>]</span> <span>.</span><span>.</span><span>.</span>
+<span>[</span><span>where</span> <span>&lt;</span>Conditions<span>></span><span>]</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></li>
+<li><code>DELETE</code>:<div><pre><code><span>delete</span>
+<span>from</span> <span>&lt;</span>TableName<span>></span>
+<span>[</span><span>where</span> <span>&lt;</span>Conditions<span>></span><span>]</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></li>
+</ul>
+<div><p>注意</p>
+<p>RDBMS在执行<strong>插入</strong>语句时会检查所插元组是否破坏表上已定义的完整性规则:</p>
+<ul>
+<li><strong>实体完整性</strong></li>
+<li><strong>参照完整性</strong></li>
+<li><strong>用户定义的完整性</strong>: <code>NOT NULL</code>约束, <code>UNIQUE</code>约束, 值域约束</li>
+</ul>
+<p>RDBMS在执行<strong>修改</strong>语句时会检查修改操作是否破坏表上已定义的完整性规则:</p>
+<ul>
+<li><strong>实体完整性</strong></li>
+<li><strong>主码不允许修改</strong></li>
+<li><strong>用户定义的完整性</strong>: <code>NOT NULL</code>约束, <code>UNIQUE</code>约束, 值域约束</li>
+</ul>
+</div>
 ]]></content:encoded>
     </item>
     <item>
@@ -10113,66 +10277,50 @@ secure_file_priv =
 <tr>
 <th style="text-align:center">符号</th>
 <th style="text-align:center">含义</th>
+<th style="text-align:center">符号</th>
+<th style="text-align:center">含义</th>
+<th style="text-align:center">符号</th>
+<th style="text-align:center">含义</th>
 </tr>
 </thead>
 <tbody>
 <tr>
 <td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>×</span></span></span></span></td>
 <td style="text-align:center">笛卡尔积</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∪</span></span></span></span></td>
-<td style="text-align:center">并</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∩</span></span></span></span></td>
-<td style="text-align:center">交</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>−</span></span></span></span></td>
-<td style="text-align:center">差</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.51em;vertical-align:-0.005em;"></span><span>⋈</span></span></span></span></td>
-<td style="text-align:center">连接</td>
-</tr>
-<tr>
 <td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>÷</span></span></span></span></td>
 <td style="text-align:center">除</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.00001em;vertical-align:-0.25001em;"></span><span style="position:relative;top:-0.0000050000000000050004em;">∏</span></span></span></span></td>
-<td style="text-align:center">投影</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">σ</span></span></span></span></td>
-<td style="text-align:center">选择</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>ρ</span></span></span></span></td>
-<td style="text-align:center">重命名</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟕</span></span></span></span></td>
-<td style="text-align:center">左外连接</td>
-</tr>
-<tr>
 <td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟖</span></span></span></span></td>
 <td style="text-align:center">右外连接</td>
 </tr>
 <tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∪</span></span></span></span></td>
+<td style="text-align:center">并</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.00001em;vertical-align:-0.25001em;"></span><span style="position:relative;top:-0.0000050000000000050004em;">∏</span></span></span></span></td>
+<td style="text-align:center">投影</td>
 <td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟗</span></span></span></span></td>
 <td style="text-align:center">全外连接</td>
 </tr>
 <tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∩</span></span></span></span></td>
+<td style="text-align:center">交</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">σ</span></span></span></span></td>
+<td style="text-align:center">选择</td>
 <td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66334em;vertical-align:-0.08167em;"></span><span>⋉</span></span></span></span></td>
 <td style="text-align:center">左半连接</td>
 </tr>
 <tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>−</span></span></span></span></td>
+<td style="text-align:center">差</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>ρ</span></span></span></span></td>
+<td style="text-align:center">重命名</td>
 <td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66334em;vertical-align:-0.08167em;"></span><span>⋊</span></span></span></span></td>
 <td style="text-align:center">右半连接</td>
 </tr>
 <tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.51em;vertical-align:-0.005em;"></span><span>⋈</span></span></span></span></td>
+<td style="text-align:center">连接</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟕</span></span></span></span></td>
+<td style="text-align:center">左外连接</td>
 <td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.46528em;vertical-align:0em;"></span><span>▹</span></span></span></span></td>
 <td style="text-align:center">反连接/反半连接</td>
 </tr>
@@ -13316,6 +13464,129 @@ setfacl --restore <span>&lt;</span>YourDirectory<span>></span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>记将旧电脑改建成服务器的过程</title>
+      <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
+      <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记将旧电脑改建成服务器的过程</source>
+      <pubDate>Tue, 04 Jan 2022 12:27:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
+<p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
+<h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
+<div><pre><code>The system found unauthorized changes on the firmware, operating system of UEFI drivers .
+
+Press [N] to run the next boot device,or enter directly to BIOS Setup if there are no other boot devices installed .
+
+Go to BIOS Setup &gt; Advanced &gt; Boot and change the current boot device into other secured boot devices .
+_
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>它在告诉我系统发现使用了未经授权的变更，要求我使用其他启动盘启动。个人经验推断认为是安全启动是开启状态，因而它会针对授权问题进行检查，于是我把它关掉了，果然就可以启动了。</p>
+<p>进入BIOS后按下<kbd>F7</kbd>进入高级模式，然后切换到启动选项卡(Boot)，下选安全启动选项(Secure Boot)，有密钥管理(Key Management)的子选项，将安全启动密钥(Secure Boot keys)删除掉即可，删除后你会发现安全启动已经关闭了。出来后把系统启动类型修改为其他操作系统。这时重启一下系统就好。这样U盘的启动就能进去了。</p>
+<p>因为我打算将这台机器用作服务器，因此我就应该选择安装ArcoLinuxD版本。正如官网介绍的ArcoLinuxD，没有桌面，没有服务，仅有内核，这正合我的意愿。</p>
+<p>其实是我尝试过安装带桌面版的ArcoLinuxB，但遇到了TLP Startup/shutdown死机问题，多半是显卡驱动问题，但为了绕开这种难解决的问题，我才直接安装ArcoLinuxD。但是奇怪的是，虽然官方介绍的ArcoLinuxD没有桌面系统也没有服务，就是命令行，但是安装的时候却是使用图形界面的，在这里我也同样遇到了TLP卡死问题，于是我就去一查究竟，到底TLP是啥，为什么会卡死？</p>
+<p>后来查询才知道，TLP是Linux下优秀的高级电源管理功能，之所以会卡死，确实是因为硬件设备太过老旧，如今的系统已经不能很好地支持了，准确说是Arch系对老机器的兼容性差。不过，仅仅知道这些，问题还是不能解决，但我最后成功绕开了这个问题，只需要使用Safe Graphics即可正常进入。而后一如既往地，设定系统所在的分区挂载到<code>/</code>下，系统引导分区挂载到<code>/boot/efi</code>下，然后开始安装即可。</p>
+<h2 id="终端无线连接"> 终端无线连接</h2>
+<p>等过许久之后，当我尝试进行初始配置，换pacman镜像源、调整yay镜像源之后尝试系统更新，发现无论如何都是失败，最后我才想起来，ArcoLinuxD并没有网络连接服务，因此我需要先连接上网络，于是我开始花费将近48小时去尝试连接WIFI……</p>
+<p>经过我相当长的时间去查询资料、文档，浏览相关网站后，最后才知道，原来是这样：</p>
+<p>因为系统刚开始是什么都没有的，因此使用的连接方式非常原始，我们采用<code>wpa_supplicant</code>来完成连接。</p>
+<ol>
+<li>
+<p>首先我们要查看无线网卡的相关信息，需要执行<code>iwconfig</code>来查看，注意，从输出信息中找到你的网卡ID，记好它，后面要经常用，如果实在觉得很难记，你可以临时创建一个变量来保存，例：<code>wireless_id=&lt;你的网卡ID&gt;</code>，这样你后面使用的时候就用<code>$wireless_id</code>来代替即可，为了便于描述，后面我都这样写了。</p>
+</li>
+<li>
+<p>通常情况下刚刚使用的系统是没有启动无线网卡的，因此我们要手动启动无线网卡：<code>ip link set $wireless_id up</code>。</p>
+</li>
+<li>
+<p>接下来我们需要扫描当前地点所有的WIFI连接点，执行<code>iwlist $wireless_id scan</code>。</p>
+</li>
+<li>
+<p>确定你要连接的WIFI点后，这时候就需要着手开始连接了。当下我们绝大多数使用的WIFI都是使用WPA/WPA2加密的，少数是开放的，另外一小部分才是使用WEP加密的。由于我要连接的WIFI是使用WPA/WPA2加密的，因此我们使用<code>wpa_supplicant</code>来创建连接。</p>
+<p><em>如果是开放WIFI，只需要使用<code>iwconfig $wireless_id essid &lt;要连接的开放WIFI的SSID&gt;</code>即可；</em></p>
+<p><em>而若是使用WEP加密的，则需要使用<code>iwconfig essid &lt;要连接的WIFI的SSID&gt; key &lt;该WIFI对应的密码&gt;</code>即可；</em></p>
+<p>如果是使用WPA/WPA2加密方式，我们常常能看到这样的教程：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span> <span>></span> /etc/wpa_supplicant.conf
+wpa_supplicant -B -i <span>$wireless_id</span> -c /etc/wpa_supplicant.conf
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>当时我还什么都不懂的时候，就是简单照做一下，结果发现，我根本就无法完成这些，因为我没有这种权限，甚至是我加了sudo，也依然无法完成，报错的原因都是<code>Permission denied</code>。于是我再去四处搜索，看到有人是这样写的：</p>
+<div><pre><code>wpa_supplicant -B -i <span>$wireless_id</span> -c<span>&lt;</span><span>(</span>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span><span>)</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>联系我之前所学的shell编程基础知识就发现，其实我不必非要创建那个wpa_supplicant.conf文件，我只是需要传给wpa_supplicant即可，所以才会使用<code>&lt;(..)</code>来实现。<code>&lt;(..)</code>实际上就是将括号内的命令执行结果输出到<code>/dev/fd/63</code>后再传送给箭头指向的前一个命令。
+当我执行这个命令的时候发现，还是报错，这回的报错是</p>
+<div><pre><code> Successfully initialized wpa_supplicant
+ Failed to <span>open</span> config <span>file</span> <span>'/dev/fd/63'</span>, error: No such <span>file</span> or directory
+ Failed to <span>read</span> or parse configuration <span>'/dev/fd/63'</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><a href="https://unix.stackexchange.com/questions/279545/failed-to-open-config-file-dev-fd-63-error-no-such-file-or-directory-for-wp" target="_blank" rel="noopener noreferrer">查询</a>之后才知道：</p>
+<blockquote>
+<p>Process substitution &lt;(…) creates a pipe, uses /dev/fd to give a path that's equivalent to the file descriptor where the pipe is, and passes the file name as an argument to the program. Here the program is sudo, and it passes that argument (which is just a string, as far as it's concerned) to wpa_supplicant, which treats it as a file name.</p>
+<p>The problem is that sudo closes all file descriptors except for the standard ones (stdin=0, stdout=1 and stderr=2). The pipe of the process substitution is on another descriptor, which gets closed, so when wpa_supplicant tries to open it, it finds a file that doesn't exist.</p>
+<p>If your sudo policy allows it (closefrom_override option enabled), you can tell it not to close file descriptors. But this is usually not the case.
+其实就是我并没有这个权限去读取那个文件，因此才会认为没有这样的文件，不过他也给出了其他的取代方案，亲自使用行之有效后我做了整合：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -B -i <span>$wireless_id</span> -c /dev/stdin
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>不过我没有试过他给的最后的方案</strong>：</p>
+<div><pre><code><span>sudo</span> <span>bash</span> -c <span>'wpa_supplicant -B -i $wireless_id -c&lt;(wpa_passphrase &lt;SSID> "&lt;SSID-PASSWORD>")'</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>凭经验判断这个应该也是可行的。</p>
+</blockquote>
+<p>但事情还没有完，执行过我做的整合后出现了新的问题：</p>
+<div><pre><code>Successfully initialized wpa_supplicant
+nl80211: Driver does not support authentication/association or connect commands
+nl80211: deinit <span>ifname</span><span>=</span>wlp0s29u1u3 <span>disabled_11b_rates</span><span>=</span><span>0</span>
+wlp0s29u1u3: Failed to initialize driver interface
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>经过查询发现，是我的硬件设施不支持<code>nl80211</code>扩展驱动，而我不做更改的情况下，默认是使用该扩展驱动的，因此我要做出的事必须是更换扩展驱动。后来我上网看到有人说用这个就能行：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wext -B -i <span>$wireless_id</span> -c /dev/stdin
+</code></pre>
+<div><span>1</span><br></div></div><p>还有说用<code>-Dwext</code>，和上一行命令的区别就在于D和wext之间没有空格，但是明显，都失败了，得到的最终报错是：</p>
+<div><pre><code>Successfully initialized wpa_supplicant
+rfkill: Cannot get wiphy information
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>百思不得其解，在网上四处搜索无果，最终我只能去Linux交流群内向高人请教了，经过较长的一段时间错误复现，有高人和我说起了这个<a href="http://manpages.ubuntu.com/manpages/trusty/man8/wpa_supplicant.8.html#available%20drivers" target="_blank" rel="noopener noreferrer">资料</a>，他建议我挨个试试，终于，当我使用Wired扩展驱动后一切都好了起来！</p>
+<p>最终的执行命令是：</p>
+<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wired -B -i <span>$wireless_id</span> -c /dev/stdin
+</code></pre>
+<div><span>1</span><br></div></div><p>思考总结：其实扩展驱动不是瞎试的，出现这一系列的报错原因就是在于驱动和硬件设施不匹配，而我正在使用的是无线网卡<code>MERCURY MW300TV</code>，一款非常老的无线网卡。
+在Google上搜索到的结果如图：</p>
+<p><img src="/images/BuildingServer/2022-01-06_14-59.png" alt="" /></p>
+<p><img src="/images/BuildingServer/2022-01-06_15-01.png" alt="" /></p>
+<p>有关它的名称是这样的：<strong>Mercury USB Wifi MW300TV USB Network Card 2.0 Thunderbolt Ethernet Wifi Router 300Mbps Wifi Adapter USB Wi-fi Video Card WIFI</strong></p>
+<p>显然可知这个无线网卡是以太网连接设备，再参考前面我提到的那个资料：</p>
+<p><img src="/images/BuildingServer/photo_2022-01-06_15-07-15.jpg" alt="" /></p>
+<p>里面写着：</p>
+<blockquote>
+<p><strong>wired</strong>  wpa_supplicant wired Ethernet driver</p>
+</blockquote>
+<p>我这才明白，原来需要以Ethernet Connection方式连接的设备扩展驱动应该选择使用Wired扩展驱动！</p>
+</li>
+<li>
+<p>最后可以考虑可哪瞎ping，试试看你的网络是否正常连接。</p>
+</li>
+</ol>
+<h2 id="虚拟内网穿透"> 虚拟内网穿透</h2>
+<p>接下来就是需要完成远程连接的问题。能够满足我的需求自然就是使用内网穿透工具Zerotier One，其实之前我都有写过，因此重复的部分这里不再赘述，详情可到<a href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/" target="_blank" rel="noopener noreferrer">这里</a>看。</p>
+<p>我写这部分是因为我遇到了问题：即使我能够通过ping在两台机器之间彼此通信，但我依旧不能使用SSH连接，总是被提示Connection refused.</p>
+<p>但经过我一晚上的排查与修复之后，当我看到这个<a href="https://wiki.archlinux.org/title/OpenSSH_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E7%AE%A1%E7%90%86_sshd_%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B" target="_blank" rel="noopener noreferrer">资料</a>时，我才发现问题的根源就在于，我没有启动SSH服务……</p>
+<p>嗯，这很离谱，但正事我们还是要做的，执行：</p>
+<div><pre><code><span>sudo</span> systemctl start sshd
+<span>sudo</span> systemctl <span>enable</span> sshd
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>不过我还是适当做了一下简单的安全设置，编辑<code>/etc/ssh/sshd_config</code>文件，将其中的<code>PermitRootLogin</code>后面的<code>yes</code>修改为<code>no</code>，这样我就可以保证不能以Root身份登录这台服务器了。</p>
+<h2 id="部署nextcloud"> 部署NextCloud</h2>
+<p>详情照做<a href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/" target="_blank" rel="noopener noreferrer">这个</a>就好。</p>
+<h2 id="部署hedgedoc"> 部署Hedgedoc</h2>
+<h2 id="部署思源笔记"> 部署思源笔记</h2>
+<h2 id="改建为局域网dns服务器"> 改建为局域网DNS服务器</h2>
+<h2 id="tty设置字体大小"> tty设置字体大小</h2>
+<p>因为tty是使用点阵字体的终端平台, 因此无法通过调整某种参数来设置终端字体大小, 因此我们只能通过更换字体来实现这个效果.</p>
+<p>为了便于调整字体大小, 我们可以使用临时设置方法: <code>setfont &lt;FONT NAME&gt;</code>.</p>
+<p>而这里的<code>&lt;FONT NAME&gt;</code>我们可以通过执行<code>ls /usr/share/kbd/consolefonts</code>来查看当前可支持的所有字体.</p>
+<p>确定好最后选择的字体后, 我们可以通过以下这种方式永久设置:</p>
+<p>通过vim修改<code>/etc/vconsole.conf</code>, 将其中的<code>FONT=lat2-10</code>修改成<code>FONT=&lt;YOUR CHOICE&gt;</code>.</p>
+<p>可以尝试<code>reboot</code>查看效果.</p>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
+    </item>
+    <item>
       <title>从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
       <link>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</link>
       <guid>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</guid>
@@ -13413,6 +13684,65 @@ vncserver :1
 <p>***不过得先有账号。。。***注册并登录账号之后就可以添加网络配置了，填入的IP地址应该是你要连接的设备所在的Zerotier One这里的IP地址（不是物理IP地址）。输入主机的用户名和密码，保存后就可以正常连接主机咯。</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ZeroTier.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Building Up Servicer</title>
+      <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
+      <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Building Up Servicer</source>
+      <pubDate>Fri, 13 Aug 2021 22:55:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
+<p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
+<h2 id="怎么做"> 怎么做？</h2>
+<p>这个系统已经基本把绝大多数事都做好了，因此我们只需要做一点点工作就行。首先要明确一点：这个主机是用作服务器的，不作日常使用。</p>
+<h3 id="前期工作"> 前期工作</h3>
+<p>由于这个系统有较长时间没有使用，因此需要像刚安装好系统那样做一切前期准备，详细步骤请阅读我之前的<a href="./Manjaro安装与配置.html">文章</a>。</p>
+<h3 id="搭建虚拟内网"> 搭建虚拟内网</h3>
+<p>为了能在各地自由使用，我决定使用ZeroTier-One来构建一个虚拟内网，然后将我目前使用的两个设备jion到同一个内网即可。服务器上只消执行：</p>
+<div><pre><code><span>sudo</span> pacman -S zerotier-one
+<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
+<span>sudo</span> systemctl start zerotier-one.service
+zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以搭建好一个虚拟内网了。</p>
+<h3 id="建立ssh连接"> 建立SSH连接</h3>
+<p>做好上一步之后，可以根据情况自己设定好IP「更具体的内容请移步至<a href="./ZeroTier-One安装与使用.html">这篇文章</a>」，需要记好服务器的IP，并且编辑SSH配置文件：</p>
+<div><pre><code><span>sudo</span> <span>vim</span> /etc/ssh/ssh_config
+</code></pre>
+<div><span>1</span><br></div></div><p>需要将<code>Port 22</code>前的#去掉，当然如果你愿意也可以直接修改Port后面的值。</p>
+<p>保存后需要重启一下服务，执行：</p>
+<div><pre><code><span>sudo</span> restart sshd.service
+</code></pre>
+<div><span>1</span><br></div></div><p>但为了保证开机就能使用SSH，还需要执行：</p>
+<div><pre><code><span>sudo</span> <span>enable</span> sshd.service
+</code></pre>
+<div><span>1</span><br></div></div><p>最后你就可以执行：</p>
+<div><pre><code><span>ssh</span> USERNAME@IP
+</code></pre>
+<div><span>1</span><br></div></div><p>来远程连接服务器了。</p>
+<p>但这里要注意的是，如果前面你设定的port不是默认值22，则需要使用p参数，即执行：</p>
+<div><pre><code><span>ssh</span> -p YOUR_PORT USERNAME@IP
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="关闭图形桌面"> 关闭图形桌面</h3>
+<p>因为我不喜欢总是去插拔鼠标接收器来在两台电脑之间使用，而且服务器我也是只可能使用命令行形式，而最重要的原因是它打开的图形桌面Xorg服务是要占用显卡的，这个就阻挠了我进一步的安装驱动，于是我执行了如下指令来关掉这个多余的东西：</p>
+<div><pre><code><span>sudo</span> systemctl set-default multi-user.target
+<span>sudo</span> <span>reboot</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样你就可以开机就进入命令行模式了，其实就是tty模式。</p>
+<p>如果你有一天想用回这个桌面系统，那就执行：</p>
+<div><pre><code><span>sudo</span> systemctl set-default graphics.target
+<span>sudo</span> <span>reboot</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><h3 id="安装nvidia驱动"> 安装Nvidia驱动</h3>
+<p>依旧根据<code>inxi -G</code>给出的显卡信息到Nvidia官网选择合适的驱动程序下载过来，然后用<code>sudo bash NVIDIA…….sh</code>即可。</p>
+<p>但要注意的是如果安装失败并报错提示缺少kernel的话，你需要根据系统内核版本来安装linux-headers，查看系统版本的方法有三个：一是执行<code>username -a</code>来查看内核版本；二是执行<code>neofetch</code>，不过这个需要提前安装好neofetch才行；三则是直接运行系统自带的<code>screenfetch</code>，因此本人最推荐这个方法，当然第一个方法非常简洁，也足够使用。如你所见，Kernel后跟的数字就意味着你要安装的linux-headers的版本，比如我的就是<code>5.11.22-2-MANJARO</code>，那我就要安装linux510-headers，为什么不是511，因为没有啊～安装好Kernel Headers之后再重新安装显卡，就万事大吉了。</p>
+<h3 id="安装cuda系列"> 安装cuda系列</h3>
+<p>安装之前一定要检查一下你的系统驱动版本是否与你将要安装的cuda版本匹配，由于我这里的版本是470.63.01，对应应该装的CUDA版本要高于11.2（包括11.2）。而我这恰好一切都满足，就很顺利，执行一个语句即可：</p>
+<div><pre><code><span>sudo</span> pacman -S cuda cuda-tools cudnn
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="结束"> 结束</h2>
+<p>现在你的服务器已经搭好了，一切都可以正常使用咯～</p>
+]]></content:encoded>
     </item>
     <item>
       <title>在Arch系中安装openGauss(全失败过程)</title>
@@ -13832,65 +14162,6 @@ docker run --name opengauss --privileged<span>=</span>true -d -e <span>GS_PASSWO
 gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这才是真正的圆满结局.</p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Building Up Servicer</title>
-      <link>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</link>
-      <guid>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Building Up Servicer</source>
-      <pubDate>Fri, 13 Aug 2021 22:55:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
-<p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
-<h2 id="怎么做"> 怎么做？</h2>
-<p>这个系统已经基本把绝大多数事都做好了，因此我们只需要做一点点工作就行。首先要明确一点：这个主机是用作服务器的，不作日常使用。</p>
-<h3 id="前期工作"> 前期工作</h3>
-<p>由于这个系统有较长时间没有使用，因此需要像刚安装好系统那样做一切前期准备，详细步骤请阅读我之前的<a href="./Manjaro安装与配置.html">文章</a>。</p>
-<h3 id="搭建虚拟内网"> 搭建虚拟内网</h3>
-<p>为了能在各地自由使用，我决定使用ZeroTier-One来构建一个虚拟内网，然后将我目前使用的两个设备jion到同一个内网即可。服务器上只消执行：</p>
-<div><pre><code><span>sudo</span> pacman -S zerotier-one
-<span>sudo</span> systemctl <span>enable</span> zerotier-one.service
-<span>sudo</span> systemctl start zerotier-one.service
-zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以搭建好一个虚拟内网了。</p>
-<h3 id="建立ssh连接"> 建立SSH连接</h3>
-<p>做好上一步之后，可以根据情况自己设定好IP「更具体的内容请移步至<a href="./ZeroTier-One安装与使用.html">这篇文章</a>」，需要记好服务器的IP，并且编辑SSH配置文件：</p>
-<div><pre><code><span>sudo</span> <span>vim</span> /etc/ssh/ssh_config
-</code></pre>
-<div><span>1</span><br></div></div><p>需要将<code>Port 22</code>前的#去掉，当然如果你愿意也可以直接修改Port后面的值。</p>
-<p>保存后需要重启一下服务，执行：</p>
-<div><pre><code><span>sudo</span> restart sshd.service
-</code></pre>
-<div><span>1</span><br></div></div><p>但为了保证开机就能使用SSH，还需要执行：</p>
-<div><pre><code><span>sudo</span> <span>enable</span> sshd.service
-</code></pre>
-<div><span>1</span><br></div></div><p>最后你就可以执行：</p>
-<div><pre><code><span>ssh</span> USERNAME@IP
-</code></pre>
-<div><span>1</span><br></div></div><p>来远程连接服务器了。</p>
-<p>但这里要注意的是，如果前面你设定的port不是默认值22，则需要使用p参数，即执行：</p>
-<div><pre><code><span>ssh</span> -p YOUR_PORT USERNAME@IP
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="关闭图形桌面"> 关闭图形桌面</h3>
-<p>因为我不喜欢总是去插拔鼠标接收器来在两台电脑之间使用，而且服务器我也是只可能使用命令行形式，而最重要的原因是它打开的图形桌面Xorg服务是要占用显卡的，这个就阻挠了我进一步的安装驱动，于是我执行了如下指令来关掉这个多余的东西：</p>
-<div><pre><code><span>sudo</span> systemctl set-default multi-user.target
-<span>sudo</span> <span>reboot</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样你就可以开机就进入命令行模式了，其实就是tty模式。</p>
-<p>如果你有一天想用回这个桌面系统，那就执行：</p>
-<div><pre><code><span>sudo</span> systemctl set-default graphics.target
-<span>sudo</span> <span>reboot</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h3 id="安装nvidia驱动"> 安装Nvidia驱动</h3>
-<p>依旧根据<code>inxi -G</code>给出的显卡信息到Nvidia官网选择合适的驱动程序下载过来，然后用<code>sudo bash NVIDIA…….sh</code>即可。</p>
-<p>但要注意的是如果安装失败并报错提示缺少kernel的话，你需要根据系统内核版本来安装linux-headers，查看系统版本的方法有三个：一是执行<code>username -a</code>来查看内核版本；二是执行<code>neofetch</code>，不过这个需要提前安装好neofetch才行；三则是直接运行系统自带的<code>screenfetch</code>，因此本人最推荐这个方法，当然第一个方法非常简洁，也足够使用。如你所见，Kernel后跟的数字就意味着你要安装的linux-headers的版本，比如我的就是<code>5.11.22-2-MANJARO</code>，那我就要安装linux510-headers，为什么不是511，因为没有啊～安装好Kernel Headers之后再重新安装显卡，就万事大吉了。</p>
-<h3 id="安装cuda系列"> 安装cuda系列</h3>
-<p>安装之前一定要检查一下你的系统驱动版本是否与你将要安装的cuda版本匹配，由于我这里的版本是470.63.01，对应应该装的CUDA版本要高于11.2（包括11.2）。而我这恰好一切都满足，就很顺利，执行一个语句即可：</p>
-<div><pre><code><span>sudo</span> pacman -S cuda cuda-tools cudnn
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="结束"> 结束</h2>
-<p>现在你的服务器已经搭好了，一切都可以正常使用咯～</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -14980,7 +15251,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -15014,7 +15285,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -15024,7 +15295,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -15049,7 +15320,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -15121,7 +15392,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -15130,7 +15401,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Fri, 08 Apr 2022 06:14:09 GMT</pubDate>
+      <pubDate>Sat, 09 Apr 2022 02:17:33 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -15251,129 +15522,6 @@ background-size: cover;
 </tbody>
 </table>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>记将旧电脑改建成服务器的过程</title>
-      <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
-      <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记将旧电脑改建成服务器的过程</source>
-      <pubDate>Tue, 04 Jan 2022 12:27:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
-<p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
-<h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
-<div><pre><code>The system found unauthorized changes on the firmware, operating system of UEFI drivers .
-
-Press [N] to run the next boot device,or enter directly to BIOS Setup if there are no other boot devices installed .
-
-Go to BIOS Setup &gt; Advanced &gt; Boot and change the current boot device into other secured boot devices .
-_
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>它在告诉我系统发现使用了未经授权的变更，要求我使用其他启动盘启动。个人经验推断认为是安全启动是开启状态，因而它会针对授权问题进行检查，于是我把它关掉了，果然就可以启动了。</p>
-<p>进入BIOS后按下<kbd>F7</kbd>进入高级模式，然后切换到启动选项卡(Boot)，下选安全启动选项(Secure Boot)，有密钥管理(Key Management)的子选项，将安全启动密钥(Secure Boot keys)删除掉即可，删除后你会发现安全启动已经关闭了。出来后把系统启动类型修改为其他操作系统。这时重启一下系统就好。这样U盘的启动就能进去了。</p>
-<p>因为我打算将这台机器用作服务器，因此我就应该选择安装ArcoLinuxD版本。正如官网介绍的ArcoLinuxD，没有桌面，没有服务，仅有内核，这正合我的意愿。</p>
-<p>其实是我尝试过安装带桌面版的ArcoLinuxB，但遇到了TLP Startup/shutdown死机问题，多半是显卡驱动问题，但为了绕开这种难解决的问题，我才直接安装ArcoLinuxD。但是奇怪的是，虽然官方介绍的ArcoLinuxD没有桌面系统也没有服务，就是命令行，但是安装的时候却是使用图形界面的，在这里我也同样遇到了TLP卡死问题，于是我就去一查究竟，到底TLP是啥，为什么会卡死？</p>
-<p>后来查询才知道，TLP是Linux下优秀的高级电源管理功能，之所以会卡死，确实是因为硬件设备太过老旧，如今的系统已经不能很好地支持了，准确说是Arch系对老机器的兼容性差。不过，仅仅知道这些，问题还是不能解决，但我最后成功绕开了这个问题，只需要使用Safe Graphics即可正常进入。而后一如既往地，设定系统所在的分区挂载到<code>/</code>下，系统引导分区挂载到<code>/boot/efi</code>下，然后开始安装即可。</p>
-<h2 id="终端无线连接"> 终端无线连接</h2>
-<p>等过许久之后，当我尝试进行初始配置，换pacman镜像源、调整yay镜像源之后尝试系统更新，发现无论如何都是失败，最后我才想起来，ArcoLinuxD并没有网络连接服务，因此我需要先连接上网络，于是我开始花费将近48小时去尝试连接WIFI……</p>
-<p>经过我相当长的时间去查询资料、文档，浏览相关网站后，最后才知道，原来是这样：</p>
-<p>因为系统刚开始是什么都没有的，因此使用的连接方式非常原始，我们采用<code>wpa_supplicant</code>来完成连接。</p>
-<ol>
-<li>
-<p>首先我们要查看无线网卡的相关信息，需要执行<code>iwconfig</code>来查看，注意，从输出信息中找到你的网卡ID，记好它，后面要经常用，如果实在觉得很难记，你可以临时创建一个变量来保存，例：<code>wireless_id=&lt;你的网卡ID&gt;</code>，这样你后面使用的时候就用<code>$wireless_id</code>来代替即可，为了便于描述，后面我都这样写了。</p>
-</li>
-<li>
-<p>通常情况下刚刚使用的系统是没有启动无线网卡的，因此我们要手动启动无线网卡：<code>ip link set $wireless_id up</code>。</p>
-</li>
-<li>
-<p>接下来我们需要扫描当前地点所有的WIFI连接点，执行<code>iwlist $wireless_id scan</code>。</p>
-</li>
-<li>
-<p>确定你要连接的WIFI点后，这时候就需要着手开始连接了。当下我们绝大多数使用的WIFI都是使用WPA/WPA2加密的，少数是开放的，另外一小部分才是使用WEP加密的。由于我要连接的WIFI是使用WPA/WPA2加密的，因此我们使用<code>wpa_supplicant</code>来创建连接。</p>
-<p><em>如果是开放WIFI，只需要使用<code>iwconfig $wireless_id essid &lt;要连接的开放WIFI的SSID&gt;</code>即可；</em></p>
-<p><em>而若是使用WEP加密的，则需要使用<code>iwconfig essid &lt;要连接的WIFI的SSID&gt; key &lt;该WIFI对应的密码&gt;</code>即可；</em></p>
-<p>如果是使用WPA/WPA2加密方式，我们常常能看到这样的教程：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span> <span>></span> /etc/wpa_supplicant.conf
-wpa_supplicant -B -i <span>$wireless_id</span> -c /etc/wpa_supplicant.conf
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>当时我还什么都不懂的时候，就是简单照做一下，结果发现，我根本就无法完成这些，因为我没有这种权限，甚至是我加了sudo，也依然无法完成，报错的原因都是<code>Permission denied</code>。于是我再去四处搜索，看到有人是这样写的：</p>
-<div><pre><code>wpa_supplicant -B -i <span>$wireless_id</span> -c<span>&lt;</span><span>(</span>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>"&lt;SSID-PASSWORD>"</span><span>)</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>联系我之前所学的shell编程基础知识就发现，其实我不必非要创建那个wpa_supplicant.conf文件，我只是需要传给wpa_supplicant即可，所以才会使用<code>&lt;(..)</code>来实现。<code>&lt;(..)</code>实际上就是将括号内的命令执行结果输出到<code>/dev/fd/63</code>后再传送给箭头指向的前一个命令。
-当我执行这个命令的时候发现，还是报错，这回的报错是</p>
-<div><pre><code> Successfully initialized wpa_supplicant
- Failed to <span>open</span> config <span>file</span> <span>'/dev/fd/63'</span>, error: No such <span>file</span> or directory
- Failed to <span>read</span> or parse configuration <span>'/dev/fd/63'</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><a href="https://unix.stackexchange.com/questions/279545/failed-to-open-config-file-dev-fd-63-error-no-such-file-or-directory-for-wp" target="_blank" rel="noopener noreferrer">查询</a>之后才知道：</p>
-<blockquote>
-<p>Process substitution &lt;(…) creates a pipe, uses /dev/fd to give a path that's equivalent to the file descriptor where the pipe is, and passes the file name as an argument to the program. Here the program is sudo, and it passes that argument (which is just a string, as far as it's concerned) to wpa_supplicant, which treats it as a file name.</p>
-<p>The problem is that sudo closes all file descriptors except for the standard ones (stdin=0, stdout=1 and stderr=2). The pipe of the process substitution is on another descriptor, which gets closed, so when wpa_supplicant tries to open it, it finds a file that doesn't exist.</p>
-<p>If your sudo policy allows it (closefrom_override option enabled), you can tell it not to close file descriptors. But this is usually not the case.
-其实就是我并没有这个权限去读取那个文件，因此才会认为没有这样的文件，不过他也给出了其他的取代方案，亲自使用行之有效后我做了整合：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -B -i <span>$wireless_id</span> -c /dev/stdin
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>不过我没有试过他给的最后的方案</strong>：</p>
-<div><pre><code><span>sudo</span> <span>bash</span> -c <span>'wpa_supplicant -B -i $wireless_id -c&lt;(wpa_passphrase &lt;SSID> "&lt;SSID-PASSWORD>")'</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>凭经验判断这个应该也是可行的。</p>
-</blockquote>
-<p>但事情还没有完，执行过我做的整合后出现了新的问题：</p>
-<div><pre><code>Successfully initialized wpa_supplicant
-nl80211: Driver does not support authentication/association or connect commands
-nl80211: deinit <span>ifname</span><span>=</span>wlp0s29u1u3 <span>disabled_11b_rates</span><span>=</span><span>0</span>
-wlp0s29u1u3: Failed to initialize driver interface
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>经过查询发现，是我的硬件设施不支持<code>nl80211</code>扩展驱动，而我不做更改的情况下，默认是使用该扩展驱动的，因此我要做出的事必须是更换扩展驱动。后来我上网看到有人说用这个就能行：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wext -B -i <span>$wireless_id</span> -c /dev/stdin
-</code></pre>
-<div><span>1</span><br></div></div><p>还有说用<code>-Dwext</code>，和上一行命令的区别就在于D和wext之间没有空格，但是明显，都失败了，得到的最终报错是：</p>
-<div><pre><code>Successfully initialized wpa_supplicant
-rfkill: Cannot get wiphy information
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>百思不得其解，在网上四处搜索无果，最终我只能去Linux交流群内向高人请教了，经过较长的一段时间错误复现，有高人和我说起了这个<a href="http://manpages.ubuntu.com/manpages/trusty/man8/wpa_supplicant.8.html#available%20drivers" target="_blank" rel="noopener noreferrer">资料</a>，他建议我挨个试试，终于，当我使用Wired扩展驱动后一切都好了起来！</p>
-<p>最终的执行命令是：</p>
-<div><pre><code>wpa_passphrase <span>&lt;</span>SSID<span>></span> <span>&lt;</span>SSID-PASSWORD<span>></span> <span>|</span> <span>sudo</span> wpa_supplicant -D wired -B -i <span>$wireless_id</span> -c /dev/stdin
-</code></pre>
-<div><span>1</span><br></div></div><p>思考总结：其实扩展驱动不是瞎试的，出现这一系列的报错原因就是在于驱动和硬件设施不匹配，而我正在使用的是无线网卡<code>MERCURY MW300TV</code>，一款非常老的无线网卡。
-在Google上搜索到的结果如图：</p>
-<p><img src="/images/BuildingServer/2022-01-06_14-59.png" alt="" /></p>
-<p><img src="/images/BuildingServer/2022-01-06_15-01.png" alt="" /></p>
-<p>有关它的名称是这样的：<strong>Mercury USB Wifi MW300TV USB Network Card 2.0 Thunderbolt Ethernet Wifi Router 300Mbps Wifi Adapter USB Wi-fi Video Card WIFI</strong></p>
-<p>显然可知这个无线网卡是以太网连接设备，再参考前面我提到的那个资料：</p>
-<p><img src="/images/BuildingServer/photo_2022-01-06_15-07-15.jpg" alt="" /></p>
-<p>里面写着：</p>
-<blockquote>
-<p><strong>wired</strong>  wpa_supplicant wired Ethernet driver</p>
-</blockquote>
-<p>我这才明白，原来需要以Ethernet Connection方式连接的设备扩展驱动应该选择使用Wired扩展驱动！</p>
-</li>
-<li>
-<p>最后可以考虑可哪瞎ping，试试看你的网络是否正常连接。</p>
-</li>
-</ol>
-<h2 id="虚拟内网穿透"> 虚拟内网穿透</h2>
-<p>接下来就是需要完成远程连接的问题。能够满足我的需求自然就是使用内网穿透工具Zerotier One，其实之前我都有写过，因此重复的部分这里不再赘述，详情可到<a href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/" target="_blank" rel="noopener noreferrer">这里</a>看。</p>
-<p>我写这部分是因为我遇到了问题：即使我能够通过ping在两台机器之间彼此通信，但我依旧不能使用SSH连接，总是被提示Connection refused.</p>
-<p>但经过我一晚上的排查与修复之后，当我看到这个<a href="https://wiki.archlinux.org/title/OpenSSH_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E7%AE%A1%E7%90%86_sshd_%E5%AE%88%E6%8A%A4%E8%BF%9B%E7%A8%8B" target="_blank" rel="noopener noreferrer">资料</a>时，我才发现问题的根源就在于，我没有启动SSH服务……</p>
-<p>嗯，这很离谱，但正事我们还是要做的，执行：</p>
-<div><pre><code><span>sudo</span> systemctl start sshd
-<span>sudo</span> systemctl <span>enable</span> sshd
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>不过我还是适当做了一下简单的安全设置，编辑<code>/etc/ssh/sshd_config</code>文件，将其中的<code>PermitRootLogin</code>后面的<code>yes</code>修改为<code>no</code>，这样我就可以保证不能以Root身份登录这台服务器了。</p>
-<h2 id="部署nextcloud"> 部署NextCloud</h2>
-<p>详情照做<a href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/" target="_blank" rel="noopener noreferrer">这个</a>就好。</p>
-<h2 id="部署hedgedoc"> 部署Hedgedoc</h2>
-<h2 id="部署思源笔记"> 部署思源笔记</h2>
-<h2 id="改建为局域网dns服务器"> 改建为局域网DNS服务器</h2>
-<h2 id="tty设置字体大小"> tty设置字体大小</h2>
-<p>因为tty是使用点阵字体的终端平台, 因此无法通过调整某种参数来设置终端字体大小, 因此我们只能通过更换字体来实现这个效果.</p>
-<p>为了便于调整字体大小, 我们可以使用临时设置方法: <code>setfont &lt;FONT NAME&gt;</code>.</p>
-<p>而这里的<code>&lt;FONT NAME&gt;</code>我们可以通过执行<code>ls /usr/share/kbd/consolefonts</code>来查看当前可支持的所有字体.</p>
-<p>确定好最后选择的字体后, 我们可以通过以下这种方式永久设置:</p>
-<p>通过vim修改<code>/etc/vconsole.conf</code>, 将其中的<code>FONT=lat2-10</code>修改成<code>FONT=&lt;YOUR CHOICE&gt;</code>.</p>
-<p>可以尝试<code>reboot</code>查看效果.</p>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
     </item>
     <item>
       <title>Manjaro Linux</title>
