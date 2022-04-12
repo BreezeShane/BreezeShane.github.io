@@ -11,10 +11,17 @@ tags:
  - Algorithm Design and Analysis
 ---
 
-::: 参考
+::: details 参考
 
 1. [算法复杂度及渐进符号](https://www.bookstack.cn/read/hunterhug-goa.c/basic-dregee.md#3.4.%20%E6%B8%90%E8%BF%9B%E5%88%86%E6%9E%90)
-2. 
+2. [渐近记号、算法复杂度与主定理](https://zhuanlan.zhihu.com/p/362214924)
+3. [大 O 记号及算法的时间复杂度](https://g0ul4sh.top/2017/09/26/big-o-notation/)
+4. [算法复杂性分析及运算规则证明(二)](https://blog.csdn.net/a22222259/article/details/88349669)
+5. [算法导论------递归算法的时间复杂度求解](https://blog.csdn.net/so_geili/article/details/53444816)
+6. [递归方程的求解（代入、递归树和主方法）](https://codeantenna.com/a/cEzNAzRqZ1)
+7. [递归式求解——代入法、递归树与主定理](https://zhuanlan.zhihu.com/p/267890781)
+8. [递归树： 如何借助树来求解递归算法的时间复杂度](https://blog.csdn.net/every__day/article/details/86554857)
+9. [算法导论------递归算法的时间复杂度求解](https://blog.csdn.net/so_geili/article/details/53444816)
 
 :::
 
