@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Apr 2022 15:08:49 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2022 15:08:49 GMT</lastBuildDate>
+    <pubDate>Tue, 12 Apr 2022 15:15:45 GMT</pubDate>
+    <lastBuildDate>Tue, 12 Apr 2022 15:15:45 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -18,12 +18,19 @@
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Basis/</guid>
       <source url="https://breezeshane.github.io/rss.xml">算法基础</source>
       <pubDate>Tue, 12 Apr 2022 07:21:02 GMT</pubDate>
-      <content:encoded><![CDATA[<p>::: 参考</p>
+      <content:encoded><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://www.bookstack.cn/read/hunterhug-goa.c/basic-dregee.md#3.4.%20%E6%B8%90%E8%BF%9B%E5%88%86%E6%9E%90" target="_blank" rel="noopener noreferrer">算法复杂度及渐进符号</a></li>
-<li></li>
+<li><a href="https://zhuanlan.zhihu.com/p/362214924" target="_blank" rel="noopener noreferrer">渐近记号、算法复杂度与主定理</a></li>
+<li><a href="https://g0ul4sh.top/2017/09/26/big-o-notation/" target="_blank" rel="noopener noreferrer">大 O 记号及算法的时间复杂度</a></li>
+<li><a href="https://blog.csdn.net/a22222259/article/details/88349669" target="_blank" rel="noopener noreferrer">算法复杂性分析及运算规则证明(二)</a></li>
+<li><a href="https://blog.csdn.net/so_geili/article/details/53444816" target="_blank" rel="noopener noreferrer">算法导论------递归算法的时间复杂度求解</a></li>
+<li><a href="https://codeantenna.com/a/cEzNAzRqZ1" target="_blank" rel="noopener noreferrer">递归方程的求解（代入、递归树和主方法）</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/267890781" target="_blank" rel="noopener noreferrer">递归式求解——代入法、递归树与主定理</a></li>
+<li><a href="https://blog.csdn.net/every__day/article/details/86554857" target="_blank" rel="noopener noreferrer">递归树： 如何借助树来求解递归算法的时间复杂度</a></li>
+<li><a href="https://blog.csdn.net/so_geili/article/details/53444816" target="_blank" rel="noopener noreferrer">算法导论------递归算法的时间复杂度求解</a></li>
 </ol>
-<p>:::</p>
+</details>
 <h2 id="基本概念"> 基本概念</h2>
 <p>一个算法问题的<strong>规约</strong>(Specification)主要包括两部分:</p>
 <ul>
@@ -39,18 +46,18 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>括号匹配问题</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">括号匹配问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
-    </item>
-    <item>
       <title>约瑟夫问题</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
       <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>括号匹配问题</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">括号匹配问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
       <title>极限反转数问题</title>
@@ -337,13 +344,6 @@
       <pubDate>Sun, 23 Jan 2022 01:26:36 GMT</pubDate>
     </item>
     <item>
-      <title>估计、偏差和方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
-    </item>
-    <item>
       <title>有关人工智能与机器学习领域的概况</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</guid>
@@ -483,6 +483,13 @@
 ]]></content:encoded>
     </item>
     <item>
+      <title>估计、偏差和方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">估计、偏差和方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:03:59 GMT</pubDate>
+    </item>
+    <item>
       <title>促使深度学习发展的挑战</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</guid>
@@ -518,18 +525,18 @@
       <pubDate>Sun, 23 Jan 2022 01:05:02 GMT</pubDate>
     </item>
     <item>
-      <title>监督学习算法</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">监督学习算法</source>
-      <pubDate>Sun, 23 Jan 2022 01:05:21 GMT</pubDate>
-    </item>
-    <item>
       <title>构建机器学习算法</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
       <source url="https://breezeshane.github.io/rss.xml">构建机器学习算法</source>
       <pubDate>Sun, 23 Jan 2022 01:05:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>监督学习算法</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">监督学习算法</source>
+      <pubDate>Sun, 23 Jan 2022 01:05:21 GMT</pubDate>
     </item>
     <item>
       <title>贝叶斯统计</title>
@@ -574,18 +581,18 @@
       <pubDate>Sun, 23 Jan 2022 01:06:30 GMT</pubDate>
     </item>
     <item>
-      <title>约束优化</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约束优化</source>
-      <pubDate>Sun, 23 Jan 2022 01:06:46 GMT</pubDate>
-    </item>
-    <item>
       <title>病态条件</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/</guid>
       <source url="https://breezeshane.github.io/rss.xml">病态条件</source>
       <pubDate>Sun, 23 Jan 2022 01:06:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>约束优化</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约束优化</source>
+      <pubDate>Sun, 23 Jan 2022 01:06:46 GMT</pubDate>
     </item>
     <item>
       <title>前言</title>
@@ -2108,6 +2115,52 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:13:40 GMT</pubDate>
     </item>
     <item>
+      <title>特征分解</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">特征分解</source>
+      <pubDate>Sun, 23 Jan 2022 01:13:32 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>定义</p>
+<p>线性代数中，特征分解（Eigendecomposition），又称谱分解（Spectral decomposition）是将矩阵分解为由其特征值和特征向量表示的矩阵之积的方法。需要注意只有对可对角化矩阵才可以施以特征分解。</p>
+</div>
+<p>我们可以通过分解矩阵来发现矩阵表示成数组元素时不明显的函数性质。其中<strong>特征分解</strong>(Eigendecomposition)是使用最广的矩阵分解之一，即我们将矩阵分解成一组特征向量和特征值。</p>
+<p>方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的<strong>特征向量</strong>(Eigenvector)是指与<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>相乘后相当于对该向量进行缩放的非零向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">v</span></span></span></span>:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span><span style="margin-right:0.03588em;">v</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.69444em;vertical-align:0em;"></span><span>λ</span><span style="margin-right:0.03588em;">v</span></span></span></span></span></p>
+<p>其中标量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>λ</span></span></span></span>称为这个特征向量对应的特征值(Eigenvalue)。</p>
+<p>类似地我们可以定义<strong>左特征向量</strong>(Left Eigenvector)<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span>λ</span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span>，但通常我们更关注<strong>右特征向量</strong>(Right Eigenvector)。</p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">v</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征向量，那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span style="margin-right:0.03588em;">v</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>(</span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span><span>=</span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>0</span><span>)</span></span></span></span>也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征向量。</p>
+<p>此外，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span><span style="margin-right:0.03588em;">v</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">v</span></span></span></span>有相同的特征值。因此通常我们只考虑单位特征向量。</p>
+<p>假设矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个线性无关的特征向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.138em;vertical-align:-0.25em;"></span><span>{</span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>1</span><span>)</span></span></span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>n</span><span>)</span></span></span></span></span></span></span></span></span><span>}</span></span></span></span>，对应着特征值<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span><span>λ</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>λ</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>}</span></span></span></span>。我们将特征向量连接成一个矩阵，使得每一列是一个特征向量：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.138em;vertical-align:-0.25em;"></span><span>[</span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>1</span><span>)</span></span></span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>n</span><span>)</span></span></span></span></span></span></span></span></span><span>]</span></span></span></span>。类似地我们也可以将特征值连接成一个向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>λ</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.099108em;vertical-align:-0.25em;"></span><span>[</span><span><span>λ</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>λ</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>]</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span>。因此<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征分解可以记作：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.1141079999999999em;vertical-align:-0.25em;"></span><span style="margin-right:0.22222em;">V</span><span>d</span><span>ia</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>λ</span><span>)</span><span><span style="margin-right:0.22222em;">V</span><span><span><span><span style="height:0.864108em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−</span><span>1</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
+<div><p>注意</p>
+<p>不是每一个矩阵都可以分解成特征值和特征向量。在某些情况下特征分解存在，但会涉及复数而非实数。但在本书中我们通常只需要分解一类有简单分解的矩阵。</p>
+</div>
+<p>每个实对称矩阵都可以分解成实特征向量和实特征值：</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.093548em;vertical-align:-0.19444em;"></span><span>Q</span><span>Λ</span><span><span>Q</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征向量组成的正交矩阵，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>Λ</span></span></span></span>是对角矩阵。特征值<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>Λ</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>对应的特征向量是矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>的第<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span>列，记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>Q</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>:</span><span>,</span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>。因为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>是正交矩阵，我们可以将<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>看作沿方向<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8879999999999999em;vertical-align:0em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>i</span><span>)</span></span></span></span></span></span></span></span></span></span></span></span>延展<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.84444em;vertical-align:-0.15em;"></span><span><span>λ</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>倍的空间。</p>
+<p>任意一个实对称矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>都有特征分解，但特征分解可能结果不唯一，但我们有这个性质：</p>
+<div><p>性质</p>
+<p>如果两个或多个特征向量拥有相同的特征值，那么在由这些特征向量产生的生成子空间中，任意一组正交向量都是该特征值对应的特征向量。</p>
+</div>
+<p>因此我们可以等价地从这些特征向量中构成<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>作为替代。并约定按降序排列<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>Λ</span></span></span></span>的元素，这样特征分解就可以是唯一的，当且仅当所有特征值都是唯一的。</p>
+<p>矩阵的特征分解带给我们很多关于矩阵的有用信息：</p>
+<ol>
+<li>矩阵是奇异的，当且仅当含有0特征值。</li>
+<li>实对称矩阵的特征分解可以用于优化二次方程<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span>x</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span></span></span></span>，其中限制<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∣∣</span><span>x</span><span>∣</span><span><span>∣</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>。当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>等于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的某个特征向量时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>将返回其对应的特征值。在限制条件下，函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>的最大值是最大特征值，最小值是最小特征值。</li>
+</ol>
+<div><p>提示</p>
+<p>所有特征值都是正数的矩阵称为<strong>正定</strong>(Positive Definite)；</p>
+<p>所有特征值都是非负数的矩阵称为<strong>半正定</strong>(Positive Semidefinite)；</p>
+<p>所有特征值都是负数的矩阵称为<strong>负定</strong>(Negative Definite)；</p>
+<p>所有特征值都是非正数的矩阵称为<strong>半负定</strong>(Negative Semidefinite)；</p>
+</div>
+<p>半正定矩阵受到关注的原因是它们能够保证</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.093548em;vertical-align:-0.19444em;"></span><span>∀</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>⩾</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span></span></p>
+<p>此外，正定矩阵还保证</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8991079999999999em;vertical-align:0em;"></span><span><span>x</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>⇒</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span></span></p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Lipschitz Continuity</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/</guid>
@@ -2166,52 +2219,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <enclosure url="https://breezeshane.github.io/images/Lipschitz_continuity_2.png" type="image/png"/>
     </item>
     <item>
-      <title>特征分解</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">特征分解</source>
-      <pubDate>Sun, 23 Jan 2022 01:13:32 GMT</pubDate>
-      <content:encoded><![CDATA[<div><p>定义</p>
-<p>线性代数中，特征分解（Eigendecomposition），又称谱分解（Spectral decomposition）是将矩阵分解为由其特征值和特征向量表示的矩阵之积的方法。需要注意只有对可对角化矩阵才可以施以特征分解。</p>
-</div>
-<p>我们可以通过分解矩阵来发现矩阵表示成数组元素时不明显的函数性质。其中<strong>特征分解</strong>(Eigendecomposition)是使用最广的矩阵分解之一，即我们将矩阵分解成一组特征向量和特征值。</p>
-<p>方阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的<strong>特征向量</strong>(Eigenvector)是指与<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>相乘后相当于对该向量进行缩放的非零向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">v</span></span></span></span>:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span><span style="margin-right:0.03588em;">v</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.69444em;vertical-align:0em;"></span><span>λ</span><span style="margin-right:0.03588em;">v</span></span></span></span></span></p>
-<p>其中标量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>λ</span></span></span></span>称为这个特征向量对应的特征值(Eigenvalue)。</p>
-<p>类似地我们可以定义<strong>左特征向量</strong>(Left Eigenvector)<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span>λ</span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span>，但通常我们更关注<strong>右特征向量</strong>(Right Eigenvector)。</p>
-<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">v</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征向量，那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span style="margin-right:0.03588em;">v</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>(</span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span>R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span><span>=</span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>0</span><span>)</span></span></span></span>也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征向量。</p>
-<p>此外，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span><span style="margin-right:0.03588em;">v</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">v</span></span></span></span>有相同的特征值。因此通常我们只考虑单位特征向量。</p>
-<p>假设矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个线性无关的特征向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.138em;vertical-align:-0.25em;"></span><span>{</span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>1</span><span>)</span></span></span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>n</span><span>)</span></span></span></span></span></span></span></span></span><span>}</span></span></span></span>，对应着特征值<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span><span>λ</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>λ</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>}</span></span></span></span>。我们将特征向量连接成一个矩阵，使得每一列是一个特征向量：<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.138em;vertical-align:-0.25em;"></span><span>[</span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>1</span><span>)</span></span></span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>n</span><span>)</span></span></span></span></span></span></span></span></span><span>]</span></span></span></span>。类似地我们也可以将特征值连接成一个向量<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>λ</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.099108em;vertical-align:-0.25em;"></span><span>[</span><span><span>λ</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>λ</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>]</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span>。因此<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征分解可以记作：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.1141079999999999em;vertical-align:-0.25em;"></span><span style="margin-right:0.22222em;">V</span><span>d</span><span>ia</span><span style="margin-right:0.03588em;">g</span><span>(</span><span>λ</span><span>)</span><span><span style="margin-right:0.22222em;">V</span><span><span><span><span style="height:0.864108em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>−</span><span>1</span></span></span></span></span></span></span></span></span></span></span></span></span></p>
-<div><p>注意</p>
-<p>不是每一个矩阵都可以分解成特征值和特征向量。在某些情况下特征分解存在，但会涉及复数而非实数。但在本书中我们通常只需要分解一类有简单分解的矩阵。</p>
-</div>
-<p>每个实对称矩阵都可以分解成实特征向量和实特征值：</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.093548em;vertical-align:-0.19444em;"></span><span>Q</span><span>Λ</span><span><span>Q</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的特征向量组成的正交矩阵，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>Λ</span></span></span></span>是对角矩阵。特征值<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>Λ</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>对应的特征向量是矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>的第<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.65952em;vertical-align:0em;"></span><span>i</span></span></span></span>列，记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span>Q</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>:</span><span>,</span><span>i</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>。因为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>是正交矩阵，我们可以将<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>看作沿方向<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8879999999999999em;vertical-align:0em;"></span><span><span style="margin-right:0.03588em;">v</span><span><span><span><span style="height:0.8879999999999999em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>(</span><span>i</span><span>)</span></span></span></span></span></span></span></span></span></span></span></span>延展<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.84444em;vertical-align:-0.15em;"></span><span><span>λ</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>倍的空间。</p>
-<p>任意一个实对称矩阵<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>都有特征分解，但特征分解可能结果不唯一，但我们有这个性质：</p>
-<div><p>性质</p>
-<p>如果两个或多个特征向量拥有相同的特征值，那么在由这些特征向量产生的生成子空间中，任意一组正交向量都是该特征值对应的特征向量。</p>
-</div>
-<p>因此我们可以等价地从这些特征向量中构成<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>作为替代。并约定按降序排列<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>Λ</span></span></span></span>的元素，这样特征分解就可以是唯一的，当且仅当所有特征值都是唯一的。</p>
-<p>矩阵的特征分解带给我们很多关于矩阵的有用信息：</p>
-<ol>
-<li>矩阵是奇异的，当且仅当含有0特征值。</li>
-<li>实对称矩阵的特征分解可以用于优化二次方程<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>x</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.849108em;vertical-align:0em;"></span><span><span>x</span><span><span><span><span style="height:0.849108em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span></span></span></span>，其中限制<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>∣∣</span><span>x</span><span>∣</span><span><span>∣</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>。当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>等于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>的某个特征向量时，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>将返回其对应的特征值。在限制条件下，函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10764em;">f</span></span></span></span>的最大值是最大特征值，最小值是最小特征值。</li>
-</ol>
-<div><p>提示</p>
-<p>所有特征值都是正数的矩阵称为<strong>正定</strong>(Positive Definite)；</p>
-<p>所有特征值都是非负数的矩阵称为<strong>半正定</strong>(Positive Semidefinite)；</p>
-<p>所有特征值都是负数的矩阵称为<strong>负定</strong>(Negative Definite)；</p>
-<p>所有特征值都是非正数的矩阵称为<strong>半负定</strong>(Negative Semidefinite)；</p>
-</div>
-<p>半正定矩阵受到关注的原因是它们能够保证</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.093548em;vertical-align:-0.19444em;"></span><span>∀</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>x</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>⩾</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span></span></p>
-<p>此外，正定矩阵还保证</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8991079999999999em;vertical-align:0em;"></span><span><span>x</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>⇒</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span></span></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>信息论</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</guid>
@@ -2226,18 +2233,18 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:14:10 GMT</pubDate>
     </item>
     <item>
-      <title>期望、方差和协方差</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">期望、方差和协方差</source>
-      <pubDate>Sun, 23 Jan 2022 01:14:25 GMT</pubDate>
-    </item>
-    <item>
       <title>常见概率分布</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</guid>
       <source url="https://breezeshane.github.io/rss.xml">常见概率分布</source>
       <pubDate>Sun, 23 Jan 2022 01:14:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>期望、方差和协方差</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">期望、方差和协方差</source>
+      <pubDate>Sun, 23 Jan 2022 01:14:25 GMT</pubDate>
     </item>
     <item>
       <title>条件概率及其链式法则</title>
@@ -8026,7 +8033,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -8051,7 +8058,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -8066,7 +8073,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8585,7 +8592,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8608,7 +8615,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8619,7 +8626,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8639,7 +8646,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8650,7 +8657,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9636,18 +9643,18 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:27 GMT</pubDate>
     </item>
     <item>
-      <title>B树</title>
-      <link>https://breezeshane.github.io/DataStructures/Tree/BTree/</link>
-      <guid>https://breezeshane.github.io/DataStructures/Tree/BTree/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">B树</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:16 GMT</pubDate>
-    </item>
-    <item>
       <title>B+树</title>
       <link>https://breezeshane.github.io/DataStructures/Tree/B+Tree/</link>
       <guid>https://breezeshane.github.io/DataStructures/Tree/B+Tree/</guid>
       <source url="https://breezeshane.github.io/rss.xml">B+树</source>
       <pubDate>Sun, 23 Jan 2022 01:27:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>B树</title>
+      <link>https://breezeshane.github.io/DataStructures/Tree/BTree/</link>
+      <guid>https://breezeshane.github.io/DataStructures/Tree/BTree/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">B树</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:16 GMT</pubDate>
     </item>
     <item>
       <title>二叉树</title>
@@ -9856,7 +9863,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -10584,7 +10591,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -10825,7 +10832,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
     </item>
     <item>
       <title>Arcolinux &amp; AwesomeWM</title>
@@ -13441,48 +13448,6 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
 ]]></content:encoded>
     </item>
     <item>
-      <title>Linux 共享 Anaconda</title>
-      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
-      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
-      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>安装Anaconda的步骤这里不做详细记述.</p>
-</blockquote>
-<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
-<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
-<div><pre><code><span>groupadd</span> anaconda
-</code></pre>
-<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
-<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
-<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
-<span>chmod</span> <span>770</span> -R /opt/anaconda/
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
-<div><pre><code><span>chmod</span> g+s /opt/anaconda
-<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
-<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
-<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>保存即可.</p>
-<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
-<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
-  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
-<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
-<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>记一次局域网搭建私人云盘的过程</title>
       <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
       <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
@@ -13597,6 +13562,48 @@ nextcloud
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Linux 共享 Anaconda</title>
+      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
+      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
+      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>安装Anaconda的步骤这里不做详细记述.</p>
+</blockquote>
+<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
+<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
+<div><pre><code><span>groupadd</span> anaconda
+</code></pre>
+<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
+<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
+<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
+<span>chmod</span> <span>770</span> -R /opt/anaconda/
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
+<div><pre><code><span>chmod</span> g+s /opt/anaconda
+<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
+<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
+<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>保存即可.</p>
+<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
+<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
+  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
+<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
+<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Linux Shell 编程学习与实战</title>
@@ -16055,6 +16062,89 @@ patch_request_class<span>(</span>app<span>)</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>在受限的网站里强制复制粘贴</title>
+      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
+      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
+      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
+<blockquote>
+<p>参考：</p>
+<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
+<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
+<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
+<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
+</blockquote>
+<h2 id="背景"> 背景</h2>
+<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
+<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
+<h2 id="实现方法"> 实现方法</h2>
+<h3 id="插件大法"> 插件大法</h3>
+<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
+<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
+<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
+<h3 id="查看源码大法"> 查看源码大法</h3>
+<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
+<blockquote>
+<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
+</blockquote>
+<h3 id="console操作大法"> Console操作大法</h3>
+<h4 id="全文复制"> 全文复制</h4>
+<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
+<p>如果你遇到如下形式的输出：</p>
+<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
+<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
+<p>写Shell文件，输入如下代码：</p>
+<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
+<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
+<h4 id="选中区域复制"> 选中区域复制</h4>
+<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
+<ol>
+<li>打开开发者工具</li>
+<li>选中网页中要复制的文字</li>
+<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
+</ol>
+<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
+<h3 id="打印预览大法"> 打印预览大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
+<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
+<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
+<h3 id="终极杀招"> 终极杀招</h3>
+<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
+<h2 id="补充的小知识"> 补充的小知识</h2>
+<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
+<h3 id="javascript实现方式"> JavaScript实现方式</h3>
+<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
+  <span>return</span> <span>false</span><span>;</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
+<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
+  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
+    <span>return</span> <span>false</span><span>;</span>
+  <span>}</span>
+<span>}</span><span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
+<div><pre><code><span>body</span> <span>{</span>
+  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
+  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
+  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
+  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
+  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
+  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
+<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div>]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
+    </item>
+    <item>
       <title>SDN入门基础</title>
       <link>https://breezeshane.github.io/Web/SDN/</link>
       <guid>https://breezeshane.github.io/Web/SDN/</guid>
@@ -16454,89 +16544,6 @@ patch_request_class<span>(</span>app<span>)</span>
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
     </item>
     <item>
-      <title>在受限的网站里强制复制粘贴</title>
-      <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
-      <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">在受限的网站里强制复制粘贴</source>
-      <pubDate>Fri, 14 May 2021 17:11:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
-<blockquote>
-<p>参考：</p>
-<p><a href="https://segmentfault.com/a/1190000039087909" target="_blank" rel="noopener noreferrer">功能实现-解除页面禁止复制功能</a></p>
-<p><a href="https://blog.csdn.net/facecrazy/article/details/46791443" target="_blank" rel="noopener noreferrer">Chrome下如何复制禁止复制网页上的文字</a></p>
-<p><a href="https://news.mydrivers.com/1/651/651484.htm" target="_blank" rel="noopener noreferrer">网页禁止复制粘贴怎么办？教你六招轻松搞定</a></p>
-<p><a href="https://www.jianshu.com/p/5550da3fad49" target="_blank" rel="noopener noreferrer">网页禁止复制的实现方法</a></p>
-</blockquote>
-<h2 id="背景"> 背景</h2>
-<p>像我这样“睿智”儿童，天天上网扒人家……博客，然后各种复制白嫖写报告，结果这样的事做多了，官方都看不下去了，就开始打压俺了，设置了各种障碍，说什么也不让我愉快地学（fù）习（zhì）了，不是让我去登陆，就是让我去付费，价钱还不便宜「🤬🤬🤬最重要的是根本不值这个价🤬🤬🤬」，哎，我就学习一下，稍微用亿点点，不行咯？😢😢😢</p>
-<p>难道我就没有办法了吗？不行，说什么也得想个办法把在眼前的资料白嫖到手！</p>
-<h2 id="实现方法"> 实现方法</h2>
-<h3 id="插件大法"> 插件大法</h3>
-<p>我选择的是Enable Copy插件，不过似乎在一些网站发挥的作用不是很好，有的网站要在未加载完之前就要复制文字，否则就失效，不过这没啥，不影响用，只要手速快，浏览器就反应不过来🤣🤣🤣</p>
-<p>Chrome浏览器请点<a href="https://chrome.google.com/webstore/detail/enable-copy/lmnganadkecefnhncokdlaohlkneihio/related?sid=MbjBMX" target="_blank" rel="noopener noreferrer">这里</a>安装插件。</p>
-<p>Firefox浏览器请点<a href="">这里</a>安装插件。</p>
-<h3 id="查看源码大法"> 查看源码大法</h3>
-<p>在浏览器的菜单里找到开发者工具的一项并点击（也可以使用快捷键<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>I</kbd>），然后搜索<code>&lt;p&gt;</code>的关键词，这时候就可以看到你希望复制的正文了。</p>
-<blockquote>
-<p>不同浏览器打开开发者工具的方法都不太一样，总之是个正常的浏览器都会有开发者工具这一项的，找一找总会有的。</p>
-</blockquote>
-<h3 id="console操作大法"> Console操作大法</h3>
-<h4 id="全文复制"> 全文复制</h4>
-<p>打开开发者工具，在Console控制台中输入<code>document.body.innerText</code>就会得到它当前页面的所有文字信息「不仅限于文章」。</p>
-<p>如果你遇到如下形式的输出：</p>
-<p><img src="/images/2021-05-14_17-26.png" alt="" /></p>
-<p>也不要深恶痛绝，我们还有一个好东西可以直接消除这些转义字符——echo。</p>
-<p>写Shell文件，输入如下代码：</p>
-<div><pre><code><span>echo</span> -e <span>"你复制的所有内容"</span> <span>>></span> new.txt <span>#后面的文件名是任取的。</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>执行完这个脚本文件，文章显示一切正常！</p>
-<p><img src="/images/2021-05-14_17-30.png" alt="" /></p>
-<h4 id="选中区域复制"> 选中区域复制</h4>
-<p>如果你只是想复制一段文字，那么采用上一个方法太过笨拙，其实我们还有更高效的做法：</p>
-<ol>
-<li>打开开发者工具</li>
-<li>选中网页中要复制的文字</li>
-<li>在Console控制台输入<code>window.getSelection(0).toString();</code></li>
-</ol>
-<p>这时候你就可以看到你希望的文字出现在控制台内了！</p>
-<h3 id="打印预览大法"> 打印预览大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>P</kbd>来打印该网页，在打印预览中再进行选中复制即可。</p>
-<h3 id="领进家门再拆大法"> 领进家门再拆大法</h3>
-<p>按下<kbd>Ctrl</kbd>+<kbd>S</kbd>来保存该网页，注意仅保存HTML文件。下载完后再打开复制。</p>
-<h3 id="终极杀招"> 终极杀招</h3>
-<table><tr><td bgcolor=#FF6347><center><font color="#000000"><strong>没什么说的，直接禁用加载js就万事大吉……</strong></font></center></td></tr></table>
-<h2 id="补充的小知识"> 补充的小知识</h2>
-<p>知其然，也要知其所以然。我一直都很奇怪为什么这些网站能限制我的操作，虽说大致能想到是用了JS或者其他写了判断来禁用我的对应操作。这回我总算了解到是如何实现的了：</p>
-<h3 id="javascript实现方式"> JavaScript实现方式</h3>
-<div><pre><code><span>// 禁用右键菜单、复制、选择</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>bind</span><span>(</span><span>"contextmenu copy selectstart"</span><span>,</span> <span>function</span><span>(</span><span>)</span> <span>{</span>
-  <span>return</span> <span>false</span><span>;</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><div><pre><code><span>// 禁用Ctrl+C和Ctrl+V（所有浏览器均支持）</span>
-<span>$</span><span>(</span>document<span>)</span><span>.</span><span>keydown</span><span>(</span><span>function</span><span>(</span><span>e</span><span>)</span> <span>{</span>
-  <span>if</span><span>(</span>e<span>.</span>ctrlKey <span>&amp;&amp;</span> <span>(</span>e<span>.</span>keyCode <span>==</span> <span>65</span> <span>||</span> e<span>.</span>keyCode <span>==</span> <span>67</span><span>)</span><span>)</span> <span>{</span>
-    <span>return</span> <span>false</span><span>;</span>
-  <span>}</span>
-<span>}</span><span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><h3 id="css实现方式"> CSS实现方式</h3>
-<div><pre><code><span>body</span> <span>{</span>
-  <span>-moz-user-select</span><span>:</span>none<span>;</span> <span>/* Firefox私有属性 */</span>
-  <span>-webkit-user-select</span><span>:</span>none<span>;</span> <span>/* WebKit内核私有属性 */</span>
-  <span>-ms-user-select</span><span>:</span>none<span>;</span> <span>/* IE私有属性(IE10及以后) */</span>
-  <span>-khtml-user-select</span><span>:</span>none<span>;</span> <span>/* KHTML内核私有属性 */</span>
-  <span>-o-user-select</span><span>:</span>none<span>;</span> <span>/* Opera私有属性 */</span>
-  <span>user-select</span><span>:</span>none<span>;</span> <span>/* CSS3属性 */</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h3 id="html实现方式"> HTML实现方式</h3>
-<div><pre><code><span><span><span>&lt;</span>body</span> <span>oncopy</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>oncut</span><span><span>=</span><span>"</span>return false;<span>"</span></span> <span>onselectstart</span><span><span>=</span><span>"</span>return false<span>"</span></span> <span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div>]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/cv.png" type="image/png"/>
-    </item>
-    <item>
       <title>Windows10 快捷键大全</title>
       <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
       <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
@@ -16861,7 +16868,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -16895,7 +16902,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -16905,7 +16912,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -16930,7 +16937,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -17002,7 +17009,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17011,7 +17018,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 12 Apr 2022 15:07:45 GMT</pubDate>
+      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
