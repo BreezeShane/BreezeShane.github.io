@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 12 Apr 2022 15:15:45 GMT</pubDate>
-    <lastBuildDate>Tue, 12 Apr 2022 15:15:45 GMT</lastBuildDate>
+    <pubDate>Wed, 13 Apr 2022 06:29:22 GMT</pubDate>
+    <lastBuildDate>Wed, 13 Apr 2022 06:29:22 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -46,18 +46,18 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>约瑟夫问题</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
-    </item>
-    <item>
       <title>括号匹配问题</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</guid>
       <source url="https://breezeshane.github.io/rss.xml">括号匹配问题</source>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>约瑟夫问题</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
     </item>
     <item>
       <title>极限反转数问题</title>
@@ -267,13 +267,6 @@
       <pubDate>Sun, 23 Jan 2022 01:25:31 GMT</pubDate>
     </item>
     <item>
-      <title>冒泡排序</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BubbleSort/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BubbleSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">冒泡排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:41 GMT</pubDate>
-    </item>
-    <item>
       <title>桶排序</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BucketSort/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BucketSort/</guid>
@@ -281,18 +274,18 @@
       <pubDate>Sun, 23 Jan 2022 01:25:49 GMT</pubDate>
     </item>
     <item>
+      <title>冒泡排序</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BubbleSort/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BubbleSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">冒泡排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:41 GMT</pubDate>
+    </item>
+    <item>
       <title>计数排序</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/CountingSort/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/CountingSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">计数排序</source>
       <pubDate>Sun, 23 Jan 2022 01:25:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>堆排序</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/HeapSort/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/HeapSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">堆排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:59 GMT</pubDate>
     </item>
     <item>
       <title>插入排序</title>
@@ -307,6 +300,13 @@
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/AlgorithmDesignAndAnalysis/2022-04-12_07-49.png" type="image/png"/>
+    </item>
+    <item>
+      <title>堆排序</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/HeapSort/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/HeapSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">堆排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:59 GMT</pubDate>
     </item>
     <item>
       <title>归并排序</title>
@@ -2282,18 +2282,18 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:15:19 GMT</pubDate>
     </item>
     <item>
-      <title>边缘概率</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">边缘概率</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:24 GMT</pubDate>
-    </item>
-    <item>
       <title>连续性变量的技术细节</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/</guid>
       <source url="https://breezeshane.github.io/rss.xml">连续性变量的技术细节</source>
       <pubDate>Sun, 23 Jan 2022 01:15:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>边缘概率</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">边缘概率</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:24 GMT</pubDate>
     </item>
     <item>
       <title>随机变量</title>
@@ -8033,7 +8033,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -8058,7 +8058,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -8073,7 +8073,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8538,6 +8538,30 @@ $$
 ]]></content:encoded>
     </item>
     <item>
+      <title>主要功能与配置演示</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/guide/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
+      <category>使用指南</category>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
+<ul>
+<li>
+<p><a href="./page.html">页面展示</a></p>
+</li>
+<li>
+<p><a href="./markdown.html">Markdown 展示</a></p>
+</li>
+<li>
+<p><a href="./disable.html">禁用展示</a></p>
+</li>
+<li>
+<p><a href="./encrypt.html">加密展示</a></p>
+</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>页面配置</title>
       <link>https://breezeshane.github.io/CourseOfBlog/guide/page/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/page/</guid>
@@ -8587,38 +8611,25 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>主要功能与配置演示</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/guide/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
-      <category>使用指南</category>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
-<ul>
-<li>
-<p><a href="./page.html">页面展示</a></p>
-</li>
-<li>
-<p><a href="./markdown.html">Markdown 展示</a></p>
-</li>
-<li>
-<p><a href="./disable.html">禁用展示</a></p>
-</li>
-<li>
-<p><a href="./encrypt.html">加密展示</a></p>
-</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>项目主页</title>
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>博客主页</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
+      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
+<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
+<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
 ]]></content:encoded>
     </item>
     <item>
@@ -8626,7 +8637,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8642,22 +8653,11 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>博客主页</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
-      <content:encoded><![CDATA[<p>这是一个博客主页。</p>
-<p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
-<p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>幻灯片页</title>
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9863,7 +9863,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -10580,9 +10580,28 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <details><summary>分解算法</summary>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 </details>
+<div><p>以上各范式之间的联系</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>BCNF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>3NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>2NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>1NF</span></span></span></span></span></span></p>
+<div><pre><code>flowchart TB
+A[&quot;1NF&quot;]
+B[&quot;2NF&quot;]
+C[&quot;3NF&quot;]
+D[&quot;BCNF&quot;]
+
+A-- 消去非主属性对键的部分函数依赖 --&gt;B
+B-- 消去非主属性对键的传递函数依赖 --&gt;C
+C-- 消去主属性对键的传递函数依赖 --&gt;D
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div></div>
 <h2 id="数据依赖的公理系统-armstrong公理系统"> 数据依赖的公理系统(Armstrong公理系统)</h2>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 <h2 id="模式分解"> 模式分解</h2>
+<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<h2 id="第四范式"> 第四范式</h2>
+<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<h2 id="第五范式"> 第五范式</h2>
+<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<h2 id="第六范式"> 第六范式</h2>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 ]]></content:encoded>
     </item>
@@ -10591,7 +10610,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -10832,7 +10851,29 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>TeXlive-LaTeX使用</title>
+      <link>https://breezeshane.github.io/LaTeX/</link>
+      <guid>https://breezeshane.github.io/LaTeX/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">TeXlive-LaTeX使用</source>
+      <pubDate>Fri, 18 Mar 2022 20:30:51 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
+<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
+<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
+<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
+<p>重启TeX Studio即可正常使用.</p>
+<div><p>宏包官网</p>
+<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
+</div>
+<h2 id="我常用的宏包"> 我常用的宏包</h2>
+<ol>
+<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
+注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
+<li>tikz, tikz-qtree</li>
+</ol>
+]]></content:encoded>
     </item>
     <item>
       <title>Arcolinux &amp; AwesomeWM</title>
@@ -11930,19 +11971,6 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
     </item>
     <item>
-      <title>Java 杂记</title>
-      <link>https://breezeshane.github.io/Java/</link>
-      <guid>https://breezeshane.github.io/Java/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
-      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
-<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
-<p>注意: 判断是否为NaN时要使用isNaN.</p>
-<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
-<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>记将旧电脑改建成服务器的过程</title>
       <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
       <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
@@ -12064,6 +12092,123 @@ rfkill: Cannot get wiphy information
 <p>可以尝试<code>reboot</code>查看效果.</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Magic SysRq 组合键功能表</title>
+      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
+      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
+      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>说明</p>
+<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th style="text-align:center">按键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
+<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
+</tr>
+<tr>
+<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
+<td style="text-align:center"><kbd>B</kbd></td>
+</tr>
+<tr>
+<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
+<td style="text-align:center"><kbd>C</kbd></td>
+</tr>
+<tr>
+<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
+<td style="text-align:center"><kbd>D</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>E</kbd></td>
+</tr>
+<tr>
+<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
+<td style="text-align:center"><kbd>F</kbd></td>
+</tr>
+<tr>
+<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
+<td style="text-align:center"><kbd>G</kbd></td>
+</tr>
+<tr>
+<td>将简洁的帮助文档打印至控制台</td>
+<td style="text-align:center"><kbd>H</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>I</kbd></td>
+</tr>
+<tr>
+<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
+<td style="text-align:center"><kbd>J</kbd></td>
+</tr>
+<tr>
+<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
+<td style="text-align:center"><kbd>K</kbd></td>
+</tr>
+<tr>
+<td>打印当前所有在线的 CPU 堆栈信息</td>
+<td style="text-align:center"><kbd>L</kbd></td>
+</tr>
+<tr>
+<td>打印当前的内存信息在控制台</td>
+<td style="text-align:center"><kbd>M</kbd></td>
+</tr>
+<tr>
+<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
+<td style="text-align:center"><kbd>N</kbd></td>
+</tr>
+<tr>
+<td>关闭系统</td>
+<td style="text-align:center"><kbd>O</kbd></td>
+</tr>
+<tr>
+<td>打印当前的寄存器信息和 flags 信息在控制台</td>
+<td style="text-align:center"><kbd>P</kbd></td>
+</tr>
+<tr>
+<td>显示所有在线的高进度定时器和时钟源信息</td>
+<td style="text-align:center"><kbd>Q</kbd></td>
+</tr>
+<tr>
+<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
+<td style="text-align:center"><kbd>R</kbd></td>
+</tr>
+<tr>
+<td>同步所有的已挂载的文件系统</td>
+<td style="text-align:center"><kbd>S</kbd></td>
+</tr>
+<tr>
+<td>打印当前的进程列表，以及他们的详细信息</td>
+<td style="text-align:center"><kbd>T</kbd></td>
+</tr>
+<tr>
+<td>重新挂载文件系统至只读模式</td>
+<td style="text-align:center"><kbd>U</kbd></td>
+</tr>
+<tr>
+<td>强制还原帧缓冲控制台</td>
+<td style="text-align:center"><kbd>V</kbd></td>
+</tr>
+<tr>
+<td>打印所有 D 状态（阻塞）的进程信息</td>
+<td style="text-align:center"><kbd>W</kbd></td>
+</tr>
+<tr>
+<td>转储 ftrace 缓冲区</td>
+<td style="text-align:center"><kbd>Z</kbd></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
     </item>
     <item>
       <title>Manjaro Linux</title>
@@ -13329,123 +13474,6 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
 <p>我是喜欢折腾，但是我不喜欢在有事要忙的时候还不得不为这些问题折腾，我需要的是一个稳定高效的Linux。</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Magic SysRq 组合键功能表</title>
-      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
-      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
-      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
-      <content:encoded><![CDATA[<div><p>说明</p>
-<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
-</div>
-<table>
-<thead>
-<tr>
-<th>功能</th>
-<th style="text-align:center">按键</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
-<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
-</tr>
-<tr>
-<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
-<td style="text-align:center"><kbd>B</kbd></td>
-</tr>
-<tr>
-<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
-<td style="text-align:center"><kbd>C</kbd></td>
-</tr>
-<tr>
-<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
-<td style="text-align:center"><kbd>D</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>E</kbd></td>
-</tr>
-<tr>
-<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
-<td style="text-align:center"><kbd>F</kbd></td>
-</tr>
-<tr>
-<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
-<td style="text-align:center"><kbd>G</kbd></td>
-</tr>
-<tr>
-<td>将简洁的帮助文档打印至控制台</td>
-<td style="text-align:center"><kbd>H</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>I</kbd></td>
-</tr>
-<tr>
-<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
-<td style="text-align:center"><kbd>J</kbd></td>
-</tr>
-<tr>
-<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
-<td style="text-align:center"><kbd>K</kbd></td>
-</tr>
-<tr>
-<td>打印当前所有在线的 CPU 堆栈信息</td>
-<td style="text-align:center"><kbd>L</kbd></td>
-</tr>
-<tr>
-<td>打印当前的内存信息在控制台</td>
-<td style="text-align:center"><kbd>M</kbd></td>
-</tr>
-<tr>
-<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
-<td style="text-align:center"><kbd>N</kbd></td>
-</tr>
-<tr>
-<td>关闭系统</td>
-<td style="text-align:center"><kbd>O</kbd></td>
-</tr>
-<tr>
-<td>打印当前的寄存器信息和 flags 信息在控制台</td>
-<td style="text-align:center"><kbd>P</kbd></td>
-</tr>
-<tr>
-<td>显示所有在线的高进度定时器和时钟源信息</td>
-<td style="text-align:center"><kbd>Q</kbd></td>
-</tr>
-<tr>
-<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
-<td style="text-align:center"><kbd>R</kbd></td>
-</tr>
-<tr>
-<td>同步所有的已挂载的文件系统</td>
-<td style="text-align:center"><kbd>S</kbd></td>
-</tr>
-<tr>
-<td>打印当前的进程列表，以及他们的详细信息</td>
-<td style="text-align:center"><kbd>T</kbd></td>
-</tr>
-<tr>
-<td>重新挂载文件系统至只读模式</td>
-<td style="text-align:center"><kbd>U</kbd></td>
-</tr>
-<tr>
-<td>强制还原帧缓冲控制台</td>
-<td style="text-align:center"><kbd>V</kbd></td>
-</tr>
-<tr>
-<td>打印所有 D 状态（阻塞）的进程信息</td>
-<td style="text-align:center"><kbd>W</kbd></td>
-</tr>
-<tr>
-<td>转储 ftrace 缓冲区</td>
-<td style="text-align:center"><kbd>Z</kbd></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
     </item>
     <item>
       <title>记一次局域网搭建私人云盘的过程</title>
@@ -16868,7 +16896,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -16902,7 +16930,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -16912,7 +16940,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -16937,7 +16965,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -17009,7 +17037,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17018,31 +17046,22 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 12 Apr 2022 15:14:34 GMT</pubDate>
+      <pubDate>Wed, 13 Apr 2022 06:28:10 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
     </item>
     <item>
-      <title>TeXlive-LaTeX使用</title>
-      <link>https://breezeshane.github.io/LaTeX/</link>
-      <guid>https://breezeshane.github.io/LaTeX/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">TeXlive-LaTeX使用</source>
-      <pubDate>Fri, 18 Mar 2022 20:30:51 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
-<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
-<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
-<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
-<p>重启TeX Studio即可正常使用.</p>
-<div><p>宏包官网</p>
-<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
-</div>
-<h2 id="我常用的宏包"> 我常用的宏包</h2>
-<ol>
-<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
-注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
-<li>tikz, tikz-qtree</li>
-</ol>
+      <title>Java 杂记</title>
+      <link>https://breezeshane.github.io/Java/</link>
+      <guid>https://breezeshane.github.io/Java/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
+      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
+<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
+<p>注意: 判断是否为NaN时要使用isNaN.</p>
+<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
+<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
 ]]></content:encoded>
     </item>
     <item>
