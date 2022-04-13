@@ -331,7 +331,8 @@ module.exports = config({
         mdEnhance: {
             align: true,
             demo: true,
-            flowchart: true,
+            flowchart: false,
+            mermaid: true,
             footnote: true,
             presentation: {
               plugins: ["highlight", "math"]
