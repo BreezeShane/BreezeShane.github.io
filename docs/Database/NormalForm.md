@@ -233,7 +233,7 @@ $$
 
 1. 对称性: 若$X↠Y$, 则$X↠Z$, 其中$Z=U-X-Y$.
 2. 传递性: 若$X↠Y, Y↠Z$, 则$X↠Z-Y$.
-3. 函数依赖是多值依赖的特殊情况: 若$X\rightarrowY$, 则$X↠Y$.
+3. 函数依赖是多值依赖的特殊情况: 若$X\rightarrow Y$, 则$X↠Y$.
 4. 若$X↠Y, X↠Z$, 则$X↠Y\cup Z$.
 5. 若$X↠Y, X↠Z$, 则$X↠Y\cap Z$.
 6. 若$X↠Y, X↠Z$, 则$X↠Y-Z, X↠Z-Y$.
@@ -266,7 +266,7 @@ Wikipedia上没有中文词条的解释, 能找到的只有英文版的:
 ::: tip 以上各范式之间的联系
 
 $$
-\mathrm{BCNF}\subseteq\mathrm{3NF}\subseteq\mathrm{2NF}\subseteq\mathrm{1NF}
+\mathrm{5NF}\subsetneq\mathrm{4NF}\subsetneq\mathrm{BCNF}\subsetneq\mathrm{3NF}\subsetneq\mathrm{2NF}\subsetneq\mathrm{1NF}
 $$
 
 ```mermaid
