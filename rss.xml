@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 13 Apr 2022 07:19:34 GMT</pubDate>
-    <lastBuildDate>Wed, 13 Apr 2022 07:19:34 GMT</lastBuildDate>
+    <pubDate>Sun, 17 Apr 2022 08:40:19 GMT</pubDate>
+    <lastBuildDate>Sun, 17 Apr 2022 08:40:19 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -2161,6 +2161,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 ]]></content:encoded>
     </item>
     <item>
+      <title>信息论</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">信息论</source>
+      <pubDate>Sun, 23 Jan 2022 01:13:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Lipschitz Continuity</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/</guid>
@@ -2217,13 +2224,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 </table>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Lipschitz_continuity_2.png" type="image/png"/>
-    </item>
-    <item>
-      <title>信息论</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">信息论</source>
-      <pubDate>Sun, 23 Jan 2022 01:13:59 GMT</pubDate>
     </item>
     <item>
       <title>常见函数及其性质</title>
@@ -8033,7 +8033,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -8058,7 +8058,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -8073,7 +8073,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8593,7 +8593,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8616,7 +8616,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8627,7 +8627,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8647,7 +8647,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8658,7 +8658,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9864,7 +9864,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -10470,31 +10470,35 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <li><a href="https://www.jianshu.com/p/a78faaf59e49" target="_blank" rel="noopener noreferrer">数据库范式（1NF 2NF 3NF BCNF）详解</a></li>
 <li><a href="https://blog.csdn.net/weixin_44959377/article/details/103634963" target="_blank" rel="noopener noreferrer">BCNF和第三范式的分解算法</a></li>
 <li><a href="https://codeantenna.com/a/QNdsSoFocn" target="_blank" rel="noopener noreferrer">BCNF范式的判断和分解</a></li>
-<li></li>
+<li><a href="https://blog.csdn.net/legendaryhaha/article/details/80032808" target="_blank" rel="noopener noreferrer">数据库中的范式和多值依赖</a></li>
+<li><a href="https://blog.51cto.com/u_7197299/2553363" target="_blank" rel="noopener noreferrer">50.关系模式R(U)中, X.Y.Z是U的子集. 下列关于多值依赖描述中正确的是</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E7%AC%AC%E4%BA%94%E8%8C%83%E5%BC%8F" target="_blank" rel="noopener noreferrer">第五范式 - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Join_dependency" target="_blank" rel="noopener noreferrer">Join dependency - Wikipedia</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Lossless_join_decomposition" target="_blank" rel="noopener noreferrer">Lossless join decomposition - Wikipedia</a></li>
 </ol>
 </details>
 <h2 id="前置知识"> 前置知识</h2>
 <div><p>定义</p>
-<p><strong>数据库规范化</strong>，又称<strong>正规化</strong>、<strong>标准化</strong>，是数据库设计的一系列原理和技术，以减少数据库中数据冗余，增进数据的一致性。</p>
+<p><strong>数据库规范化</strong>, 又称<strong>正规化</strong>、<strong>标准化</strong>, 是数据库设计的一系列原理和技术, 以减少数据库中数据冗余, 增进数据的一致性.</p>
 </div>
 <h3 id="关系规范化"> 关系规范化</h3>
-<p><strong>规范化</strong>指关系模式调优的一种机制，其以关系模式中的数据依赖为出发点，采用关系模式分解等措施，消除关系模式中不合适的数据依赖，达到解决数据的插入异常、删除异常、更新异常和数据冗余等问题的目标。</p>
+<p><strong>规范化</strong>指关系模式调优的一种机制, 其以关系模式中的数据依赖为出发点, 采用关系模式分解等措施, 消除关系模式中不合适的数据依赖, 达到解决数据的插入异常、删除异常、更新异常和数据冗余等问题的目标.</p>
 <h3 id="函数依赖"> 函数依赖</h3>
 <p>如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的两个元组在属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>上一致, 那么必在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05017em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05017em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.05017em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>m</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>上也一致, 称为: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span>A</span><span><span><span><span style="height:0.31166399999999994em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>i</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>函数决定<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.969438em;vertical-align:-0.286108em;"></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:-0.05017em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.05724em;">j</span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span></span></span></span>, 形式化记作:</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05017em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05017em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.05017em;">B</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.05017em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>m</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span></p>
 <div><p>函数依赖与属性关系</p>
-<p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>是属性集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>上的关系模式，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.07847em;">X</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>的子集:</p>
+<p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>是属性集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>上的关系模式, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.07847em;">X</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>的子集:</p>
 <ul>
 <li>如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>之间是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>关系, 则存在函数依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>, 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↔</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>.</li>
 <li>如果X和Y之间是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>关系, 则存在函数依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>.</li>
-<li>如果X和Y之间是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>关系, 则X和Y之间不存在函数依赖。</li>
+<li>如果X和Y之间是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>关系, 则X和Y之间不存在函数依赖.</li>
 </ul>
 </div>
 <p>如果对于关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中每个实例使得一个给定的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">F</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>为真, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>满足函数依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>.</p>
 <p><strong>平凡的函数依赖</strong>: 给定关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>的子集, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>, 且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>是平凡的函数依赖.</p>
 <p><strong>非平凡函数依赖</strong>: 给定关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>的子集, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>, 且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>是非平凡的函数依赖.</p>
 <div><p>提示</p>
-<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>为这个函数依赖的决定属性(组)，或决定因素.</p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>为这个函数依赖的决定属性(组), 或决定因素.</p>
 <p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>不函数依赖于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>, 则记作<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.36687em;vertical-align:0em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>.</p>
 </div>
 <p><strong>完全函数依赖</strong>: 给定关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.13889em;">F</span><span>)</span></span></span></span>, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.887862em;vertical-align:-0.13597em;"></span><span>∀</span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.751892em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>′</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>, 均有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.946332em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.751892em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>′</span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.36687em;vertical-align:0em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>完全函数依赖, 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.1452010000000001em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:1.1452010000000001em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span>→</span></span></span><span style="top:-3.5668699999999998em;margin-left:0em;"><span style="height:3em;"></span><span><span><span style="margin-right:0.13889em;">F</span></span></span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>.</p>
@@ -10514,7 +10518,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <p>闭包的概念其实各领域基本通用, 要求都是一样的, 包内各元素通过运算符计算得出的结果仍然在包内, 详细的理论可去参考离散数学的代数系统部分.</p>
 <p>基于闭包的概念, 如果有某些个属性可以推知其他所有属性, 那么显然这些属性是关键的, 通过闭包运算即可得知某属性集是否为该关系的候选码.</p>
 <h3 id="候选键求取理论"> 候选键求取理论</h3>
-<p>对于给定的关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span>和函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>，可将其属性分为4类:</p>
+<p>对于给定的关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span>和函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>, 可将其属性分为4类:</p>
 <ol>
 <li>L类: 仅出现在函数依赖左部的属性</li>
 <li>R类: 仅出现在函数依赖右部的属性</li>
@@ -10523,30 +10527,30 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 </ol>
 <p><strong>定理</strong>:</p>
 <ol>
-<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>，若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是L类属性，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>必为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的任一候选码的成员.</li>
-<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>，若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是R类属性，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>不在任何候选码中.</li>
-<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>，若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是N类属性，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>必包含在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的任一候选码中.</li>
+<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是L类属性, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>必为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的任一候选码的成员.</li>
+<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是R类属性, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>不在任何候选码中.</li>
+<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是N类属性, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>必包含在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的任一候选码中.</li>
 </ol>
 <p><strong>推论</strong>:</p>
 <ol>
-<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>，若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是L类属性，且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.771331em;vertical-align:0em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span>包含了<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的全部属性；则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>必为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的唯一候选码.</li>
-<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>，若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是L类和N类组成的属性集，且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.771331em;vertical-align:0em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span>包含了<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的全部属性；则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的唯一候选码.</li>
+<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是L类属性, 且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.771331em;vertical-align:0em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span>包含了<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的全部属性；则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>必为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的唯一候选码.</li>
+<li>对于给定的关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>及其函数依赖集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>(</span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span>是L类和N类组成的属性集, 且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.771331em;vertical-align:0em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span>包含了<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的全部属性；则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的唯一候选码.</li>
 </ol>
 <h2 id="范式"> 范式</h2>
-<p>若关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>符合第<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>范式的约定规则，则可表示为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>n</span><span><span>NF</span></span></span></span></span>.</p>
-<p>通过模式分解等方法，将一个属于低级别范式的关系模式转换为若干个属于高级别范式的关系模式的集合，这种过程即<strong>规范化</strong>.</p>
+<p>若关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>符合第<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>范式的约定规则, 则可表示为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>n</span><span><span>NF</span></span></span></span></span>.</p>
+<p>通过模式分解等方法, 将一个属于低级别范式的关系模式转换为若干个属于高级别范式的关系模式的集合, 这种过程即<strong>规范化</strong>.</p>
 <h2 id="第一范式"> 第一范式</h2>
-<p><strong>第一范式</strong>（1NF）是数据库正规化所使用的正规形式。第一范式是为了要排除重复组的出现，要求:</p>
+<p><strong>第一范式</strong>（1NF）是数据库正规化所使用的正规形式. 第一范式是为了要排除重复组的出现, 要求:</p>
 <ul>
 <li>数据库的每一列的论域都是由不可分割的原子值组成.</li>
 <li>每个字段的值都只能是单一值.</li>
 </ul>
 <p>若满足以上条件, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>n</span><span><span>NF</span></span></span></span></span>.</p>
 <div><p>注意</p>
-<p>1NF是对关系模式的基本要求，不满足第一范式的数据库模式不能称为关系数据库.</p>
+<p>1NF是对关系模式的基本要求, 不满足第一范式的数据库模式不能称为关系数据库.</p>
 </div>
 <h2 id="第二范式"> 第二范式</h2>
-<p><strong>第二范式</strong>（2NF）是数据库正规化所使用的正规形式。规则是要求资料表里的所有资料都要和该资料表的键（主键与候选键）有完全依赖关系：每个非键属性必须独立于任意一个候选键的任意一部分属性。</p>
+<p><strong>第二范式</strong>（2NF）是数据库正规化所使用的正规形式. 规则是要求资料表里的所有资料都要和该资料表的键（主键与候选键）有完全依赖关系：每个非键属性必须独立于任意一个候选键的任意一部分属性.</p>
 <p>一个资料表符合第二范式当且仅当:</p>
 <ul>
 <li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>1</span><span><span>NF</span></span></span></span></span>.</li>
@@ -10556,22 +10560,22 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 </details>
 <h2 id="第三范式"> 第三范式</h2>
-<p><strong>简洁定义</strong>: 对于每个非平凡FD(函数依赖)，或者左边是超键，或者右边仅由主属性构成.</p>
-<p><strong>第三范式</strong>(3NF)是数据库正规化所使用的正规形式，要求所有非主键属性都只和候选键有相关性，也就是说非主键属性之间应该是独立无关的。</p>
+<p><strong>简洁定义</strong>: 对于每个非平凡FD(函数依赖), 或者左边是超键, 或者右边仅由主属性构成.</p>
+<p><strong>第三范式</strong>(3NF)是数据库正规化所使用的正规形式, 要求所有非主键属性都只和候选键有相关性, 也就是说非主键属性之间应该是独立无关的.</p>
 <details><summary>分解算法</summary>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 </details>
 <details><summary>证明例题</summary>
-<p>求证: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>3</span><span><span>NF</span></span></span></span></span>，则每一个非主属性既不部分依赖于码也不传递依赖于码.</p>
+<p>求证: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>3</span><span><span>NF</span></span></span></span></span>, 则每一个非主属性既不部分依赖于码也不传递依赖于码.</p>
 <p><strong>(1) 关于对码的传递函数依赖</strong></p>
 <p>假设存在对码的传递函数依赖, 则必有: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>∃</span></span></span></span>属性组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.13889em;">P</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>及<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span></span></span></span>, 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span></span></span></span>是码, 满足<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.13889em;">T</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.36687em;vertical-align:0em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.13889em;">P</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.13889em;">T</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 与3NF的定义相违背, 假设不成立.</p>
 <p><strong>(2) 关于对码的部分函数依赖</strong></p>
-<p>若存在对码的部分函数依赖，则必有: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>∃</span></span></span></span>属性组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.13889em;">P</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>Q</span></span></span></span>及<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span></span></span></span>是码, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.13889em;">P</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>, 满足<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 则有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.36687em;vertical-align:0em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span></span></span></span>, 与3NF的定义相违背, 假设不成立.</p>
+<p>若存在对码的部分函数依赖, 则必有: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>∃</span></span></span></span>属性组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.13889em;">P</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>Q</span></span></span></span>及<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span></span></span></span>是码, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.13889em;">P</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span></span></span></span>, 满足<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 则有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>Q</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>Q</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.36687em;vertical-align:0em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">P</span></span></span></span>, 与3NF的定义相违背, 假设不成立.</p>
 </details>
 <h2 id="巴斯范式-boyce-codd-normal-form-bcnf"> 巴斯范式(Boyce-Codd Normal Form, BCNF)</h2>
-<p>定义: 如果对于关系模式R中存在的任意一个非平凡函数依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>，都满足X是R的一个超键，那么关系模式R就属于BCNF。</p>
+<p>定义: 如果对于关系模式R中存在的任意一个非平凡函数依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>, 都满足X是R的一个超键, 那么关系模式R就属于BCNF.</p>
 <p>形式化定义: 关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10903em;">U</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.13889em;">F</span><span style="margin-right:0.2777777777777778em;"></span><span>&gt;∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>1</span><span><span>NF</span></span></span></span></span>, 对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>中的每一个非平凡函数依赖, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.22222em;">Y</span><span>(</span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span><span><span><span><span style="height:0.8888799999999999em;vertical-align:-0.19444em;"></span><span><span><span></span></span></span><span></span></span></span></span></span></span><span><span style="height:0.7719400000000001em;vertical-align:-0.13597em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07847em;">X</span><span>)</span></span></span></span>, 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>必含有码, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.10903em;">U</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.13889em;">F</span><span style="margin-right:0.2777777777777778em;"></span><span>&gt;∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>BCNF</span></span></span></span></span>.</p>
-<p>等价语义: 属于BCNF的关系模式，每个非平凡依赖的左边必须包括侯选建.</p>
+<p>等价语义: 属于BCNF的关系模式, 每个非平凡依赖的左边必须包括侯选建.</p>
 <p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>BCNF</span></span></span></span></span>:</p>
 <ul>
 <li>R中所有非主属性对每一个码都是完全函数依赖.</li>
@@ -10581,19 +10585,53 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <details><summary>分解算法</summary>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 </details>
-<div><p>以上各范式之间的联系</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>BCNF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>3NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>2NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>1NF</span></span></span></span></span></span></p>
-<Mermaid id="mermaid-64a560dc" data-code="flowchart%20TB%0AA%5B%221NF%22%5D%0AB%5B%222NF%22%5D%0AC%5B%223NF%22%5D%0AD%5B%22BCNF%22%5D%0A%0AA--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E9%83%A8%E5%88%86%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EB%0AB--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EC%0AC--%20%E6%B6%88%E5%8E%BB%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3ED%0A"></Mermaid></div>
 <h2 id="数据依赖的公理系统-armstrong公理系统"> 数据依赖的公理系统(Armstrong公理系统)</h2>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 <h2 id="模式分解"> 模式分解</h2>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 <h2 id="第四范式"> 第四范式</h2>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<div><p>多值依赖</p>
+<p><strong>设计的目的</strong>: 尽量消除插入、删除异常, 修改复杂, 数据冗余.</p>
+<p><strong>定义</strong>:</p>
+<p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>是一个属性集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>上的一个关系模式,  <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.07847em;">X</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>的子集, 并且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span><span>＝</span><span style="margin-right:0.10903em;">U</span><span>－</span><span style="margin-right:0.07847em;">X</span><span>－</span><span style="margin-right:0.22222em;">Y</span></span></span></span>. 关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>中多值依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>成立, 当且仅当对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>的任一关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>, 给定的一对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.04398em;">z</span><span>)</span></span></span></span>值, 有一组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>的值, 这组值仅仅决定于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>值而与<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.04398em;">z</span></span></span></span>值无关.</p>
+<p>在关系模式中, 函数依赖不能表示属性值之间的一对多联系, 这些属性之间有些虽然没有直接关系, 但存在间接的关系, 把没有直接联系、但有间接的联系称为多值依赖的数据依赖.</p>
+<p><strong>判定方法</strong>: 对于任意关系中, 如果存在两个元组(就是行), 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>A</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05017em;">B</span></span></span></span>, 如果他们的某一属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>的值相等, 那么我们交换它们另外的属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>的值后, 得到的新的两个元组, 在表中仍可以在原来的表中找到与它们相匹配的元组.</p>
+</div>
+<p><strong>平凡多值依赖和非平凡的多值依赖</strong>:</p>
+<p>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>, 而<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.765em;vertical-align:-0.08167em;"></span><span style="margin-right:0.07153em;">Z</span><span>＝</span><span>∅</span></span></span></span>, 则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>为平凡的多值依赖, 否则称<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>为非平凡的多值依赖.</p>
+<p><strong>多值依赖与函数依赖的区别</strong>:</p>
+<p>函数依赖是多值依赖的一种特殊情况, 根据定义中的&quot;有一组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>的值&quot;, 我们可以令这一组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>内只含有一个元素<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.688696em;vertical-align:0em;"></span><span><span style="margin-right:0.22222em;">Y</span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span></span></span></span>, 这时就是函数依赖.</p>
+<p>因此我们认为函数依赖一定是多值依赖, 多值依赖是函数依赖的超集.</p>
+<p><strong>多值依赖的性质</strong>:</p>
+<ol>
+<li>对称性: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>, 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.10903em;">U</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>.</li>
+<li>传递性: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.22222em;">Y</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.07153em;">Z</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>.</li>
+<li>函数依赖是多值依赖的特殊情况: 若<span class='katex-error' title='ParseError: KaTeX parse error: Undefined control sequence: \rightarrowY at position 2: X\̲r̲i̲g̲h̲t̲a̲r̲r̲o̲w̲Y̲'>X\rightarrowY</span>, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>.</li>
+<li>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.22222em;">Y</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>.</li>
+<li>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.22222em;">Y</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2222222222222222em;"></span><span>∩</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>.</li>
+<li>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.22222em;">Y</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.07153em;">Z</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.07153em;">Z</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>.</li>
+</ol>
+<p>总之, 第四范式的要求有以下三点:</p>
+<ol>
+<li>不允许有非平凡且非函数依赖的多值依赖.</li>
+<li>允许的非平凡多值依赖是函数依赖.</li>
+<li>平凡的多值依赖属于第四范式.</li>
+</ol>
 <h2 id="第五范式"> 第五范式</h2>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
-<h2 id="第六范式"> 第六范式</h2>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<p>关系数据库设计的第五范式(<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>5</span><span><span>NF</span></span></span></span></span>), 也称投影-连接范式（Project-join Normal Form, PJ/NF）是数据库规范化的一个级别，以去除多个关系之间的语义相关.</p>
+<p><strong>定义</strong>: 一张表满足第五范式<strong>当且仅当</strong>它的每个连接依赖可由候选键推出. <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>连接依赖于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.16666666666666666em;"></span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span><span>{</span><span>A</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05017em;">B</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07153em;">Z</span><span>}</span></span></span></span>，定义为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>A</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05017em;">B</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>都是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的属性的子集, 且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>A</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05017em;">B</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>的连接(Join)等于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>。<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>上的连接依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.16666666666666666em;"></span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span><span>{</span><span>A</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05017em;">B</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07153em;">Z</span><span>}</span></span></span></span>可由<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的候选键推出，当且仅当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>A</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05017em;">B</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>的每一个都包含了R的超键.</p>
+<div><p>连接依赖</p>
+<p>Wikipedia上没有中文词条的解释, 能找到的只有英文版的:</p>
+<blockquote>
+<p>In the area of computer science known as dependency theory, a join dependency is a constraint on the set of legal relations over a database scheme. A table <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span></span></span></span> is subject to a join dependency if <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span></span></span></span> can always be recreated by joining multiple tables each having a subset of the attributes of <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span></span></span></span>. If one of the tables in the join has all the attributes of the table <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">T</span></span></span></span>, the join dependency is called trivial.</p>
+<p>The join dependency plays an important role in the Fifth normal form, also known as project-join normal form, because it can be proven that if a scheme <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span> is decomposed in tables <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span> to <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>, the decomposition will be a lossless-join decomposition if the legal relations on <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span> are restricted to a join dependency on <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span> called <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.16666666666666666em;"></span><span><span><span><span style="height:0.688696em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>∗</span></span></span></span></span></span></span></span><span>(</span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>1</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>2</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>n</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span>.</p>
+</blockquote>
+<p>不过英文版解释的也比较清晰, 我想在这里应该不用再做赘述了.</p>
+</div>
+<h2 id="总结"> 总结</h2>
+<div><p>以上各范式之间的联系</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>BCNF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>3NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>2NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>1NF</span></span></span></span></span></span></p>
+<Mermaid id="mermaid-64a552de" data-code="flowchart%20TB%0AA%5B%221NF%22%5D%0AB%5B%222NF%22%5D%0AC%5B%223NF%22%5D%0AD%5B%22BCNF%22%5D%0AE%5B%224NF%22%5D%0AF%5B%225NF%22%5D%0A%0AA--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E9%83%A8%E5%88%86%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EB%0AB--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EC%0AC--%20%E6%B6%88%E5%8E%BB%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3ED%0AD--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E5%B9%B3%E5%87%A1%E4%B8%94%E9%9D%9E%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%E7%9A%84%E5%A4%9A%E5%80%BC%E4%BE%9D%E8%B5%96%20--%3E%20E%0AE--%20%E6%B6%88%E5%8E%BB%E4%B8%8D%E6%98%AF%E7%94%B1%E5%80%99%E9%80%89%E7%A0%81%E6%89%80%E8%95%B4%E5%90%AB%E7%9A%84%E8%BF%9E%E6%8E%A5%E4%BE%9D%E8%B5%96%20--%3E%20F%0A"></Mermaid></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -10601,7 +10639,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -10842,7 +10880,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
     </item>
     <item>
       <title>Arcolinux &amp; AwesomeWM</title>
@@ -11657,6 +11695,28 @@ electron9
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
     <item>
+      <title>TeXlive-LaTeX使用</title>
+      <link>https://breezeshane.github.io/LaTeX/</link>
+      <guid>https://breezeshane.github.io/LaTeX/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">TeXlive-LaTeX使用</source>
+      <pubDate>Fri, 18 Mar 2022 20:30:51 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
+<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
+<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
+<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
+<p>重启TeX Studio即可正常使用.</p>
+<div><p>宏包官网</p>
+<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
+</div>
+<h2 id="我常用的宏包"> 我常用的宏包</h2>
+<ol>
+<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
+注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
+<li>tikz, tikz-qtree</li>
+</ol>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Shell全自动安装与部署Anaconda</title>
       <link>https://breezeshane.github.io/Linux/AutoIAC/</link>
       <guid>https://breezeshane.github.io/Linux/AutoIAC/</guid>
@@ -11940,6 +12000,123 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
     </item>
     <item>
+      <title>Magic SysRq 组合键功能表</title>
+      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
+      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
+      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>说明</p>
+<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th style="text-align:center">按键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
+<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
+</tr>
+<tr>
+<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
+<td style="text-align:center"><kbd>B</kbd></td>
+</tr>
+<tr>
+<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
+<td style="text-align:center"><kbd>C</kbd></td>
+</tr>
+<tr>
+<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
+<td style="text-align:center"><kbd>D</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>E</kbd></td>
+</tr>
+<tr>
+<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
+<td style="text-align:center"><kbd>F</kbd></td>
+</tr>
+<tr>
+<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
+<td style="text-align:center"><kbd>G</kbd></td>
+</tr>
+<tr>
+<td>将简洁的帮助文档打印至控制台</td>
+<td style="text-align:center"><kbd>H</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>I</kbd></td>
+</tr>
+<tr>
+<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
+<td style="text-align:center"><kbd>J</kbd></td>
+</tr>
+<tr>
+<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
+<td style="text-align:center"><kbd>K</kbd></td>
+</tr>
+<tr>
+<td>打印当前所有在线的 CPU 堆栈信息</td>
+<td style="text-align:center"><kbd>L</kbd></td>
+</tr>
+<tr>
+<td>打印当前的内存信息在控制台</td>
+<td style="text-align:center"><kbd>M</kbd></td>
+</tr>
+<tr>
+<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
+<td style="text-align:center"><kbd>N</kbd></td>
+</tr>
+<tr>
+<td>关闭系统</td>
+<td style="text-align:center"><kbd>O</kbd></td>
+</tr>
+<tr>
+<td>打印当前的寄存器信息和 flags 信息在控制台</td>
+<td style="text-align:center"><kbd>P</kbd></td>
+</tr>
+<tr>
+<td>显示所有在线的高进度定时器和时钟源信息</td>
+<td style="text-align:center"><kbd>Q</kbd></td>
+</tr>
+<tr>
+<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
+<td style="text-align:center"><kbd>R</kbd></td>
+</tr>
+<tr>
+<td>同步所有的已挂载的文件系统</td>
+<td style="text-align:center"><kbd>S</kbd></td>
+</tr>
+<tr>
+<td>打印当前的进程列表，以及他们的详细信息</td>
+<td style="text-align:center"><kbd>T</kbd></td>
+</tr>
+<tr>
+<td>重新挂载文件系统至只读模式</td>
+<td style="text-align:center"><kbd>U</kbd></td>
+</tr>
+<tr>
+<td>强制还原帧缓冲控制台</td>
+<td style="text-align:center"><kbd>V</kbd></td>
+</tr>
+<tr>
+<td>打印所有 D 状态（阻塞）的进程信息</td>
+<td style="text-align:center"><kbd>W</kbd></td>
+</tr>
+<tr>
+<td>转储 ftrace 缓冲区</td>
+<td style="text-align:center"><kbd>Z</kbd></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
       <title>记将旧电脑改建成服务器的过程</title>
       <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
       <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
@@ -12061,123 +12238,6 @@ rfkill: Cannot get wiphy information
 <p>可以尝试<code>reboot</code>查看效果.</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Magic SysRq 组合键功能表</title>
-      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
-      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
-      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
-      <content:encoded><![CDATA[<div><p>说明</p>
-<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
-</div>
-<table>
-<thead>
-<tr>
-<th>功能</th>
-<th style="text-align:center">按键</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
-<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
-</tr>
-<tr>
-<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
-<td style="text-align:center"><kbd>B</kbd></td>
-</tr>
-<tr>
-<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
-<td style="text-align:center"><kbd>C</kbd></td>
-</tr>
-<tr>
-<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
-<td style="text-align:center"><kbd>D</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>E</kbd></td>
-</tr>
-<tr>
-<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
-<td style="text-align:center"><kbd>F</kbd></td>
-</tr>
-<tr>
-<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
-<td style="text-align:center"><kbd>G</kbd></td>
-</tr>
-<tr>
-<td>将简洁的帮助文档打印至控制台</td>
-<td style="text-align:center"><kbd>H</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>I</kbd></td>
-</tr>
-<tr>
-<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
-<td style="text-align:center"><kbd>J</kbd></td>
-</tr>
-<tr>
-<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
-<td style="text-align:center"><kbd>K</kbd></td>
-</tr>
-<tr>
-<td>打印当前所有在线的 CPU 堆栈信息</td>
-<td style="text-align:center"><kbd>L</kbd></td>
-</tr>
-<tr>
-<td>打印当前的内存信息在控制台</td>
-<td style="text-align:center"><kbd>M</kbd></td>
-</tr>
-<tr>
-<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
-<td style="text-align:center"><kbd>N</kbd></td>
-</tr>
-<tr>
-<td>关闭系统</td>
-<td style="text-align:center"><kbd>O</kbd></td>
-</tr>
-<tr>
-<td>打印当前的寄存器信息和 flags 信息在控制台</td>
-<td style="text-align:center"><kbd>P</kbd></td>
-</tr>
-<tr>
-<td>显示所有在线的高进度定时器和时钟源信息</td>
-<td style="text-align:center"><kbd>Q</kbd></td>
-</tr>
-<tr>
-<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
-<td style="text-align:center"><kbd>R</kbd></td>
-</tr>
-<tr>
-<td>同步所有的已挂载的文件系统</td>
-<td style="text-align:center"><kbd>S</kbd></td>
-</tr>
-<tr>
-<td>打印当前的进程列表，以及他们的详细信息</td>
-<td style="text-align:center"><kbd>T</kbd></td>
-</tr>
-<tr>
-<td>重新挂载文件系统至只读模式</td>
-<td style="text-align:center"><kbd>U</kbd></td>
-</tr>
-<tr>
-<td>强制还原帧缓冲控制台</td>
-<td style="text-align:center"><kbd>V</kbd></td>
-</tr>
-<tr>
-<td>打印所有 D 状态（阻塞）的进程信息</td>
-<td style="text-align:center"><kbd>W</kbd></td>
-</tr>
-<tr>
-<td>转储 ftrace 缓冲区</td>
-<td style="text-align:center"><kbd>Z</kbd></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
     </item>
     <item>
       <title>Manjaro Linux</title>
@@ -15914,151 +15974,6 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
       <enclosure url="https://breezeshane.github.io/images/109337.png" type="image/png"/>
     </item>
     <item>
-      <title>简单的网页前后端搭建过程</title>
-      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
-      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
-      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
-<h3 id="html"> HTML</h3>
-<p><strong>HTML设置字体：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
-<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
-<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
-    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
-<span><span><span>&lt;/</span>form</span><span>></span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
-<h3 id="css"> CSS</h3>
-<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
-<p>CSS选择器：</p>
-<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
-<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
-<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
-<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
-<span>background-position</span><span>:</span> center center<span>;</span>
-<span>background-attachment</span><span>:</span> fixed<span>;</span>
-<span>background-size</span><span>:</span> cover<span>;</span>
-<span>margin</span><span>:</span> 0<span>;</span>
-<span>position</span><span>:</span> relative<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
-<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
-<span>top</span><span>:</span> 50%<span>;</span>
-<span>left</span><span>:</span> 50%<span>;</span>
-<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
-<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
-<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
-<h3 id="javascript"> JavaScript</h3>
-<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
-<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
-    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
-    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
-    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
-	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
-
-    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
-	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
-
-    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
-        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
-        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
-        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
-            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
-            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
-        <span>}</span>
-        file_num <span>=</span> fileList<span>.</span>length
-        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
-            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
-        <span>}</span> <span>else</span> <span>{</span>
-            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
-                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
-            <span>}</span>
-            <span>// 以下定义了前端传输的相关信息。</span>
-            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
-                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
-                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
-                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
-                processData<span>:</span> <span>false</span><span>,</span> 
-                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
-                contentType<span>:</span> <span>false</span><span>,</span>
-                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
-                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
-                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
-                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
-                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
-                    <span>//后续的两行代码则是修改相应控件的数据。</span>
-                <span>}</span><span>,</span>
-                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
-                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
-                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
-                <span>}</span>
-            <span>}</span><span>)</span>
-        <span>}</span>
-    <span>}</span><span>)</span><span>;</span>
-
-    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
-        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
-        <span>// 直接触发选择文件的点击事件。</span>
-    <span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
-<p>使用后端flask之前需要先做好配置：</p>
-<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
-<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
-
-app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
-<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
-    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
-<blockquote>
-<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
-</blockquote>
-<p>调用flask_uploads包后要做如下的配置：</p>
-<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
-configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
-patch_request_class<span>(</span>app<span>)</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
-<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
-<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
-<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
-<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
-    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
-    file_urls <span>=</span> <span>[</span><span>]</span>
-    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
-    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
-        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
-        fileList<span>.</span>append<span>(</span>filename<span>)</span>
-        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
-    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
-    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
-    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
-<p>「注」：以上所有代码都是项目的主要部分。</p>
-</blockquote>
-<p>最后将整个前后端写好之后，就可以正常执行了！</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>在受限的网站里强制复制粘贴</title>
       <link>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</link>
       <guid>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</guid>
@@ -16861,11 +16776,156 @@ patch_request_class<span>(</span>app<span>)</span>
       <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
     </item>
     <item>
+      <title>简单的网页前后端搭建过程</title>
+      <link>https://breezeshane.github.io/Web/Frontbackend/</link>
+      <guid>https://breezeshane.github.io/Web/Frontbackend/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">简单的网页前后端搭建过程</source>
+      <pubDate>Sun, 15 Aug 2021 15:02:00 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
+<h3 id="html"> HTML</h3>
+<p><strong>HTML设置字体：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>font</span> <span>size</span><span><span>=</span><span>"</span>6<span>"</span></span> <span>color</span><span><span>=</span><span>"</span>snow<span>"</span></span><span>></span></span><span><span><span>&lt;</span>strong</span><span>></span></span>......<span><span><span>&lt;/</span>strong</span><span>></span></span><span><span><span>&lt;/</span>font</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>这类写法已经过时，如今已被丢弃，但大多浏览器仍能支持显示。现今的写法应为如下CSS类写法：</p>
+<div><pre><code><span><span><span>&lt;</span>span</span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>color</span><span>:</span> snow<span>;</span> <span>font-weight</span><span>:</span> bolder<span>;</span> </span><span>"</span></span></span><span>></span></span>......<span><span><span>&lt;/</span>span</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>HTML设置上传控件：</strong></p>
+<div><pre><code><span><span><span>&lt;</span>form</span> <span>id</span><span><span>=</span><span>"</span>test<span>"</span></span> <span>enctype</span><span><span>=</span><span>"</span>multipart/form-data<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>text-align</span><span>:</span> center<span>;</span> </span><span>"</span></span></span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>button<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>upload<span>"</span></span> <span>value</span><span><span>=</span><span>"</span>上传图片<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>font-size</span><span>:</span> 25px<span>;</span> <span>font-weight</span><span>:</span> bold<span>;</span> </span><span>"</span></span></span><span>></span></span><span><span><span>&lt;</span>br</span><span>></span></span>
+    <span><span><span>&lt;</span>input</span> <span>type</span><span><span>=</span><span>"</span>file<span>"</span></span> <span>id</span><span><span>=</span><span>"</span>files<span>"</span></span> <span>name</span><span><span>=</span><span>"</span>upload_files<span>"</span></span> <span><span>style</span><span><span>=</span><span>"</span><span><span>visibility</span><span>:</span> hidden</span><span>"</span></span></span> <span>multiple</span><span><span>=</span><span>"</span>multiple<span>"</span></span><span>></span></span>
+<span><span><span>&lt;/</span>form</span><span>></span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这样就可以显示一个button，点击后即可打开文件对话框选择多个文件，另外应该注意的是你选择好文件并确认之后，上传的数据是会暂时存到这个form标签里的，而这也是为了后续的传输方便。</p>
+<h3 id="css"> CSS</h3>
+<p>HTML的head标签内可以写入<code>&lt;style&gt;</code>标签，在<code>&lt;style&gt;</code>内定义CSS样式；另外也可直接在其他标签内编写属性<code>style=&quot;xxxxxx&quot;</code>。</p>
+<p>CSS选择器：</p>
+<div><pre><code><span>.Image</span> <span>{</span><span>}</span> <span>/*这里是表示使用类选择器，选中类名为Image的所有标签*/</span>
+<span>body</span> <span>{</span><span>}</span> <span>/*这里表示直接选中body标签*/</span>
+<span>#main</span> <span>{</span><span>}</span> <span>/*这里是表示使用ID选择器，选中Id名为main的标签*/</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>CSS实现背景图片自动缩放大小：</p>
+<div><pre><code><span>background-image</span><span>:</span> <span><span>url</span><span>(</span><span>"Path/to/your/background/image"</span><span>)</span></span><span>;</span>
+<span>background-position</span><span>:</span> center center<span>;</span>
+<span>background-attachment</span><span>:</span> fixed<span>;</span>
+<span>background-size</span><span>:</span> cover<span>;</span>
+<span>margin</span><span>:</span> 0<span>;</span>
+<span>position</span><span>:</span> relative<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS实现某标签垂直水平居中：</p>
+<div><pre><code><span>position</span><span>:</span> fixed<span>;</span>
+<span>top</span><span>:</span> 50%<span>;</span>
+<span>left</span><span>:</span> 50%<span>;</span>
+<span>-webkit-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>-moz-transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+<span>transform</span><span>:</span> <span>translate</span><span>(</span>-50%<span>,</span> -50%<span>)</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>CSS设置标签可视与否：<code>visibility: hidden;</code></p>
+<p>CSS实现水平居中间隔排列：<code>text-align: center; display: flex;justify-content: space-around;</code></p>
+<p>CSS设置图片透明度：<code>opacity: 0.75; filter: alpha(opacity=75);</code>带上这两语句就可以支持绝大多数浏览器。</p>
+<h3 id="javascript"> JavaScript</h3>
+<p>JS代码将写在<code>&lt;script&gt;</code>标签内：</p>
+<div><pre><code>    <span>var</span> formData <span>=</span> <span>new</span> <span>FormData</span><span>(</span><span>)</span><span>;</span> 
+    <span>var</span> file_num <span>=</span> <span>0</span><span>;</span>
+    <span>var</span> d<span>,</span> <span>D</span><span>;</span>
+    <span>var</span> index <span>=</span> <span>0</span><span>;</span>
+	<span>//因为要在多个函数使用该实例，因此直接在全局内声明较为方便，可以避开过多传参。</span>
+
+    <span>$</span><span>(</span><span>"#upload"</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"click"</span><span>,</span> file_open<span>)</span><span>;</span>
+	<span>//这两行分别为upload按钮和start按钮绑定了file_open和start_predict两个事件。</span>
+
+    <span>$</span><span>(</span><span>'#files'</span><span>)</span><span>.</span><span>on</span><span>(</span><span>"change"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> <span>{</span> 
+        <span>//当files标签内数据发生变动时，将发生以下事件。</span>
+        <span>var</span> fileList <span>=</span> <span>this</span><span>.</span>files
+        <span>for</span> <span>(</span><span>var</span> i <span>=</span> <span>0</span><span>;</span> i <span>&lt;</span> fileList<span>.</span>length<span>;</span> i<span>++</span><span>)</span> <span>{</span>
+            formData<span>.</span><span>append</span><span>(</span><span>'file'</span><span>,</span> fileList<span>[</span>i<span>]</span><span>)</span><span>;</span>
+            <span>//选取的多个文件需要依次遍历并加入到formData实例中。</span>
+        <span>}</span>
+        file_num <span>=</span> fileList<span>.</span>length
+        <span>if</span> <span>(</span>file_num <span>===</span> <span>0</span><span>)</span> <span>{</span>
+            <span>alert</span><span>(</span><span>"请选择文件！"</span><span>)</span>
+        <span>}</span> <span>else</span> <span>{</span>
+            <span>if</span> <span>(</span>file_num <span>></span> <span>1</span><span>)</span> <span>{</span>
+                <span>$</span><span>(</span><span>".change"</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>'height: 50px;width: 100px;font-size: 25px; visibility: visible;'</span><span>)</span>
+            <span>}</span>
+            <span>// 以下定义了前端传输的相关信息。</span>
+            $<span>.</span><span>ajax</span><span>(</span><span>{</span>
+                url<span>:</span> <span>"/upload_files"</span><span>,</span> <span>//定义当前路由，这里需要和后端内路由的定义保持一致。</span>
+                type<span>:</span> <span>"POST"</span><span>,</span> <span>//定义传输的类型。</span>
+                data<span>:</span> formData<span>,</span> <span>// 定义传输的内容</span>
+                processData<span>:</span> <span>false</span><span>,</span> 
+                <span>// 取消ajax对数据的预处理，因为传输的数据是图片，如果不设为false的话ajax会将数据转化为字符串类型，就会导致图片二进制流被误处理，因此必须要设置为false。</span>
+                contentType<span>:</span> <span>false</span><span>,</span>
+                <span>// 表示不使用发送至服务器的内容编码类型，因为已经试过直接设置为'multipart/form-data'，但依旧会报错，只有在设置为false的时候才会正常处理。</span>
+                <span>success</span><span>:</span> <span>function</span> <span>(</span><span>data</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据成功时执行的事件。由于AJAX传输数据会将其转化为JSON，因此需要用JSON包的parse方法来解析数据。</span>
+                    <span>// 另外应该注意的是，读代码的顺序应该是在读这个函数之前先读后端对数据的处理，然后再回来读这个success function。因为是后端接受到数据并处理之后会有一个return来返回要显示的数据，这个数据就会输入到函数的data参数内。</span>
+                    d <span>=</span> <span>JSON</span><span>.</span><span>parse</span><span>(</span>data<span>)</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'src'</span><span>,</span> d<span>.</span>file_url<span>[</span><span>0</span><span>]</span><span>)</span><span>;</span>
+                    <span>$</span><span>(</span><span>'#Before'</span><span>)</span><span>.</span><span>attr</span><span>(</span><span>'style'</span><span>,</span> <span>''</span><span>)</span><span>;</span>
+                    <span>//后续的两行代码则是修改相应控件的数据。</span>
+                <span>}</span><span>,</span>
+                <span>error</span><span>:</span> <span>function</span> <span>(</span><span>)</span> <span>{</span>
+                    <span>// 表示发送数据失败时将执行的事件，这里只是简单地弹出对话框提示错误。</span>
+                    <span>alert</span><span>(</span><span>"上传失败"</span><span>)</span><span>;</span>
+                <span>}</span>
+            <span>}</span><span>)</span>
+        <span>}</span>
+    <span>}</span><span>)</span><span>;</span>
+
+    <span>function</span> <span>file_open</span><span>(</span><span>)</span> <span>{</span>
+        <span>$</span><span>(</span><span>"#files"</span><span>)</span><span>.</span><span>click</span><span>(</span><span>)</span>
+        <span>// 直接触发选择文件的点击事件。</span>
+    <span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br></div></div><h2 id="后端-flask-flask-uploads"> 后端(Flask + Flask_uploads)</h2>
+<p>使用后端flask之前需要先做好配置：</p>
+<div><pre><code><span>from</span> flask <span>import</span> Flask<span>,</span> render_template<span>,</span> request
+<span>from</span> flask_uploads <span>import</span> UploadSet<span>,</span> IMAGES<span>,</span> configure_uploads<span>,</span> patch_request_class
+
+app <span>=</span> Flask<span>(</span>__name__<span>,</span> template_folder<span>=</span><span>'front-end'</span><span>,</span> static_folder<span>=</span><span>'front-end/Static_Files'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>其中<code>template_folder</code>参数是设定你的前端主页所在目录，而<code>static_folder</code>参数是用来设定你的前端静态资源所在目录，包括图片、视频、音乐、外部脚本文件以及外部CSS文件等等。</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/'</span><span>,</span> methods<span>=</span><span>[</span><span>"GET"</span><span>]</span><span>)</span>
+<span>def</span> <span>index</span><span>(</span><span>)</span><span>:</span>
+    <span>return</span> render_template<span>(</span><span>'index.html'</span><span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这段代码表示的就是后端在接受到'/'的路由请求时要做的反应，具体内容是由这里的函数定义。</p>
+<blockquote>
+<p>值得一提的是<code>app.config['UPLOADED_PHOTOS_DEST']</code>表示的是图片资源存放的目录。</p>
+</blockquote>
+<p>调用flask_uploads包后要做如下的配置：</p>
+<div><pre><code>images <span>=</span> UploadSet<span>(</span><span>'photos'</span><span>,</span> IMAGES<span>)</span>
+configure_uploads<span>(</span>app<span>,</span> images<span>)</span>
+patch_request_class<span>(</span>app<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这样就可以设置好你上传图片的前期配置准备了。</p>
+<p>上面三段代码其实在各项目内是相对固定的，而接下来将要个性化一些了：</p>
+<div><pre><code><span>@app<span>.</span>route</span><span>(</span><span>'/upload_files'</span><span>,</span> methods<span>=</span><span>[</span><span>'GET'</span><span>,</span> <span>'POST'</span><span>]</span><span>)</span>
+<span># 定义路由upload_files，并声明使用的方法是GET和POST方法。</span>
+<span>def</span> <span>upload</span><span>(</span><span>)</span><span>:</span>
+    <span># 定义函数内具体需要做的数据处理之类的事情，下面的例子是动态加载接收到的图片集。</span>
+    file_urls <span>=</span> <span>[</span><span>]</span>
+    file_list <span>=</span> request<span>.</span>files<span>.</span>getlist<span>(</span><span>'file'</span><span>)</span>
+    <span>for</span> <span>file</span> <span>in</span> file_list<span>:</span>
+        filename <span>=</span> images<span>.</span>save<span>(</span><span>file</span><span>)</span>
+        fileList<span>.</span>append<span>(</span>filename<span>)</span>
+        file_urls<span>.</span>append<span>(</span>images<span>.</span>url<span>(</span>filename<span>)</span><span>)</span>
+    data <span>=</span> <span>{</span><span>'file_url'</span><span>:</span> <span>sorted</span><span>(</span>file_urls<span>)</span><span>}</span>
+    data <span>=</span> json<span>.</span>dumps<span>(</span>data<span>)</span> <span># 在这里将字典data转化为json数据传输过去。</span>
+    <span>return</span> data <span># 读到这里就要回到前端ajax的success function内继续读了。</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><blockquote>
+<p>「注」：以上所有代码都是项目的主要部分。</p>
+</blockquote>
+<p>最后将整个前后端写好之后，就可以正常执行了！</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>𝕬𝖇𝖔𝖚𝖙</title>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -16899,7 +16959,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -16909,7 +16969,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -16934,7 +16994,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -17006,7 +17066,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17015,45 +17075,10 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Wed, 13 Apr 2022 07:18:39 GMT</pubDate>
+      <pubDate>Sun, 17 Apr 2022 08:39:28 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>TeXlive-LaTeX使用</title>
-      <link>https://breezeshane.github.io/LaTeX/</link>
-      <guid>https://breezeshane.github.io/LaTeX/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">TeXlive-LaTeX使用</source>
-      <pubDate>Fri, 18 Mar 2022 20:30:51 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
-<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
-<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
-<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
-<p>重启TeX Studio即可正常使用.</p>
-<div><p>宏包官网</p>
-<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
-</div>
-<h2 id="我常用的宏包"> 我常用的宏包</h2>
-<ol>
-<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
-注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
-<li>tikz, tikz-qtree</li>
-</ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Java 杂记</title>
-      <link>https://breezeshane.github.io/Java/</link>
-      <guid>https://breezeshane.github.io/Java/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
-      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
-<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
-<p>注意: 判断是否为NaN时要使用isNaN.</p>
-<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
-<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
-]]></content:encoded>
     </item>
     <item>
       <title>Git Commands</title>
@@ -17198,6 +17223,19 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>这样你就可以发现，切换版本成功了。👍</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/git.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Java 杂记</title>
+      <link>https://breezeshane.github.io/Java/</link>
+      <guid>https://breezeshane.github.io/Java/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
+      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
+<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
+<p>注意: 判断是否为NaN时要使用isNaN.</p>
+<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
+<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
