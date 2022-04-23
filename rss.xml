@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Apr 2022 14:11:36 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Apr 2022 14:11:36 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Apr 2022 14:12:15 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Apr 2022 14:12:15 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -46,18 +46,18 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>括号匹配问题</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">括号匹配问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
-    </item>
-    <item>
       <title>约瑟夫问题</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
       <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
       <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>括号匹配问题</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">括号匹配问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
     </item>
     <item>
       <title>极限反转数问题</title>
@@ -253,18 +253,18 @@
       <pubDate>Sun, 23 Jan 2022 01:25:08 GMT</pubDate>
     </item>
     <item>
-      <title>树表查找</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/TreeTableLookup/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/TreeTableLookup/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">树表查找</source>
-      <pubDate>Sun, 23 Jan 2022 01:25:31 GMT</pubDate>
-    </item>
-    <item>
       <title>顺序搜索</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/SequentialSearch/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/SequentialSearch/</guid>
       <source url="https://breezeshane.github.io/rss.xml">顺序搜索</source>
       <pubDate>Sun, 23 Jan 2022 01:25:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>树表查找</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/TreeTableLookup/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/TreeTableLookup/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">树表查找</source>
+      <pubDate>Sun, 23 Jan 2022 01:25:31 GMT</pubDate>
     </item>
     <item>
       <title>冒泡排序</title>
@@ -330,18 +330,18 @@
       <pubDate>Sun, 23 Jan 2022 01:26:24 GMT</pubDate>
     </item>
     <item>
-      <title>希尔排序</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/ShellSort/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/ShellSort/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">希尔排序</source>
-      <pubDate>Sun, 23 Jan 2022 01:26:36 GMT</pubDate>
-    </item>
-    <item>
       <title>选择排序</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/SelectionSort/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/SelectionSort/</guid>
       <source url="https://breezeshane.github.io/rss.xml">选择排序</source>
       <pubDate>Sun, 23 Jan 2022 01:26:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>希尔排序</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/ShellSort/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/ShellSort/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">希尔排序</source>
+      <pubDate>Sun, 23 Jan 2022 01:26:36 GMT</pubDate>
     </item>
     <item>
       <title>有关人工智能与机器学习领域的概况</title>
@@ -1994,6 +1994,18 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>相关的简单运算</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">相关的简单运算</source>
+      <pubDate>Sun, 16 Jan 2022 20:59:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
+<h2 id="矩阵加法"> 矩阵加法</h2>
+<h2 id="矩阵乘法"> 矩阵乘法</h2>
+<h2 id="矩阵元素对应乘积"> 矩阵元素对应乘积</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>相关名词的概念</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/</guid>
@@ -2086,18 +2098,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 <p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.972218em;vertical-align:-0.286108em;"></span><span><span>对于</span></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>若</span></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05724em;">j</span><span><span>则该元素为对角元。</span></span></span></span></span></p>
 <p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.972218em;vertical-align:-0.286108em;"></span><span><span>对于</span></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>若</span></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.85396em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>1</span><span><span>，则该元素为次对角元。</span></span></span></span></span></p>
 <p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.972218em;vertical-align:-0.286108em;"></span><span><span>对于</span></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>若</span></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.85396em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>1</span><span><span>，则该元素为超对角元。</span></span></span></span></span></p>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>相关的简单运算</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">相关的简单运算</source>
-      <pubDate>Sun, 16 Jan 2022 20:59:30 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
-<h2 id="矩阵加法"> 矩阵加法</h2>
-<h2 id="矩阵乘法"> 矩阵乘法</h2>
-<h2 id="矩阵元素对应乘积"> 矩阵元素对应乘积</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -2219,18 +2219,18 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <enclosure url="https://breezeshane.github.io/images/Lipschitz_continuity_2.png" type="image/png"/>
     </item>
     <item>
-      <title>信息论</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">信息论</source>
-      <pubDate>Sun, 23 Jan 2022 01:13:59 GMT</pubDate>
-    </item>
-    <item>
       <title>常见函数及其性质</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</guid>
       <source url="https://breezeshane.github.io/rss.xml">常见函数及其性质</source>
       <pubDate>Sun, 23 Jan 2022 01:14:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>信息论</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">信息论</source>
+      <pubDate>Sun, 23 Jan 2022 01:13:59 GMT</pubDate>
     </item>
     <item>
       <title>常见概率分布</title>
@@ -2488,6 +2488,38 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 ]]></content:encoded>
     </item>
     <item>
+      <title>f-GAN</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">f-GAN</source>
+      <pubDate>Mon, 21 Feb 2022 23:21:12 GMT</pubDate>
+      <content:encoded><![CDATA[<details><summary>参考来源</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/54909858" target="_blank" rel="noopener noreferrer">fGAN : 一种通用的GAN框架 - 知乎专栏</a></li>
+<li><a href="https://alberthg.github.io/2018/05/13/wgan/" target="_blank" rel="noopener noreferrer">生成对抗网络——FGAN和WGAN</a>\</li>
+<li><a href="https://baike.baidu.com/item/%E5%85%B1%E8%BD%AD%E5%87%BD%E6%95%B0/12576746" target="_blank" rel="noopener noreferrer">共轭函数 - 百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/131601201" target="_blank" rel="noopener noreferrer">凸优化笔记6：共轭函数 - 知乎专栏</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/265522736" target="_blank" rel="noopener noreferrer">凸优化理论：共轭函数 - 知乎专栏</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/35654834" target="_blank" rel="noopener noreferrer">凸优化－凸集和凸函数 | CMU经典课程 | 附课件 |机器学习基础 - 知乎专栏</a></li>
+<li><a href="https://www.zhihu.com/question/22799760" target="_blank" rel="noopener noreferrer">凸集(convex set)和仿射集(affine set)，谁是谁的子集？ - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/158043191" target="_blank" rel="noopener noreferrer">凸包问题——概述 - 知乎专栏</a></li>
+<li><a href="https://www.zhihu.com/question/434605916/answer/1624800523" target="_blank" rel="noopener noreferrer">为什么定义凸组合和凸包的时候系数之和要为1？ - 知乎</a></li>
+<li><a href="https://baike.baidu.com/item/%E4%BB%BF%E5%B0%84%E9%9B%86/18999655" target="_blank" rel="noopener noreferrer">仿射集 - 百度百科</a></li>
+<li><a href="https://blog.csdn.net/xierhacker/article/details/61415747" target="_blank" rel="noopener noreferrer">凸优化笔记（一）：仿射集，凸集与锥 - CSDN</a></li>
+<li><a href="https://blog.csdn.net/rtygbwwwerr/article/details/78891506" target="_blank" rel="noopener noreferrer">凸(Convex)函数定义 - CSDN</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E9%9B%86" target="_blank" rel="noopener noreferrer">水平集 - 维基</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5#%E9%9B%85%E5%8F%AF%E6%AF%94%E8%A1%8C%E5%88%97%E5%BC%8F" target="_blank" rel="noopener noreferrer">雅可比矩阵 - 维基</a></li>
+<li><a href="http://shichaoxin.com/2021/04/11/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%AF%BE-%E5%87%B8%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6/" target="_blank" rel="noopener noreferrer">【数学基础】第十九课：凸优化进阶</a></li>
+<li><a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明 - CSDN</a></li>
+<li><a href="https://louisyzk.github.io/notes/2019/11/25/CVP02-Convex-Function" target="_blank" rel="noopener noreferrer">[cvp02] Convex Function</a></li>
+<li><a href="https://msgsxj.cn/2018/02/23/%E5%87%B8%E4%BC%98%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener noreferrer">凸优化学习笔记</a></li>
+<li><a href="https://www.jianshu.com/p/0dcf58715b2b" target="_blank" rel="noopener noreferrer">凸函数 - 简书</a></li>
+</ul>
+</details>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Enlighten GAN</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</guid>
@@ -2538,38 +2570,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 <p>我当然很想研究，但奈何知识太过匮乏，如今还落入了瓶颈期，不知该怎么办了。</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/2021-09-17_14-55.png" type="image/png"/>
-    </item>
-    <item>
-      <title>f-GAN</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">f-GAN</source>
-      <pubDate>Mon, 21 Feb 2022 23:21:12 GMT</pubDate>
-      <content:encoded><![CDATA[<details><summary>参考来源</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/54909858" target="_blank" rel="noopener noreferrer">fGAN : 一种通用的GAN框架 - 知乎专栏</a></li>
-<li><a href="https://alberthg.github.io/2018/05/13/wgan/" target="_blank" rel="noopener noreferrer">生成对抗网络——FGAN和WGAN</a>\</li>
-<li><a href="https://baike.baidu.com/item/%E5%85%B1%E8%BD%AD%E5%87%BD%E6%95%B0/12576746" target="_blank" rel="noopener noreferrer">共轭函数 - 百度百科</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/131601201" target="_blank" rel="noopener noreferrer">凸优化笔记6：共轭函数 - 知乎专栏</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/265522736" target="_blank" rel="noopener noreferrer">凸优化理论：共轭函数 - 知乎专栏</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/35654834" target="_blank" rel="noopener noreferrer">凸优化－凸集和凸函数 | CMU经典课程 | 附课件 |机器学习基础 - 知乎专栏</a></li>
-<li><a href="https://www.zhihu.com/question/22799760" target="_blank" rel="noopener noreferrer">凸集(convex set)和仿射集(affine set)，谁是谁的子集？ - 知乎</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/158043191" target="_blank" rel="noopener noreferrer">凸包问题——概述 - 知乎专栏</a></li>
-<li><a href="https://www.zhihu.com/question/434605916/answer/1624800523" target="_blank" rel="noopener noreferrer">为什么定义凸组合和凸包的时候系数之和要为1？ - 知乎</a></li>
-<li><a href="https://baike.baidu.com/item/%E4%BB%BF%E5%B0%84%E9%9B%86/18999655" target="_blank" rel="noopener noreferrer">仿射集 - 百度百科</a></li>
-<li><a href="https://blog.csdn.net/xierhacker/article/details/61415747" target="_blank" rel="noopener noreferrer">凸优化笔记（一）：仿射集，凸集与锥 - CSDN</a></li>
-<li><a href="https://blog.csdn.net/rtygbwwwerr/article/details/78891506" target="_blank" rel="noopener noreferrer">凸(Convex)函数定义 - CSDN</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E9%9B%86" target="_blank" rel="noopener noreferrer">水平集 - 维基</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5#%E9%9B%85%E5%8F%AF%E6%AF%94%E8%A1%8C%E5%88%97%E5%BC%8F" target="_blank" rel="noopener noreferrer">雅可比矩阵 - 维基</a></li>
-<li><a href="http://shichaoxin.com/2021/04/11/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%AF%BE-%E5%87%B8%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6/" target="_blank" rel="noopener noreferrer">【数学基础】第十九课：凸优化进阶</a></li>
-<li><a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明 - CSDN</a></li>
-<li><a href="https://louisyzk.github.io/notes/2019/11/25/CVP02-Convex-Function" target="_blank" rel="noopener noreferrer">[cvp02] Convex Function</a></li>
-<li><a href="https://msgsxj.cn/2018/02/23/%E5%87%B8%E4%BC%98%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener noreferrer">凸优化学习笔记</a></li>
-<li><a href="https://www.jianshu.com/p/0dcf58715b2b" target="_blank" rel="noopener noreferrer">凸函数 - 简书</a></li>
-</ul>
-</details>
-]]></content:encoded>
     </item>
     <item>
       <title>Low Light Metrics</title>
@@ -8033,7 +8033,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -8053,6 +8053,19 @@ import torch as pd
 ]]></content:encoded>
     </item>
     <item>
+      <title>密码加密的文章</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
+      <category>使用指南</category>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Markdown 增强</title>
       <link>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</guid>
@@ -8060,7 +8073,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8526,19 +8539,6 @@ $$
 ]]></content:encoded>
     </item>
     <item>
-      <title>密码加密的文章</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
-      <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>页面配置</title>
       <link>https://breezeshane.github.io/CourseOfBlog/guide/page/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/page/</guid>
@@ -8593,7 +8593,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8616,7 +8616,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8627,7 +8627,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8647,7 +8647,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8658,7 +8658,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9279,6 +9279,108 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/SequentialLinearList.png" type="image/png"/>
     </item>
     <item>
+      <title>顺序线性栈</title>
+      <link>https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/</link>
+      <guid>https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">顺序线性栈</source>
+      <pubDate>Wed, 22 Dec 2021 16:45:35 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
+<p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
+<h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
+<p>顾名思义，就是使用顺序线性表来实现栈的功能。</p>
+<p>结构体定义如下：</p>
+<div><pre><code><span>typedef</span> <span>int</span> DataType<span>;</span>
+<span>struct</span> <span>seqStack</span> <span>{</span>
+  <span>int</span> MAXNUM<span>;</span>
+  <span>int</span> top<span>;</span>
+  DataType <span>*</span>element<span>;</span>
+<span>}</span><span>;</span>
+
+<span>typedef</span> <span>struct</span> <span>seqStack</span><span>*</span> PseqStack<span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="顺序线性栈的基本操作与实现"> 顺序线性栈的基本操作与实现</h2>
+<h3 id="创建"> 创建</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>PseqStack <span>createNullStack_seq</span><span>(</span><span>int</span> m<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> m <span>&lt;=</span> <span>0</span> <span>)</span> <span>return</span> <span>NULL</span><span>;</span>
+    PseqStack stack <span>=</span> <span>(</span>PseqStack<span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>seqStack</span><span>)</span><span>)</span><span>;</span>
+    stack<span>-></span>MAXNUM <span>=</span> m<span>;</span>
+    stack<span>-></span>top <span>=</span> <span>0</span><span>;</span>
+    stack<span>-></span>element <span>=</span> <span>(</span>DataType<span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span>DataType<span>)</span> <span>*</span> stack<span>-></span>MAXNUM<span>)</span><span>;</span>
+    <span>return</span> stack<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="入栈"> 入栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code><span>int</span> <span>isNullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>!</span>L <span>)</span>  <span>return</span> <span>-</span><span>1</span><span>;</span> 
+    <span>else</span> <span>if</span> <span>(</span> L<span>-></span>top <span>-</span> <span>1</span> <span>&lt;</span> <span>0</span><span>)</span> <span>return</span> <span>1</span><span>;</span>
+    <span>else</span> <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+
+
+<span>//第三关 </span>
+<span>int</span> <span>isFullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> L<span>-></span>top <span>==</span> L<span>-></span>MAXNUM <span>)</span> <span>return</span> <span>1</span><span>;</span>
+    <span>else</span> <span>return</span> <span>0</span><span>;</span>
+<span>}</span>
+
+
+<span>//第四关</span>
+<span>int</span> <span>push_seq</span><span>(</span>PseqStack L <span>,</span>DataType x<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>||</span> <span>isFullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
+    <span>else</span> <span>{</span>
+      L<span>-></span>element<span>[</span>L<span>-></span>top<span>]</span> <span>=</span> x<span>;</span>
+      L<span>-></span>top<span>++</span><span>;</span>
+      <span>return</span> <span>1</span><span>;</span>
+    <span>}</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="出栈"> 出栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>DataType <span>pop_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>!</span><span>(</span>L<span>-></span>top<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
+    <span>int</span> temp <span>=</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span> <span>1</span><span>]</span><span>;</span>
+    L<span>-></span>top<span>--</span><span>;</span>
+    <span>return</span> temp<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="读取栈顶元素"> 读取栈顶元素</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code>DataType <span>top_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+  <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
+  <span>return</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span><span>1</span><span>]</span><span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h3 id="销毁栈"> 销毁栈</h3>
+<p><strong>实现思路</strong>：</p>
+<p><strong>源代码</strong></p>
+<div><pre><code><span>int</span> <span>destroystack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
+    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
+    <span>free</span><span>(</span>L<span>-></span>element<span>)</span><span>;</span>
+    <span>return</span> L<span>-></span>top<span>;</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p><strong>时间复杂度</strong>：</p>
+<p><strong>空间复杂度</strong>：</p>
+<h2 id="顺序线性栈的优缺点"> 顺序线性栈的优缺点</h2>
+<p><strong>优点</strong>：</p>
+<p><strong>缺点</strong>：</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>单向链表</title>
       <link>https://breezeshane.github.io/DataStructures/SingleLinkedList/</link>
       <guid>https://breezeshane.github.io/DataStructures/SingleLinkedList/</guid>
@@ -9462,108 +9564,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <h2 id="单链表对应的一些难题"> 单链表对应的一些难题--&gt;<a href=""></a></h2>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/DataStructuresAndAlgorithms/SingleLinkedList.png" type="image/png"/>
-    </item>
-    <item>
-      <title>顺序线性栈</title>
-      <link>https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/</link>
-      <guid>https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">顺序线性栈</source>
-      <pubDate>Wed, 22 Dec 2021 16:45:35 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
-<p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
-<h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
-<p>顾名思义，就是使用顺序线性表来实现栈的功能。</p>
-<p>结构体定义如下：</p>
-<div><pre><code><span>typedef</span> <span>int</span> DataType<span>;</span>
-<span>struct</span> <span>seqStack</span> <span>{</span>
-  <span>int</span> MAXNUM<span>;</span>
-  <span>int</span> top<span>;</span>
-  DataType <span>*</span>element<span>;</span>
-<span>}</span><span>;</span>
-
-<span>typedef</span> <span>struct</span> <span>seqStack</span><span>*</span> PseqStack<span>;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="顺序线性栈的基本操作与实现"> 顺序线性栈的基本操作与实现</h2>
-<h3 id="创建"> 创建</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>PseqStack <span>createNullStack_seq</span><span>(</span><span>int</span> m<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> m <span>&lt;=</span> <span>0</span> <span>)</span> <span>return</span> <span>NULL</span><span>;</span>
-    PseqStack stack <span>=</span> <span>(</span>PseqStack<span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span><span>struct</span> <span>seqStack</span><span>)</span><span>)</span><span>;</span>
-    stack<span>-></span>MAXNUM <span>=</span> m<span>;</span>
-    stack<span>-></span>top <span>=</span> <span>0</span><span>;</span>
-    stack<span>-></span>element <span>=</span> <span>(</span>DataType<span>*</span><span>)</span><span>malloc</span><span>(</span><span>sizeof</span><span>(</span>DataType<span>)</span> <span>*</span> stack<span>-></span>MAXNUM<span>)</span><span>;</span>
-    <span>return</span> stack<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="入栈"> 入栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code><span>int</span> <span>isNullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>!</span>L <span>)</span>  <span>return</span> <span>-</span><span>1</span><span>;</span> 
-    <span>else</span> <span>if</span> <span>(</span> L<span>-></span>top <span>-</span> <span>1</span> <span>&lt;</span> <span>0</span><span>)</span> <span>return</span> <span>1</span><span>;</span>
-    <span>else</span> <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-
-
-<span>//第三关 </span>
-<span>int</span> <span>isFullStack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> L<span>-></span>top <span>==</span> L<span>-></span>MAXNUM <span>)</span> <span>return</span> <span>1</span><span>;</span>
-    <span>else</span> <span>return</span> <span>0</span><span>;</span>
-<span>}</span>
-
-
-<span>//第四关</span>
-<span>int</span> <span>push_seq</span><span>(</span>PseqStack L <span>,</span>DataType x<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>||</span> <span>isFullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
-    <span>else</span> <span>{</span>
-      L<span>-></span>element<span>[</span>L<span>-></span>top<span>]</span> <span>=</span> x<span>;</span>
-      L<span>-></span>top<span>++</span><span>;</span>
-      <span>return</span> <span>1</span><span>;</span>
-    <span>}</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="出栈"> 出栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>DataType <span>pop_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>!</span><span>(</span>L<span>-></span>top<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
-    <span>int</span> temp <span>=</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span> <span>1</span><span>]</span><span>;</span>
-    L<span>-></span>top<span>--</span><span>;</span>
-    <span>return</span> temp<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="读取栈顶元素"> 读取栈顶元素</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code>DataType <span>top_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-  <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>)</span> <span>return</span> <span>-</span><span>1</span><span>;</span>
-  <span>return</span> L<span>-></span>element<span>[</span>L<span>-></span>top <span>-</span><span>1</span><span>]</span><span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h3 id="销毁栈"> 销毁栈</h3>
-<p><strong>实现思路</strong>：</p>
-<p><strong>源代码</strong></p>
-<div><pre><code><span>int</span> <span>destroystack_seq</span><span>(</span>PseqStack L<span>)</span> <span>{</span>
-    <span>if</span> <span>(</span> <span>isNullStack_seq</span><span>(</span>L<span>)</span> <span>==</span> <span>-</span><span>1</span> <span>)</span> <span>return</span> <span>0</span><span>;</span>
-    <span>free</span><span>(</span>L<span>-></span>element<span>)</span><span>;</span>
-    <span>return</span> L<span>-></span>top<span>;</span>
-<span>}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p><strong>时间复杂度</strong>：</p>
-<p><strong>空间复杂度</strong>：</p>
-<h2 id="顺序线性栈的优缺点"> 顺序线性栈的优缺点</h2>
-<p><strong>优点</strong>：</p>
-<p><strong>缺点</strong>：</p>
-]]></content:encoded>
     </item>
     <item>
       <title>链式栈</title>
@@ -9864,7 +9864,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -10639,7 +10639,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -10876,6 +10876,13 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>数据库触发器</title>
+      <link>https://breezeshane.github.io/Database/Trigger/</link>
+      <guid>https://breezeshane.github.io/Database/Trigger/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+    </item>
+    <item>
       <title>TeXlive-LaTeX使用</title>
       <link>https://breezeshane.github.io/LaTeX/</link>
       <guid>https://breezeshane.github.io/LaTeX/</guid>
@@ -10895,19 +10902,6 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
 <li>tikz, tikz-qtree</li>
 </ol>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>Java 杂记</title>
-      <link>https://breezeshane.github.io/Java/</link>
-      <guid>https://breezeshane.github.io/Java/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
-      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
-<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
-<p>注意: 判断是否为NaN时要使用isNaN.</p>
-<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
-<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -14831,7 +14825,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -17512,7 +17506,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17546,7 +17540,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17556,7 +17550,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17581,7 +17575,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main">
 <div id="1">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -17653,7 +17647,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17662,10 +17656,23 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>Java 杂记</title>
+      <link>https://breezeshane.github.io/Java/</link>
+      <guid>https://breezeshane.github.io/Java/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
+      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
+<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
+<p>注意: 判断是否为NaN时要使用isNaN.</p>
+<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
+<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Git Commands</title>
@@ -17810,13 +17817,6 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>这样你就可以发现，切换版本成功了。👍</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/git.png" type="image/png"/>
-    </item>
-    <item>
-      <title>数据库触发器</title>
-      <link>https://breezeshane.github.io/Database/Trigger/</link>
-      <guid>https://breezeshane.github.io/Database/Trigger/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Sat, 23 Apr 2022 14:09:48 GMT</pubDate>
     </item>
   </channel>
 </rss>
