@@ -289,6 +289,7 @@ pam_succeed_if.so [flag...] [condition...]
 <strong>quiet_fail</strong>：Don't log failure to the system log.
 
 <strong>quiet_success</strong>：Don't log success to the system log.
+
 </details>
 
 <details>
