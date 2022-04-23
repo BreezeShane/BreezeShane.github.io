@@ -6,7 +6,7 @@
   <author>
     <name>Breeze Shane</name>
   </author>
-  <updated>2022-04-21T10:57:33.122Z</updated>
+  <updated>2022-04-23T13:04:27.661Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://breezeshane.github.io/atom.xml"/>
   <link rel="alternate" href="https://breezeshane.github.io/"/>
@@ -25,7 +25,7 @@
     <title type="html">算法基础</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Basis/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Basis/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://www.bookstack.cn/read/hunterhug-goa.c/basic-dregee.md#3.4.%20%E6%B8%90%E8%BF%9B%E5%88%86%E6%9E%90" target="_blank" rel="noopener noreferrer">算法复杂度及渐进符号</a></li>
@@ -62,24 +62,10 @@
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">约瑟夫问题</title>
-    <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</id>
-    <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-23T01:28:04.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">括号匹配问题</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -90,10 +76,24 @@
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">约瑟夫问题</title>
+    <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</id>
+    <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-01-23T01:28:04.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">极限反转数问题</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/ReverseShortData/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/ReverseShortData/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -107,7 +107,7 @@
     <title type="html">顺序线性表的一些经典问题</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/SomeProblemsonSequentialLinearList/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/SomeProblemsonSequentialLinearList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -121,7 +121,7 @@
     <title type="html">单链表的一些经典问题</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/SomeProblemsonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/SomeProblemsonSingleLinkedList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -135,7 +135,7 @@
     <title type="html">N皇后问题</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/nQueensProblem/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/nQueensProblem/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="问题"> 问题</h2>
 <p>下图所示为4皇后问题。n皇后问题：在n×n的棋盘上安置n个皇后，要求任意两个皇后均不在同一行、同一列、同一对角线上，要求设计算法求解总共有多少方案。</p>
 <p><img src="/images/nQueens.png" alt="" /></p>
@@ -278,7 +278,7 @@
     <title type="html">二叉搜索树</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/BinarySearch/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/BinarySearch/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -292,7 +292,7 @@
     <title type="html">分块查找</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/BlockSearch/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/BlockSearch/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -306,7 +306,7 @@
     <title type="html">斐波那契搜索</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/FibonacciSearch/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/FibonacciSearch/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -320,7 +320,7 @@
     <title type="html">哈希搜索</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/HashSearch/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/HashSearch/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -334,7 +334,7 @@
     <title type="html">插值搜索</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/InterpolationSearch/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/InterpolationSearch/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -348,7 +348,7 @@
     <title type="html">顺序搜索</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/SequentialSearch/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/SequentialSearch/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -362,7 +362,7 @@
     <title type="html">树表查找</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/TreeTableLookup/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SearchAlgorithms/TreeTableLookup/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -376,7 +376,7 @@
     <title type="html">冒泡排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BubbleSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BubbleSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -390,7 +390,7 @@
     <title type="html">桶排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BucketSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/BucketSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -404,7 +404,7 @@
     <title type="html">计数排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/CountingSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/CountingSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -418,7 +418,7 @@
     <title type="html">堆排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/HeapSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/HeapSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -432,7 +432,7 @@
     <title type="html">插入排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/InsertionSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/InsertionSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="基本思想"> 基本思想</h2>
 <p>每一趟将待排序的记录, 按其关键字的大小插入到已经排好序的一组记录的适当位置上, 直到所有待排序记录全部插入为止.</p>
 <h2 id="伪代码描述"> 伪代码描述</h2>
@@ -452,7 +452,7 @@
     <title type="html">归并排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/MergeSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/MergeSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -466,7 +466,7 @@
     <title type="html">快速排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/QuickSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/QuickSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -480,7 +480,7 @@
     <title type="html">基数排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/RadixSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/RadixSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -494,7 +494,7 @@
     <title type="html">选择排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/SelectionSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/SelectionSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -508,7 +508,7 @@
     <title type="html">希尔排序</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/ShellSort/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/SortAlgorithms/ShellSort/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -522,7 +522,7 @@
     <title type="html">有关人工智能与机器学习领域的概况</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/AIOverview/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="人工智能是什么"> 人工智能是什么？</h2>
 <p>关于人工智能的定义在学术界一直尚存争议，原因也无非是因为实在难以给智能下定义。</p>
 <p>目前比较广泛的说法是：<strong>人工智能是一门研究、开发用于模拟、延伸和扩展人的智能的理论方法技术及应用的一门技术科学。</strong></p>
@@ -668,7 +668,7 @@
     <title type="html">估计、偏差和方差</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BC%B0%E8%AE%A1%E3%80%81%E5%81%8F%E5%B7%AE%E5%92%8C%E6%96%B9%E5%B7%AE/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -682,7 +682,7 @@
     <title type="html">促使深度学习发展的挑战</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E4%BF%83%E4%BD%BF%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%8F%91%E5%B1%95%E7%9A%84%E6%8C%91%E6%88%98/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -696,7 +696,7 @@
     <title type="html">学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -710,7 +710,7 @@
     <title type="html">容量、过拟合和欠拟合</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AE%B9%E9%87%8F%E3%80%81%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AC%A0%E6%8B%9F%E5%90%88/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E5%AE%B9%E9%87%8F%E3%80%81%E8%BF%87%E6%8B%9F%E5%90%88%E5%92%8C%E6%AC%A0%E6%8B%9F%E5%90%88/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -724,7 +724,7 @@
     <title type="html">无监督学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%97%A0%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -738,7 +738,7 @@
     <title type="html">最大似然估计</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9C%80%E5%A4%A7%E4%BC%BC%E7%84%B6%E4%BC%B0%E8%AE%A1/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -752,7 +752,7 @@
     <title type="html">构建机器学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E6%9E%84%E5%BB%BA%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -766,7 +766,7 @@
     <title type="html">监督学习算法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E7%9B%91%E7%9D%A3%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -780,7 +780,7 @@
     <title type="html">贝叶斯统计</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B4%9D%E5%8F%B6%E6%96%AF%E7%BB%9F%E8%AE%A1/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -794,7 +794,7 @@
     <title type="html">超参数和验证集</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E8%B6%85%E5%8F%82%E6%95%B0%E5%92%8C%E9%AA%8C%E8%AF%81%E9%9B%86/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -808,7 +808,7 @@
     <title type="html">随机梯度下降</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/BasicsofML/%E9%9A%8F%E6%9C%BA%E6%A2%AF%E5%BA%A6%E4%B8%8B%E9%99%8D/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -822,7 +822,7 @@
     <title type="html">「实例」线性最小二乘</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%5B%E5%AE%9E%E4%BE%8B%5D%E7%BA%BF%E6%80%A7%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%5B%E5%AE%9E%E4%BE%8B%5D%E7%BA%BF%E6%80%A7%E6%9C%80%E5%B0%8F%E4%BA%8C%E4%B9%98/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -836,7 +836,7 @@
     <title type="html">上溢和下溢</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E4%B8%8A%E6%BA%A2%E5%92%8C%E4%B8%8B%E6%BA%A2/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E4%B8%8A%E6%BA%A2%E5%92%8C%E4%B8%8B%E6%BA%A2/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -850,7 +850,7 @@
     <title type="html">基于梯度的优化方法</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E5%9F%BA%E4%BA%8E%E6%A2%AF%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E5%9F%BA%E4%BA%8E%E6%A2%AF%E5%BA%A6%E7%9A%84%E4%BC%98%E5%8C%96%E6%96%B9%E6%B3%95/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -864,7 +864,7 @@
     <title type="html">病态条件</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%97%85%E6%80%81%E6%9D%A1%E4%BB%B6/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -878,7 +878,7 @@
     <title type="html">约束优化</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/DataCompute/%E7%BA%A6%E6%9D%9F%E4%BC%98%E5%8C%96/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -892,7 +892,7 @@
     <title type="html">前言</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/DeepLearning/%E5%89%8D%E8%A8%80/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<p>该系列下所有内容均来自书籍《Deep Learning》的译作《深度学习》，即业界内俗称的“花书”。该系列主要用于记录本人的读书笔记，并会在一些地方做延伸讨论，增加一些内容。</p>
 <div><p>相关信息</p>
 <p>需要掌握的数学知识「线性代数、概率论等」位于Mathematics栏目下，此栏目不作重复性描述。</p>
@@ -911,7 +911,7 @@
     <title type="html">入门机器学习的安装与配置</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="你可能有配备"> 你可能有配备？</h2>
 <p>或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入 <code>inxi -G</code>来查看电脑的显卡配备信息。可能你不懂什么是显卡？</p>
 <blockquote>
@@ -985,7 +985,7 @@
     <title type="html">Intelligent Software Defined Networking</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/ISDN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/ISDN/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<div><p>温馨提示</p>
 <p>阅读本文之前需要先了解SDN，如果你还没有读过<a href="https://breezeshane.github.io/Web/SDN/" target="_blank" rel="noopener noreferrer">SDN入门基础</a>，请先读这篇。</p>
 <p>本文参考论文：李可欣, 王兴伟, 易波, 等. 智能软件定义网络[J]. 软件学报, 2020, 32(1): 118-136.</p>
@@ -1287,7 +1287,7 @@
     <title type="html">同余式及其性质</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/CongruenceExpression/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/CongruenceExpression/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>若一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>a</span></span></span></span>被一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除的时候得到的商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和唯一的一个余数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>，另一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>b</span></span></span></span>也被<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除时得到商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，得到的唯一余数也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>（其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.78041em;vertical-align:-0.13597em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>），即</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:3.0000299999999998em;vertical-align:-1.25003em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>a</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>b</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
@@ -1369,7 +1369,7 @@
     <title type="html">共轭函数性质的证明</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ConjugateFunction/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ConjugateFunction/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>参考连接: <a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明</a></p>
 </blockquote>
@@ -1414,7 +1414,7 @@
     <title type="html">凸优化学习</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/Convex/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/Convex/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ul>
 <li><strong>Main</strong> <a href="https://bicmr.pku.edu.cn/~wenzw/optbook/lect/03_functions_newhyx.pdf" target="_blank" rel="noopener noreferrer">凸函数 - 文再文讲义</a></li>
@@ -2014,7 +2014,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <title type="html">Moore-Penrose伪逆</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2028,7 +2028,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <title type="html">向量范数与矩阵范数</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Norm/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/Norm/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="向量范数"> 向量范数</h2>
 <p>向量范数具有“长度”概念，是一个函数，其为向量空间内的所有向量赋予非零的正长度或大小。</p>
 <p>假设V是域F上的向量空间；V的半范数是一个函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>;</span><span style="margin-right:0.16666666666666666em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>(</span><span>x</span><span>)</span></span></span></span>，满足：</p>
@@ -2347,7 +2347,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关的简单运算</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeCompute/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
 <h2 id="矩阵加法"> 矩阵加法</h2>
 <h2 id="矩阵乘法"> 矩阵乘法</h2>
@@ -2366,7 +2366,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关名词的概念</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/RelativeConcepts/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h3 id="标量"> 标量</h3>
 <p>又称<strong>纯量</strong>，是只有大小、没有方向、可用实数表示的一个量。</p>
 <p>实际上标量就是实数，“标量”这个称法只是为了区别于向量。</p>
@@ -2468,7 +2468,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">「实例」主成分分析</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2482,7 +2482,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">奇异值分解</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2496,7 +2496,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">特征分解</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<div><p>定义</p>
 <p>线性代数中，特征分解（Eigendecomposition），又称谱分解（Spectral decomposition）是将矩阵分解为由其特征值和特征向量表示的矩阵之积的方法。需要注意只有对可对角化矩阵才可以施以特征分解。</p>
 </div>
@@ -2549,7 +2549,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Lipschitz Continuity</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/LipschitzContinuity/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="利普希茨连续-lipschitz-continuity"> 利普希茨连续——Lipschitz Continuity</h1>
 <blockquote>
 <p>参考资料：<a href="https://zh.wikipedia.org/wiki/%E5%88%A9%E6%99%AE%E5%B8%8C%E8%8C%A8%E9%80%A3%E7%BA%8C" target="_blank" rel="noopener noreferrer">利普希茨连续 - 维基百科</a></p>
@@ -2613,7 +2613,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">信息论</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2627,7 +2627,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见函数及其性质</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2641,7 +2641,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见概率分布</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2655,7 +2655,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">期望、方差和协方差</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2669,7 +2669,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">条件概率及其链式法则</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2683,7 +2683,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">概率分布</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2697,7 +2697,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">独立性和条件独立性</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2711,7 +2711,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">结构化概率模型</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2725,7 +2725,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">贝叶斯规则</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2739,7 +2739,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">边缘概率</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2753,7 +2753,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">连续性变量的技术细节</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2767,7 +2767,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">随机变量</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -2781,7 +2781,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">无监督学习介绍与入门</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/ElementaryCourse/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="什么是无监督学习"> 什么是无监督学习？</h2>
 <p>无监督学习是机器学习的一种训练方式「或者是学习方式」。无监督学习的概念是相对有监督学习而言的。</p>
 <blockquote>
@@ -2973,7 +2973,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Enlighten GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="应用领域及背景"> 应用领域及背景</h2>
 <p>该项目是应用在图像修复领域的低照度增强方向，是致力于将日常生活中常见的各种难以用肉眼感知特征的低照度场景增强到能够方便、舒适地观察内容的场景。</p>
 <center>该项目迄今为止仍是无监督学习方法低照度增强的SOTA。</center>
@@ -3031,7 +3031,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">f-GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考来源</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
@@ -3070,7 +3070,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Low Light Metrics</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/LowLightMetrics/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="low-light-metrics"> Low Light Metrics</h1>
 <h2 id="content"> Content</h2>
 <p>本文记录了LPIPS、SSIM、MAE、MSE、PSNR、NIQE和NIMA共计七个低照度指标，除了介绍相关背景、意义，也会提及算法实现的大致过程。</p>
@@ -3199,7 +3199,7 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
     <title type="html">Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/StandardGAN/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>经过接受GAN的洗礼，我感觉我整个人都变得“睿智”了。。。</strong></p>
 </blockquote>
@@ -3474,7 +3474,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Divergence for GANs</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-div/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wasserstein-divergence-for-gans"> Wasserstein Divergence for GANs</h1>
 <blockquote>
 <p>參考自：</p>
@@ -3609,7 +3609,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">WGAN with Gradient Penalty</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN-gp/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
 <h2 id="结果"> 结果</h2>
 <p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
@@ -3673,7 +3673,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/WGAN/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>首推这篇博客，本文内容多参考自此。<a href="https://www.cnblogs.com/Allen-rg/p/10305125.html" target="_blank" rel="noopener noreferrer">WGAN (原理解析)</a></p>
 <p>本文也另外参考了这篇<a href="https://lotabout.me/2018/WGAN/" target="_blank" rel="noopener noreferrer">博客</a></p>
@@ -3821,7 +3821,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <title type="html">多灾多难的博客搭建过程</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="blog-building"> Blog Building</h1>
 <blockquote>
 <p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
@@ -3949,7 +3949,7 @@ FATAL {
     <title type="html">Changing Blog Theme</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="to-change-my-blog-theme"> To Change My Blog Theme</h1>
 <blockquote>
 <p>参考文档：</p>
@@ -4377,7 +4377,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">用Shell脚本创建新文章</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前言"> 前言</h2>
 <p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
 <h2 id="实现"> 实现？</h2>
@@ -4579,7 +4579,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">LaTeX公式(For Markdown)</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeXforMd/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/LaTeXforMd/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>参考内容：</p>
 <p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener noreferrer">MathJax basic tutorial and quick reference</a></p>
@@ -5704,7 +5704,7 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
     <title type="html">Markdown语法杂记</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="markdown语法杂记"> Markdown语法杂记</h1>
 <hr>
 <blockquote>
@@ -8586,7 +8586,7 @@ import torch as pd
     <title type="html">组件禁用</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/disable/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/disable/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -8613,14 +8613,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/encrypt/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -8633,14 +8633,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/markdown/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -9113,14 +9113,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/page/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/page/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -9176,7 +9176,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -9200,14 +9200,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/home/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/home/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -9218,14 +9218,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://breezeshane.github.io/CourseOfBlog/layout/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/layout/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -9245,14 +9245,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -9263,14 +9263,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/slides/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/slides/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -9279,14 +9279,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">循环链表</title>
     <id>https://breezeshane.github.io/DataStructures/CircularLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/CircularLinkedList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>循环链表，即令单链表尾结点的指针指向链表的头结点。</p>
 <p>结构代码的定义：「本质上与单链表的结构体定义并无差异」</p>
@@ -9454,7 +9454,7 @@ $$
     <title type="html">双链表</title>
     <id>https://breezeshane.github.io/DataStructures/DoubleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/DoubleLinkedList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -9614,7 +9614,7 @@ $$
     <title type="html">队列与循环队列</title>
     <id>https://breezeshane.github.io/DataStructures/Queue/</id>
     <link href="https://breezeshane.github.io/DataStructures/Queue/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>队列是限制结点插入操作固定在一端进行,而结点的删除操作固定在另一端进行的一种特殊线性表，特殊在于它操作受限，仅能使用入队、出队操作。</p>
 <p>如图所示：</p>
@@ -9721,7 +9721,7 @@ DataType <span>computeNum</span><span>(</span>PseqQueue Q<span>)</span><span>{</
     <title type="html">顺序线性表</title>
     <id>https://breezeshane.github.io/DataStructures/SequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructures/SequentialLinearList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>顺序线性表是数据结构算法中最简单的一种结构，它的组成成分如下：</p>
@@ -9927,7 +9927,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">单向链表</title>
     <id>https://breezeshane.github.io/DataStructures/SingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/SingleLinkedList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
@@ -10118,7 +10118,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">顺序线性栈</title>
     <id>https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
@@ -10227,7 +10227,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">链式栈</title>
     <id>https://breezeshane.github.io/DataStructures/StackBasedonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/StackBasedonSingleLinkedList/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="链式栈的定义"> 链式栈的定义</h2>
@@ -10253,7 +10253,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">底层原因</title>
     <id>https://breezeshane.github.io/DataStructures/Statement/</id>
     <link href="https://breezeshane.github.io/DataStructures/Statement/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="指针变量写法"> 指针变量写法</h2>
 <div><pre><code>PseqList <span>createNullList_seq</span><span>(</span><span>int</span> m<span>)</span><span>{</span>
     <span>if</span> <span>(</span> <span>!</span>m <span>)</span>
@@ -10309,24 +10309,10 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">2-3树</title>
-    <id>https://breezeshane.github.io/DataStructures/Tree/2-3Tree/</id>
-    <link href="https://breezeshane.github.io/DataStructures/Tree/2-3Tree/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-23T01:27:27.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">B+树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/B+Tree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/B+Tree/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10340,7 +10326,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">B树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/BTree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/BTree/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10354,7 +10340,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">二叉树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/BinaryTree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/BinaryTree/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>二叉树是一颗有序树，它由</p>
 ]]></content>
@@ -10371,7 +10357,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">红黑树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -10385,7 +10371,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">数据库泛谈</title>
     <id>https://breezeshane.github.io/Database/DataBase/</id>
     <link href="https://breezeshane.github.io/Database/DataBase/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<p><strong>数据库</strong>，又称为数据管理系统，是以一定方式储存在一起、能予多个用户共享、具有尽可能小的冗余度、与应用程序彼此独立的数据集合。</p>
 <h2 id="分类"> 分类</h2>
 <p><strong>关系型数据库</strong>，是指采用了关系模型来组织数据的数据库，其以行和列的形式存储数据，以便于用户理解，关系型数据库这一系列的行和列被称为表，一组表组成了数据库。用户通过查询来检索数据库中的数据，而查询是一个用于限定数据库中某些区域的执行代码。</p>
@@ -10574,24 +10560,10 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">数据库安全</title>
-    <id>https://breezeshane.github.io/Database/DatabaseSafety/</id>
-    <link href="https://breezeshane.github.io/Database/DatabaseSafety/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">MySQL初步使用</title>
     <id>https://breezeshane.github.io/Database/MySQL/</id>
     <link href="https://breezeshane.github.io/Database/MySQL/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a></li>
@@ -11182,10 +11154,24 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">数据库安全</title>
+    <id>https://breezeshane.github.io/Database/DatabaseSafety/</id>
+    <link href="https://breezeshane.github.io/Database/DatabaseSafety/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-04-23T13:03:25.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">数据库规范化</title>
     <id>https://breezeshane.github.io/Database/NormalForm/</id>
     <link href="https://breezeshane.github.io/Database/NormalForm/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A7%84%E8%8C%83%E5%8C%96" target="_blank" rel="noopener noreferrer">数据库规范化 - Wikipedia</a></li>
@@ -11373,21 +11359,21 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
     <title type="html">数据库查询优化</title>
     <id>https://breezeshane.github.io/Database/QueryOptimization/</id>
     <link href="https://breezeshane.github.io/Database/QueryOptimization/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">数据库的关系与关系代数</title>
     <id>https://breezeshane.github.io/Database/RelationalAlgebra/</id>
     <link href="https://breezeshane.github.io/Database/RelationalAlgebra/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://blog.csdn.net/cnds123/article/details/39827049" target="_blank" rel="noopener noreferrer">外键约束详解及术语释疑</a></li>
@@ -11625,53 +11611,38 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">TeXlive-LaTeX使用</title>
-    <id>https://breezeshane.github.io/LaTeX/</id>
-    <link href="https://breezeshane.github.io/LaTeX/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
-<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
-<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
-<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
-<p>重启TeX Studio即可正常使用.</p>
-<div><p>宏包官网</p>
-<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
-</div>
-<h2 id="我常用的宏包"> 我常用的宏包</h2>
-<ol>
-<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
-注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
-<li>tikz, tikz-qtree</li>
-</ol>
-]]></content>
+    <title type="html">2-3树</title>
+    <id>https://breezeshane.github.io/DataStructures/Tree/2-3Tree/</id>
+    <link href="https://breezeshane.github.io/DataStructures/Tree/2-3Tree/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-03-18T20:30:51.000Z</published>
+    <published>2022-01-23T01:27:27.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">数据库触发器</title>
     <id>https://breezeshane.github.io/Database/Trigger/</id>
     <link href="https://breezeshane.github.io/Database/Trigger/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Arcolinux &amp; AwesomeWM</title>
     <id>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</id>
     <link href="https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 <code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
 </blockquote>
@@ -12489,7 +12460,7 @@ electron9
     <title type="html">Shell全自动安装与部署Anaconda</title>
     <id>https://breezeshane.github.io/Linux/AutoIAC/</id>
     <link href="https://breezeshane.github.io/Linux/AutoIAC/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
 <h2 id="实现思路"> 实现思路</h2>
@@ -12776,10 +12747,30 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">Java 杂记</title>
+    <id>https://breezeshane.github.io/Java/</id>
+    <link href="https://breezeshane.github.io/Java/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
+<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
+<p>注意: 判断是否为NaN时要使用isNaN.</p>
+<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
+<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-03-08T19:31:10.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">记将旧电脑改建成服务器的过程</title>
     <id>https://breezeshane.github.io/Linux/BuildingServer/</id>
     <link href="https://breezeshane.github.io/Linux/BuildingServer/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
 <h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
@@ -12905,134 +12896,10 @@ rfkill: Cannot get wiphy information
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">Magic SysRq 组合键功能表</title>
-    <id>https://breezeshane.github.io/Linux/MagicSysRq/</id>
-    <link href="https://breezeshane.github.io/Linux/MagicSysRq/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <content type="html"><![CDATA[<div><p>说明</p>
-<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
-</div>
-<table>
-<thead>
-<tr>
-<th>功能</th>
-<th style="text-align:center">按键</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
-<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
-</tr>
-<tr>
-<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
-<td style="text-align:center"><kbd>B</kbd></td>
-</tr>
-<tr>
-<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
-<td style="text-align:center"><kbd>C</kbd></td>
-</tr>
-<tr>
-<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
-<td style="text-align:center"><kbd>D</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>E</kbd></td>
-</tr>
-<tr>
-<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
-<td style="text-align:center"><kbd>F</kbd></td>
-</tr>
-<tr>
-<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
-<td style="text-align:center"><kbd>G</kbd></td>
-</tr>
-<tr>
-<td>将简洁的帮助文档打印至控制台</td>
-<td style="text-align:center"><kbd>H</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>I</kbd></td>
-</tr>
-<tr>
-<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
-<td style="text-align:center"><kbd>J</kbd></td>
-</tr>
-<tr>
-<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
-<td style="text-align:center"><kbd>K</kbd></td>
-</tr>
-<tr>
-<td>打印当前所有在线的 CPU 堆栈信息</td>
-<td style="text-align:center"><kbd>L</kbd></td>
-</tr>
-<tr>
-<td>打印当前的内存信息在控制台</td>
-<td style="text-align:center"><kbd>M</kbd></td>
-</tr>
-<tr>
-<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
-<td style="text-align:center"><kbd>N</kbd></td>
-</tr>
-<tr>
-<td>关闭系统</td>
-<td style="text-align:center"><kbd>O</kbd></td>
-</tr>
-<tr>
-<td>打印当前的寄存器信息和 flags 信息在控制台</td>
-<td style="text-align:center"><kbd>P</kbd></td>
-</tr>
-<tr>
-<td>显示所有在线的高进度定时器和时钟源信息</td>
-<td style="text-align:center"><kbd>Q</kbd></td>
-</tr>
-<tr>
-<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
-<td style="text-align:center"><kbd>R</kbd></td>
-</tr>
-<tr>
-<td>同步所有的已挂载的文件系统</td>
-<td style="text-align:center"><kbd>S</kbd></td>
-</tr>
-<tr>
-<td>打印当前的进程列表，以及他们的详细信息</td>
-<td style="text-align:center"><kbd>T</kbd></td>
-</tr>
-<tr>
-<td>重新挂载文件系统至只读模式</td>
-<td style="text-align:center"><kbd>U</kbd></td>
-</tr>
-<tr>
-<td>强制还原帧缓冲控制台</td>
-<td style="text-align:center"><kbd>V</kbd></td>
-</tr>
-<tr>
-<td>打印所有 D 状态（阻塞）的进程信息</td>
-<td style="text-align:center"><kbd>W</kbd></td>
-</tr>
-<tr>
-<td>转储 ftrace 缓冲区</td>
-<td style="text-align:center"><kbd>Z</kbd></td>
-</tr>
-</tbody>
-</table>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-01-21T16:33:41.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">Manjaro Linux</title>
     <id>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
     <link href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="manjaro-linux"> Manjaro Linux</h1>
 <p>终于考完试了！在大学第一个寒假到来之际，我决定入坑Linux系统，并花了很长时间挑选系统（深度选择困难患者），终于，我选择了Manjaro Linux，希望它<sub>不会让人失望</sub>！</p>
 <h2 id="_1-windows10-manjaro-linux深度指北"> 1.Windows10+Manjaro Linux深度指北</h2>
@@ -14300,10 +14167,183 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">Magic SysRq 组合键功能表</title>
+    <id>https://breezeshane.github.io/Linux/MagicSysRq/</id>
+    <link href="https://breezeshane.github.io/Linux/MagicSysRq/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
+    <content type="html"><![CDATA[<div><p>说明</p>
+<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th style="text-align:center">按键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
+<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
+</tr>
+<tr>
+<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
+<td style="text-align:center"><kbd>B</kbd></td>
+</tr>
+<tr>
+<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
+<td style="text-align:center"><kbd>C</kbd></td>
+</tr>
+<tr>
+<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
+<td style="text-align:center"><kbd>D</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>E</kbd></td>
+</tr>
+<tr>
+<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
+<td style="text-align:center"><kbd>F</kbd></td>
+</tr>
+<tr>
+<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
+<td style="text-align:center"><kbd>G</kbd></td>
+</tr>
+<tr>
+<td>将简洁的帮助文档打印至控制台</td>
+<td style="text-align:center"><kbd>H</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>I</kbd></td>
+</tr>
+<tr>
+<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
+<td style="text-align:center"><kbd>J</kbd></td>
+</tr>
+<tr>
+<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
+<td style="text-align:center"><kbd>K</kbd></td>
+</tr>
+<tr>
+<td>打印当前所有在线的 CPU 堆栈信息</td>
+<td style="text-align:center"><kbd>L</kbd></td>
+</tr>
+<tr>
+<td>打印当前的内存信息在控制台</td>
+<td style="text-align:center"><kbd>M</kbd></td>
+</tr>
+<tr>
+<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
+<td style="text-align:center"><kbd>N</kbd></td>
+</tr>
+<tr>
+<td>关闭系统</td>
+<td style="text-align:center"><kbd>O</kbd></td>
+</tr>
+<tr>
+<td>打印当前的寄存器信息和 flags 信息在控制台</td>
+<td style="text-align:center"><kbd>P</kbd></td>
+</tr>
+<tr>
+<td>显示所有在线的高进度定时器和时钟源信息</td>
+<td style="text-align:center"><kbd>Q</kbd></td>
+</tr>
+<tr>
+<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
+<td style="text-align:center"><kbd>R</kbd></td>
+</tr>
+<tr>
+<td>同步所有的已挂载的文件系统</td>
+<td style="text-align:center"><kbd>S</kbd></td>
+</tr>
+<tr>
+<td>打印当前的进程列表，以及他们的详细信息</td>
+<td style="text-align:center"><kbd>T</kbd></td>
+</tr>
+<tr>
+<td>重新挂载文件系统至只读模式</td>
+<td style="text-align:center"><kbd>U</kbd></td>
+</tr>
+<tr>
+<td>强制还原帧缓冲控制台</td>
+<td style="text-align:center"><kbd>V</kbd></td>
+</tr>
+<tr>
+<td>打印所有 D 状态（阻塞）的进程信息</td>
+<td style="text-align:center"><kbd>W</kbd></td>
+</tr>
+<tr>
+<td>转储 ftrace 缓冲区</td>
+<td style="text-align:center"><kbd>Z</kbd></td>
+</tr>
+</tbody>
+</table>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-01-21T16:33:41.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
+    <title type="html">Linux 共享 Anaconda</title>
+    <id>https://breezeshane.github.io/Linux/ShareConda/</id>
+    <link href="https://breezeshane.github.io/Linux/ShareConda/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
+    <content type="html"><![CDATA[<blockquote>
+<p>安装Anaconda的步骤这里不做详细记述.</p>
+</blockquote>
+<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
+<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
+<div><pre><code><span>groupadd</span> anaconda
+</code></pre>
+<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
+<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
+<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
+<span>chmod</span> <span>770</span> -R /opt/anaconda/
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
+<div><pre><code><span>chmod</span> g+s /opt/anaconda
+<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
+<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
+<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>保存即可.</p>
+<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
+<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
+  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
+<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
+<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-04-05T13:07:23.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">记一次局域网搭建私人云盘的过程</title>
     <id>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</id>
     <link href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
 </blockquote>
@@ -14422,59 +14462,10 @@ nextcloud
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
-    <title type="html">Linux 共享 Anaconda</title>
-    <id>https://breezeshane.github.io/Linux/ShareConda/</id>
-    <link href="https://breezeshane.github.io/Linux/ShareConda/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <content type="html"><![CDATA[<blockquote>
-<p>安装Anaconda的步骤这里不做详细记述.</p>
-</blockquote>
-<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
-<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
-<div><pre><code><span>groupadd</span> anaconda
-</code></pre>
-<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
-<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
-<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
-<span>chmod</span> <span>770</span> -R /opt/anaconda/
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
-<div><pre><code><span>chmod</span> g+s /opt/anaconda
-<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
-<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
-<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>保存即可.</p>
-<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
-<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
-  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
-<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
-<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-04-05T13:07:23.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
     <title type="html">Linux Shell 编程学习与实战</title>
     <id>https://breezeshane.github.io/Linux/Shells/</id>
     <link href="https://breezeshane.github.io/Linux/Shells/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="模拟输入组合键ctrl-anykey"> 模拟输入组合键<kbd>Ctrl</kbd>+<kbd>AnyKey</kbd></h2>
 <p>在<a href="./AutoIAC.html">上一篇笔记</a>中我提到没能将输入内容送入指定的进程PID，但在了解到这一点之前我学到了如下的一些内容：</p>
 <div><pre><code><span>echo</span> <span>$$</span> <span># 这个是显示当前进程的PID。</span>
@@ -15639,20 +15630,36 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
     <title type="html">Linux系统安全防护</title>
     <id>https://breezeshane.github.io/Linux/SystemSafety/</id>
     <link href="https://breezeshane.github.io/Linux/SystemSafety/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://www.modb.pro/db/116651" target="_blank" rel="noopener noreferrer">Linux系统安全隐患及加强安全管理的方法</a></li>
 <li><a href="https://cloud.tencent.com/developer/article/1670754" target="_blank" rel="noopener noreferrer">14个Linux系统安全小妙招，总有一招用的上</a></li>
 <li><a href="https://www.linuxquestions.org/questions/linux-newbie-8/what-is-the-systemd-equivalent-of-chkconfig-list-4175547184/" target="_blank" rel="noopener noreferrer">[SOLVED] What is the systemd equivalent of chkconfig --list?</a></li>
-<li></li>
+<li><a href="https://www.jianshu.com/p/a4defcfe17f9" target="_blank" rel="noopener noreferrer">禁止Linux用户远程登录</a></li>
+<li><a href="https://www.jianshu.com/p/0731a082f054" target="_blank" rel="noopener noreferrer">Linux系统安全设置整理</a></li>
+<li><a href="https://www.361way.com/linux-permit-su/5745.html" target="_blank" rel="noopener noreferrer">Linux允许部分用户su</a></li>
+<li><a href="https://access.redhat.com/solutions/64860" target="_blank" rel="noopener noreferrer">Permitting or Restricting a User's su Access to Privileged Accounts</a></li>
+<li><a href="https://computingforgeeks.com/restrict-su-access-to-privileged-accounts-linux/" target="_blank" rel="noopener noreferrer">Restrict su access to Privileged Accounts in Linux</a></li>
+<li><a href="https://blog.51cto.com/jasonyong/164005" target="_blank" rel="noopener noreferrer">pam_succeed_if的使用（四）</a></li>
+<li><a href="https://linux.die.net/man/8/pam_succeed_if" target="_blank" rel="noopener noreferrer">pam_succeed_if(8) - Linux man page</a></li>
+<li><a href="https://www.docs4dev.com/docs/zh/linux-pam/1.1.2/reference/sag-pam_succeed_if.html" target="_blank" rel="noopener noreferrer">6.31. pam_succeed_if-测试帐户 Feature</a></li>
+<li><a href="https://man7.org/linux/man-pages/man8/pam_succeed_if.8.html" target="_blank" rel="noopener noreferrer">pam_succeed_if(8) — Linux manual page</a></li>
+<li><a href="https://blog.csdn.net/qq_29277155/article/details/84943631" target="_blank" rel="noopener noreferrer">linux杀毒软件 - CSDN</a></li>
+<li><a href="https://blog.csdn.net/xianjie0318/article/details/107315413" target="_blank" rel="noopener noreferrer">应急响应--linux病毒查杀工具ClamAV</a></li>
+<li><a href="https://www.ultimate-communications.com/zh/system_69433" target="_blank" rel="noopener noreferrer">linux病毒查杀</a></li>
+<li><a href="https://blog.51cto.com/moerjinrong/2340089" target="_blank" rel="noopener noreferrer">Linux 病毒检测</a></li>
+<li><a href="https://segmentfault.com/a/1190000019292140" target="_blank" rel="noopener noreferrer">深入浅出TCP中的SYN-Cookies</a></li>
+<li><a href="https://segmentfault.com/a/1190000019252960" target="_blank" rel="noopener noreferrer">backlog参数对TCP连接建立的影响</a></li>
+<li><a href="https://blog.csdn.net/jacolin/article/details/47134895" target="_blank" rel="noopener noreferrer">archlinux开机自启动优化</a></li>
+<li><a href="http://i.lckiss.com/?p=1623" target="_blank" rel="noopener noreferrer">Arch linux Systemd自启动脚本的使用</a></li>
 </ol>
 </details>
 <h2 id="有防必先攻-有攻才有防"> 有防必先攻，有攻才有防</h2>
 <p>黑客通常会以下列的方式入侵系统：</p>
 <details><summary>入侵方法</summary>
 <ol>
-<li>直接窃听取得root密码,或者取得某位特殊User的密码，而该位User可能为root，再获取任意一位User的密码，因为取得一般用户密码通常很容易。</li>
+<li>直接窃听取得root密码，或者取得某位特殊User的密码，而该位User可能为root，再获取任意一位User的密码，因为取得一般用户密码通常很容易。</li>
 <li>黑客们经常用一些常用字来破解密码。曾经有一位美国黑客表示，只要用“password”这个字，就可以打开全美多数的计算机。其它常用的单词还有：account、ald、alpha、beta、computer、dead、demo、dollar、games、bod、hello、help、intro、kill、love、no、ok、okay、please、sex、secret、superuser、system、test、work、yes等。</li>
 <li>使用命令：finger@some.cracked.host，就可以知道该台计算机上面的用户名称。然后找这些用户下手，并通过这些容易入侵的用户取得系统的密码文件/etc/passwd，再用密码字典文件搭配密码猜测工具猜出root的密码。</li>
 <li>利用一般用户在/tmp目录放置着的SetUID的文件或者执行着SetUID程序，让root去执行，以产生安全漏洞。</li>
@@ -15708,11 +15715,46 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <li>用<code>find / -ctime -2 -ctime +1 -ls</code>命令来查看不到两天以内修改的一些文件。</li>
 <li>用<code>ls -lac</code>命令去查看文件真正的修改时间。</li>
 <li>用<code>cmp file1 file2</code>命令来比较文件大小的变化。</li>
+<li>用<code>ps -ef</code>查看进程，需要注意UID为0的进程。</li>
+<li>用<code>lsof -p [pid]</code>来查看<code>[pid]</code>进程所打开的端口和文件。</li>
+<li>通过比较差异<code>ps -ef | awk '{print $2}'| sort -n | uniq &gt;1;ls /proc |sort -n|uniq &gt;2;diff 1 2</code>来检查隐藏进程。</li>
+<li>用<code>ifconfig</code>查看往外发包量。</li>
+<li>使用<code>nethogs</code>来检测系统进程占用带宽情况，也可用<code>nethogs &lt;网卡设备&gt;</code>来指定网卡设备。</li>
+<li>用<code>ss -anp |grep &quot;:80&quot;</code>来查找访问外网80端口的进程。</li>
 </ul>
 <div><p>注意</p>
 <p>为了保证系统的绝对安全，除了做好预防和进行安全检查工作外，还要养成一个保证系统、网络安全的好习惯：定期定时做好完整的数据备份。有了完整的数据备份，在遭到攻击或系统出现故障时也能迅速恢复系统。</p>
 </div>
-<h2 id="安全防线加强巩固"> 安全防线加强巩固</h2>
+<h3 id="检查网络"> 检查网络</h3>
+<div><pre><code><span>ip</span> <span>link</span> <span>|</span> <span>grep</span> PROMISC <span># 正常网卡不该在promisc混杂模式，可能存在sniffer</span>
+<span>lsof</span> –i <span># 查看所有使用开放端口的进程</span>
+<span>lsof</span> –i :80 <span># 查看所有使用开放端口80的进程</span>
+
+<span>### 两者都是查看非正常打开的TCP/UDP端口</span>
+<span>netstat</span> -anp
+ss -anp
+<span>###</span>
+
+arp -a <span># 显示本机的arp(地址解析协议)缓冲区内容</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><h3 id="检查系统计划任务、系统服务及开机启动项"> 检查系统计划任务、系统服务及开机启动项</h3>
+<p>有些病毒也可能会通过系统计划任务来静默隐藏运行：</p>
+<div><pre><code><span>crontab</span> -u root -l
+<span>cat</span> /etc/crontab 
+<span>ls</span> -al /etc/cron.*
+<span>ls</span> -al /var/spool/cron/ 
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>一些病毒也会自己创建相应的服务、开机启动项来添加，因此要查看开机自启动的服务：</p>
+<div><pre><code>systemd-analyze blame <span># 查看开机启动项和启动时间</span>
+systemctl --all <span>|</span> <span>grep</span> not-found <span># 查看出错启动项</span>
+<span>ls</span> -l /etc/systemd/system <span># 检查该目录下的service文件</span>
+systemctl status <span># 检查系统内正在运行的服务</span>
+<span># 如果确认出错启动项无异常并且想解决掉出错启动项的话，可以执行这个：</span>
+systemctl mask plymouth-start.service
+<span># 查看开机启动时间可以用这个</span>
+systemd-analyze
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="安全防线加强巩固"> 安全防线加强巩固</h2>
 <h3 id="物理层面的安全问题"> 物理层面的安全问题</h3>
 <p>硬件服务器，首先得专业人的来做专业的维护。其次就是关闭从CD/DVD等这些方面的软启动方式。同时也可以设置BIOS密码，并且要有限制访问的策略与各类流程管控。</p>
 <p>还可以禁用USB设备来达到安全的目的，方法如下：</p>
@@ -15734,21 +15776,130 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <div><pre><code>systemctl -a <span># 用于查看当前所有的服务进程</span>
 systemctl stop <span>&lt;</span>ServerName<span>></span> <span># 用于终止服务进程运行</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h3 id="远程连接相关的安全问题"> 远程连接相关的安全问题</h3>
-<p>非必要情况下不能允许使用root用户远程登录，root具有系统的最高权限，如果允许的话就会存在将最高权限暴露给他人的风险。因此我们需要修改SSH的配置文件<code>/etc/ssh/sshd_config</code>，将其中的<code>PermitRootLogin</code>字段修改为<code>no</code>，如果有需要，可以根据实际情况修改<code>Port</code>属性（表示端口号）、<code>PermitEmptyPasswords</code>属性（表示是否允许密码为空）、<code>AllowUsers</code>属性（表示允许使用SSH协议进行远程连接的用户）等。</p>
+<div><span>1</span><br><span>2</span><br></div></div><p>另外还要检查命令是否被篡改：</p>
+<div><pre><code><span>ls</span> -l  /usr/bin/which
+<span>ls</span> -l <span><span>$(</span><span>which</span> <span>find</span><span>)</span></span>
+<span>find</span> /usr/ -mtime -20 -ls
+<span>find</span> /bin/ /sbin/ /usr/bin/ /usr/sbin/ /usr/local/bin/ /usr/local/sbin/ -mtime -20 -ls
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h3 id="ssh远程连接相关的安全问题"> SSH远程连接相关的安全问题</h3>
+<p>非必要情况下不能允许使用root用户远程登录，root具有系统的最高权限，如果允许的话就会存在将最高权限暴露给他人的风险。因此我们需要修改SSH的配置文件<code>/etc/ssh/sshd_config</code>，将其中的<code>PermitRootLogin</code>字段修改为<code>no</code>，如果有需要，可以根据实际情况修改<code>Port</code>属性（表示端口号）、<code>PermitEmptyPasswords</code>属性（表示是否允许密码为空）、<code>AllowUsers</code>属性（表示允许使用SSH协议进行远程连接的用户）、<code>DenyUsers</code>属性（表示拒绝后面所有用户的SSH连接）等。</p>
+<div><p>注意</p>
+<p>重启<code>sshd</code>服务后修改的所有属性才能生效。
+执行：</p>
+<div><pre><code><span>sudo</span> systemctl restart sshd
+</code></pre>
+<div><span>1</span><br></div></div></div>
 <h3 id="用户管理相关的安全问题"> 用户管理相关的安全问题</h3>
 <ol>
-<li>使用<code>passwd</code>命令来管理用户的密码</li>
-<li>使用<code>userdel</code>命令删除不需要的用户</li>
+<li>使用<code>passwd</code>命令来管理用户的密码。</li>
+<li>使用<code>userdel</code>命令删除不需要的用户。</li>
 <li>使用<code>usermod -L</code>命令来锁定用户的属性，如需要解锁的话使用<code>usermod -U</code>命令即可。</li>
+<li><code>cat /etc/passwd</code>可以用来查看是否有异常的系统用户。</li>
+<li><code>awk -F&quot;:&quot; '{if($3 == 0){print $1}}' /etc/passwd</code>可以用来查看所有的特权用户，特别关注一下是否产生了新用户。</li>
 </ol>
-<p><strong>设置只允许该组账号使用</strong><code>su</code><strong>命令切换至root用户</strong>：</p>
+<h4 id="设置只允许该组账号使用su命令切换至root用户"> 设置只允许该组账号使用<code>su</code>命令切换至root用户：</h4>
+<p>我们要实现这个功能的话需要修改<code>/etc/pam.d/su</code>文件来做配置。</p>
+<p>这里特别介绍一下该文件中这三项的理解：</p>
+<div><pre><code>auth        [success=2 default=ignore] pam_succeed_if.so use_uid user notingroup &lt;group_name&gt;
+auth        required pam_wheel.so use_uid group=&lt;group_name&gt;
+auth        required pam_listfile.so item=user sense=allow onerr=fail file=/etc/security/&lt;file_with_allowed_target_UIDs&gt;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><p>透析详解</p>
+<div><pre><code>auth        required pam_wheel.so use_uid group=&lt;group_name&gt;
+auth        required pam_listfile.so item=user sense=allow onerr=fail file=/etc/security/&lt;file_with_allowed_target_UIDs&gt;
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这里要配置的属性应该是两个都要一起配置。</p>
+<p>配置信息描述的操作是：验证用户是否在<code>&lt;group_name&gt;</code>中，并且是否也在文件<code>/etc/security/&lt;file_with_allowed_target_UIDs&gt;</code>中列出，只有都满足的情况下，该用户才能使用<code>su</code>命令来登录root用户。</p>
+<p><strong>注意</strong>：文件<code>/etc/security/&lt;file_with_allowed_target_UIDs&gt;</code>不应该是全局可写，推荐配置成只有root可读可写，其他人只有可读权限，文件所有者和所在组都改为<code>root</code>。该文件下记录的是一些用户的UID，每行对应一个用户UID。</p>
+<p>如果发现所属或权限不满足要求，执行以下命令修改权限即可：</p>
+<div><pre><code><span>sudo</span> <span>chown</span> root:root /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+<span>sudo</span> <span>chmod</span> 0644 /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>执行之后可以使用<code>ls -lh</code>来检查权限信息：</p>
+<div><pre><code>❯ <span>ls</span> -lh /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+-rw-r--r--. <span>1</span> root root <span>5</span> Apr <span>22</span> <span>10</span>:19 /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><hr>
+<p>如果在实际中发现以上配置方式还是无法满足一些要求的话，还有以下的信息配置进行更多的细粒化验证：</p>
+<div><pre><code>auth        [success=2 default=ignore] pam_succeed_if.so use_uid ......
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>有关功能、作用和文件的描述如下</strong>：</p>
+<p><code>pam_succeed_if.so</code>设计为根据要验证的用户所属帐户的Feature或其他PAM项的值来成功或失败进行身份验证，另外有一种用途是根据此测试选择是否加载其他模块。</p>
+<blockquote>
+<p><strong>注意</strong>：应该给模块一个或多个条件作为模块参数，并且只有满足所有条件，身份验证才会成功，这时用户才能正常登录。</p>
+</blockquote>
+<p><code>pam_succeed_if.so</code>后续的内容被这样定义：</p>
+<div><pre><code>pam_succeed_if.so [flag...] [condition...]
+</code></pre>
+<div><span>1</span><br></div></div><details>
+<summary>flag参数的可选项</summary>
+<p><strong>debug</strong>：Turns on debugging messages sent to syslog.</p>
+<p><strong>use_uid</strong>：Evaluate conditions using the account of the user whose UID the application is running under instead of the user being authenticated.</p>
+<p><strong>quiet</strong>：Don't log failure or success to the system log.</p>
+<p><strong>quiet_fail</strong>：Don't log failure to the system log.</p>
+<p><strong>quiet_success</strong>：Don't log success to the system log.
+</details></p>
+<details>
+<summary>Condition参数的详情</summary>
+<p>Conditions are three words: a field，a test，and a value to test for. Available fields are user，uid，gid，shell，home and service:</p>
+<p><strong>field &lt; number</strong>: Field has a value numerically less than number.</p>
+<p><strong>field &lt;= number</strong>: Field has a value numerically less than or equal to number.</p>
+<p><strong>field eq number</strong>: Field has a value numerically equal to number.</p>
+<p><strong>field &gt;= number</strong>: Field has a value numerically greater than or equal to number.</p>
+<p><strong>field &gt; number</strong>: Field has a value numerically greater than number.</p>
+<p><strong>field ne number</strong>: Field has a value numerically different from number.</p>
+<p><strong>field = string</strong>: Field exactly matches the given string.</p>
+<p><strong>field != string</strong>: Field does not match the given string.</p>
+<p><strong>field =~ glob</strong>: Field matches the given glob.
+<strong>field !~ glob</strong>: Field does not match the give
+n glob.</p>
+<p><strong>field in item:item:... </strong>: Field is contained in the list of items separated by colons.</p>
+<p><strong>field notin item:item:... </strong>: Field is not contained in the list of items separated
+by colons.
+<strong>user ingroup group</strong>: User is in given group.
+<strong>user notingroup group</strong>: User is not in given
+group.</p>
+<p><strong>user innetgr netgroup</strong>: (user，host) is in given netgroup.</p>
+<p><strong>user notinnetgr group</strong>: (user，host) is not in given netgroup.</p>
+</details>
+</div>
+<h4 id="修改用户的密码策略"> 修改用户的密码策略</h4>
+<p>对于一个庞大的组织来说，多人共用服务器必然存在安全隐患，我们可以通过设置用户的密码策略来提高系统安全性，降低风险。我们通过修改文件<code>/etc/login.defs</code>来配置密码策略。</p>
+<p>文件里也写了它的功能与规范要求：</p>
+<blockquote>
+<p>/etc/login.defs - Configuration control definitions for the login package.</p>
+<p>Three items must be defined:  MAIL_DIR，ENV_SUPATH，and ENV_PATH.
+If unspecified，some arbitrary (and possibly incorrect) value will
+be assumed.  All other items are optional - if not specified then
+the described action or option will be inhibited.</p>
+<p>Comment lines (lines beginning with &quot;#&quot;) and blank lines are ignored.</p>
+<p>Modified for Linux.  --marekm</p>
+</blockquote>
+<p>文件里写的内容相当全面详细，各参数的作用都已在上放写好，因此需要修改的时候看注释就好，这里只放出来一个例子：</p>
+<div><pre><code><span>#</span>
+<span># Delay in seconds before being allowed another attempt after a login failure</span>
+<span>#</span>
+FAIL_DELAY		<span>3</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这里在说<code>FAIL_DELAY</code>变量决定了在用户登录失败的时候需要等待<code>FAIL_DELAY</code>时间长度后才能进行下一次登录请求。</p>
+<div><p>通过该文件设置su权限</p>
+<div><pre><code><span>echo</span> <span>"SU_WHEEL_ONLY yes"</span> <span>>></span> /etc/login.defs
+</code></pre>
+<div><span>1</span><br></div></div><p>通过这个命令来设置参数<code>SU_WHEEL_ONLY</code>，表示只有wheel用户组才能使用<code>su</code>命令切换至root。</p>
+</div>
 <h3 id="文件管理相关的安全问题"> 文件管理相关的安全问题</h3>
 <p>建议<code>/etc/passwd</code>和<code>/etc/shadow</code>两个文件都要限定锁死，只限root管理员能查看。并且平日注意防止该类文件外泄。</p>
-<div><p>更多</p>
-<p>关于用户管理和文件管理相关的更多详细知识，可以点击<a href="./UUA.html">这里</a>跳转来查看详情。</p>
-</div>
-<h3 id="禁用快捷键重启的安全问题"> 禁用快捷键重启的安全问题</h3>
+<p>联系之前我写的<a href="./UUA.html">笔记</a>，就可以知道还能另外设置特殊权限，执行以下指令来保证文件不可更改：</p>
+<div><pre><code>chattr +i /etc/passwd
+chattr +i /etc/shadow
+chattr +i /etc/group
+chattr +i /etc/gshadow
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>时常关注文件修改时间也是必要的操作，查看修改时间可以使用<code>ls -l</code>命令，如：</p>
+<div><pre><code><span>ls</span> -l /etc/passwd
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="禁用快捷键重启的安全问题"> 禁用快捷键重启的安全问题</h3>
 <p>在使用Linux系统中，按下<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>会触发重启事件，在一些情况下可能会产生不良影响甚至会带来不小的损失，因此需要考虑禁用这一组危险的快捷键。</p>
 <p>但应该注意到，这个快捷键其实是让systemd来按照<code>ctrl-alt-del.target</code>的文件配置进行活动的，而该文件的性质其实是一个软链接：</p>
 <div><pre><code>❯ ll /usr/lib/systemd/system/ctrl-alt-del.target
@@ -15792,9 +15943,14 @@ last -a <span>#将IP显示在最后一列</span>
 last -d <span>#对IP进行域名解析</span>
 last -R <span>#不显示IP列</span>
 last -n <span>3</span> <span>#显示最近3条</span>
+last <span>|</span> <span>awk</span> <span>'{print $3}'</span><span>|</span><span>sort</span> <span>|</span><span>uniq</span> -c<span>|</span><span>sort</span> -grk <span>1</span> <span>#最近登陆成功次数最多的IP</span>
 lastb <span>#查看最近用户登录失败的列表</span>
+lastb root <span>|</span> <span>awk</span> <span>'{print $3}'</span> <span>|</span> <span>sort</span> <span>|</span> <span>uniq</span> -c <span>|</span> <span>sort</span> -nr<span>|</span> <span>more</span> <span>#检查系统错误登陆日志，统计IP重试次数</span>
+lastlog <span>#查看每个用户最后一次登陆的时间</span>
+<span>grep</span> -i Accepted /var/log/secure <span>#查找远程登录成功的IP</span>
+<span>grep</span> -i Accepted /var/log/secure <span>|</span> <span>awk</span> <span>'{print $9,$11}'</span><span>|</span><span>sort</span> <span>|</span><span>uniq</span> -c <span>|</span><span>sort</span> -grk <span>1</span> <span>#查找远程登录成功的IP</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h3 id="日志相关的安全问题"> 日志相关的安全问题</h3>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><h3 id="日志相关的安全问题"> 日志相关的安全问题</h3>
 <p>定期检查日志文件是一件必要的事，这样也方便你第一时间掌握一些情况，在CentOS Linux中以下常用的日志文件的功能如表所示：</p>
 <table>
 <thead>
@@ -15848,9 +16004,199 @@ lastb <span>#查看最近用户登录失败的列表</span>
 </table>
 <h3 id="安全工具相关的安全问题"> 安全工具相关的安全问题</h3>
 <p>对于系统来说，常用的安全扫描工具是必备的，比如：扫描开放端口nmap。对于系统中的WEB应用等来说，可以使用一些开源的工具：IBM AppScan、SQL Map等。</p>
+<p>Linux平台上还有杀毒软件ClamAV、rkhunter，方便病毒查杀。</p>
+<p>此外CentOS还有<code>McAfee</code>、<code>sophos</code>等杀毒软件可以安装使用，这里就不详细记述了（主要是因为我使用Arco Linux）。</p>
 <h3 id="管理方法相关的安全问题"> 管理方法相关的安全问题</h3>
 <p>对于安全管理来说，好的流程与管理制度同样也是必须的，否则，谈上述各方面的作用基本为0，有方法，没有制度去让方法落地执行。</p>
 <p>由于我没有在公司内待过，所以这一点也写不了什么。</p>
+<h2 id="防火墙"> 防火墙</h2>
+<p>如果是在服务器上设置的话，需要先做好如下的准备工作：</p>
+<div><pre><code><span>crontab</span> -e
+*/10 * * * * root /etc/init.d/iptables stop
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这里表示每十分钟就停止一次防火墙，这样就会避免因为误操作而将自己拒之门外的悲痛情况。</p>
+<p>一般我们只需要采取以下策略来设置防火墙即可：</p>
+<ol>
+<li>仅开放HTTP(80)、HTTPS(443)、SSH(自动捕获)端口，其他端口全部关闭，可以根据需要另外开放其它端口如FTP(21)端口、smtp(25)端口等，在下面的脚本中可以修改dport参数后面的端口列。</li>
+<li>写如下脚本来单向禁止ping设置，这样外部IP就无法ping通你的服务器。<div><pre><code> <span>#!/bin/bash</span>
+ <span>ssh_port</span><span>=</span><span><span>`</span><span>netstat</span> -nutlp <span>|</span> <span>grep</span> sshd <span>|</span> <span>grep</span> <span>0.0</span>.0.0 <span>|</span> <span>awk</span> <span>'{print $4}'</span> <span>|</span> <span>cut</span> -d <span>":"</span> -f2<span>`</span></span>
+ iptables -F
+ iptables -F -t nat
+ iptables -X
+ iptables -P INPUT DROP
+ iptables -P OUTPUT ACCEPT
+ iptables -P FORWARD DROP
+ iptables -A INPUT -i lo -j ACCEPT
+ iptables -A INPUT -m state --state ESTABLISHED，RELATED -j ACCEPT
+ iptables -A INPUT -p tcp -m multiport --dport <span>80</span>，443，<span>$ssh_port</span> -j ACCEPT
+ iptables -A INPUT -p icmp --icmp-type <span>0</span> -j ACCEPT
+ /etc/init.d/iptables save
+ <span>exit</span> <span>0</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div></li>
+</ol>
+<p>最后记得取消掉任务计划服务<code>crontab</code>。</p>
+<h2 id="检查异常系统文件"> 检查异常系统文件</h2>
+<p><strong>注意SUID文件，可疑大于10M和空格文件</strong>：</p>
+<div><pre><code><span>ls</span> -artl /tmp/
+<span>find</span> / -uid <span>0</span> -perm <span>4000</span> -print
+<span>find</span> / -size +10000k -print
+<span>find</span> / -name <span>"..."</span>  -print
+<span>find</span> / -name <span>".."</span>  -print
+<span>find</span> / -name <span>"."</span>  -print
+<span>find</span> / -name <span>" "</span>  -print
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p><strong>检查系统中的core文件</strong>：</p>
+<div><pre><code><span>find</span> / -name core -exec <span>ls</span> -l <span>{</span><span>}</span> <span>\</span><span>;</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="其他安全设置"> 其他安全设置</h2>
+<p><strong>开启</strong><code>TCP SYN Cookie</code><strong>保护</strong>：</p>
+<p>执行<code>echo 1 &gt; /proc/sys/net/ipv4/tcp_syncookies</code>即可开启。</p>
+<details><summary>TCP SYN Cookie的背景和Syn Flood攻击原理</summary>
+<p>正如有防必先有攻，我们需要先知道一种典型的DDos攻击：Syn Flood攻击。</p>
+<p>Syn Flood攻击是基于TCP建立连接原理而进行的。TCP连接建立时，客户端通过发送SYN报文发起向处于监听状态的服务器发起连接，服务器为该连接分配一定的资源，并发送SYN和ACK报文。对服务器来说，此时该连接的状态称为半连接(Half-Open)，且仅当收到客户端回复的ACK报文后，连接才算建立完成。在这个过程中，如果服务器一直没有收到ACK报文(比如在链路中丢失了)，服务器会在超时后重传SYN和ACK。如果经过多次超时重传后，都没有收到，那么服务器会回收资源并关闭半连接。</p>
+<p>在Unix/Linux系统中，监听是通过<code>listen</code>函数来完成的：</p>
+<div><pre><code><span>int</span> <span>listen</span><span>(</span><span>int</span> sockfd，<span>int</span> backlog<span>)</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>第一个参数是设置的套接字，而第二个参数，《Unix网络编程》给出的描述是<strong>已完成的连接队列</strong>(ESTABLISHED)与<strong>未完成连接队列</strong>(SYN_RCVD)之和的上限。</p>
+<blockquote>
+<p>一般我们将ESTABLISHED状态的连接称为全连接，而将SYN_RCVD状态的连接称为半连接</p>
+</blockquote>
+<p>虽然《Unix网络编程》这样给出描述，但实际上Linux内核中只有已完成连接队列实际存在，而未完成连接队列只有长度的记录。</p>
+<p>每一个LISTEN状态的套接字都有一个<code>inet_connection_sock</code>结构，其中的<code>accept_queue</code>从名字上也可以看出就是已完成三次握手的子连接队列，另外这个结构里还记录了半连接请求的长度。以下是<code>inet_connection_sock</code>结构的定义：</p>
+<div><pre><code><span>struct</span> <span>inet_connection_sock</span> <span>{</span>    
+    <span>.</span> <span>.</span> <span>.</span>
+    <span>struct</span> <span>request_sock_queue</span> icsk_accept_queue<span>;</span>
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span>
+
+<span>struct</span> <span>request_sock_queue</span> <span>{</span>
+    <span>.</span> <span>.</span> <span>.</span>
+    <span>atomic_t</span> qlen<span>;</span> <span>// 半连接的长度</span>
+    <span>atomic_t</span> young<span>;</span> <span>// 一般情况，这个值 = qlen</span>
+
+    <span>struct</span> <span>request_sock</span> <span>*</span>rskq_accept_head<span>;</span> <span>// 已完成连接的队列头</span>
+    <span>struct</span> <span>request_sock</span> <span>*</span>rskq_accept_tail<span>;</span> <span>// 已完成连接的队列尾</span>
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p>其中变量<code>young</code>比较关键，代码注释是这样解释的：</p>
+<blockquote>
+<p>Normally all the openreqs are young and become mature(i.e. converted to established socket) for first timeout. If synack was not acknowledged for 1 second，it means one of the following things: synack was lost，ack was lost，rtt is high or nobody planned to ack (i.e. synflood).</p>
+</blockquote>
+<p>可以看得出来，当第一次出现<code>synack</code>或<code>ack</code>超时的时候，或者是<code>rtt</code>过高的时候，亦或者是根本没有人打算发送<code>ack</code>的时候（注意这里也指出了攻击类型Syn Flood），这些开放的请求就会被转换成全连接，这就是mature的含义。</p>
+<p>而内核在关闭<code>syncookie</code>的情况下会这样处理SYN握手报文：</p>
+<div><pre><code>
+<span>int</span> <span>tcp_conn_request</span><span>(</span><span>struct</span> <span>request_sock_ops</span> <span>*</span>rsk_ops，
+             <span>const</span> <span>struct</span> <span>tcp_request_sock_ops</span> <span>*</span>af_ops，
+             <span>struct</span> <span>sock</span> <span>*</span>sk，<span>struct</span> <span>sk_buff</span> <span>*</span>skb<span>)</span> <span>{</span>
+
+    <span>// 条件1: 半连接>=backlog</span>
+    <span>if</span> <span>(</span><span>(</span>net<span>-></span>ipv4<span>.</span>sysctl_tcp_syncookies <span>==</span> <span>2</span> <span>||</span>
+        <span>inet_csk_reqsk_queue_is_full</span><span>(</span>sk<span>)</span><span>)</span> <span>&amp;&amp;</span> <span>!</span>isn<span>)</span> <span>{</span>   
+        want_cookie <span>=</span> <span>tcp_syn_flood_action</span><span>(</span>sk，skb，rsk_ops<span>-></span>slab_name<span>)</span><span>;</span>
+        <span>if</span> <span>(</span><span>!</span>want_cookie<span>)</span>
+            <span>goto</span> drop<span>;</span>
+    <span>}</span> 
+
+    <span>// 条件2: 全连接sock>backlog并且半连接队列的young字段>1</span>
+    <span>if</span> <span>(</span><span>sk_acceptq_is_full</span><span>(</span>sk<span>)</span> <span>&amp;&amp;</span>
+        <span>inet_csk_reqsk_queue_young</span><span>(</span>sk<span>)</span> <span>></span> <span>1</span><span>)</span> <span>{</span> 
+        <span>NET_INC_STATS</span><span>(</span><span>sock_net</span><span>(</span>sk<span>)</span>，LINUX_MIB_LISTENOVERFLOWS<span>)</span><span>;</span>
+        <span>goto</span> drop<span>;</span>
+    <span>}</span> 
+
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div><p>注意到<code>inet_csk_reqsk_queue_young(sk) &gt; 1</code>这里表示网络繁忙导致<code>SYN ACK</code>丢失，但通常这个条件不会满足，一般client总会及时处理ACK的。因此如果发生丢弃SYN报文的话，只能是<code>(net-&gt;ipv4.sysctl_tcp_syncookies == 2 || inet_csk_reqsk_queue_is_full(sk)) &amp;&amp; !isn</code>这里的条件为真，一般情况下<code>inet_csk_reqsk_queue_is_full(sk)</code>比较容易满足条件。</p>
+<p>我们再看收到ACK报文时的处理：</p>
+<div><pre><code><span>struct</span> <span>sock</span> <span>*</span><span>tcp_v4_syn_recv_sock</span><span>(</span><span>const</span> <span>struct</span> <span>sock</span> <span>*</span>sk，
+                                <span>struct</span> <span>sk_buff</span> <span>*</span>skb，
+                                <span>struct</span> <span>request_sock</span> <span>*</span>req，
+                                <span>struct</span> <span>dst_entry</span> <span>*</span>dst，
+                                <span>struct</span> <span>request_sock</span> <span>*</span>req_unhash，
+                                bool <span>*</span>own_req<span>)</span> <span>{</span>
+    <span>.</span> <span>.</span> <span>.</span>
+
+    <span>// 全连接>backlog，就丢弃</span>
+    <span>if</span> <span>(</span><span>sk_acceptq_is_full</span><span>(</span>sk<span>)</span><span>)</span>           
+        <span>goto</span> exit_overflow<span>;</span>
+
+    <span>// 创建子套接字了</span>
+    newsk <span>=</span> <span>tcp_create_openreq_child</span><span>(</span>sk，req，skb<span>)</span><span>;</span>
+
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>前面一些连接请求都可以顺利创建子连接，设此时全连接队列长度=backlog=<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>，半连接数目=0；</p>
+<p>处理第<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>个连接请求时，由于sk_acceptq_is_full的判断条件是<code>&gt;</code>而不是<code>&gt;=</code>，所以依然可以建立全连接。</p>
+<p>而当第<span class='katex-error' title='ParseError: KaTeX parse error: Undefined control sequence: \， at position 2: k\̲，̲(k&gt;x+1)'>k\，(k&gt;x+1)</span>个连接请求到来时，由于半连接的数目还没有超过backlog，所以还是可以继续回复<code>SYNACK</code>，但收到ACK后已经不能再创建子套接字了，所以TCP状态依然为<code>SYN_RECV</code>.同时半连接的数目也会增加到backlog。</p>
+<p>而对于客户端，它既然能收到SYNACK握手报文，那么就可以将TCP状态变为ESTABLISHED，当某一次再有握手请求到来时，由于半连接的数目已经达到backlog，因此，这个SYN报文会被丢弃。</p>
+<p>这一切都说明了，服务器能保存的半连接的数量是有限的，因此当服务器遭遇大量攻击报文的时候，服务器将不再能够接受正常连接了，也就是服务不可用。</p>
+<p>综上所述，我们已经深入理解了Syn Flood攻击了，自然也就明白应该如何防守——开启<code>TCP SYN Cookie</code>功能即可。</p>
+</details>
+<details><summary>TCP SYN Cookies原理</summary>
+<blockquote>
+<p>Syn Flood攻击成立的关键在于服务器资源是有限的，而服务器收到请求会分配资源。通常来说，服务器用这些资源保存此次请求的关键信息，包括请求的来源和目(五元组)，以及TCP选项，如最大报文段长度MSS、时间戳timestamp、选择应答使能Sack、窗口缩放因子Wscale等等。当后续的ACK报文到达，三次握手完成，新的连接创建，这些信息可以会被复制到连接结构中，用来指导后续的报文收发。</p>
+</blockquote>
+<p>Syn Cookies算法可以让服务器在不分配资源的情况下做到：</p>
+<ol>
+<li>验证之后可能到达的ACK的有效性，保证这是一次完整的握手；</li>
+<li>获得SYN报文中携带的TCP选项信息</li>
+</ol>
+<p>因为TCP连接建立时，双方的起始报文序号是可以任意的。而Syn Cookies利用这一点，按照如下规则构造初始序列号：</p>
+<ul>
+<li>设t为一个缓慢增长的时间戳(典型实现是每64s递增一次)</li>
+<li>设m为客户端发送的SYN报文中的MSS选项值</li>
+<li>设s是连接的元组信息(源IP,目的IP,源端口，目的端口)和t经过密码学运算后的Hash值，即s=hash(sip,dip,sport,dport,t)，s的结果取低24位。</li>
+</ul>
+<p>那么初始序列号n的结构如下：</p>
+<ul>
+<li>高5位为t mod 32</li>
+<li>接下来3位为m的编码值</li>
+<li>低24位为s</li>
+</ul>
+<p>当客户端收到此SYN和ACK报文后，根据TCP标准，它会回复ACK报文，且报文中ack = n + 1，那么在服务器收到它时，将ack - 1就可以拿回当初发送的SYN+ACK报文中的序号了！服务器巧妙地通过这种方式间接保存了一部分SYN报文的信息。</p>
+<p>接下来，服务器需要对ack - 1这个序号进行检查：</p>
+<ul>
+<li>将高5位表示的t与当前之间比较，看其到达地时间是否能接受。</li>
+<li>根据t和连接元组重新计算s，看是否和低24位一致，若不一致，说明这个报文是被伪造的。</li>
+<li>解码序号中隐藏的mss信息</li>
+</ul>
+<p>到此，连接就可以顺利建立了。</p>
+<p>Linux的实现与上述有些区别：</p>
+<div><pre><code>seq <span>=</span> <span>hash</span><span>(</span>saddr<span>,</span> daddr<span>,</span> sport<span>,</span> dport<span>,</span> <span>0</span><span>,</span> <span>0</span><span>)</span> <span>+</span> req<span>.</span>th<span>.</span>seq <span>+</span> t <span>&lt;&lt;</span> <span>24</span> <span>+</span> <span>(</span><span>hash</span><span>(</span>saddr<span>,</span> daddr<span>,</span> sport<span>,</span> dport<span>,</span> t<span>,</span> <span>1</span><span>)</span> <span>+</span> mss_ind<span>)</span> <span>&amp;</span> <span>0x00FFFFFF</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中，<code>req.th.seq</code>表示客户端的SYN报文中的序号，<code>mss_ind</code>是客户端通告的MSS值得编码，它的取值在比较新的内核中有4种(老的内核有8种), 分别对应以下4种值：</p>
+<div><pre><code><span>static</span> __u16 <span>const</span> msstab<span>[</span><span>]</span> <span>=</span> <span>{</span>
+    <span>536</span><span>,</span>
+    <span>1300</span><span>,</span>
+    <span>1440</span><span>,</span> <span>//1440, 1452: PPPoE</span>
+    <span>1460</span><span>,</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div></details>
+<details><summary>Syn Cookies缺点与缺陷</summary>
+<p>其实使用Syn Cookies是有代价的：</p>
+<ol>
+<li>MSS的编码只有3位，因此最多只能使用8种MSS值</li>
+<li>服务器必须拒绝客户端SYN报文中的其他只在SYN和SYN+ACK中协商的选项，原因是服务器没有地方可以保存这些选项，比如Wscale和SACK</li>
+<li>增加了密码学运算，增加了连接服务所需消耗的时间</li>
+</ol>
+</details>
+<h2 id="查杀异常进程命令"> 查杀异常进程命令</h2>
+<ul>
+<li><code>ps</code>、<code>top</code>、<code>htop</code>：查看运行的进程和进程系统资源占用情况，查找异常进程。</li>
+<li><code>pstree</code>：以树状图的形式显示进程间的关系。</li>
+<li><code>lsof</code>：可以查看进程打开的文件、文件或目录被哪个进程占用、打开某个端口的进程、系统所有打开的端口等等。</li>
+<li><code>netstat</code>：可以查看系统监听的所有端口、网络连接情况、查找连接数过多的IP地址等。</li>
+<li><code>ss</code>：与<code>lsof</code>、<code>netstat</code>等价。</li>
+<li><code>iftop</code>：监控TCP连接实时网络流量，可分别分析出入流量并进行排序，查找出流量异常的IP地址。（需要手动安装）</li>
+<li><code>nethogs</code>：监控每个进程使用的网络流量，并从高到低排序，方便查找出流量异常的进程。（需要手动安装）</li>
+<li><code>strace</code>：追踪一个进程所执行的系统调用。如已知PID可使用<code>strace -p &lt;PID&gt;</code>。</li>
+<li><code>strings</code>：输出文件中可打印的字符串。</li>
+</ul>
 ]]></content>
     <author>
       <name>Breeze Shane</name>
@@ -15865,7 +16211,7 @@ lastb <span>#查看最近用户登录失败的列表</span>
     <title type="html">Linux 用户与组和权限分配杂谈</title>
     <id>https://breezeshane.github.io/Linux/UUA/</id>
     <link href="https://breezeshane.github.io/Linux/UUA/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://jiabaoer.github.io/2019/11/21/013.Linux-%E7%94%A8%E6%88%B7%E5%92%8C%E7%BB%84%E7%AE%A1%E7%90%86/" target="_blank" rel="noopener noreferrer">Linux 用户和组管理</a></li>
@@ -16312,7 +16658,7 @@ setfacl --restore <span>&lt;</span>YourDirectory<span>></span>
     <title type="html">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
     <id>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
     <link href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
 <h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
 <p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
@@ -16417,7 +16763,7 @@ vncserver :1
     <title type="html">在Arch系中安装openGauss(全失败过程)</title>
     <id>https://breezeshane.github.io/Linux/openGauss/</id>
     <link href="https://breezeshane.github.io/Linux/openGauss/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="opengauss下载"> openGauss下载</h2>
 <p>官网至给出了CentOS和Windows系统下的安装包, 但考虑同样是Linux, openGauss也应该可以安装在Arch系上, 故有此笔记.</p>
 <p>去<a href="https://opengauss.org/zh/download.html" target="_blank" rel="noopener noreferrer">官方网站</a>下载CentOS版本的包.</p>
@@ -16844,7 +17190,7 @@ gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
     <title type="html">Building Up Servicer</title>
     <id>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</id>
     <link href="https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
 <h2 id="怎么做"> 怎么做？</h2>
@@ -16910,7 +17256,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">Crawler</title>
     <id>https://breezeshane.github.io/Python/Crawler/</id>
     <link href="https://breezeshane.github.io/Python/Crawler/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
 <h2 id="前言"> 前言</h2>
 <p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
@@ -17007,7 +17353,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">关于Vcomputer如何实现循环的哲学问题</title>
     <id>https://breezeshane.github.io/VComputer/</id>
     <link href="https://breezeshane.github.io/VComputer/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
 <hr>
 <p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
@@ -17057,7 +17403,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">简单的网页前后端搭建过程</title>
     <id>https://breezeshane.github.io/Web/Frontbackend/</id>
     <link href="https://breezeshane.github.io/Web/Frontbackend/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
 <h3 id="html"> HTML</h3>
 <p><strong>HTML设置字体：</strong></p>
@@ -17209,7 +17555,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">在受限的网站里强制复制粘贴</title>
     <id>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</id>
     <link href="https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
 <blockquote>
 <p>参考：</p>
@@ -17298,7 +17644,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">SDN入门基础</title>
     <id>https://breezeshane.github.io/Web/SDN/</id>
     <link href="https://breezeshane.github.io/Web/SDN/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<div><p>参考链接</p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&amp;mid=209513316&amp;idx=1&amp;sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd" target="_blank" rel="noopener noreferrer">《SDN软件定义网络从入门到精通》导论课</a>
 <a href="http://www.keyunict.com/news/news-271.html" target="_blank" rel="noopener noreferrer">SDN的主要分层结构</a>
@@ -17703,7 +18049,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">Windows10 快捷键大全</title>
     <id>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</id>
     <link href="https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
 <h2 id="_2020-11-19"> 2020/11/19</h2>
 <hr>
@@ -18029,7 +18375,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">𝕬𝖇𝖔𝖚𝖙</title>
     <id>https://breezeshane.github.io/about/</id>
     <link href="https://breezeshane.github.io/about/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -18063,14 +18409,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://breezeshane.github.io/intro/</id>
     <link href="https://breezeshane.github.io/intro/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -18080,14 +18426,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://breezeshane.github.io/layout/</id>
     <link href="https://breezeshane.github.io/layout/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -18112,14 +18458,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">友情链接</title>
     <id>https://breezeshane.github.io/links/</id>
     <link href="https://breezeshane.github.io/links/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -18161,30 +18507,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">Blog Home</title>
-    <id>https://breezeshane.github.io/</id>
-    <link href="https://breezeshane.github.io/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <content type="html"><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
     <id>https://breezeshane.github.io/qap/</id>
     <link href="https://breezeshane.github.io/qap/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<center>
     <font color="#4b5cc4" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
@@ -18218,10 +18548,26 @@ background-size: cover;
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
+    <title type="html">Blog Home</title>
+    <id>https://breezeshane.github.io/</id>
+    <link href="https://breezeshane.github.io/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
+    <content type="html"><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-04-23T13:03:25.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
     <title type="html">Slide page</title>
     <id>https://breezeshane.github.io/slides/</id>
     <link href="https://breezeshane.github.io/slides/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -18230,34 +18576,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-04-21T10:56:28.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">Java 杂记</title>
-    <id>https://breezeshane.github.io/Java/</id>
-    <link href="https://breezeshane.github.io/Java/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
-    <content type="html"><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
-<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
-<p>注意: 判断是否为NaN时要使用isNaN.</p>
-<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
-<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
-]]></content>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-03-08T19:31:10.000Z</published>
+    <published>2022-04-23T13:03:25.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Git Commands</title>
     <id>https://breezeshane.github.io/Git_Commands/</id>
     <link href="https://breezeshane.github.io/Git_Commands/"/>
-    <updated>2022-04-21T10:56:28.000Z</updated>
+    <updated>2022-04-23T13:03:25.000Z</updated>
     <content type="html"><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
 <p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
 <h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
@@ -18401,6 +18727,35 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
       <name>Breeze Shane</name>
     </contributor>
     <published>2020-11-08T17:27:09.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
+    <title type="html">TeXlive-LaTeX使用</title>
+    <id>https://breezeshane.github.io/LaTeX/</id>
+    <link href="https://breezeshane.github.io/LaTeX/"/>
+    <updated>2022-04-23T13:03:25.000Z</updated>
+    <content type="html"><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
+<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
+<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
+<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
+<p>重启TeX Studio即可正常使用.</p>
+<div><p>宏包官网</p>
+<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
+</div>
+<h2 id="我常用的宏包"> 我常用的宏包</h2>
+<ol>
+<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
+注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
+<li>tikz, tikz-qtree</li>
+</ol>
+]]></content>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-03-18T20:30:51.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
 </feed>

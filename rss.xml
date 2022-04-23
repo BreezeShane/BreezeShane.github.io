@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 21 Apr 2022 10:57:33 GMT</pubDate>
-    <lastBuildDate>Thu, 21 Apr 2022 10:57:33 GMT</lastBuildDate>
+    <pubDate>Sat, 23 Apr 2022 13:04:27 GMT</pubDate>
+    <lastBuildDate>Sat, 23 Apr 2022 13:04:27 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -46,18 +46,18 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>约瑟夫问题</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
-    </item>
-    <item>
       <title>括号匹配问题</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</guid>
       <source url="https://breezeshane.github.io/rss.xml">括号匹配问题</source>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>约瑟夫问题</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
     </item>
     <item>
       <title>极限反转数问题</title>
@@ -8033,7 +8033,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -8058,7 +8058,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -8073,7 +8073,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8593,7 +8593,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8616,7 +8616,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8627,7 +8627,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8647,7 +8647,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8658,7 +8658,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9637,13 +9637,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>2-3树</title>
-      <link>https://breezeshane.github.io/DataStructures/Tree/2-3Tree/</link>
-      <guid>https://breezeshane.github.io/DataStructures/Tree/2-3Tree/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">2-3树</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:27 GMT</pubDate>
-    </item>
-    <item>
       <title>B+树</title>
       <link>https://breezeshane.github.io/DataStructures/Tree/B+Tree/</link>
       <guid>https://breezeshane.github.io/DataStructures/Tree/B+Tree/</guid>
@@ -9858,13 +9851,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
 <p>数据库管理员一般是由业务水平较高、资历较深的人员担任。</p>
 </div>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>数据库安全</title>
-      <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
-      <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -10454,6 +10440,13 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>数据库安全</title>
+      <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
+      <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
+    </item>
+    <item>
       <title>数据库规范化</title>
       <link>https://breezeshane.github.io/Database/NormalForm/</link>
       <guid>https://breezeshane.github.io/Database/NormalForm/</guid>
@@ -10639,7 +10632,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -10876,33 +10869,18 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>TeXlive-LaTeX使用</title>
-      <link>https://breezeshane.github.io/LaTeX/</link>
-      <guid>https://breezeshane.github.io/LaTeX/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">TeXlive-LaTeX使用</source>
-      <pubDate>Fri, 18 Mar 2022 20:30:51 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
-<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
-<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
-<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
-<p>重启TeX Studio即可正常使用.</p>
-<div><p>宏包官网</p>
-<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
-</div>
-<h2 id="我常用的宏包"> 我常用的宏包</h2>
-<ol>
-<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
-注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
-<li>tikz, tikz-qtree</li>
-</ol>
-]]></content:encoded>
+      <title>2-3树</title>
+      <link>https://breezeshane.github.io/DataStructures/Tree/2-3Tree/</link>
+      <guid>https://breezeshane.github.io/DataStructures/Tree/2-3Tree/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">2-3树</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:27 GMT</pubDate>
     </item>
     <item>
       <title>数据库触发器</title>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
     </item>
     <item>
       <title>Arcolinux &amp; AwesomeWM</title>
@@ -12000,6 +11978,19 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
     </item>
     <item>
+      <title>Java 杂记</title>
+      <link>https://breezeshane.github.io/Java/</link>
+      <guid>https://breezeshane.github.io/Java/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
+      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
+<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
+<p>注意: 判断是否为NaN时要使用isNaN.</p>
+<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
+<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>记将旧电脑改建成服务器的过程</title>
       <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
       <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
@@ -12121,123 +12112,6 @@ rfkill: Cannot get wiphy information
 <p>可以尝试<code>reboot</code>查看效果.</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Magic SysRq 组合键功能表</title>
-      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
-      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
-      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
-      <content:encoded><![CDATA[<div><p>说明</p>
-<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
-</div>
-<table>
-<thead>
-<tr>
-<th>功能</th>
-<th style="text-align:center">按键</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
-<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
-</tr>
-<tr>
-<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
-<td style="text-align:center"><kbd>B</kbd></td>
-</tr>
-<tr>
-<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
-<td style="text-align:center"><kbd>C</kbd></td>
-</tr>
-<tr>
-<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
-<td style="text-align:center"><kbd>D</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>E</kbd></td>
-</tr>
-<tr>
-<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
-<td style="text-align:center"><kbd>F</kbd></td>
-</tr>
-<tr>
-<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
-<td style="text-align:center"><kbd>G</kbd></td>
-</tr>
-<tr>
-<td>将简洁的帮助文档打印至控制台</td>
-<td style="text-align:center"><kbd>H</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>I</kbd></td>
-</tr>
-<tr>
-<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
-<td style="text-align:center"><kbd>J</kbd></td>
-</tr>
-<tr>
-<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
-<td style="text-align:center"><kbd>K</kbd></td>
-</tr>
-<tr>
-<td>打印当前所有在线的 CPU 堆栈信息</td>
-<td style="text-align:center"><kbd>L</kbd></td>
-</tr>
-<tr>
-<td>打印当前的内存信息在控制台</td>
-<td style="text-align:center"><kbd>M</kbd></td>
-</tr>
-<tr>
-<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
-<td style="text-align:center"><kbd>N</kbd></td>
-</tr>
-<tr>
-<td>关闭系统</td>
-<td style="text-align:center"><kbd>O</kbd></td>
-</tr>
-<tr>
-<td>打印当前的寄存器信息和 flags 信息在控制台</td>
-<td style="text-align:center"><kbd>P</kbd></td>
-</tr>
-<tr>
-<td>显示所有在线的高进度定时器和时钟源信息</td>
-<td style="text-align:center"><kbd>Q</kbd></td>
-</tr>
-<tr>
-<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
-<td style="text-align:center"><kbd>R</kbd></td>
-</tr>
-<tr>
-<td>同步所有的已挂载的文件系统</td>
-<td style="text-align:center"><kbd>S</kbd></td>
-</tr>
-<tr>
-<td>打印当前的进程列表，以及他们的详细信息</td>
-<td style="text-align:center"><kbd>T</kbd></td>
-</tr>
-<tr>
-<td>重新挂载文件系统至只读模式</td>
-<td style="text-align:center"><kbd>U</kbd></td>
-</tr>
-<tr>
-<td>强制还原帧缓冲控制台</td>
-<td style="text-align:center"><kbd>V</kbd></td>
-</tr>
-<tr>
-<td>打印所有 D 状态（阻塞）的进程信息</td>
-<td style="text-align:center"><kbd>W</kbd></td>
-</tr>
-<tr>
-<td>转储 ftrace 缓冲区</td>
-<td style="text-align:center"><kbd>Z</kbd></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
     </item>
     <item>
       <title>Manjaro Linux</title>
@@ -13505,6 +13379,165 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
+      <title>Magic SysRq 组合键功能表</title>
+      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
+      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
+      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>说明</p>
+<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th style="text-align:center">按键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
+<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
+</tr>
+<tr>
+<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
+<td style="text-align:center"><kbd>B</kbd></td>
+</tr>
+<tr>
+<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
+<td style="text-align:center"><kbd>C</kbd></td>
+</tr>
+<tr>
+<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
+<td style="text-align:center"><kbd>D</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>E</kbd></td>
+</tr>
+<tr>
+<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
+<td style="text-align:center"><kbd>F</kbd></td>
+</tr>
+<tr>
+<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
+<td style="text-align:center"><kbd>G</kbd></td>
+</tr>
+<tr>
+<td>将简洁的帮助文档打印至控制台</td>
+<td style="text-align:center"><kbd>H</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>I</kbd></td>
+</tr>
+<tr>
+<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
+<td style="text-align:center"><kbd>J</kbd></td>
+</tr>
+<tr>
+<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
+<td style="text-align:center"><kbd>K</kbd></td>
+</tr>
+<tr>
+<td>打印当前所有在线的 CPU 堆栈信息</td>
+<td style="text-align:center"><kbd>L</kbd></td>
+</tr>
+<tr>
+<td>打印当前的内存信息在控制台</td>
+<td style="text-align:center"><kbd>M</kbd></td>
+</tr>
+<tr>
+<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
+<td style="text-align:center"><kbd>N</kbd></td>
+</tr>
+<tr>
+<td>关闭系统</td>
+<td style="text-align:center"><kbd>O</kbd></td>
+</tr>
+<tr>
+<td>打印当前的寄存器信息和 flags 信息在控制台</td>
+<td style="text-align:center"><kbd>P</kbd></td>
+</tr>
+<tr>
+<td>显示所有在线的高进度定时器和时钟源信息</td>
+<td style="text-align:center"><kbd>Q</kbd></td>
+</tr>
+<tr>
+<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
+<td style="text-align:center"><kbd>R</kbd></td>
+</tr>
+<tr>
+<td>同步所有的已挂载的文件系统</td>
+<td style="text-align:center"><kbd>S</kbd></td>
+</tr>
+<tr>
+<td>打印当前的进程列表，以及他们的详细信息</td>
+<td style="text-align:center"><kbd>T</kbd></td>
+</tr>
+<tr>
+<td>重新挂载文件系统至只读模式</td>
+<td style="text-align:center"><kbd>U</kbd></td>
+</tr>
+<tr>
+<td>强制还原帧缓冲控制台</td>
+<td style="text-align:center"><kbd>V</kbd></td>
+</tr>
+<tr>
+<td>打印所有 D 状态（阻塞）的进程信息</td>
+<td style="text-align:center"><kbd>W</kbd></td>
+</tr>
+<tr>
+<td>转储 ftrace 缓冲区</td>
+<td style="text-align:center"><kbd>Z</kbd></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>Linux 共享 Anaconda</title>
+      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
+      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
+      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>安装Anaconda的步骤这里不做详细记述.</p>
+</blockquote>
+<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
+<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
+<div><pre><code><span>groupadd</span> anaconda
+</code></pre>
+<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
+<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
+<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
+<span>chmod</span> <span>770</span> -R /opt/anaconda/
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
+<div><pre><code><span>chmod</span> g+s /opt/anaconda
+<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
+<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
+<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>保存即可.</p>
+<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
+<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
+  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
+<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
+<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>记一次局域网搭建私人云盘的过程</title>
       <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
       <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
@@ -13619,48 +13652,6 @@ nextcloud
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Linux 共享 Anaconda</title>
-      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
-      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
-      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>安装Anaconda的步骤这里不做详细记述.</p>
-</blockquote>
-<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
-<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
-<div><pre><code><span>groupadd</span> anaconda
-</code></pre>
-<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
-<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
-<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
-<span>chmod</span> <span>770</span> -R /opt/anaconda/
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
-<div><pre><code><span>chmod</span> g+s /opt/anaconda
-<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
-<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
-<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>保存即可.</p>
-<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
-<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
-  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
-<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
-<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
-]]></content:encoded>
     </item>
     <item>
       <title>Linux Shell 编程学习与实战</title>
@@ -14831,14 +14822,30 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <li><a href="https://www.modb.pro/db/116651" target="_blank" rel="noopener noreferrer">Linux系统安全隐患及加强安全管理的方法</a></li>
 <li><a href="https://cloud.tencent.com/developer/article/1670754" target="_blank" rel="noopener noreferrer">14个Linux系统安全小妙招，总有一招用的上</a></li>
 <li><a href="https://www.linuxquestions.org/questions/linux-newbie-8/what-is-the-systemd-equivalent-of-chkconfig-list-4175547184/" target="_blank" rel="noopener noreferrer">[SOLVED] What is the systemd equivalent of chkconfig --list?</a></li>
-<li></li>
+<li><a href="https://www.jianshu.com/p/a4defcfe17f9" target="_blank" rel="noopener noreferrer">禁止Linux用户远程登录</a></li>
+<li><a href="https://www.jianshu.com/p/0731a082f054" target="_blank" rel="noopener noreferrer">Linux系统安全设置整理</a></li>
+<li><a href="https://www.361way.com/linux-permit-su/5745.html" target="_blank" rel="noopener noreferrer">Linux允许部分用户su</a></li>
+<li><a href="https://access.redhat.com/solutions/64860" target="_blank" rel="noopener noreferrer">Permitting or Restricting a User's su Access to Privileged Accounts</a></li>
+<li><a href="https://computingforgeeks.com/restrict-su-access-to-privileged-accounts-linux/" target="_blank" rel="noopener noreferrer">Restrict su access to Privileged Accounts in Linux</a></li>
+<li><a href="https://blog.51cto.com/jasonyong/164005" target="_blank" rel="noopener noreferrer">pam_succeed_if的使用（四）</a></li>
+<li><a href="https://linux.die.net/man/8/pam_succeed_if" target="_blank" rel="noopener noreferrer">pam_succeed_if(8) - Linux man page</a></li>
+<li><a href="https://www.docs4dev.com/docs/zh/linux-pam/1.1.2/reference/sag-pam_succeed_if.html" target="_blank" rel="noopener noreferrer">6.31. pam_succeed_if-测试帐户 Feature</a></li>
+<li><a href="https://man7.org/linux/man-pages/man8/pam_succeed_if.8.html" target="_blank" rel="noopener noreferrer">pam_succeed_if(8) — Linux manual page</a></li>
+<li><a href="https://blog.csdn.net/qq_29277155/article/details/84943631" target="_blank" rel="noopener noreferrer">linux杀毒软件 - CSDN</a></li>
+<li><a href="https://blog.csdn.net/xianjie0318/article/details/107315413" target="_blank" rel="noopener noreferrer">应急响应--linux病毒查杀工具ClamAV</a></li>
+<li><a href="https://www.ultimate-communications.com/zh/system_69433" target="_blank" rel="noopener noreferrer">linux病毒查杀</a></li>
+<li><a href="https://blog.51cto.com/moerjinrong/2340089" target="_blank" rel="noopener noreferrer">Linux 病毒检测</a></li>
+<li><a href="https://segmentfault.com/a/1190000019292140" target="_blank" rel="noopener noreferrer">深入浅出TCP中的SYN-Cookies</a></li>
+<li><a href="https://segmentfault.com/a/1190000019252960" target="_blank" rel="noopener noreferrer">backlog参数对TCP连接建立的影响</a></li>
+<li><a href="https://blog.csdn.net/jacolin/article/details/47134895" target="_blank" rel="noopener noreferrer">archlinux开机自启动优化</a></li>
+<li><a href="http://i.lckiss.com/?p=1623" target="_blank" rel="noopener noreferrer">Arch linux Systemd自启动脚本的使用</a></li>
 </ol>
 </details>
 <h2 id="有防必先攻-有攻才有防"> 有防必先攻，有攻才有防</h2>
 <p>黑客通常会以下列的方式入侵系统：</p>
 <details><summary>入侵方法</summary>
 <ol>
-<li>直接窃听取得root密码,或者取得某位特殊User的密码，而该位User可能为root，再获取任意一位User的密码，因为取得一般用户密码通常很容易。</li>
+<li>直接窃听取得root密码，或者取得某位特殊User的密码，而该位User可能为root，再获取任意一位User的密码，因为取得一般用户密码通常很容易。</li>
 <li>黑客们经常用一些常用字来破解密码。曾经有一位美国黑客表示，只要用“password”这个字，就可以打开全美多数的计算机。其它常用的单词还有：account、ald、alpha、beta、computer、dead、demo、dollar、games、bod、hello、help、intro、kill、love、no、ok、okay、please、sex、secret、superuser、system、test、work、yes等。</li>
 <li>使用命令：finger@some.cracked.host，就可以知道该台计算机上面的用户名称。然后找这些用户下手，并通过这些容易入侵的用户取得系统的密码文件/etc/passwd，再用密码字典文件搭配密码猜测工具猜出root的密码。</li>
 <li>利用一般用户在/tmp目录放置着的SetUID的文件或者执行着SetUID程序，让root去执行，以产生安全漏洞。</li>
@@ -14894,11 +14901,46 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <li>用<code>find / -ctime -2 -ctime +1 -ls</code>命令来查看不到两天以内修改的一些文件。</li>
 <li>用<code>ls -lac</code>命令去查看文件真正的修改时间。</li>
 <li>用<code>cmp file1 file2</code>命令来比较文件大小的变化。</li>
+<li>用<code>ps -ef</code>查看进程，需要注意UID为0的进程。</li>
+<li>用<code>lsof -p [pid]</code>来查看<code>[pid]</code>进程所打开的端口和文件。</li>
+<li>通过比较差异<code>ps -ef | awk '{print $2}'| sort -n | uniq &gt;1;ls /proc |sort -n|uniq &gt;2;diff 1 2</code>来检查隐藏进程。</li>
+<li>用<code>ifconfig</code>查看往外发包量。</li>
+<li>使用<code>nethogs</code>来检测系统进程占用带宽情况，也可用<code>nethogs &lt;网卡设备&gt;</code>来指定网卡设备。</li>
+<li>用<code>ss -anp |grep &quot;:80&quot;</code>来查找访问外网80端口的进程。</li>
 </ul>
 <div><p>注意</p>
 <p>为了保证系统的绝对安全，除了做好预防和进行安全检查工作外，还要养成一个保证系统、网络安全的好习惯：定期定时做好完整的数据备份。有了完整的数据备份，在遭到攻击或系统出现故障时也能迅速恢复系统。</p>
 </div>
-<h2 id="安全防线加强巩固"> 安全防线加强巩固</h2>
+<h3 id="检查网络"> 检查网络</h3>
+<div><pre><code><span>ip</span> <span>link</span> <span>|</span> <span>grep</span> PROMISC <span># 正常网卡不该在promisc混杂模式，可能存在sniffer</span>
+<span>lsof</span> –i <span># 查看所有使用开放端口的进程</span>
+<span>lsof</span> –i :80 <span># 查看所有使用开放端口80的进程</span>
+
+<span>### 两者都是查看非正常打开的TCP/UDP端口</span>
+<span>netstat</span> -anp
+ss -anp
+<span>###</span>
+
+arp -a <span># 显示本机的arp(地址解析协议)缓冲区内容</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br></div></div><h3 id="检查系统计划任务、系统服务及开机启动项"> 检查系统计划任务、系统服务及开机启动项</h3>
+<p>有些病毒也可能会通过系统计划任务来静默隐藏运行：</p>
+<div><pre><code><span>crontab</span> -u root -l
+<span>cat</span> /etc/crontab 
+<span>ls</span> -al /etc/cron.*
+<span>ls</span> -al /var/spool/cron/ 
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>一些病毒也会自己创建相应的服务、开机启动项来添加，因此要查看开机自启动的服务：</p>
+<div><pre><code>systemd-analyze blame <span># 查看开机启动项和启动时间</span>
+systemctl --all <span>|</span> <span>grep</span> not-found <span># 查看出错启动项</span>
+<span>ls</span> -l /etc/systemd/system <span># 检查该目录下的service文件</span>
+systemctl status <span># 检查系统内正在运行的服务</span>
+<span># 如果确认出错启动项无异常并且想解决掉出错启动项的话，可以执行这个：</span>
+systemctl mask plymouth-start.service
+<span># 查看开机启动时间可以用这个</span>
+systemd-analyze
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div><h2 id="安全防线加强巩固"> 安全防线加强巩固</h2>
 <h3 id="物理层面的安全问题"> 物理层面的安全问题</h3>
 <p>硬件服务器，首先得专业人的来做专业的维护。其次就是关闭从CD/DVD等这些方面的软启动方式。同时也可以设置BIOS密码，并且要有限制访问的策略与各类流程管控。</p>
 <p>还可以禁用USB设备来达到安全的目的，方法如下：</p>
@@ -14920,21 +14962,130 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
 <div><pre><code>systemctl -a <span># 用于查看当前所有的服务进程</span>
 systemctl stop <span>&lt;</span>ServerName<span>></span> <span># 用于终止服务进程运行</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><h3 id="远程连接相关的安全问题"> 远程连接相关的安全问题</h3>
-<p>非必要情况下不能允许使用root用户远程登录，root具有系统的最高权限，如果允许的话就会存在将最高权限暴露给他人的风险。因此我们需要修改SSH的配置文件<code>/etc/ssh/sshd_config</code>，将其中的<code>PermitRootLogin</code>字段修改为<code>no</code>，如果有需要，可以根据实际情况修改<code>Port</code>属性（表示端口号）、<code>PermitEmptyPasswords</code>属性（表示是否允许密码为空）、<code>AllowUsers</code>属性（表示允许使用SSH协议进行远程连接的用户）等。</p>
+<div><span>1</span><br><span>2</span><br></div></div><p>另外还要检查命令是否被篡改：</p>
+<div><pre><code><span>ls</span> -l  /usr/bin/which
+<span>ls</span> -l <span><span>$(</span><span>which</span> <span>find</span><span>)</span></span>
+<span>find</span> /usr/ -mtime -20 -ls
+<span>find</span> /bin/ /sbin/ /usr/bin/ /usr/sbin/ /usr/local/bin/ /usr/local/sbin/ -mtime -20 -ls
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><h3 id="ssh远程连接相关的安全问题"> SSH远程连接相关的安全问题</h3>
+<p>非必要情况下不能允许使用root用户远程登录，root具有系统的最高权限，如果允许的话就会存在将最高权限暴露给他人的风险。因此我们需要修改SSH的配置文件<code>/etc/ssh/sshd_config</code>，将其中的<code>PermitRootLogin</code>字段修改为<code>no</code>，如果有需要，可以根据实际情况修改<code>Port</code>属性（表示端口号）、<code>PermitEmptyPasswords</code>属性（表示是否允许密码为空）、<code>AllowUsers</code>属性（表示允许使用SSH协议进行远程连接的用户）、<code>DenyUsers</code>属性（表示拒绝后面所有用户的SSH连接）等。</p>
+<div><p>注意</p>
+<p>重启<code>sshd</code>服务后修改的所有属性才能生效。
+执行：</p>
+<div><pre><code><span>sudo</span> systemctl restart sshd
+</code></pre>
+<div><span>1</span><br></div></div></div>
 <h3 id="用户管理相关的安全问题"> 用户管理相关的安全问题</h3>
 <ol>
-<li>使用<code>passwd</code>命令来管理用户的密码</li>
-<li>使用<code>userdel</code>命令删除不需要的用户</li>
+<li>使用<code>passwd</code>命令来管理用户的密码。</li>
+<li>使用<code>userdel</code>命令删除不需要的用户。</li>
 <li>使用<code>usermod -L</code>命令来锁定用户的属性，如需要解锁的话使用<code>usermod -U</code>命令即可。</li>
+<li><code>cat /etc/passwd</code>可以用来查看是否有异常的系统用户。</li>
+<li><code>awk -F&quot;:&quot; '{if($3 == 0){print $1}}' /etc/passwd</code>可以用来查看所有的特权用户，特别关注一下是否产生了新用户。</li>
 </ol>
-<p><strong>设置只允许该组账号使用</strong><code>su</code><strong>命令切换至root用户</strong>：</p>
+<h4 id="设置只允许该组账号使用su命令切换至root用户"> 设置只允许该组账号使用<code>su</code>命令切换至root用户：</h4>
+<p>我们要实现这个功能的话需要修改<code>/etc/pam.d/su</code>文件来做配置。</p>
+<p>这里特别介绍一下该文件中这三项的理解：</p>
+<div><pre><code>auth        [success=2 default=ignore] pam_succeed_if.so use_uid user notingroup &lt;group_name&gt;
+auth        required pam_wheel.so use_uid group=&lt;group_name&gt;
+auth        required pam_listfile.so item=user sense=allow onerr=fail file=/etc/security/&lt;file_with_allowed_target_UIDs&gt;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><p>透析详解</p>
+<div><pre><code>auth        required pam_wheel.so use_uid group=&lt;group_name&gt;
+auth        required pam_listfile.so item=user sense=allow onerr=fail file=/etc/security/&lt;file_with_allowed_target_UIDs&gt;
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这里要配置的属性应该是两个都要一起配置。</p>
+<p>配置信息描述的操作是：验证用户是否在<code>&lt;group_name&gt;</code>中，并且是否也在文件<code>/etc/security/&lt;file_with_allowed_target_UIDs&gt;</code>中列出，只有都满足的情况下，该用户才能使用<code>su</code>命令来登录root用户。</p>
+<p><strong>注意</strong>：文件<code>/etc/security/&lt;file_with_allowed_target_UIDs&gt;</code>不应该是全局可写，推荐配置成只有root可读可写，其他人只有可读权限，文件所有者和所在组都改为<code>root</code>。该文件下记录的是一些用户的UID，每行对应一个用户UID。</p>
+<p>如果发现所属或权限不满足要求，执行以下命令修改权限即可：</p>
+<div><pre><code><span>sudo</span> <span>chown</span> root:root /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+<span>sudo</span> <span>chmod</span> 0644 /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>执行之后可以使用<code>ls -lh</code>来检查权限信息：</p>
+<div><pre><code>❯ <span>ls</span> -lh /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+-rw-r--r--. <span>1</span> root root <span>5</span> Apr <span>22</span> <span>10</span>:19 /etc/security/<span>&lt;</span>file_with_allowed_target_UIDs<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><hr>
+<p>如果在实际中发现以上配置方式还是无法满足一些要求的话，还有以下的信息配置进行更多的细粒化验证：</p>
+<div><pre><code>auth        [success=2 default=ignore] pam_succeed_if.so use_uid ......
+</code></pre>
+<div><span>1</span><br></div></div><p><strong>有关功能、作用和文件的描述如下</strong>：</p>
+<p><code>pam_succeed_if.so</code>设计为根据要验证的用户所属帐户的Feature或其他PAM项的值来成功或失败进行身份验证，另外有一种用途是根据此测试选择是否加载其他模块。</p>
+<blockquote>
+<p><strong>注意</strong>：应该给模块一个或多个条件作为模块参数，并且只有满足所有条件，身份验证才会成功，这时用户才能正常登录。</p>
+</blockquote>
+<p><code>pam_succeed_if.so</code>后续的内容被这样定义：</p>
+<div><pre><code>pam_succeed_if.so [flag...] [condition...]
+</code></pre>
+<div><span>1</span><br></div></div><details>
+<summary>flag参数的可选项</summary>
+<p><strong>debug</strong>：Turns on debugging messages sent to syslog.</p>
+<p><strong>use_uid</strong>：Evaluate conditions using the account of the user whose UID the application is running under instead of the user being authenticated.</p>
+<p><strong>quiet</strong>：Don't log failure or success to the system log.</p>
+<p><strong>quiet_fail</strong>：Don't log failure to the system log.</p>
+<p><strong>quiet_success</strong>：Don't log success to the system log.
+</details></p>
+<details>
+<summary>Condition参数的详情</summary>
+<p>Conditions are three words: a field，a test，and a value to test for. Available fields are user，uid，gid，shell，home and service:</p>
+<p><strong>field &lt; number</strong>: Field has a value numerically less than number.</p>
+<p><strong>field &lt;= number</strong>: Field has a value numerically less than or equal to number.</p>
+<p><strong>field eq number</strong>: Field has a value numerically equal to number.</p>
+<p><strong>field &gt;= number</strong>: Field has a value numerically greater than or equal to number.</p>
+<p><strong>field &gt; number</strong>: Field has a value numerically greater than number.</p>
+<p><strong>field ne number</strong>: Field has a value numerically different from number.</p>
+<p><strong>field = string</strong>: Field exactly matches the given string.</p>
+<p><strong>field != string</strong>: Field does not match the given string.</p>
+<p><strong>field =~ glob</strong>: Field matches the given glob.
+<strong>field !~ glob</strong>: Field does not match the give
+n glob.</p>
+<p><strong>field in item:item:... </strong>: Field is contained in the list of items separated by colons.</p>
+<p><strong>field notin item:item:... </strong>: Field is not contained in the list of items separated
+by colons.
+<strong>user ingroup group</strong>: User is in given group.
+<strong>user notingroup group</strong>: User is not in given
+group.</p>
+<p><strong>user innetgr netgroup</strong>: (user，host) is in given netgroup.</p>
+<p><strong>user notinnetgr group</strong>: (user，host) is not in given netgroup.</p>
+</details>
+</div>
+<h4 id="修改用户的密码策略"> 修改用户的密码策略</h4>
+<p>对于一个庞大的组织来说，多人共用服务器必然存在安全隐患，我们可以通过设置用户的密码策略来提高系统安全性，降低风险。我们通过修改文件<code>/etc/login.defs</code>来配置密码策略。</p>
+<p>文件里也写了它的功能与规范要求：</p>
+<blockquote>
+<p>/etc/login.defs - Configuration control definitions for the login package.</p>
+<p>Three items must be defined:  MAIL_DIR，ENV_SUPATH，and ENV_PATH.
+If unspecified，some arbitrary (and possibly incorrect) value will
+be assumed.  All other items are optional - if not specified then
+the described action or option will be inhibited.</p>
+<p>Comment lines (lines beginning with &quot;#&quot;) and blank lines are ignored.</p>
+<p>Modified for Linux.  --marekm</p>
+</blockquote>
+<p>文件里写的内容相当全面详细，各参数的作用都已在上放写好，因此需要修改的时候看注释就好，这里只放出来一个例子：</p>
+<div><pre><code><span>#</span>
+<span># Delay in seconds before being allowed another attempt after a login failure</span>
+<span>#</span>
+FAIL_DELAY		<span>3</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>这里在说<code>FAIL_DELAY</code>变量决定了在用户登录失败的时候需要等待<code>FAIL_DELAY</code>时间长度后才能进行下一次登录请求。</p>
+<div><p>通过该文件设置su权限</p>
+<div><pre><code><span>echo</span> <span>"SU_WHEEL_ONLY yes"</span> <span>>></span> /etc/login.defs
+</code></pre>
+<div><span>1</span><br></div></div><p>通过这个命令来设置参数<code>SU_WHEEL_ONLY</code>，表示只有wheel用户组才能使用<code>su</code>命令切换至root。</p>
+</div>
 <h3 id="文件管理相关的安全问题"> 文件管理相关的安全问题</h3>
 <p>建议<code>/etc/passwd</code>和<code>/etc/shadow</code>两个文件都要限定锁死，只限root管理员能查看。并且平日注意防止该类文件外泄。</p>
-<div><p>更多</p>
-<p>关于用户管理和文件管理相关的更多详细知识，可以点击<a href="./UUA.html">这里</a>跳转来查看详情。</p>
-</div>
-<h3 id="禁用快捷键重启的安全问题"> 禁用快捷键重启的安全问题</h3>
+<p>联系之前我写的<a href="./UUA.html">笔记</a>，就可以知道还能另外设置特殊权限，执行以下指令来保证文件不可更改：</p>
+<div><pre><code>chattr +i /etc/passwd
+chattr +i /etc/shadow
+chattr +i /etc/group
+chattr +i /etc/gshadow
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br></div></div><p>时常关注文件修改时间也是必要的操作，查看修改时间可以使用<code>ls -l</code>命令，如：</p>
+<div><pre><code><span>ls</span> -l /etc/passwd
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="禁用快捷键重启的安全问题"> 禁用快捷键重启的安全问题</h3>
 <p>在使用Linux系统中，按下<kbd>Ctrl</kbd>+<kbd>Alt</kbd>+<kbd>Del</kbd>会触发重启事件，在一些情况下可能会产生不良影响甚至会带来不小的损失，因此需要考虑禁用这一组危险的快捷键。</p>
 <p>但应该注意到，这个快捷键其实是让systemd来按照<code>ctrl-alt-del.target</code>的文件配置进行活动的，而该文件的性质其实是一个软链接：</p>
 <div><pre><code>❯ ll /usr/lib/systemd/system/ctrl-alt-del.target
@@ -14978,9 +15129,14 @@ last -a <span>#将IP显示在最后一列</span>
 last -d <span>#对IP进行域名解析</span>
 last -R <span>#不显示IP列</span>
 last -n <span>3</span> <span>#显示最近3条</span>
+last <span>|</span> <span>awk</span> <span>'{print $3}'</span><span>|</span><span>sort</span> <span>|</span><span>uniq</span> -c<span>|</span><span>sort</span> -grk <span>1</span> <span>#最近登陆成功次数最多的IP</span>
 lastb <span>#查看最近用户登录失败的列表</span>
+lastb root <span>|</span> <span>awk</span> <span>'{print $3}'</span> <span>|</span> <span>sort</span> <span>|</span> <span>uniq</span> -c <span>|</span> <span>sort</span> -nr<span>|</span> <span>more</span> <span>#检查系统错误登陆日志，统计IP重试次数</span>
+lastlog <span>#查看每个用户最后一次登陆的时间</span>
+<span>grep</span> -i Accepted /var/log/secure <span>#查找远程登录成功的IP</span>
+<span>grep</span> -i Accepted /var/log/secure <span>|</span> <span>awk</span> <span>'{print $9,$11}'</span><span>|</span><span>sort</span> <span>|</span><span>uniq</span> -c <span>|</span><span>sort</span> -grk <span>1</span> <span>#查找远程登录成功的IP</span>
 </code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><h3 id="日志相关的安全问题"> 日志相关的安全问题</h3>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><h3 id="日志相关的安全问题"> 日志相关的安全问题</h3>
 <p>定期检查日志文件是一件必要的事，这样也方便你第一时间掌握一些情况，在CentOS Linux中以下常用的日志文件的功能如表所示：</p>
 <table>
 <thead>
@@ -15034,9 +15190,199 @@ lastb <span>#查看最近用户登录失败的列表</span>
 </table>
 <h3 id="安全工具相关的安全问题"> 安全工具相关的安全问题</h3>
 <p>对于系统来说，常用的安全扫描工具是必备的，比如：扫描开放端口nmap。对于系统中的WEB应用等来说，可以使用一些开源的工具：IBM AppScan、SQL Map等。</p>
+<p>Linux平台上还有杀毒软件ClamAV、rkhunter，方便病毒查杀。</p>
+<p>此外CentOS还有<code>McAfee</code>、<code>sophos</code>等杀毒软件可以安装使用，这里就不详细记述了（主要是因为我使用Arco Linux）。</p>
 <h3 id="管理方法相关的安全问题"> 管理方法相关的安全问题</h3>
 <p>对于安全管理来说，好的流程与管理制度同样也是必须的，否则，谈上述各方面的作用基本为0，有方法，没有制度去让方法落地执行。</p>
 <p>由于我没有在公司内待过，所以这一点也写不了什么。</p>
+<h2 id="防火墙"> 防火墙</h2>
+<p>如果是在服务器上设置的话，需要先做好如下的准备工作：</p>
+<div><pre><code><span>crontab</span> -e
+*/10 * * * * root /etc/init.d/iptables stop
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这里表示每十分钟就停止一次防火墙，这样就会避免因为误操作而将自己拒之门外的悲痛情况。</p>
+<p>一般我们只需要采取以下策略来设置防火墙即可：</p>
+<ol>
+<li>仅开放HTTP(80)、HTTPS(443)、SSH(自动捕获)端口，其他端口全部关闭，可以根据需要另外开放其它端口如FTP(21)端口、smtp(25)端口等，在下面的脚本中可以修改dport参数后面的端口列。</li>
+<li>写如下脚本来单向禁止ping设置，这样外部IP就无法ping通你的服务器。<div><pre><code> <span>#!/bin/bash</span>
+ <span>ssh_port</span><span>=</span><span><span>`</span><span>netstat</span> -nutlp <span>|</span> <span>grep</span> sshd <span>|</span> <span>grep</span> <span>0.0</span>.0.0 <span>|</span> <span>awk</span> <span>'{print $4}'</span> <span>|</span> <span>cut</span> -d <span>":"</span> -f2<span>`</span></span>
+ iptables -F
+ iptables -F -t nat
+ iptables -X
+ iptables -P INPUT DROP
+ iptables -P OUTPUT ACCEPT
+ iptables -P FORWARD DROP
+ iptables -A INPUT -i lo -j ACCEPT
+ iptables -A INPUT -m state --state ESTABLISHED，RELATED -j ACCEPT
+ iptables -A INPUT -p tcp -m multiport --dport <span>80</span>，443，<span>$ssh_port</span> -j ACCEPT
+ iptables -A INPUT -p icmp --icmp-type <span>0</span> -j ACCEPT
+ /etc/init.d/iptables save
+ <span>exit</span> <span>0</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div></li>
+</ol>
+<p>最后记得取消掉任务计划服务<code>crontab</code>。</p>
+<h2 id="检查异常系统文件"> 检查异常系统文件</h2>
+<p><strong>注意SUID文件，可疑大于10M和空格文件</strong>：</p>
+<div><pre><code><span>ls</span> -artl /tmp/
+<span>find</span> / -uid <span>0</span> -perm <span>4000</span> -print
+<span>find</span> / -size +10000k -print
+<span>find</span> / -name <span>"..."</span>  -print
+<span>find</span> / -name <span>".."</span>  -print
+<span>find</span> / -name <span>"."</span>  -print
+<span>find</span> / -name <span>" "</span>  -print
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p><strong>检查系统中的core文件</strong>：</p>
+<div><pre><code><span>find</span> / -name core -exec <span>ls</span> -l <span>{</span><span>}</span> <span>\</span><span>;</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="其他安全设置"> 其他安全设置</h2>
+<p><strong>开启</strong><code>TCP SYN Cookie</code><strong>保护</strong>：</p>
+<p>执行<code>echo 1 &gt; /proc/sys/net/ipv4/tcp_syncookies</code>即可开启。</p>
+<details><summary>TCP SYN Cookie的背景和Syn Flood攻击原理</summary>
+<p>正如有防必先有攻，我们需要先知道一种典型的DDos攻击：Syn Flood攻击。</p>
+<p>Syn Flood攻击是基于TCP建立连接原理而进行的。TCP连接建立时，客户端通过发送SYN报文发起向处于监听状态的服务器发起连接，服务器为该连接分配一定的资源，并发送SYN和ACK报文。对服务器来说，此时该连接的状态称为半连接(Half-Open)，且仅当收到客户端回复的ACK报文后，连接才算建立完成。在这个过程中，如果服务器一直没有收到ACK报文(比如在链路中丢失了)，服务器会在超时后重传SYN和ACK。如果经过多次超时重传后，都没有收到，那么服务器会回收资源并关闭半连接。</p>
+<p>在Unix/Linux系统中，监听是通过<code>listen</code>函数来完成的：</p>
+<div><pre><code><span>int</span> <span>listen</span><span>(</span><span>int</span> sockfd，<span>int</span> backlog<span>)</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>第一个参数是设置的套接字，而第二个参数，《Unix网络编程》给出的描述是<strong>已完成的连接队列</strong>(ESTABLISHED)与<strong>未完成连接队列</strong>(SYN_RCVD)之和的上限。</p>
+<blockquote>
+<p>一般我们将ESTABLISHED状态的连接称为全连接，而将SYN_RCVD状态的连接称为半连接</p>
+</blockquote>
+<p>虽然《Unix网络编程》这样给出描述，但实际上Linux内核中只有已完成连接队列实际存在，而未完成连接队列只有长度的记录。</p>
+<p>每一个LISTEN状态的套接字都有一个<code>inet_connection_sock</code>结构，其中的<code>accept_queue</code>从名字上也可以看出就是已完成三次握手的子连接队列，另外这个结构里还记录了半连接请求的长度。以下是<code>inet_connection_sock</code>结构的定义：</p>
+<div><pre><code><span>struct</span> <span>inet_connection_sock</span> <span>{</span>    
+    <span>.</span> <span>.</span> <span>.</span>
+    <span>struct</span> <span>request_sock_queue</span> icsk_accept_queue<span>;</span>
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span>
+
+<span>struct</span> <span>request_sock_queue</span> <span>{</span>
+    <span>.</span> <span>.</span> <span>.</span>
+    <span>atomic_t</span> qlen<span>;</span> <span>// 半连接的长度</span>
+    <span>atomic_t</span> young<span>;</span> <span>// 一般情况，这个值 = qlen</span>
+
+    <span>struct</span> <span>request_sock</span> <span>*</span>rskq_accept_head<span>;</span> <span>// 已完成连接的队列头</span>
+    <span>struct</span> <span>request_sock</span> <span>*</span>rskq_accept_tail<span>;</span> <span>// 已完成连接的队列尾</span>
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br></div></div><p>其中变量<code>young</code>比较关键，代码注释是这样解释的：</p>
+<blockquote>
+<p>Normally all the openreqs are young and become mature(i.e. converted to established socket) for first timeout. If synack was not acknowledged for 1 second，it means one of the following things: synack was lost，ack was lost，rtt is high or nobody planned to ack (i.e. synflood).</p>
+</blockquote>
+<p>可以看得出来，当第一次出现<code>synack</code>或<code>ack</code>超时的时候，或者是<code>rtt</code>过高的时候，亦或者是根本没有人打算发送<code>ack</code>的时候（注意这里也指出了攻击类型Syn Flood），这些开放的请求就会被转换成全连接，这就是mature的含义。</p>
+<p>而内核在关闭<code>syncookie</code>的情况下会这样处理SYN握手报文：</p>
+<div><pre><code>
+<span>int</span> <span>tcp_conn_request</span><span>(</span><span>struct</span> <span>request_sock_ops</span> <span>*</span>rsk_ops，
+             <span>const</span> <span>struct</span> <span>tcp_request_sock_ops</span> <span>*</span>af_ops，
+             <span>struct</span> <span>sock</span> <span>*</span>sk，<span>struct</span> <span>sk_buff</span> <span>*</span>skb<span>)</span> <span>{</span>
+
+    <span>// 条件1: 半连接>=backlog</span>
+    <span>if</span> <span>(</span><span>(</span>net<span>-></span>ipv4<span>.</span>sysctl_tcp_syncookies <span>==</span> <span>2</span> <span>||</span>
+        <span>inet_csk_reqsk_queue_is_full</span><span>(</span>sk<span>)</span><span>)</span> <span>&amp;&amp;</span> <span>!</span>isn<span>)</span> <span>{</span>   
+        want_cookie <span>=</span> <span>tcp_syn_flood_action</span><span>(</span>sk，skb，rsk_ops<span>-></span>slab_name<span>)</span><span>;</span>
+        <span>if</span> <span>(</span><span>!</span>want_cookie<span>)</span>
+            <span>goto</span> drop<span>;</span>
+    <span>}</span> 
+
+    <span>// 条件2: 全连接sock>backlog并且半连接队列的young字段>1</span>
+    <span>if</span> <span>(</span><span>sk_acceptq_is_full</span><span>(</span>sk<span>)</span> <span>&amp;&amp;</span>
+        <span>inet_csk_reqsk_queue_young</span><span>(</span>sk<span>)</span> <span>></span> <span>1</span><span>)</span> <span>{</span> 
+        <span>NET_INC_STATS</span><span>(</span><span>sock_net</span><span>(</span>sk<span>)</span>，LINUX_MIB_LISTENOVERFLOWS<span>)</span><span>;</span>
+        <span>goto</span> drop<span>;</span>
+    <span>}</span> 
+
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br></div></div><p>注意到<code>inet_csk_reqsk_queue_young(sk) &gt; 1</code>这里表示网络繁忙导致<code>SYN ACK</code>丢失，但通常这个条件不会满足，一般client总会及时处理ACK的。因此如果发生丢弃SYN报文的话，只能是<code>(net-&gt;ipv4.sysctl_tcp_syncookies == 2 || inet_csk_reqsk_queue_is_full(sk)) &amp;&amp; !isn</code>这里的条件为真，一般情况下<code>inet_csk_reqsk_queue_is_full(sk)</code>比较容易满足条件。</p>
+<p>我们再看收到ACK报文时的处理：</p>
+<div><pre><code><span>struct</span> <span>sock</span> <span>*</span><span>tcp_v4_syn_recv_sock</span><span>(</span><span>const</span> <span>struct</span> <span>sock</span> <span>*</span>sk，
+                                <span>struct</span> <span>sk_buff</span> <span>*</span>skb，
+                                <span>struct</span> <span>request_sock</span> <span>*</span>req，
+                                <span>struct</span> <span>dst_entry</span> <span>*</span>dst，
+                                <span>struct</span> <span>request_sock</span> <span>*</span>req_unhash，
+                                bool <span>*</span>own_req<span>)</span> <span>{</span>
+    <span>.</span> <span>.</span> <span>.</span>
+
+    <span>// 全连接>backlog，就丢弃</span>
+    <span>if</span> <span>(</span><span>sk_acceptq_is_full</span><span>(</span>sk<span>)</span><span>)</span>           
+        <span>goto</span> exit_overflow<span>;</span>
+
+    <span>// 创建子套接字了</span>
+    newsk <span>=</span> <span>tcp_create_openreq_child</span><span>(</span>sk，req，skb<span>)</span><span>;</span>
+
+    <span>.</span> <span>.</span> <span>.</span>
+<span>}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br></div></div><p>前面一些连接请求都可以顺利创建子连接，设此时全连接队列长度=backlog=<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>，半连接数目=0；</p>
+<p>处理第<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>x</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1</span></span></span></span>个连接请求时，由于sk_acceptq_is_full的判断条件是<code>&gt;</code>而不是<code>&gt;=</code>，所以依然可以建立全连接。</p>
+<p>而当第<span class='katex-error' title='ParseError: KaTeX parse error: Undefined control sequence: \， at position 2: k\̲，̲(k&gt;x+1)'>k\，(k&gt;x+1)</span>个连接请求到来时，由于半连接的数目还没有超过backlog，所以还是可以继续回复<code>SYNACK</code>，但收到ACK后已经不能再创建子套接字了，所以TCP状态依然为<code>SYN_RECV</code>.同时半连接的数目也会增加到backlog。</p>
+<p>而对于客户端，它既然能收到SYNACK握手报文，那么就可以将TCP状态变为ESTABLISHED，当某一次再有握手请求到来时，由于半连接的数目已经达到backlog，因此，这个SYN报文会被丢弃。</p>
+<p>这一切都说明了，服务器能保存的半连接的数量是有限的，因此当服务器遭遇大量攻击报文的时候，服务器将不再能够接受正常连接了，也就是服务不可用。</p>
+<p>综上所述，我们已经深入理解了Syn Flood攻击了，自然也就明白应该如何防守——开启<code>TCP SYN Cookie</code>功能即可。</p>
+</details>
+<details><summary>TCP SYN Cookies原理</summary>
+<blockquote>
+<p>Syn Flood攻击成立的关键在于服务器资源是有限的，而服务器收到请求会分配资源。通常来说，服务器用这些资源保存此次请求的关键信息，包括请求的来源和目(五元组)，以及TCP选项，如最大报文段长度MSS、时间戳timestamp、选择应答使能Sack、窗口缩放因子Wscale等等。当后续的ACK报文到达，三次握手完成，新的连接创建，这些信息可以会被复制到连接结构中，用来指导后续的报文收发。</p>
+</blockquote>
+<p>Syn Cookies算法可以让服务器在不分配资源的情况下做到：</p>
+<ol>
+<li>验证之后可能到达的ACK的有效性，保证这是一次完整的握手；</li>
+<li>获得SYN报文中携带的TCP选项信息</li>
+</ol>
+<p>因为TCP连接建立时，双方的起始报文序号是可以任意的。而Syn Cookies利用这一点，按照如下规则构造初始序列号：</p>
+<ul>
+<li>设t为一个缓慢增长的时间戳(典型实现是每64s递增一次)</li>
+<li>设m为客户端发送的SYN报文中的MSS选项值</li>
+<li>设s是连接的元组信息(源IP,目的IP,源端口，目的端口)和t经过密码学运算后的Hash值，即s=hash(sip,dip,sport,dport,t)，s的结果取低24位。</li>
+</ul>
+<p>那么初始序列号n的结构如下：</p>
+<ul>
+<li>高5位为t mod 32</li>
+<li>接下来3位为m的编码值</li>
+<li>低24位为s</li>
+</ul>
+<p>当客户端收到此SYN和ACK报文后，根据TCP标准，它会回复ACK报文，且报文中ack = n + 1，那么在服务器收到它时，将ack - 1就可以拿回当初发送的SYN+ACK报文中的序号了！服务器巧妙地通过这种方式间接保存了一部分SYN报文的信息。</p>
+<p>接下来，服务器需要对ack - 1这个序号进行检查：</p>
+<ul>
+<li>将高5位表示的t与当前之间比较，看其到达地时间是否能接受。</li>
+<li>根据t和连接元组重新计算s，看是否和低24位一致，若不一致，说明这个报文是被伪造的。</li>
+<li>解码序号中隐藏的mss信息</li>
+</ul>
+<p>到此，连接就可以顺利建立了。</p>
+<p>Linux的实现与上述有些区别：</p>
+<div><pre><code>seq <span>=</span> <span>hash</span><span>(</span>saddr<span>,</span> daddr<span>,</span> sport<span>,</span> dport<span>,</span> <span>0</span><span>,</span> <span>0</span><span>)</span> <span>+</span> req<span>.</span>th<span>.</span>seq <span>+</span> t <span>&lt;&lt;</span> <span>24</span> <span>+</span> <span>(</span><span>hash</span><span>(</span>saddr<span>,</span> daddr<span>,</span> sport<span>,</span> dport<span>,</span> t<span>,</span> <span>1</span><span>)</span> <span>+</span> mss_ind<span>)</span> <span>&amp;</span> <span>0x00FFFFFF</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中，<code>req.th.seq</code>表示客户端的SYN报文中的序号，<code>mss_ind</code>是客户端通告的MSS值得编码，它的取值在比较新的内核中有4种(老的内核有8种), 分别对应以下4种值：</p>
+<div><pre><code><span>static</span> __u16 <span>const</span> msstab<span>[</span><span>]</span> <span>=</span> <span>{</span>
+    <span>536</span><span>,</span>
+    <span>1300</span><span>,</span>
+    <span>1440</span><span>,</span> <span>//1440, 1452: PPPoE</span>
+    <span>1460</span><span>,</span>
+<span>}</span><span>;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div></details>
+<details><summary>Syn Cookies缺点与缺陷</summary>
+<p>其实使用Syn Cookies是有代价的：</p>
+<ol>
+<li>MSS的编码只有3位，因此最多只能使用8种MSS值</li>
+<li>服务器必须拒绝客户端SYN报文中的其他只在SYN和SYN+ACK中协商的选项，原因是服务器没有地方可以保存这些选项，比如Wscale和SACK</li>
+<li>增加了密码学运算，增加了连接服务所需消耗的时间</li>
+</ol>
+</details>
+<h2 id="查杀异常进程命令"> 查杀异常进程命令</h2>
+<ul>
+<li><code>ps</code>、<code>top</code>、<code>htop</code>：查看运行的进程和进程系统资源占用情况，查找异常进程。</li>
+<li><code>pstree</code>：以树状图的形式显示进程间的关系。</li>
+<li><code>lsof</code>：可以查看进程打开的文件、文件或目录被哪个进程占用、打开某个端口的进程、系统所有打开的端口等等。</li>
+<li><code>netstat</code>：可以查看系统监听的所有端口、网络连接情况、查找连接数过多的IP地址等。</li>
+<li><code>ss</code>：与<code>lsof</code>、<code>netstat</code>等价。</li>
+<li><code>iftop</code>：监控TCP连接实时网络流量，可分别分析出入流量并进行排序，查找出流量异常的IP地址。（需要手动安装）</li>
+<li><code>nethogs</code>：监控每个进程使用的网络流量，并从高到低排序，方便查找出流量异常的进程。（需要手动安装）</li>
+<li><code>strace</code>：追踪一个进程所执行的系统调用。如已知PID可使用<code>strace -p &lt;PID&gt;</code>。</li>
+<li><code>strings</code>：输出文件中可打印的字符串。</li>
+</ul>
 ]]></content:encoded>
     </item>
     <item>
@@ -17144,7 +17490,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17178,7 +17524,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17188,7 +17534,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17213,7 +17559,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[<div id="Main" style="display: flex;justify-content: space-between;flex-wrap: wrap;">
 <div id="1" style="width:128px;height:256px;">
 <a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
@@ -17251,15 +17597,6 @@ patch_request_class<span>(</span>app<span>)</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>Blog Home</title>
-      <link>https://breezeshane.github.io/</link>
-      <guid>https://breezeshane.github.io/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
-      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
-]]></content:encoded>
-    </item>
-    <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
       <link>https://breezeshane.github.io/qap/</link>
       <guid>https://breezeshane.github.io/qap/</guid>
@@ -17290,27 +17627,23 @@ background-size: cover;
 ]]></content:encoded>
     </item>
     <item>
+      <title>Blog Home</title>
+      <link>https://breezeshane.github.io/</link>
+      <guid>https://breezeshane.github.io/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
+      <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Slide page</title>
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Thu, 21 Apr 2022 10:56:28 GMT</pubDate>
+      <pubDate>Sat, 23 Apr 2022 13:03:25 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>Java 杂记</title>
-      <link>https://breezeshane.github.io/Java/</link>
-      <guid>https://breezeshane.github.io/Java/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Java 杂记</source>
-      <pubDate>Tue, 08 Mar 2022 19:31:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
-<p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
-<p>注意: 判断是否为NaN时要使用isNaN.</p>
-<h2 id="java-double-类型-格式化转换为字符串"> Java double 类型 格式化转换为字符串</h2>
-<p>使用<code>String.format(&quot;&lt;Format Map&gt;&quot;, &lt;Variable&gt;)</code>方法来实现即可.</p>
-]]></content:encoded>
     </item>
     <item>
       <title>Git Commands</title>
@@ -17455,6 +17788,28 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>这样你就可以发现，切换版本成功了。👍</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/git.png" type="image/png"/>
+    </item>
+    <item>
+      <title>TeXlive-LaTeX使用</title>
+      <link>https://breezeshane.github.io/LaTeX/</link>
+      <guid>https://breezeshane.github.io/LaTeX/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">TeXlive-LaTeX使用</source>
+      <pubDate>Fri, 18 Mar 2022 20:30:51 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
+<p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
+<p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
+<p>通过终端执行<code>sudo texhash</code>(一定要加管理员权限,因为该目录下权限归属于Root用户).</p>
+<p>重启TeX Studio即可正常使用.</p>
+<div><p>宏包官网</p>
+<p><a href="https://ctan.org/" target="_blank" rel="noopener noreferrer">CTAN</a></p>
+</div>
+<h2 id="我常用的宏包"> 我常用的宏包</h2>
+<ol>
+<li>algorithm, algorithmicx, algpseudocode, amsmath, amssymb
+注: 伪代码的相关宏包我是通过终端执行<code>sudo pacman -S texlive-science</code>解决的.</li>
+<li>tikz, tikz-qtree</li>
+</ol>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
