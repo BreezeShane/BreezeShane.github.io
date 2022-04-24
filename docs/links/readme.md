@@ -4,6 +4,7 @@ blog: false
 title: 友情链接
 article: false
 comment: false
+sidebar: false
 ---
 <link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
 <script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>

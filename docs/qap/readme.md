@@ -1,7 +1,7 @@
 ---
 title: 𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓
 date: 2021-05-06 20:47:08
-sidebar: true
+sidebar: false
 article: false
 comment: false
 ---
