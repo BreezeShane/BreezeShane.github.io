@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Sat, 23 Apr 2022 14:12:15 GMT</pubDate>
-    <lastBuildDate>Sat, 23 Apr 2022 14:12:15 GMT</lastBuildDate>
+    <pubDate>Sun, 24 Apr 2022 19:23:22 GMT</pubDate>
+    <lastBuildDate>Sun, 24 Apr 2022 19:23:22 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -46,18 +46,18 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>约瑟夫问题</title>
-      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
-      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
-      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
-    </item>
-    <item>
       <title>括号匹配问题</title>
       <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</link>
       <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/BracketMatching/</guid>
       <source url="https://breezeshane.github.io/rss.xml">括号匹配问题</source>
       <pubDate>Sun, 23 Jan 2022 01:27:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>约瑟夫问题</title>
+      <link>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</link>
+      <guid>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Problems/JosephusProblem/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">约瑟夫问题</source>
+      <pubDate>Sun, 23 Jan 2022 01:28:04 GMT</pubDate>
     </item>
     <item>
       <title>极限反转数问题</title>
@@ -2219,18 +2219,18 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <enclosure url="https://breezeshane.github.io/images/Lipschitz_continuity_2.png" type="image/png"/>
     </item>
     <item>
-      <title>常见函数及其性质</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">常见函数及其性质</source>
-      <pubDate>Sun, 23 Jan 2022 01:14:10 GMT</pubDate>
-    </item>
-    <item>
       <title>信息论</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</guid>
       <source url="https://breezeshane.github.io/rss.xml">信息论</source>
       <pubDate>Sun, 23 Jan 2022 01:13:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>常见函数及其性质</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">常见函数及其性质</source>
+      <pubDate>Sun, 23 Jan 2022 01:14:10 GMT</pubDate>
     </item>
     <item>
       <title>常见概率分布</title>
@@ -2268,18 +2268,18 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:15:09 GMT</pubDate>
     </item>
     <item>
-      <title>结构化概率模型</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
-      <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
-    </item>
-    <item>
       <title>贝叶斯规则</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</guid>
       <source url="https://breezeshane.github.io/rss.xml">贝叶斯规则</source>
       <pubDate>Sun, 23 Jan 2022 01:15:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>结构化概率模型</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">结构化概率模型</source>
+      <pubDate>Sun, 23 Jan 2022 01:15:13 GMT</pubDate>
     </item>
     <item>
       <title>边缘概率</title>
@@ -2488,38 +2488,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 ]]></content:encoded>
     </item>
     <item>
-      <title>f-GAN</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">f-GAN</source>
-      <pubDate>Mon, 21 Feb 2022 23:21:12 GMT</pubDate>
-      <content:encoded><![CDATA[<details><summary>参考来源</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/54909858" target="_blank" rel="noopener noreferrer">fGAN : 一种通用的GAN框架 - 知乎专栏</a></li>
-<li><a href="https://alberthg.github.io/2018/05/13/wgan/" target="_blank" rel="noopener noreferrer">生成对抗网络——FGAN和WGAN</a>\</li>
-<li><a href="https://baike.baidu.com/item/%E5%85%B1%E8%BD%AD%E5%87%BD%E6%95%B0/12576746" target="_blank" rel="noopener noreferrer">共轭函数 - 百度百科</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/131601201" target="_blank" rel="noopener noreferrer">凸优化笔记6：共轭函数 - 知乎专栏</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/265522736" target="_blank" rel="noopener noreferrer">凸优化理论：共轭函数 - 知乎专栏</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/35654834" target="_blank" rel="noopener noreferrer">凸优化－凸集和凸函数 | CMU经典课程 | 附课件 |机器学习基础 - 知乎专栏</a></li>
-<li><a href="https://www.zhihu.com/question/22799760" target="_blank" rel="noopener noreferrer">凸集(convex set)和仿射集(affine set)，谁是谁的子集？ - 知乎</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/158043191" target="_blank" rel="noopener noreferrer">凸包问题——概述 - 知乎专栏</a></li>
-<li><a href="https://www.zhihu.com/question/434605916/answer/1624800523" target="_blank" rel="noopener noreferrer">为什么定义凸组合和凸包的时候系数之和要为1？ - 知乎</a></li>
-<li><a href="https://baike.baidu.com/item/%E4%BB%BF%E5%B0%84%E9%9B%86/18999655" target="_blank" rel="noopener noreferrer">仿射集 - 百度百科</a></li>
-<li><a href="https://blog.csdn.net/xierhacker/article/details/61415747" target="_blank" rel="noopener noreferrer">凸优化笔记（一）：仿射集，凸集与锥 - CSDN</a></li>
-<li><a href="https://blog.csdn.net/rtygbwwwerr/article/details/78891506" target="_blank" rel="noopener noreferrer">凸(Convex)函数定义 - CSDN</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E9%9B%86" target="_blank" rel="noopener noreferrer">水平集 - 维基</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5#%E9%9B%85%E5%8F%AF%E6%AF%94%E8%A1%8C%E5%88%97%E5%BC%8F" target="_blank" rel="noopener noreferrer">雅可比矩阵 - 维基</a></li>
-<li><a href="http://shichaoxin.com/2021/04/11/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%AF%BE-%E5%87%B8%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6/" target="_blank" rel="noopener noreferrer">【数学基础】第十九课：凸优化进阶</a></li>
-<li><a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明 - CSDN</a></li>
-<li><a href="https://louisyzk.github.io/notes/2019/11/25/CVP02-Convex-Function" target="_blank" rel="noopener noreferrer">[cvp02] Convex Function</a></li>
-<li><a href="https://msgsxj.cn/2018/02/23/%E5%87%B8%E4%BC%98%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener noreferrer">凸优化学习笔记</a></li>
-<li><a href="https://www.jianshu.com/p/0dcf58715b2b" target="_blank" rel="noopener noreferrer">凸函数 - 简书</a></li>
-</ul>
-</details>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Enlighten GAN</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/EnlightenGAN/</guid>
@@ -2570,6 +2538,38 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 <p>我当然很想研究，但奈何知识太过匮乏，如今还落入了瓶颈期，不知该怎么办了。</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/2021-09-17_14-55.png" type="image/png"/>
+    </item>
+    <item>
+      <title>f-GAN</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/UnsupervisedLearning/FGAN/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">f-GAN</source>
+      <pubDate>Mon, 21 Feb 2022 23:21:12 GMT</pubDate>
+      <content:encoded><![CDATA[<details><summary>参考来源</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/54909858" target="_blank" rel="noopener noreferrer">fGAN : 一种通用的GAN框架 - 知乎专栏</a></li>
+<li><a href="https://alberthg.github.io/2018/05/13/wgan/" target="_blank" rel="noopener noreferrer">生成对抗网络——FGAN和WGAN</a>\</li>
+<li><a href="https://baike.baidu.com/item/%E5%85%B1%E8%BD%AD%E5%87%BD%E6%95%B0/12576746" target="_blank" rel="noopener noreferrer">共轭函数 - 百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/131601201" target="_blank" rel="noopener noreferrer">凸优化笔记6：共轭函数 - 知乎专栏</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/265522736" target="_blank" rel="noopener noreferrer">凸优化理论：共轭函数 - 知乎专栏</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/35654834" target="_blank" rel="noopener noreferrer">凸优化－凸集和凸函数 | CMU经典课程 | 附课件 |机器学习基础 - 知乎专栏</a></li>
+<li><a href="https://www.zhihu.com/question/22799760" target="_blank" rel="noopener noreferrer">凸集(convex set)和仿射集(affine set)，谁是谁的子集？ - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/158043191" target="_blank" rel="noopener noreferrer">凸包问题——概述 - 知乎专栏</a></li>
+<li><a href="https://www.zhihu.com/question/434605916/answer/1624800523" target="_blank" rel="noopener noreferrer">为什么定义凸组合和凸包的时候系数之和要为1？ - 知乎</a></li>
+<li><a href="https://baike.baidu.com/item/%E4%BB%BF%E5%B0%84%E9%9B%86/18999655" target="_blank" rel="noopener noreferrer">仿射集 - 百度百科</a></li>
+<li><a href="https://blog.csdn.net/xierhacker/article/details/61415747" target="_blank" rel="noopener noreferrer">凸优化笔记（一）：仿射集，凸集与锥 - CSDN</a></li>
+<li><a href="https://blog.csdn.net/rtygbwwwerr/article/details/78891506" target="_blank" rel="noopener noreferrer">凸(Convex)函数定义 - CSDN</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E9%9B%86" target="_blank" rel="noopener noreferrer">水平集 - 维基</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5#%E9%9B%85%E5%8F%AF%E6%AF%94%E8%A1%8C%E5%88%97%E5%BC%8F" target="_blank" rel="noopener noreferrer">雅可比矩阵 - 维基</a></li>
+<li><a href="http://shichaoxin.com/2021/04/11/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%AF%BE-%E5%87%B8%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6/" target="_blank" rel="noopener noreferrer">【数学基础】第十九课：凸优化进阶</a></li>
+<li><a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明 - CSDN</a></li>
+<li><a href="https://louisyzk.github.io/notes/2019/11/25/CVP02-Convex-Function" target="_blank" rel="noopener noreferrer">[cvp02] Convex Function</a></li>
+<li><a href="https://msgsxj.cn/2018/02/23/%E5%87%B8%E4%BC%98%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener noreferrer">凸优化学习笔记</a></li>
+<li><a href="https://www.jianshu.com/p/0dcf58715b2b" target="_blank" rel="noopener noreferrer">凸函数 - 简书</a></li>
+</ul>
+</details>
+]]></content:encoded>
     </item>
     <item>
       <title>Low Light Metrics</title>
@@ -8033,7 +8033,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -8058,7 +8058,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -8073,7 +8073,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -8593,7 +8593,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -8616,7 +8616,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -8627,7 +8627,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -8647,7 +8647,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -8658,7 +8658,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -9658,6 +9658,13 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <pubDate>Sun, 23 Jan 2022 01:27:16 GMT</pubDate>
     </item>
     <item>
+      <title>红黑树</title>
+      <link>https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/</link>
+      <guid>https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">红黑树</source>
+      <pubDate>Sun, 23 Jan 2022 01:27:23 GMT</pubDate>
+    </item>
+    <item>
       <title>二叉树</title>
       <link>https://breezeshane.github.io/DataStructures/Tree/BinaryTree/</link>
       <guid>https://breezeshane.github.io/DataStructures/Tree/BinaryTree/</guid>
@@ -9666,13 +9673,6 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <content:encoded><![CDATA[<h2 id="定义"> 定义</h2>
 <p>二叉树是一颗有序树，它由</p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>红黑树</title>
-      <link>https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/</link>
-      <guid>https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">红黑树</source>
-      <pubDate>Sun, 23 Jan 2022 01:27:23 GMT</pubDate>
     </item>
     <item>
       <title>数据库泛谈</title>
@@ -9864,7 +9864,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -10639,7 +10639,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -10876,13 +10876,6 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 ]]></content:encoded>
     </item>
     <item>
-      <title>数据库触发器</title>
-      <link>https://breezeshane.github.io/Database/Trigger/</link>
-      <guid>https://breezeshane.github.io/Database/Trigger/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
-    </item>
-    <item>
       <title>TeXlive-LaTeX使用</title>
       <link>https://breezeshane.github.io/LaTeX/</link>
       <guid>https://breezeshane.github.io/LaTeX/</guid>
@@ -10903,6 +10896,13 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <li>tikz, tikz-qtree</li>
 </ol>
 ]]></content:encoded>
+    </item>
+    <item>
+      <title>数据库触发器</title>
+      <link>https://breezeshane.github.io/Database/Trigger/</link>
+      <guid>https://breezeshane.github.io/Database/Trigger/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
     </item>
     <item>
       <title>Arcolinux &amp; AwesomeWM</title>
@@ -12000,6 +12000,123 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
     </item>
     <item>
+      <title>Magic SysRq 组合键功能表</title>
+      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
+      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
+      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
+      <content:encoded><![CDATA[<div><p>说明</p>
+<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
+</div>
+<table>
+<thead>
+<tr>
+<th>功能</th>
+<th style="text-align:center">按键</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
+<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
+</tr>
+<tr>
+<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
+<td style="text-align:center"><kbd>B</kbd></td>
+</tr>
+<tr>
+<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
+<td style="text-align:center"><kbd>C</kbd></td>
+</tr>
+<tr>
+<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
+<td style="text-align:center"><kbd>D</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>E</kbd></td>
+</tr>
+<tr>
+<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
+<td style="text-align:center"><kbd>F</kbd></td>
+</tr>
+<tr>
+<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
+<td style="text-align:center"><kbd>G</kbd></td>
+</tr>
+<tr>
+<td>将简洁的帮助文档打印至控制台</td>
+<td style="text-align:center"><kbd>H</kbd></td>
+</tr>
+<tr>
+<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
+<td style="text-align:center"><kbd>I</kbd></td>
+</tr>
+<tr>
+<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
+<td style="text-align:center"><kbd>J</kbd></td>
+</tr>
+<tr>
+<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
+<td style="text-align:center"><kbd>K</kbd></td>
+</tr>
+<tr>
+<td>打印当前所有在线的 CPU 堆栈信息</td>
+<td style="text-align:center"><kbd>L</kbd></td>
+</tr>
+<tr>
+<td>打印当前的内存信息在控制台</td>
+<td style="text-align:center"><kbd>M</kbd></td>
+</tr>
+<tr>
+<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
+<td style="text-align:center"><kbd>N</kbd></td>
+</tr>
+<tr>
+<td>关闭系统</td>
+<td style="text-align:center"><kbd>O</kbd></td>
+</tr>
+<tr>
+<td>打印当前的寄存器信息和 flags 信息在控制台</td>
+<td style="text-align:center"><kbd>P</kbd></td>
+</tr>
+<tr>
+<td>显示所有在线的高进度定时器和时钟源信息</td>
+<td style="text-align:center"><kbd>Q</kbd></td>
+</tr>
+<tr>
+<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
+<td style="text-align:center"><kbd>R</kbd></td>
+</tr>
+<tr>
+<td>同步所有的已挂载的文件系统</td>
+<td style="text-align:center"><kbd>S</kbd></td>
+</tr>
+<tr>
+<td>打印当前的进程列表，以及他们的详细信息</td>
+<td style="text-align:center"><kbd>T</kbd></td>
+</tr>
+<tr>
+<td>重新挂载文件系统至只读模式</td>
+<td style="text-align:center"><kbd>U</kbd></td>
+</tr>
+<tr>
+<td>强制还原帧缓冲控制台</td>
+<td style="text-align:center"><kbd>V</kbd></td>
+</tr>
+<tr>
+<td>打印所有 D 状态（阻塞）的进程信息</td>
+<td style="text-align:center"><kbd>W</kbd></td>
+</tr>
+<tr>
+<td>转储 ftrace 缓冲区</td>
+<td style="text-align:center"><kbd>Z</kbd></td>
+</tr>
+</tbody>
+</table>
+]]></content:encoded>
+    </item>
+    <item>
       <title>记将旧电脑改建成服务器的过程</title>
       <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
       <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
@@ -12121,123 +12238,6 @@ rfkill: Cannot get wiphy information
 <p>可以尝试<code>reboot</code>查看效果.</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/BuildingServer/2022-01-06_14-59.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Magic SysRq 组合键功能表</title>
-      <link>https://breezeshane.github.io/Linux/MagicSysRq/</link>
-      <guid>https://breezeshane.github.io/Linux/MagicSysRq/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Magic SysRq 组合键功能表</source>
-      <pubDate>Fri, 21 Jan 2022 16:33:41 GMT</pubDate>
-      <content:encoded><![CDATA[<div><p>说明</p>
-<p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
-</div>
-<table>
-<thead>
-<tr>
-<th>功能</th>
-<th style="text-align:center">按键</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td>设置控制台日志等级，这个可以控制内核信息打印的等级</td>
-<td style="text-align:center"><kbd>0</kbd>~<kbd>9</kbd></td>
-</tr>
-<tr>
-<td>立即重启系统，不同步文件系统或者卸载文件系统</td>
-<td style="text-align:center"><kbd>B</kbd></td>
-</tr>
-<tr>
-<td>发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件</td>
-<td style="text-align:center"><kbd>C</kbd></td>
-</tr>
-<tr>
-<td>打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启</td>
-<td style="text-align:center"><kbd>D</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>E</kbd></td>
-</tr>
-<tr>
-<td>调用 oom_kill，选择一个最符合 oom 的进程杀死</td>
-<td style="text-align:center"><kbd>F</kbd></td>
-</tr>
-<tr>
-<td>当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger</td>
-<td style="text-align:center"><kbd>G</kbd></td>
-</tr>
-<tr>
-<td>将简洁的帮助文档打印至控制台</td>
-<td style="text-align:center"><kbd>H</kbd></td>
-</tr>
-<tr>
-<td>发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程）</td>
-<td style="text-align:center"><kbd>I</kbd></td>
-</tr>
-<tr>
-<td>强制解冻由 FIFREEZE ioctl 冻结的文件系统</td>
-<td style="text-align:center"><kbd>J</kbd></td>
-</tr>
-<tr>
-<td>杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的</td>
-<td style="text-align:center"><kbd>K</kbd></td>
-</tr>
-<tr>
-<td>打印当前所有在线的 CPU 堆栈信息</td>
-<td style="text-align:center"><kbd>L</kbd></td>
-</tr>
-<tr>
-<td>打印当前的内存信息在控制台</td>
-<td style="text-align:center"><kbd>M</kbd></td>
-</tr>
-<tr>
-<td>重置所有的实时进程或者高优先级进程的 nice 值</td>
-<td style="text-align:center"><kbd>N</kbd></td>
-</tr>
-<tr>
-<td>关闭系统</td>
-<td style="text-align:center"><kbd>O</kbd></td>
-</tr>
-<tr>
-<td>打印当前的寄存器信息和 flags 信息在控制台</td>
-<td style="text-align:center"><kbd>P</kbd></td>
-</tr>
-<tr>
-<td>显示所有在线的高进度定时器和时钟源信息</td>
-<td style="text-align:center"><kbd>Q</kbd></td>
-</tr>
-<tr>
-<td>键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用</td>
-<td style="text-align:center"><kbd>R</kbd></td>
-</tr>
-<tr>
-<td>同步所有的已挂载的文件系统</td>
-<td style="text-align:center"><kbd>S</kbd></td>
-</tr>
-<tr>
-<td>打印当前的进程列表，以及他们的详细信息</td>
-<td style="text-align:center"><kbd>T</kbd></td>
-</tr>
-<tr>
-<td>重新挂载文件系统至只读模式</td>
-<td style="text-align:center"><kbd>U</kbd></td>
-</tr>
-<tr>
-<td>强制还原帧缓冲控制台</td>
-<td style="text-align:center"><kbd>V</kbd></td>
-</tr>
-<tr>
-<td>打印所有 D 状态（阻塞）的进程信息</td>
-<td style="text-align:center"><kbd>W</kbd></td>
-</tr>
-<tr>
-<td>转储 ftrace 缓冲区</td>
-<td style="text-align:center"><kbd>Z</kbd></td>
-</tr>
-</tbody>
-</table>
-]]></content:encoded>
     </item>
     <item>
       <title>Manjaro Linux</title>
@@ -14825,7 +14825,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -17506,7 +17506,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17540,7 +17540,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17550,7 +17550,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17575,42 +17575,197 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友情链接</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
-      <content:encoded><![CDATA[<div id="Main">
-<div id="1">
-<a href="https://blog.keter.top"><img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog" width="128px" height="128px"></img></a>
-<p><center><font color="red">专业人士，来自专业团队！</font></center></p>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
+      <content:encoded><![CDATA[<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<style>
+    .Avatar {
+       height: 256px;
+       width: 256px;
+       border: 2px;
+       border-style: solid;
+       border-color: grey;
+    }
+    .carousel-control {
+        width: 3.7%;
+    }
+    .Comment {
+        font-size: 12px;
+    }
+    #myCarousel {
+        height: 256px;
+        width: 100%;
+    }
+    .img-circle {
+        border-radius: 50%;
+        height: 64px;
+        width: 64px;
+    }
+</style>
+<div>
+    <a href=""><img src="/images/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
+    <a href=""><img src="/images/54879512.png" data-target="#myCarousel" data-slide-to="1"></img></a>
+    <a href=""><img src="/images/coronaPolvo.jpg" data-target="#myCarousel" data-slide-to="2"></img></a>
+    <a href=""><img src="/images/zerorains.png" data-target="#myCarousel" data-slide-to="3"></img></a>
+    <a href=""><img src="/images/asthestarsfall.jpg" data-target="#myCarousel" data-slide-to="4"></img></a>
+    <a href=""><img src="/images/Fly_Pluche.jpg" data-target="#myCarousel" data-slide-to="5"></img></a>
+    <a href=""><img src="/images/Softrabbit.jpg" data-target="#myCarousel" data-slide-to="6"></img></a>
+    <a href=""><img src="/images/cwt.jpg" data-target="#myCarousel" data-slide-to="7"></img></a>
 </div>
-<div id="2">
-<a href="https://blog.zerorains.top"><img src="/images/zerorains.png" alt="ZeroRains Blog" width="128px" height="128px"></img></a>
-<p><center><font color="orange">在远方守护我们的一方霸主佬！</font></center></p>
-</div>
-<div id="3">
-<a href="https://focus.akasaki.space/"><img src="/images/akasaki.png" alt="Akasaki Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#c93756">日渐消瘦仍！修！仙！的向熊猫进化的工具箱大佬</font></center></p>
-</div>
-<div id="4">
-<a href="https://memo.pommespeter.space"><img src="/images/54879512.png" alt="PommesPeter Blog" width="128px" height="128px"></img></a>
-<p><center><font color="blue">举世闻名的蟹佬板为你解决一切！</font></center></p>
-</div>
-<div id="5">
-<a href="https://asthestarsfalll.icu"><img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog" width="128px" height="128px"></img></a>
-<p><center><font color="indigo">砸人很疼！的流星雨大佬</font></center></p>
-</div>
-<div id="6">
-<a href="https://fly-pluche.github.io"><img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog" width="128px" height="128px"></img></a>
-<p><center><font color="violet">大佬菜想找菜狗！</font></center></p>
-</div>
-<div id="7">
-<a href="https://www.cnblogs.com/whitebunny/"><img src="/images/Softrabbit.jpg" alt="柔小兔 Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#ff7500">白胖雪兔在摇晃着小小的尾巴~</font></center></p>
-</div>
-<div id="8">
-<a href="https://blog.csdn.net/qq_51415601"><img src="/images/cwt.jpg" alt="野er Blog" width="128px" height="128px"></img></a>
-<p><center><font color="#395260">野哥野人野性足! </font></center></p>
-</div>
-</div>
-]]></content:encoded>
+<div id="myCarousel">
+	
+	<!-- <ol>
+		<li data-target="#myCarousel" data-slide-to="0"></li>
+		<li data-target="#myCarousel" data-slide-to="1"></li>
+		<li data-target="#myCarousel" data-slide-to="2"></li>
+		<li data-target="#myCarousel" data-slide-to="3"></li>
+		<li data-target="#myCarousel" data-slide-to="4"></li>
+		<li data-target="#myCarousel" data-slide-to="5"></li>
+		<li data-target="#myCarousel" data-slide-to="6"></li>
+		<li data-target="#myCarousel" data-slide-to="7"></li>
+	</ol>    -->
+    
+	<div>
+        <div alt="First slide">
+            <a href="https://focus.akasaki.space/">
+                <img src="/images/akasaki.png" alt="Akasaki Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    Miya Akasaki
+                </h3>
+                <p>
+                    Rubbish CVer | Poor LaTex speaker | Half stack developer | 键圈躺尸砖家
+                </p>
+                <p>
+                    Comment: 我的大学学长(同时也确实是同学)，曾担任我社2019级技术副主席，而我是他的接班人，此外他还是科协F4成员之一。他是个非常厉害的大佬，看的东西做的东西都很硬核(各种意义上的)，而且拿奖拿到手软，学院里的老师都很器重他。迄今为止我知道他精通Java、C/C++、React等语言，会并发与异步等高级编程技术，并且懂一些底层的原理，我所学到的底层原理大多都是从他这里来的。他从安卓开发到游戏开发再到机器学习都有所涉猎，而且都有很高水平，现在他在学大前端(React)和深度学习。不只是技术上，他在生活上也很有自己的一套，是一位出色的艺术家。顺便提一下，他的交际圈也很广(超出我理解范围的那种广)。非常感谢他教会我很多东西，不嫌弃我还愿意带我玩。
+                </p>
+            </div>
+        </div>
+        <div alt="Second slide">
+            <a href="https://memo.pommespeter.space">
+                <img src="/images/54879512.png" alt="PommesPeter Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    Pommes Peter
+                </h3>
+                <p>
+                    Hey Guys! Welcome to my repositories.Hope you guys enjoy it. Blessed with good gredients.
+                </p>
+                <p>
+                    Comment: 我的大学学长，曾担任我社2019级软件部副部长，科协F4成员之一。他的研究领域是基于深度学习的低照度增强。在他有女朋友之前，他是我交流得最多的学长。在软工学习中我遇到的各种困难凡是实在解决不了的都找他，他总是可以很出色地完成，另外，他有个称号叫“软工之爹”。他是我专业学习和方向学习的启蒙导师，就是他启发了我去做各学科各知识点的组装与联系。他还教过我操作系统、异步与并发等很多实用的知识，他甚至可以做到深入浅出让我理解重难点。因为他的口头禅是“啊这”，所以我总是戏称他“谢啊这”。没有他的帮助，也就没有今天的我，感谢他带我玩带我飞，让我体会到了世界的精彩。
+                </p>
+            </div>
+        </div>
+        <div alt="Third slide">
+            <a href="https://blog.keter.top">
+                <img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    And Sonder
+                </h3>
+                <p>
+                    life is but a span, I use python
+                </p>
+                <p>
+                    Comment: 我的大学学长，曾担任我社2019级软件部部长，是科协F4成员之一。他专注于研究机器学习的对抗攻击，科研能力特别强，而且技术水平也非常高，大大小小的比赛打了个遍，都拿奖拿到手软，甚至到了人在家中坐，奖从天上来的地步。他是我在机器学习方向上的带路人，每当我陷入迷茫困苦的时候他会点拨我，能给我一个比较好的答案。我和他都是机器学习方向上的领域开拓者，不过他有成果了，我还没有。他是个很阔气的大老板，从我入社到现在已经请过我好几杯奶茶了，每次请奶茶的时候还和我聊未来规划，聊人生，在他有女朋友之前我们还经常这样。在社内我们常称他为卢院士。很感谢他非常看重我，认可我，还经常鼓励我。
+                </p>
+            </div>
+        </div>
+        <div id="2" alt="Fourth slide">
+            <a href="https://blog.zerorains.top">
+                <img src="/images/zerorains.png" alt="ZeroRains Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    Zero Rains
+                </h3>
+                <p>
+                    I want to be strong. But it seems so hard.
+                </p>
+                <p>
+                    Comment: 我的大学学长，曾担任我社2019级机器学习方向负责人，是科协F4成员之一。他专注于研究计算机视觉的语义分割，他虽然有点凶，但待人确实亚萨西，我有不会的都找他。他的二刺螈浓度已经是登峰造极的境界，甚至是在座各位毕生仅见的程度。
+                </p>
+            </div>
+        </div>
+        <div id="5" alt="Fifth slide">
+            <a href="https://asthestarsfalll.icu">
+                <img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    As the Stars Fall
+                </h3>
+                <p>
+                    Be vigilant to the superiority of knowledge
+                </p>
+                <p>
+                    Comment: 我的大学同学，是个很有个性的人，有时候有些孩子气。他的研究领域是深度学习的轻量化网络设计和图像分割，技术能力很强。
+                </p>
+            </div>
+        </div>
+        <div id="6" alt="Sixth slide">
+            <a href="https://fly-pluche.github.io">
+                <img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    Fly Pluche
+                </h3>
+                <p>
+                    The man is too lazy to introduce himself.
+                </p>
+                <p>
+                    Comment: 我的大学同学，现担任我社20级软件部部长。他的研究领域是机器学习的对抗攻击领域。他是一个实力很强的大佬，我比较期待他在未来某一天能带我起飞。
+                </p>
+            </div>
+        </div>
+        <div id="7" alt="Seventh slide">
+            <a href="https://www.cnblogs.com/whitebunny/">
+                <img src="/images/Softrabbit.jpg" alt="柔小兔 Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    柔小兔
+                </h3>
+                <p>
+                    Return Home海压竹枝低复举，风吹山角晦还明
+                </p>
+                <p>
+                    Comment: 我的大学同学，是隔壁学院（材料与科学学院）转来的，平时交流很少，我只知道她在做后端开发。
+                </p>
+            </div>
+        </div>
+        <div id="8" alt="Eighth slide">
+            <a href="https://blog.csdn.net/qq_51415601">
+                <img src="/images/cwt.jpg" alt="野er Blog"></img>
+            </a>
+            <div>
+                <h3>
+                    野er
+                </h3>
+                <p>
+                    心有猛虎，细嗅蔷薇
+                </p>
+                <p>
+                    Comment: 我的大学同学，同时也是我的舍友。虽然平时我不在宿舍，但我和他聊天还蛮投缘的。他有志于学习大数据技术，不过有些佛系还有点懒。
+                </p>
+            </div>
+        </div>
+    </div>
+    
+    <a href="#myCarousel" role="button" data-slide="prev">
+        <span aria-hidden="true"></span>
+        <span>Previous</span>
+    </a>
+    <a href="#myCarousel" role="button" data-slide="next">
+        <span aria-hidden="true"></span>
+        <span>Next</span>
+    </a>
+</div>]]></content:encoded>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -17647,7 +17802,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17656,7 +17811,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Sat, 23 Apr 2022 14:11:21 GMT</pubDate>
+      <pubDate>Sun, 24 Apr 2022 19:22:31 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
