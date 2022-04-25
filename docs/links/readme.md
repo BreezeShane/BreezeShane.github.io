@@ -50,7 +50,7 @@ sidebar: false
 <div id="myCarousel" class="carousel slide">
     <!-- 轮播（Carousel）项目 -->
 	<div class="carousel-inner">
-        <div class="center-block item active" alt="First slide">
+        <div class="center-block item active">
             <a class="media-left col-xs-4 col-md-4" href="https://focus.akasaki.space/">
                 <img class="Avatar" src="/images/akasaki.png" alt="Akasaki Blog"></img>
             </a>
@@ -66,7 +66,7 @@ sidebar: false
                 </p>
             </div>
         </div>
-        <div class="center-block item" alt="Second slide">
+        <div class="center-block item">
             <a class="media-left col-xs-4 col-md-4" href="https://memo.pommespeter.space">
                 <img class="Avatar" src="/images/54879512.png" alt="PommesPeter Blog"></img>
             </a>
@@ -82,7 +82,7 @@ sidebar: false
                 </p>
             </div>
         </div>
-        <div class="center-block item" alt="Third slide">
+        <div class="center-block item">
             <a class="media-left col-xs-4 col-md-4" href="https://blog.keter.top">
                 <img class="Avatar" src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog"></img>
             </a>
@@ -98,7 +98,7 @@ sidebar: false
                 </p>
             </div>
         </div>
-        <div id="2" class="center-block item" alt="Fourth slide">
+        <div class="center-block item">
             <a class="media-left col-xs-4 col-md-4" href="https://blog.zerorains.top">
                 <img class="Avatar" src="/images/zerorains.png" alt="ZeroRains Blog"></img>
             </a>
@@ -114,7 +114,7 @@ sidebar: false
                 </p>
             </div>
         </div>
-        <div id="5" class="center-block item" alt="Fifth slide">
+        <div class="center-block item">
             <a class="media-left col-xs-4 col-md-4" href="https://asthestarsfalll.icu">
                 <img class="Avatar" src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog"></img>
             </a>
@@ -130,7 +130,7 @@ sidebar: false
                 </p>
             </div>
         </div>
-        <div id="6" class="center-block item" alt="Sixth slide">
+        <div class="center-block item">
             <a class="media-left col-xs-4 col-md-4" href="https://fly-pluche.github.io">
                 <img class="Avatar" src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog"></img>
             </a>
@@ -146,7 +146,7 @@ sidebar: false
                 </p>
             </div>
         </div>
-        <div id="7" class="center-block item" alt="Seventh slide">
+        <div class="center-block item">
             <a class="media-left col-xs-4 col-md-4" href="https://www.cnblogs.com/whitebunny/">
                 <img class="Avatar" src="/images/Softrabbit.jpg" alt="柔小兔 Blog"></img>
             </a>
@@ -162,7 +162,7 @@ sidebar: false
                 </p>
             </div>
         </div>
-        <div id="8" class="center-block item" alt="Eighth slide">
+        <div class="center-block item">
             <a class="media-left col-xs-4 col-md-4" href="https://blog.csdn.net/qq_51415601">
                 <img class="Avatar" src="/images/cwt.jpg" alt="野er Blog"></img>
             </a>
