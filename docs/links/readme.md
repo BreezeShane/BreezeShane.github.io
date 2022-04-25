@@ -24,13 +24,16 @@ sidebar: false
         font-size: 12px;
     }
     #myCarousel {
-        height: 256px;
+        height: 100%;
         width: 100%;
     }
     .img-circle {
         border-radius: 50%;
         height: 64px;
         width: 64px;
+        border: 1px;
+        border-style: solid;
+        border-color: grey;
     }
 </style>
 
@@ -45,17 +48,6 @@ sidebar: false
     <a href=""><img class="img-circle" src="/images/cwt.jpg" data-target="#myCarousel" data-slide-to="7"></img></a>
 </div>
 <div id="myCarousel" class="carousel slide">
-	<!-- 轮播（Carousel）指标 -->
-	<!-- <ol class="carousel-indicators">
-		<li data-target="#myCarousel" data-slide-to="0" class="active"></li>
-		<li data-target="#myCarousel" data-slide-to="1"></li>
-		<li data-target="#myCarousel" data-slide-to="2"></li>
-		<li data-target="#myCarousel" data-slide-to="3"></li>
-		<li data-target="#myCarousel" data-slide-to="4"></li>
-		<li data-target="#myCarousel" data-slide-to="5"></li>
-		<li data-target="#myCarousel" data-slide-to="6"></li>
-		<li data-target="#myCarousel" data-slide-to="7"></li>
-	</ol>    -->
     <!-- 轮播（Carousel）项目 -->
 	<div class="carousel-inner">
         <div class="center-block item active" alt="First slide">
@@ -86,7 +78,7 @@ sidebar: false
                     Hey Guys! Welcome to my repositories.Hope you guys enjoy it. Blessed with good gredients.
                 </p>
                 <p class="Comment">
-                    Comment: 我的大学学长，曾担任我社2019级软件部副部长，科协F4成员之一。他的研究领域是基于深度学习的低照度增强。在他有女朋友之前，他是我交流得最多的学长。在软工学习中我遇到的各种困难凡是实在解决不了的都找他，他总是可以很出色地完成，另外，他有个称号叫“软工之爹”。他是我专业学习和方向学习的启蒙导师，就是他启发了我去做各学科各知识点的组装与联系。他还教过我操作系统、异步与并发等很多实用的知识，他甚至可以做到深入浅出让我理解重难点。因为他的口头禅是“啊这”，所以我总是戏称他“谢啊这”。没有他的帮助，也就没有今天的我，感谢他带我玩带我飞，让我体会到了世界的精彩。
+                    Comment: 我的大学学长，曾担任我社2019级软件部副部长，科协F4成员之一。他的研究领域是基于深度学习的低照度增强。在他有女朋友之前，他是我交流得最多的学长。在软工学习中我遇到的各种困难凡是实在解决不了的都找他，他总是可以很出色地完成，另外，他有个称号叫“软工之爹”，是个经常翻看Linux系统内核源码的硬核男人。他是我专业学习和方向学习的启蒙导师，就是他启发了我去做各学科各知识点的组装与联系。他还教过我操作系统、异步与并发等很多实用的知识，他甚至可以做到深入浅出让我理解重难点。因为他的口头禅是“啊这”，所以我总是戏称他“谢啊这”。没有他的帮助，也就没有今天的我，感谢他带我玩带我飞，让我体会到了世界的精彩。
                 </p>
             </div>
         </div>
