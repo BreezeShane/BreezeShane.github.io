@@ -4,7 +4,6 @@ home: true
 icon: home
 title: Blog Home
 heroImage: /Breeze Shane.jpg
-heroImageStyle: Record<border-radius, 50%>
 bgImage: /images/Wallpapers/f1c4821284cdaca190622113da9a8f1e.jpg
 heroText: 𝕭𝖗𝖊𝖊𝖟𝖊 𝕾𝖍𝖆𝖓𝖊 𝕭𝖑𝖔𝖌
 tagline: You can put your slogan here
@@ -32,4 +31,12 @@ project:
 
 footer: ""
 ---
+<style>
+  .hero-logo {
+    border-radius: 50%;
+  }
+  h1,.description {
+    color: black;
+  }
+</style>
 <center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>

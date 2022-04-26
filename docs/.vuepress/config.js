@@ -114,7 +114,7 @@ module.exports = config({
             },
             {
               title: "Data Structures",
-              prefix: "DataStructuresandAlgorithms/",
+              prefix: "DataStructures/",
               children: [
                 "SequentialLinearList",
                 "SingleLinkedList",
