@@ -1,14 +1,11 @@
 ---
 home: false
 blog: false
-title: 友情链接
+title: 友人帐
 article: false
 comment: false
 sidebar: false
 ---
-<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
 <style>
     .Avatar {
        height: 256px;
@@ -18,7 +15,8 @@ sidebar: false
        border-color: grey;
     }
     .carousel-control {
-        width: 3.7%;
+        width: 3.7% !important;
+        background-image: none !important;
     }
     .Comment {
         font-size: 12px;
@@ -26,6 +24,11 @@ sidebar: false
     #myCarousel {
         height: 100%;
         width: 100%;
+        border-radius: 20px 50px;
+        box-shadow: 5px 5px 5px grey;
+        border: 1px;
+        border-style: solid;
+        border-color: grey;
     }
     .img-circle {
         border-radius: 50%;
@@ -35,8 +38,10 @@ sidebar: false
         border-style: solid;
         border-color: grey;
     }
+    .media-left {
+        margin-left: 30px;
+    }
 </style>
-
 <div class="text-center table-responsive text-nowrap">
     <a href=""><img class="img-circle" src="/images/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
     <a href=""><img class="img-circle" src="/images/54879512.png" data-target="#myCarousel" data-slide-to="1"></img></a>
@@ -46,15 +51,15 @@ sidebar: false
     <a href=""><img class="img-circle" src="/images/Fly_Pluche.jpg" data-target="#myCarousel" data-slide-to="5"></img></a>
     <a href=""><img class="img-circle" src="/images/Softrabbit.jpg" data-target="#myCarousel" data-slide-to="6"></img></a>
     <a href=""><img class="img-circle" src="/images/cwt.jpg" data-target="#myCarousel" data-slide-to="7"></img></a>
-</div>
+</div><br>
 <div id="myCarousel" class="carousel slide">
     <!-- 轮播（Carousel）项目 -->
 	<div class="carousel-inner">
         <div class="center-block item active">
-            <a class="media-left col-xs-4 col-md-4" href="https://focus.akasaki.space/">
+            <a class="media-left col-xs-3 col-md-3" href="https://focus.akasaki.space/">
                 <img class="Avatar" src="/images/akasaki.png" alt="Akasaki Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-18 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     Miya Akasaki
                 </h3>
@@ -67,10 +72,10 @@ sidebar: false
             </div>
         </div>
         <div class="center-block item">
-            <a class="media-left col-xs-4 col-md-4" href="https://memo.pommespeter.space">
+            <a class="media-left col-xs-3 col-md-3" href="https://memo.pommespeter.space">
                 <img class="Avatar" src="/images/54879512.png" alt="PommesPeter Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-12 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     Pommes Peter
                 </h3>
@@ -83,10 +88,10 @@ sidebar: false
             </div>
         </div>
         <div class="center-block item">
-            <a class="media-left col-xs-4 col-md-4" href="https://blog.keter.top">
+            <a class="media-left col-xs-3 col-md-3" href="https://blog.keter.top">
                 <img class="Avatar" src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-12 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     And Sonder
                 </h3>
@@ -99,10 +104,10 @@ sidebar: false
             </div>
         </div>
         <div class="center-block item">
-            <a class="media-left col-xs-4 col-md-4" href="https://blog.zerorains.top">
+            <a class="media-left col-xs-3 col-md-3" href="https://blog.zerorains.top">
                 <img class="Avatar" src="/images/zerorains.png" alt="ZeroRains Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-12 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     Zero Rains
                 </h3>
@@ -115,10 +120,10 @@ sidebar: false
             </div>
         </div>
         <div class="center-block item">
-            <a class="media-left col-xs-4 col-md-4" href="https://asthestarsfalll.icu">
+            <a class="media-left col-xs-3 col-md-3" href="https://asthestarsfalll.icu">
                 <img class="Avatar" src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-12 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     As the Stars Fall
                 </h3>
@@ -131,10 +136,10 @@ sidebar: false
             </div>
         </div>
         <div class="center-block item">
-            <a class="media-left col-xs-4 col-md-4" href="https://fly-pluche.github.io">
+            <a class="media-left col-xs-3 col-md-3" href="https://fly-pluche.github.io">
                 <img class="Avatar" src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-12 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     Fly Pluche
                 </h3>
@@ -147,10 +152,10 @@ sidebar: false
             </div>
         </div>
         <div class="center-block item">
-            <a class="media-left col-xs-4 col-md-4" href="https://www.cnblogs.com/whitebunny/">
+            <a class="media-left col-xs-3 col-md-3" href="https://www.cnblogs.com/whitebunny/">
                 <img class="Avatar" src="/images/Softrabbit.jpg" alt="柔小兔 Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-12 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     柔小兔
                 </h3>
@@ -163,10 +168,10 @@ sidebar: false
             </div>
         </div>
         <div class="center-block item">
-            <a class="media-left col-xs-4 col-md-4" href="https://blog.csdn.net/qq_51415601">
+            <a class="media-left col-xs-3 col-md-3" href="https://blog.csdn.net/qq_51415601">
                 <img class="Avatar" src="/images/cwt.jpg" alt="野er Blog"></img>
             </a>
-            <div class="media-right col-xs-12 col-sm-6 col-md-8">
+            <div class="media-right col-xs-12 col-sm-8 col-md-8">
                 <h3 class="media-heading">
                     野er
                 </h3>
@@ -179,13 +184,17 @@ sidebar: false
             </div>
         </div>
     </div>
-    <!-- 轮播（Carousel）导航 -->
+        <!-- 轮播（Carousel）导航 -->
     <a class="left carousel-control" href="#myCarousel" role="button" data-slide="prev">
-        <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
+        <span class="glyphicon glyphicon-chevron-left glyphicon-menu-left" aria-hidden="true"></span>
         <span class="sr-only">Previous</span>
     </a>
     <a class="right carousel-control" href="#myCarousel" role="button" data-slide="next">
-        <span class="glyphicon glyphicon-chevron-right" aria-hidden="true"></span>
+        <span class="glyphicon glyphicon-chevron-right glyphicon-menu-right" aria-hidden="true"></span>
         <span class="sr-only">Next</span>
     </a>
 </div>
+
+<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
+<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>
