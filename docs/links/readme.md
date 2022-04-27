@@ -24,11 +24,9 @@ sidebar: false
     #myCarousel {
         height: 100%;
         width: 100%;
-        border-radius: 20px 50px;
-        box-shadow: 5px 5px 5px grey;
-        border: 1px;
-        border-style: solid;
-        border-color: grey;
+        border-radius: 30px;
+        box-shadow: 2px 2px 3px grey;
+        background-color: #F6FFFF;
     }
     .img-circle {
         border-radius: 50%;
@@ -40,6 +38,9 @@ sidebar: false
     }
     .media-left {
         margin-left: 30px;
+    }
+    .item {
+        margin-top: 20px;
     }
 </style>
 <div class="text-center table-responsive text-nowrap">
