@@ -1110,3 +1110,27 @@ electron9
 
 尝试维修了两天, 终于是确定了, 问题出现在键盘上了, 现在已经邮寄回去进行返厂检修了......
 
+> **后日谈**：虽然厂家检测两回都表示没问题，而且我严重怀疑他们只在Windows/Mac系统下做测试而没有管Linux，但是还是同意给我换新了，换新后的键盘拿回来再次测试，发现还是没法正常使用，即使是蓝牙连接成功了，这个键盘仍旧无法打字，按下任何键没有任何响应。最终我只能确定，是厂家自己修改了蓝牙协议导致与现行Linux内核完全不兼容。最后咋解决呢？我已经挂二手市场上卖掉了。
+
+### 关于Linux系统下键盘的F1～F12键无法响应的问题
+
+> [参考资料](https://mikeshade.com/posts/keychron-linux-function-keys/)
+
+先说一下解决方案：
+```shell
+echo 0 | sudo tee /sys/module/hid_apple/parameters/fnmode
+```
+这个方案是临时解决方案，如果想永久生效的话，需要执行：
+```shell
+echo "options hid_apple fnmode=0" | sudo tee -a /etc/modprobe.d/hid_apple.conf
+```
+最后重启`reboot`或者执行
+```shell
+sudo update-initramfs -u # For Ubuntu
+mkinitcpio -P # For Arch Linux
+```
+这样每次重新启动计算机也能正常使用F1～F12了。
+
+现在我们再分析一下为什么这样做会有效：
+
+首先要知道Linux系统下一切皆是文件，这当然包括你的设备。而我们这个操作实际上在做的就是调整设备参数。`fnmode`文件内存放的内容是一位二进制码，`0`表示默认不按下<kbd>Fn</kbd>，而`1`自然表示默认按下<kbd>Fn</kbd>了。这样问题自然很容易复现了：我们在尝试按下<kbd>F1</kbd>～<kbd>F12</kbd>的时候，<kbd>Fn</kbd>键已经相当于是按下了，这样的话自然是直接使用其对应的多媒体功能键，那么就算我再按下<kbd>Fn</kbd>当然也无济于事了，因此这个文件我们需要置零。

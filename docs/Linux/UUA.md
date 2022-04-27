@@ -31,12 +31,12 @@ tags:
 13. [第3章 Linux上文件的权限管理](https://www.cnblogs.com/f-ck-need-u/p/7011971.html)
 14. [【Linux】聊聊Linux的文件权限管理](https://cloud.tencent.com/developer/article/1517793)
 15. [Linux用户和权限管理](https://zou8944.com/2022/01/10/Linux%E7%94%A8%E6%88%B7%E5%92%8C%E6%9D%83%E9%99%90%E7%AE%A1%E7%90%86/)
-  1. [Filesystem Hierarchy Standard](https://www.linuxbase.org/betaspecs/fhs/fhs/index.html)
-  2. [Linux文件系统中/bin、/sbin、/usr/bin、/usr/sbin、/usr/local/bin、/usr/local/sbin文件夹的区别是什么？](https://www.zhihu.com/question/21265424?sort=created)
-16. [Linux 文件权限](https://yanglei253.github.io/2021/03/17/linux/linux4-permission/)
-17. [再议Linux文件、目录的隐藏属性（lsattr、chattr）](https://blog.csdn.net/solaraceboy/article/details/78758251)
-18. [总结-Linux 文件隐藏属性](https://blog.csdn.net/u011341352/article/details/103901164)
-19. [Linux ACL 权限](https://www.cnblogs.com/sparkdev/p/5536868.html)
+16. [Filesystem Hierarchy Standard](https://www.linuxbase.org/betaspecs/fhs/fhs/index.html)
+17. [Linux文件系统中/bin、/sbin、/usr/bin、/usr/sbin、/usr/local/bin、/usr/local/sbin文件夹的区别是什么？](https://www.zhihu.com/question/21265424?sort=created)
+18. [Linux 文件权限](https://yanglei253.github.io/2021/03/17/linux/linux4-permission/)
+19. [再议Linux文件、目录的隐藏属性（lsattr、chattr）](https://blog.csdn.net/solaraceboy/article/details/78758251)
+20. [总结-Linux 文件隐藏属性](https://blog.csdn.net/u011341352/article/details/103901164)
+21. [Linux ACL 权限](https://www.cnblogs.com/sparkdev/p/5536868.html)
 
 :::
 
