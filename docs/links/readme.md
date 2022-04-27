@@ -38,6 +38,7 @@ sidebar: false
     }
     .media-left {
         margin-left: 30px;
+        margin-bottom: 20px;
     }
     .item {
         margin-top: 20px;
