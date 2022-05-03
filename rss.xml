@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Wed, 27 Apr 2022 09:38:01 GMT</pubDate>
-    <lastBuildDate>Wed, 27 Apr 2022 09:38:01 GMT</lastBuildDate>
+    <pubDate>Tue, 03 May 2022 07:58:59 GMT</pubDate>
+    <lastBuildDate>Tue, 03 May 2022 07:58:59 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -437,38 +437,6 @@
 ]]></content:encoded>
     </item>
     <item>
-      <title>f-GAN</title>
-      <link>https://breezeshane.github.io/ArtificialIntelligence/GAN/FGAN/</link>
-      <guid>https://breezeshane.github.io/ArtificialIntelligence/GAN/FGAN/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">f-GAN</source>
-      <pubDate>Mon, 21 Feb 2022 23:21:12 GMT</pubDate>
-      <content:encoded><![CDATA[<details><summary>参考来源</summary>
-<ul>
-<li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/54909858" target="_blank" rel="noopener noreferrer">fGAN : 一种通用的GAN框架 - 知乎专栏</a></li>
-<li><a href="https://alberthg.github.io/2018/05/13/wgan/" target="_blank" rel="noopener noreferrer">生成对抗网络——FGAN和WGAN</a>\</li>
-<li><a href="https://baike.baidu.com/item/%E5%85%B1%E8%BD%AD%E5%87%BD%E6%95%B0/12576746" target="_blank" rel="noopener noreferrer">共轭函数 - 百度百科</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/131601201" target="_blank" rel="noopener noreferrer">凸优化笔记6：共轭函数 - 知乎专栏</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/265522736" target="_blank" rel="noopener noreferrer">凸优化理论：共轭函数 - 知乎专栏</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/35654834" target="_blank" rel="noopener noreferrer">凸优化－凸集和凸函数 | CMU经典课程 | 附课件 |机器学习基础 - 知乎专栏</a></li>
-<li><a href="https://www.zhihu.com/question/22799760" target="_blank" rel="noopener noreferrer">凸集(convex set)和仿射集(affine set)，谁是谁的子集？ - 知乎</a></li>
-<li><a href="https://zhuanlan.zhihu.com/p/158043191" target="_blank" rel="noopener noreferrer">凸包问题——概述 - 知乎专栏</a></li>
-<li><a href="https://www.zhihu.com/question/434605916/answer/1624800523" target="_blank" rel="noopener noreferrer">为什么定义凸组合和凸包的时候系数之和要为1？ - 知乎</a></li>
-<li><a href="https://baike.baidu.com/item/%E4%BB%BF%E5%B0%84%E9%9B%86/18999655" target="_blank" rel="noopener noreferrer">仿射集 - 百度百科</a></li>
-<li><a href="https://blog.csdn.net/xierhacker/article/details/61415747" target="_blank" rel="noopener noreferrer">凸优化笔记（一）：仿射集，凸集与锥 - CSDN</a></li>
-<li><a href="https://blog.csdn.net/rtygbwwwerr/article/details/78891506" target="_blank" rel="noopener noreferrer">凸(Convex)函数定义 - CSDN</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E9%9B%86" target="_blank" rel="noopener noreferrer">水平集 - 维基</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5#%E9%9B%85%E5%8F%AF%E6%AF%94%E8%A1%8C%E5%88%97%E5%BC%8F" target="_blank" rel="noopener noreferrer">雅可比矩阵 - 维基</a></li>
-<li><a href="http://shichaoxin.com/2021/04/11/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%AF%BE-%E5%87%B8%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6/" target="_blank" rel="noopener noreferrer">【数学基础】第十九课：凸优化进阶</a></li>
-<li><a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明 - CSDN</a></li>
-<li><a href="https://louisyzk.github.io/notes/2019/11/25/CVP02-Convex-Function" target="_blank" rel="noopener noreferrer">[cvp02] Convex Function</a></li>
-<li><a href="https://msgsxj.cn/2018/02/23/%E5%87%B8%E4%BC%98%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener noreferrer">凸优化学习笔记</a></li>
-<li><a href="https://www.jianshu.com/p/0dcf58715b2b" target="_blank" rel="noopener noreferrer">凸函数 - 简书</a></li>
-</ul>
-</details>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Enlighten GAN</title>
       <link>https://breezeshane.github.io/ArtificialIntelligence/GAN/EnlightenGAN/</link>
       <guid>https://breezeshane.github.io/ArtificialIntelligence/GAN/EnlightenGAN/</guid>
@@ -519,6 +487,38 @@
 <p>我当然很想研究，但奈何知识太过匮乏，如今还落入了瓶颈期，不知该怎么办了。</p>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/2021-09-17_14-55.png" type="image/png"/>
+    </item>
+    <item>
+      <title>f-GAN</title>
+      <link>https://breezeshane.github.io/ArtificialIntelligence/GAN/FGAN/</link>
+      <guid>https://breezeshane.github.io/ArtificialIntelligence/GAN/FGAN/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">f-GAN</source>
+      <pubDate>Mon, 21 Feb 2022 23:21:12 GMT</pubDate>
+      <content:encoded><![CDATA[<details><summary>参考来源</summary>
+<ul>
+<li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/54909858" target="_blank" rel="noopener noreferrer">fGAN : 一种通用的GAN框架 - 知乎专栏</a></li>
+<li><a href="https://alberthg.github.io/2018/05/13/wgan/" target="_blank" rel="noopener noreferrer">生成对抗网络——FGAN和WGAN</a>\</li>
+<li><a href="https://baike.baidu.com/item/%E5%85%B1%E8%BD%AD%E5%87%BD%E6%95%B0/12576746" target="_blank" rel="noopener noreferrer">共轭函数 - 百度百科</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/131601201" target="_blank" rel="noopener noreferrer">凸优化笔记6：共轭函数 - 知乎专栏</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/265522736" target="_blank" rel="noopener noreferrer">凸优化理论：共轭函数 - 知乎专栏</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/35654834" target="_blank" rel="noopener noreferrer">凸优化－凸集和凸函数 | CMU经典课程 | 附课件 |机器学习基础 - 知乎专栏</a></li>
+<li><a href="https://www.zhihu.com/question/22799760" target="_blank" rel="noopener noreferrer">凸集(convex set)和仿射集(affine set)，谁是谁的子集？ - 知乎</a></li>
+<li><a href="https://zhuanlan.zhihu.com/p/158043191" target="_blank" rel="noopener noreferrer">凸包问题——概述 - 知乎专栏</a></li>
+<li><a href="https://www.zhihu.com/question/434605916/answer/1624800523" target="_blank" rel="noopener noreferrer">为什么定义凸组合和凸包的时候系数之和要为1？ - 知乎</a></li>
+<li><a href="https://baike.baidu.com/item/%E4%BB%BF%E5%B0%84%E9%9B%86/18999655" target="_blank" rel="noopener noreferrer">仿射集 - 百度百科</a></li>
+<li><a href="https://blog.csdn.net/xierhacker/article/details/61415747" target="_blank" rel="noopener noreferrer">凸优化笔记（一）：仿射集，凸集与锥 - CSDN</a></li>
+<li><a href="https://blog.csdn.net/rtygbwwwerr/article/details/78891506" target="_blank" rel="noopener noreferrer">凸(Convex)函数定义 - CSDN</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E6%B0%B4%E5%B9%B3%E9%9B%86" target="_blank" rel="noopener noreferrer">水平集 - 维基</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E9%9B%85%E5%8F%AF%E6%AF%94%E7%9F%A9%E9%98%B5#%E9%9B%85%E5%8F%AF%E6%AF%94%E8%A1%8C%E5%88%97%E5%BC%8F" target="_blank" rel="noopener noreferrer">雅可比矩阵 - 维基</a></li>
+<li><a href="http://shichaoxin.com/2021/04/11/%E6%95%B0%E5%AD%A6%E5%9F%BA%E7%A1%80-%E7%AC%AC%E5%8D%81%E4%B9%9D%E8%AF%BE-%E5%87%B8%E4%BC%98%E5%8C%96%E8%BF%9B%E9%98%B6/" target="_blank" rel="noopener noreferrer">【数学基础】第十九课：凸优化进阶</a></li>
+<li><a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明 - CSDN</a></li>
+<li><a href="https://louisyzk.github.io/notes/2019/11/25/CVP02-Convex-Function" target="_blank" rel="noopener noreferrer">[cvp02] Convex Function</a></li>
+<li><a href="https://msgsxj.cn/2018/02/23/%E5%87%B8%E4%BC%98%E5%8C%96%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/" target="_blank" rel="noopener noreferrer">凸优化学习笔记</a></li>
+<li><a href="https://www.jianshu.com/p/0dcf58715b2b" target="_blank" rel="noopener noreferrer">凸函数 - 简书</a></li>
+</ul>
+</details>
+]]></content:encoded>
     </item>
     <item>
       <title>Low Light Metrics</title>
@@ -6277,7 +6277,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6302,7 +6302,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6317,7 +6317,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6837,7 +6837,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6860,7 +6860,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6871,7 +6871,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6891,7 +6891,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6902,7 +6902,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8199,7 +8199,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -8974,7 +8974,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -9215,7 +9215,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -10206,14 +10206,14 @@ electron9
 <p>那么怎么解决呢?</p>
 <p>尝试维修了两天, 终于是确定了, 问题出现在键盘上了, 现在已经邮寄回去进行返厂检修了......</p>
 <blockquote>
-<p><strong>后日谈</strong>：虽然厂家检测两回都表示没问题，而且我严重怀疑他们只在Windows/Mac系统下做测试而没有管Linux，但是还是同意给我换新了，换新后的键盘拿回来再次测试，发现还是没法正常使用，即使是蓝牙连接成功了，这个键盘仍旧无法打字，按下任何键没有任何响应。最终我只能确定，是厂家自己修改了蓝牙协议导致与现行Linux内核完全不兼容。最后咋解决呢？我已经挂二手市场上卖掉了。</p>
+<p><strong>后日谈</strong>：虽然厂家检测两回都表示没问题，而且我严重怀疑他们只在Windows/Mac系统下做测试而没有管Linux，但是还是同意给我换新了，换新后的键盘拿回来再次测试，发现还是没法正常使用，即使是蓝牙连接成功了，这个键盘仍旧无法打字，按下任何键没有任何响应。最终我只能确定，是厂家自己修改了蓝牙协议导致与现行Linux核完全不兼容。最后咋解决呢？我已经挂二手市场上卖掉了。</p>
 </blockquote>
 <h3 id="关于linux系统下键盘的f1-f12键无法响应的问题"> 关于Linux系统下键盘的F1～F12键无法响应的问题</h3>
 <blockquote>
 <p><a href="https://mikeshade.com/posts/keychron-linux-function-keys/" target="_blank" rel="noopener noreferrer">参考资料</a></p>
 </blockquote>
 <p>先说一下解决方案：</p>
-<div><pre><code><span>echo</span> <span>0</span> <span>|</span> <span>sudo</span> <span>tee</span> /sys/module/hid_apple/parameters/fnmode
+<div><pre><code><span>echo</span> <span>0</span> <span>|</span> <span>sudo</span> <span>tee</span> s/module/hid_apple/parameters/fnmode
 </code></pre>
 <div><span>1</span><br></div></div><p>这个方案是临时解决方案，如果想永久生效的话，需要执行：</p>
 <div><pre><code><span>echo</span> <span>"options hid_apple fnmode=0"</span> <span>|</span> <span>sudo</span> <span>tee</span> -a /etc/modprobe.d/hid_apple.conf
@@ -10225,6 +10225,21 @@ mkinitcpio -P <span># For Arch Linux</span>
 <div><span>1</span><br><span>2</span><br></div></div><p>这样每次重新启动计算机也能正常使用F1～F12了。</p>
 <p>现在我们再分析一下为什么这样做会有效：</p>
 <p>首先要知道Linux系统下一切皆是文件，这当然包括你的设备。而我们这个操作实际上在做的就是调整设备参数。<code>fnmode</code>文件内存放的内容是一位二进制码，<code>0</code>表示默认不按下<kbd>Fn</kbd>，而<code>1</code>自然表示默认按下<kbd>Fn</kbd>了。这样问题自然很容易复现了：我们在尝试按下<kbd>F1</kbd>～<kbd>F12</kbd>的时候，<kbd>Fn</kbd>键已经相当于是按下了，这样的话自然是直接使用其对应的多媒体功能键，那么就算我再按下<kbd>Fn</kbd>当然也无济于事了，因此这个文件我们需要置零。</p>
+<h3 id="okular等pdf阅读器无法显示中文"> Okular等pdf阅读器无法显示中文</h3>
+<p>也不知道最近做了什么，当我打开TexStudio的时候我发现除了英文字符和公式，其余所有中文字符全部消失不见。开始我还以为是编译问题，但编译几回都没发现什么问题，直到我打开以前生成过的正常完好的pdf文件的时候我发现这里也没有中文，所以我确定这个问题不是出现在TexStudio上，而是出现在阅读器上，另外我还发现，Chrome是可以正常显示这些pdf的，由此可以判断得知Chrome的pdf渲染引擎是独立于系统的。</p>
+<p>言归正传，这个问题也不难解决，其实是缺少了编码库<code>poppler-data</code>，安装这个就可以正常显示了。以下是该组件的详细信息：</p>
+<div><pre><code>❯ yay -Ss poppler-data
+extra/poppler-data <span>0.4</span>.11-1 <span>(</span><span>2.0</span> MiB <span>12.3</span> MiB<span>)</span>
+    Encoding data <span>for</span> the poppler PDF rendering library
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><div><p>可能的问题原因</p>
+<ol>
+<li>某些软件在后台静默安装了，导致新版本的组件不能与系统当前组件兼容。</li>
+<li>原本是支持中文编码的，但主体与中文编码相关的部分分离了。</li>
+<li>纯粹是PDF阅读器出现的Bug。</li>
+<li>我后来安装什么东西时不经意把这个组件删掉了。</li>
+</ol>
+</div>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
@@ -13337,7 +13352,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -17261,7 +17276,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17295,7 +17310,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17305,7 +17320,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17330,7 +17345,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<div>
     <a href=""><img src="/images/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
     <a href=""><img src="/images/54879512.png" data-target="#myCarousel" data-slide-to="1"></img></a>
@@ -17522,7 +17537,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17531,7 +17546,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Wed, 27 Apr 2022 09:36:39 GMT</pubDate>
+      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
