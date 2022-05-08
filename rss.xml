@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 03 May 2022 07:58:59 GMT</pubDate>
-    <lastBuildDate>Tue, 03 May 2022 07:58:59 GMT</lastBuildDate>
+    <pubDate>Sun, 08 May 2022 17:24:45 GMT</pubDate>
+    <lastBuildDate>Sun, 08 May 2022 17:24:45 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -6277,7 +6277,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6302,7 +6302,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6317,7 +6317,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6837,7 +6837,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6860,7 +6860,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6871,7 +6871,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6891,7 +6891,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6902,7 +6902,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8199,7 +8199,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -8974,248 +8974,14 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>数据库的关系与关系代数</title>
-      <link>https://breezeshane.github.io/Database/RelationalAlgebra/</link>
-      <guid>https://breezeshane.github.io/Database/RelationalAlgebra/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">数据库的关系与关系代数</source>
-      <pubDate>Thu, 07 Apr 2022 14:08:53 GMT</pubDate>
-      <content:encoded><![CDATA[<details><summary>参考</summary>
-<ol>
-<li><a href="https://blog.csdn.net/cnds123/article/details/39827049" target="_blank" rel="noopener noreferrer">外键约束详解及术语释疑</a></li>
-<li><a href="https://blog.csdn.net/weixin_44915226/article/details/105711836" target="_blank" rel="noopener noreferrer">关系型数据库的三类完整性约束</a></li>
-<li><a href="https://blog.csdn.net/qq_32623363/article/details/87911560" target="_blank" rel="noopener noreferrer">数据库关系模型的三类完整性约束</a></li>
-<li><a href="https://owen027.github.io/2019/09/19/integrity_constraint_of_relational/" target="_blank" rel="noopener noreferrer">关系数据模型要素三 关系完整性约束</a></li>
-<li><a href="https://kjhhhh.github.io/2021/03/07/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" target="_blank" rel="noopener noreferrer">数据库系统的关系数据结构</a></li>
-<li><a href="https://owen027.github.io/2019/09/09/relation_data_model/" target="_blank" rel="noopener noreferrer">关系数据模型要素一 （关系数据结构）</a></li>
-<li><a href="https://segmentfault.com/a/1190000017295639" target="_blank" rel="noopener noreferrer">数据库学习--关系模式</a></li>
-<li><a href="https://blog.csdn.net/u014698348/article/details/46923587" target="_blank" rel="noopener noreferrer">数据库中几个基本概念 主码 外码</a></li>
-<li><a href="https://blog.csdn.net/qq_35293120/article/details/105413418" target="_blank" rel="noopener noreferrer">数据库中的候选码、主码、全码、外码、主属性</a></li>
-<li><a href="https://zh.wikipedia.org/wiki/%E5%85%B3%E7%B3%BB%E4%BB%A3%E6%95%B0_(%E6%95%B0%E6%8D%AE%E5%BA%93)" target="_blank" rel="noopener noreferrer">关系代数 (数据库)</a></li>
-<li><a href="https://www.csdn.net/tags/MtjacgwsODc0My1ibG9n.html" target="_blank" rel="noopener noreferrer">利用SQL语言进行结果运算与聚集运算</a></li>
-<li><a href="https://www.jianshu.com/p/5e1f9b8a2ec9" target="_blank" rel="noopener noreferrer">SQL——聚集函数</a></li>
-<li><a href="https://billc.io/2020/04/latex-relational-algebra/" target="_blank" rel="noopener noreferrer">数据库常用关系代数符号在 LaTeX 中的表示</a></li>
-<li><a href="https://blog.csdn.net/FallingU/article/details/78955707" target="_blank" rel="noopener noreferrer">数据库Schema模式的理解——模式与数据库的区别</a></li>
-<li><a href="https://www.ibm.com/docs/zh/was/9.0.5?topic=language-aggregation-functions" target="_blank" rel="noopener noreferrer">聚集函数 - IBM</a></li>
-<li><a href="https://blog.csdn.net/Gosick_Geass_Gate/article/details/85794100" target="_blank" rel="noopener noreferrer">数据库关系代数的聚集函数</a></li>
-<li><a href="./cnblogs.com/xzxl/p/10742584.html">第9讲：结果计算与聚集计算</a></li>
-<li><a href="https://en.wikipedia.org/wiki/Tuple#Tuples_as_nested_ordered_pairs" target="_blank" rel="noopener noreferrer">Tuple - Wikipedia</a></li>
-<li><a href="https://blog.csdn.net/doiit/article/details/89068580" target="_blank" rel="noopener noreferrer">MDX查询学习笔记1-元组和集合</a></li>
-<li><a href="https://stackoverflow.com/questions/751264/what-does-the-term-tuple-mean-in-relational-databases" target="_blank" rel="noopener noreferrer">What does the term &quot;Tuple&quot; Mean in Relational Databases?</a></li>
-<li><a href="https://sqtds.github.io/2014/10/26/2014/mondrian-source-code-2/" target="_blank" rel="noopener noreferrer">mondrian 源码解读（二）-MDX</a></li>
-<li><a href="https://www.bianchengquan.com/article/359307.html" target="_blank" rel="noopener noreferrer">多维数据表达式MDX笔记</a></li>
-</ol>
-</details>
-<h2 id="关系数据结构"> 关系数据结构</h2>
-<p><strong>候选码</strong>: 能够唯一标识一条记录的最小属性集. 若关系中的一个属性或属性组的值能够唯一地标识一个元组, 且他的真子集不能唯一的标识一个元组, 则称这个属性或属性组做候选码.</p>
-<p><strong>主码</strong>: 主码指主关键字. 主关键字(Primary key)是表中的一个或多个字段, 它的值用于唯一地标识表中的某一条记录. 在两个表的关系中, 主关键字用来在一个表中引用来自于另一个表中的特定记录. 主关键字是一种唯一关键字, 表定义的一部分. 一个表的主键可以由多个关键字共同组成, 并且主关键字的列不能包含空值.</p>
-<p><strong>全码</strong>: 关系模型的所有属性组组成该关系模式的候选码, 称为全码.</p>
-<p><strong>外码</strong>: 若关系中的某个属性是其他关系中的主码, 则这个属性称为外码.</p>
-<p><strong>主属性</strong>: 包含在任一候选码中的属性称主属性.</p>
-<p><strong>非主属性</strong>: 不包含在任何侯选码中的属性称为非主属性(Non-Prime attribute)或非码属性(Non-key attribute)</p>
-<div><p>注意</p>
-<p>主码是唯一标识, 候选码是可以作为主码的码, 主码一定是候选码的子集, 但候选码不一定是主码.</p>
-</div>
-<p><strong>关系模式</strong>: 关系模式（Relation Schema）是对关系的描述,它可以形式化地表示为: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.02778em;">D</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>d</span><span>o</span><span>m</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.13889em;">F</span><span>)</span></span></span></span>. 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>为关系名, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>为组成该关系的属性名集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">D</span></span></span></span>为属性组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>中属性所来自的域, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>d</span><span>o</span><span>m</span></span></span></span>为属性向域的映象集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>为属性间数据的依赖关系集合.</p>
-<p>通常简记为: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>或<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span>, 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>为关系名, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>为属性名集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>为各属性名.</p>
-<p><strong>关系数据库</strong>: 在一个给定的应用领域中, 所有关系的集合构成一个关系数据库</p>
-<h2 id="关系数据模型"> 关系数据模型</h2>
-<h3 id="关系完整性约束"> 关系完整性约束</h3>
-<p>关系模型中有三类完整性约束, 分别是: 实体完整性, 参照完整性, 用户定义完整性.</p>
-<h4 id="实体完整性"> 实体完整性</h4>
-<p><strong>定义</strong>: 实体完整性是用于保证关系数据库中每个元组都是可区分的, 唯一的.</p>
-<div><p>提示</p>
-<p>若属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>是基本关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的主属性, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>不能取空值<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>NULL</span></span></span></span></span>.</p>
-</div>
-<h4 id="参照完整性"> 参照完整性</h4>
-<p>参照完整性约束就是定义外码和主码之间的引用规则, 是对关系间引用数据的一种限制.</p>
-<p>若属性（属性组）<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>是基本关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的外码, 它与基本关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>的主码<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>对应, 那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中每个元组在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>上的值要么取<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>NULL</span></span></span></span></span>, 要么等于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>中对应元组的主码值. <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>可以是不同的关系, 也可以是同一关系.</p>
-<details><summary>为什么可以是同一关系?</summary>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
-</details>
-<h4 id="用户定义完整性"> 用户定义完整性</h4>
-<p>此约束是针对某一应用环境的完整性约束条件, 反映了某一具体应用所涉及的数据应满足的要求. 关系模型提供定义和检验的机制, 此类规则一般在建立数据库表的同时进行定义, 如果某些条件未建立在库表一级, 则应在各个模块的具体编程中通过程序进行检查和控制.</p>
-<h3 id="关系操作"> 关系操作</h3>
-<p>数据库的关系操作如下:</p>
-<ul>
-<li>
-<p><strong>查询</strong>: 选择、投影、连接、除、并、差、交、笛卡尔积.</p>
-</li>
-<li>
-<p><strong>数据更新</strong>: 插入、删除、修改.</p>
-</li>
-</ul>
-<p>其中选择、投影、并、差、笛卡尔积是五种基本操作.</p>
-<div><p>关系运算符</p>
-<table>
-<thead>
-<tr>
-<th style="text-align:center">符号</th>
-<th style="text-align:center">含义</th>
-<th style="text-align:center">符号</th>
-<th style="text-align:center">含义</th>
-<th style="text-align:center">符号</th>
-<th style="text-align:center">含义</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>×</span></span></span></span></td>
-<td style="text-align:center">笛卡尔积</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>÷</span></span></span></span></td>
-<td style="text-align:center">除</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟖</span></span></span></span></td>
-<td style="text-align:center">右外连接</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∪</span></span></span></span></td>
-<td style="text-align:center">并</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.00001em;vertical-align:-0.25001em;"></span><span style="position:relative;top:-0.0000050000000000050004em;">∏</span></span></span></span></td>
-<td style="text-align:center">投影</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟗</span></span></span></span></td>
-<td style="text-align:center">全外连接</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∩</span></span></span></span></td>
-<td style="text-align:center">交</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">σ</span></span></span></span></td>
-<td style="text-align:center">选择</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66334em;vertical-align:-0.08167em;"></span><span>⋉</span></span></span></span></td>
-<td style="text-align:center">左半连接</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>−</span></span></span></span></td>
-<td style="text-align:center">差</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>ρ</span></span></span></span></td>
-<td style="text-align:center">重命名</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66334em;vertical-align:-0.08167em;"></span><span>⋊</span></span></span></span></td>
-<td style="text-align:center">右半连接</td>
-</tr>
-<tr>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.51em;vertical-align:-0.005em;"></span><span>⋈</span></span></span></span></td>
-<td style="text-align:center">连接</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟕</span></span></span></span></td>
-<td style="text-align:center">左外连接</td>
-<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.46528em;vertical-align:0em;"></span><span>▹</span></span></span></span></td>
-<td style="text-align:center">反连接/反半连接</td>
-</tr>
-</tbody>
-</table>
-</div>
-<p>大多运算我们都很熟悉, 在此不作赘述. 我们特别地讲解投影, 除, 选择, 连接和重命名.</p>
-<p><strong>选择</strong>:</p>
-<p>在关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中选择满足给定条件的元组:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.03588em;">σ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.07153em;">C</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07153em;">C</span><span>(</span><span>t</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>true</span></span><span>}</span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">C</span></span></span></span>是一个逻辑表达式, 表示选择条件, 基本形式是: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">Xθ</span><span style="margin-right:0.22222em;">Y</span></span></span></span>. 这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">θ</span></span></span></span>表示比较关系.</p>
-<p><strong>投影</strong>:</p>
-<p>从<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中选择出若干属性列组成新的关系:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>Π</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>[</span><span>L</span><span>]</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>}</span></span></span></span></span></p>
-<p>其中, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>L</span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中的属性(属性组).</p>
-<p><strong>重命名</strong>:</p>
-<p>重命名关系或属性:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.1052em;vertical-align:-0.3551999999999999em;"></span><span><span>ρ</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.05764em;">S</span><span>(</span><span><span>A</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span><span>,</span><span><span>A</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span><span>,</span><span>…</span><span>,</span><span><span>A</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span></span></p>
-<p>将关系R重命名为S, 属性依次重命名为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>.</p>
-<p><strong>元组连接</strong>:</p>
-<p>若存在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>目关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>目关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76508em;vertical-align:-0.15em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76508em;vertical-align:-0.15em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 则我们有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>m</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>列的元组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.0650799999999998em;vertical-align:-0.15em;"></span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
--11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span>, 其中前<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>个属性为关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中的属性, 后<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个属性为关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>中的属性.</p>
-<div><p>提示</p>
-<p>笛卡尔积可以用连接写成如下形式:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.16508em;vertical-align:-0.25em;"></span><span>{</span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
--11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span><span>∣</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.76508em;vertical-align:-0.15em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>}</span></span></span></span></span></p>
-</div>
-<p><strong>条件连接</strong>:</p>
-<p>从两个(或多个)关系的笛卡尔积中选取属性间满足指定条件的元组:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span><span>⋈</span><span><span><span><span style="height:0.33610799999999996em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>A</span><span style="margin-right:0.05017em;">θB</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.16508em;vertical-align:-0.25em;"></span><span>{</span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
--11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span><span>∣</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span>A</span><span>]</span><span style="margin-right:0.02778em;">θ</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]}</span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">θ</span></span></span></span>表示比较关系.</p>
-<p>特别地, 当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">θ</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.36687em;vertical-align:0em;"></span><span>=</span></span></span></span>时, 这样的连接叫作<strong>等值连接</strong>.</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span><span>⋈</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>A</span><span>=</span><span style="margin-right:0.05017em;">B</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.16508em;vertical-align:-0.25em;"></span><span>{</span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
--11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span><span>∣</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span>A</span><span>]</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]}</span></span></span></span></span></p>
-<p>等值连接中还有特殊的连接叫作<strong>自然连接</strong>. 自然连接是: 默认进行比较的分量是两个关系中相同的属性组, 并且在查询结果中去掉重复的属性列的等值连接.</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68833em;vertical-align:-0.005em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>⋈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.65418em;vertical-align:-0.0391em;"></span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span>是对于二元关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>为真的谓词, 当且仅当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>是函数二元关系.</p>
-<div><p>提示</p>
-<p>请多注意<strong>等值连接</strong>和<strong>自然连接</strong>两个定义式之间的区别, 去掉重复的属性列是体现在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]</span></span></span></span>上的.</p>
-</div>
-<p><strong>外连接</strong>:</p>
-<ul>
-<li>
-<p><strong>左外连接</strong>: 结果集包括R的所有行, 而不仅仅是连接列所匹配的行. 如果R的某行在S中没有匹配行, 则在相关联的结果集行中右表的所有选择列表列均为空值, 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span>⟕</span><span style="margin-right:0.05764em;">S</span></span></span></span>.</p>
-<p>形式化定义为:</p>
-</li>
-<li>
-<p><strong>右外连接</strong>: 结果集包括S的所有行, 而不仅仅是连接列所匹配的行. 如果S的某行在R中没有匹配行, 则在相关联的结果集行中左表的所有选择列表列均为空值, 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span>⟖</span><span style="margin-right:0.05764em;">S</span></span></span></span></p>
-</li>
-</ul>
-<details><summary>课外知识</summary>
-<p>与外连接相像的连接是<strong>半连接</strong>, 半连接也分左半连接和右半连接.</p>
-<p>左半连接的形式化定义如下:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.765em;vertical-align:-0.08167em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>⋉</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span>是对于二元关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>为真的谓词, 当且仅当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>是函数二元关系.</p>
-<p>同理, 右半连接的形式化定义为:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.765em;vertical-align:-0.08167em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>⋊</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>s</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
-<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span>是对于二元关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>为真的谓词, 当且仅当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>是函数二元关系.</p>
-<p>相应地, 我们还有<strong>反连接</strong>的概念, 形式化定义如下:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>▹</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.73354em;vertical-align:-0.0391em;"></span><span>¬∃</span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
-<p>另外, 反连接还可以定义为半连接的补集, 形式化定义如下:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>▹</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.765em;vertical-align:-0.08167em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>⋉</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span></span></p>
-<p>为此反连接有时叫做反半连接.</p>
-</details>
-<p><strong>除运算</strong>:</p>
-<p>形式化定义为:</p>
-<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>÷</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span><span>{</span></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span><span><span><span><span><span style="height:1.1619950000000001em;"><span style="top:-1.9659950000000004em;"><span style="height:2.61601em;"></span><span><span>∣</span></span></span><span style="top:-2.5639950000000002em;"><span style="height:2.61601em;"></span><span style="height:0.61601em;width:0.333em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.333em' height='0.61601em' style='width:0.333em' viewBox='0 0 333 616' preserveAspectRatio='xMinYMin'><path d='M145 0 H188 V616 H145z M145 0 H188 V616 H145z'/></svg></span></span><span style="top:-3.1720050000000004em;"><span style="height:2.61601em;"></span><span><span>∣</span></span></span></span><span>​</span></span><span><span style="height:0.6500149999999999em;"><span></span></span></span></span></span></span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.73354em;vertical-align:-0.0391em;"></span><span>∀</span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.80002em;vertical-align:-0.65002em;"></span><span style="margin-right:0.05764em;">S</span><span><span>(</span></span><span>(</span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span style="margin-right:0.00773em;">R</span><span><span>)</span></span><span><span>}</span></span></span></span></span></span></p>
-<p>这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span>是唯一于R的属性名字的集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.61508em;vertical-align:0em;"></span><span>t</span></span></span></span>到这个集合的限制(投影).</p>
-<details><summary>理解有困难?</summary>
-<p>应该注意到, 这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.61508em;vertical-align:0em;"></span><span>t</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span></span></span></span>都是被视作集合的, 因此进行运算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span></span></span></span>后得到的是合并两个行后得到的新行, 如果这个新行仍然属于关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>, 而且这一运算对每一行<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span></span></span></span>都能成立的话, 这个行的投影<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span></span></span></span>是集合<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>÷</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>的一个元素.</p>
-<p>关于元组与行的含义, 在<a href="https://stackoverflow.com/questions/751264/what-does-the-term-tuple-mean-in-relational-databases" target="_blank" rel="noopener noreferrer">StackOverflow</a>上可以看到相关描述:</p>
-<blockquote>
-<p>However, a row is not a tuple. Tuples are unordered sets of known values with names.</p>
-<p>A row is an ordered set of known or unknown values with names (although they may be omitted).</p>
-</blockquote>
-<p>而且相关的说法我们也能在<a href="https://en.wikipedia.org/wiki/Tuple#Tuples_as_nested_ordered_pairs" target="_blank" rel="noopener noreferrer">Wiki</a>上找到.</p>
-<p>因此, 我们应该明白, 元组是无序集合, 而具体的行则是有序集合.</p>
-</details>
-<h3 id="扩展的关系代数操作符"> 扩展的关系代数操作符</h3>
-<p><strong>去重操作符</strong>: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03785em;">δ</span><span>(</span><span>⋅</span><span>)</span></span></span></span>用于去除关系中重复的元组.</p>
-<p><strong>排序操作符</strong>: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.1132em;">τ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.1132em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>⋅</span><span>)</span></span></span></span>用于给关系进行关于属性(属性组)<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>L</span></span></span></span>的排序.</p>
-<p><strong>分组操作符</strong>: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.05556em;">γ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05556em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>⋅</span><span>)</span></span></span></span>用户将关系按照属性(属性组)<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>L</span></span></span></span>的值进行分组, 针对每一个分组产生新的元组.</p>
-<p><strong>聚集操作符</strong>: 多数数据库包括五个聚集函数, 这些运算是Sum、Count、Average、Maximum和Minimum.</p>
-<h3 id="关于sql聚集函数要注意的语法问题"> 关于SQL聚集函数要注意的语法问题</h3>
-<ol>
-<li>当SQL查询使用分组的时候, 需要保证出现在<code>select</code>语句中但没有被聚集的属性只能是出现在<code>group by</code>子句中的那些属性, 任何没有出现在<code>group by</code>子句中的属性如果出现在<code>select</code>子句中的话, 它只能出现在聚集函数的内部, 否则这样的查询就是错误的.</li>
-<li>任何出现在<code>having</code>子句中, 但没有被聚集的属性必须出现在<code>group by</code>子句中, 否则查询就被当成是错误的.</li>
-</ol>
-<div><p>提示</p>
-<p>包含聚集、<code>group by</code>或者<code>having</code>子句(分组过滤子句)的查询的含义可通过下述操作序列定义:</p>
-<ol>
-<li>根据<code>from</code>子句计算出一个关系.</li>
-<li>如果出现<code>where</code>子句, <code>where</code>子句的谓词将应用到<code>from</code>子句的结果上.</li>
-<li>如果出现<code>group by</code>子句, 满足<code>where</code>子句的元组通过<code>group by</code>子句形成分组. 如果没有<code>group by</code>子句, 满足<code>where</code>谓词的整个元组集被当做一个分组.</li>
-<li>如果出现<code>having</code>子句, 他将应用到每个分组上；不满足<code>having</code>子句谓词的分组将被抛弃.</li>
-<li><code>select</code>子句利用剩下的分组产生出查询结果中的元组, 即每个分组上应用聚集函数来得到单个关系元组.</li>
-</ol>
-</div>
-<p>顺便谈一个新手都容易犯的错误:</p>
-<div><pre><code><span>select</span> S <span>from</span> SC <span>where</span> Score <span>&lt;</span> <span>60</span> <span>and</span> <span>count</span><span>(</span><span>*</span><span>)</span> <span>></span> <span>2</span> <span>group</span> <span>by</span> S<span>;</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>起初我非常不理解这样为什么会行不通, 后来才知道, 这是因为where子句是对每一个元组进行条件过滤, 而聚集函数则是对一个分组(集合)进行条件过滤, 用途和针对的对象类型不一样, 故聚集函数不应出现在这里.</p>
-<div><p>having子句与where子句表达条件的区别</p>
-<ul>
-<li>对每一<strong>元组</strong>检查满足与否的条件要用where子句表达.</li>
-<li>对每一<strong>分组</strong>检查满足与否的条件要用having子句表达.</li>
-<li><code>having</code>子句需要<code>Group by</code>子句支持, 没有<code>Group by</code>子句的话就不能使用<code>having</code>子句.</li>
-</ul>
-</div>
-]]></content:encoded>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
     </item>
     <item>
       <title>数据库触发器</title>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -13352,7 +13118,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -17276,7 +17042,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17310,7 +17076,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17320,7 +17086,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17342,165 +17108,201 @@ patch_request_class<span>(</span>app<span>)</span>
     </item>
     <item>
       <title>友人帐</title>
+      <link>https://breezeshane.github.io/links/links-1/</link>
+      <guid>https://breezeshane.github.io/links/links-1/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
+      <content:encoded><![CDATA[<div>
+    <div>
+        <a href=""><img src="/Avatar/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
+        <a href=""><img src="/Avatar/pommespeter.png" data-target="#myCarousel" data-slide-to="1"></img></a>
+        <a href=""><img src="/Avatar/AndSonder.jpg" data-target="#myCarousel" data-slide-to="2"></img></a>
+        <a href=""><img src="/Avatar/zerorains.png" data-target="#myCarousel" data-slide-to="3"></img></a>
+        <a href=""><img src="/Avatar/asthestarsfall.jpg" data-target="#myCarousel" data-slide-to="4"></img></a>
+        <a href=""><img src="/Avatar/FlyPluche.jpg" data-target="#myCarousel" data-slide-to="5"></img></a>
+        <a href=""><img src="/Avatar/sunwenxiang133.jpeg" data-target="#myCarousel" data-slide-to="6"></img></a>
+        <a href=""><img src="/Avatar/cwt.jpg" data-target="#myCarousel" data-slide-to="7"></img></a>
+    </div><br>
+    <div id="myCarousel">
+        
+        <div>
+            <div>
+                <a href="https://focus.akasaki.space/">
+                    <img src="/Avatar/akasaki.png" alt="Akasaki Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        Miya Akasaki
+                    </h3>
+                    <p>
+                        Rubbish CVer | Poor LaTex speaker | Half stack developer | 键圈躺尸砖家
+                    </p>
+                    <p>
+                        Comment: 我的大学学长(同时也确实是同学)，曾担任我社2019级技术副主席，而我是他的接班人，此外他还是科协F4成员之一。他是个非常厉害的大佬，看的东西做的东西都很硬核(各种意义上的)，而且拿奖拿到手软，学院里的老师都很器重他。迄今为止我知道他精通Java、C/C++、React等语言，会并发与异步等高级编程技术，并且懂一些底层的原理，我所学到的底层原理大多都是从他这里来的。他从安卓开发到游戏开发再到机器学习都有所涉猎，而且都有很高水平，现在他在学大前端(React)和深度学习。不只是技术上，他在生活上也很有自己的一套，是一位出色的艺术家。顺便提一下，他的交际圈也很广(超出我理解范围的那种广)，而且他在游戏上也特别能卷。非常感谢他教会我很多东西，不嫌弃我还愿意带我玩。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://memo.pommespeter.space">
+                    <img src="/Avatar/pommespeter.png" alt="PommesPeter Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        Pommes Peter
+                    </h3>
+                    <p>
+                        Hey Guys! Welcome to my repositories.Hope you guys enjoy it. Blessed with good gredients.
+                    </p>
+                    <p>
+                        Comment: 我的大学学长，曾担任我社2019级软件部副部长，科协F4成员之一。他的研究领域是基于深度学习的低照度增强。在他有女朋友之前，他是我交流得最多的学长。在软工学习中我遇到的各种困难凡是实在解决不了的都找他，他总是可以很出色地完成，另外，他有个称号叫“软工之爹”，是个经常翻看Linux系统内核源码的硬核男人。他是我专业学习和方向学习的启蒙导师，就是他启发了我去做各学科各知识点的组装与联系。他还教过我操作系统、异步与并发等很多实用的知识，他甚至可以做到深入浅出让我理解重难点。因为他的口头禅是“啊这”，所以我总是戏称他“谢啊这”。没有他的帮助，也就没有今天的我，感谢他带我玩带我飞，让我体会到了世界的精彩。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://blog.keter.top">
+                    <img src="/Avatar/AndSonder.jpg" alt="coronaPolvo Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        And Sonder
+                    </h3>
+                    <p>
+                        life is but a span, I use python
+                    </p>
+                    <p>
+                        Comment: 我的大学学长，曾担任我社2019级软件部部长，是科协F4成员之一。他专注于研究机器学习的对抗攻击，科研能力特别强，而且技术水平也非常高，大大小小的比赛打了个遍，都拿奖拿到手软，甚至到了人在家中坐，奖从天上来的地步。他是我在机器学习方向上的带路人，每当我陷入迷茫困苦的时候他会点拨我，能给我一个比较好的答案。我和他都是机器学习方向上的领域开拓者，不过他有成果了，我还没有。他是个很阔气的大老板，从我入社到现在已经请过我好几杯奶茶了，每次请奶茶的时候还和我聊未来规划，聊人生，在他有女朋友之前我们还经常这样。在社内我们常称他为卢院士。很感谢他非常看重我，认可我，还经常鼓励我。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://blog.zerorains.top">
+                    <img src="/Avatar/zerorains.png" alt="ZeroRains Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        Zero Rains
+                    </h3>
+                    <p>
+                        I want to be strong. But it seems so hard.
+                    </p>
+                    <p>
+                        Comment: 我的大学学长，曾担任我社2019级机器学习方向负责人，是科协F4成员之一。他专注于研究计算机视觉的语义分割，他虽然有点凶，但待人确实亚萨西，我有不会的都找他。他的二刺螈浓度已经是登峰造极的境界，甚至是在座各位毕生仅见的程度。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://asthestarsfalll.icu">
+                    <img src="/Avatar/asthestarsfall.jpg" alt="As the Stars Fall Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        As the Stars Fall
+                    </h3>
+                    <p>
+                        Be vigilant to the superiority of knowledge
+                    </p>
+                    <p>
+                        Comment: 我的大学同学，是个很有个性的人，有时候有些孩子气。他的研究领域是深度学习的轻量化网络设计和图像分割，技术能力很强。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://fly-pluche.github.io">
+                    <img src="/Avatar/FlyPluche.jpg" alt="FlyPluche Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        Fly Pluche
+                    </h3>
+                    <p>
+                        The man is too lazy to introduce himself.
+                    </p>
+                    <p>
+                        Comment: 我的大学同学，现担任我社20级软件部部长。他的研究领域是机器学习的对抗攻击领域。他是一个实力很强的大佬，我比较期待他在未来某一天能带我起飞。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://sunning.fit/">
+                    <img src="/Avatar/sunwenxiang133.jpeg" alt="sunwenxiang133 Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        sunwenxiang133
+                    </h3>
+                    <p>
+                        遇到困难睡大觉
+                    </p>
+                    <p>
+                        Comment: 我的大学同学，是我社2020级组织部成员。他的专业领域是游戏开发（实际上是前端开发(x)）。我们经常在一起玩。因为给人的感觉是憨态可掬，所以大家都亲切地叫他小胖。他除了擅长游戏开发之外，还擅长骑自行车、隐身、跑路和睡大觉等等，说句实话有些“技巧”都是他教我的。他技术比较硬核，学习能力特别强，能做到学两三天前端就手撸出来一个手风琴页面，甚至这个页面的开发与制作他都有指导我。所以总会有人说出这句话：“小胖永远滴神！”顺便提一下，小胖是大家的男神，拒绝一切反驳！
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://www.cnblogs.com/whitebunny/">
+                    <img src="/Avatar/whitebunny.jpg" alt="柔小兔 Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        柔小兔
+                    </h3>
+                    <p>
+                        Return Home海压竹枝低复举，风吹山角晦还明
+                    </p>
+                    <p>
+                        Comment: 我的大学同学，是隔壁学院（材料与科学学院）转来的，平时交流很少，我只知道她在做后端开发。
+                    </p>
+                </div>
+            </div>
+            <div>
+                <a href="https://blog.csdn.net/qq_51415601">
+                    <img src="/Avatar/cwt.jpg" alt="野er Blog"></img>
+                </a>
+                <div>
+                    <h3>
+                        野er
+                    </h3>
+                    <p>
+                        心有猛虎，细嗅蔷薇
+                    </p>
+                    <p>
+                        Comment: 我的大学同学，同时也是我的舍友。虽然平时我不在宿舍，但我和他聊天还蛮投缘的。他有志于学习大数据技术，不过有些佛系还有点懒。
+                    </p>
+                </div>
+            </div>
+        </div>
+            
+        <a href="#myCarousel" role="button" data-slide="prev">
+            <span aria-hidden="true"></span>
+            <span>Previous</span>
+        </a>
+        <a href="#myCarousel" role="button" data-slide="next">
+            <span aria-hidden="true"></span>
+            <span>Next</span>
+        </a>
+    </div>
+</div>
+<!-- <script>
+    import "./bootstrap.min.css"
+</script> -->
+
+<link rel="stylesheet" href="/css/bootstrap.min.css" />
+<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
+<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>]]></content:encoded>
+    </item>
+    <item>
+      <title>友人帐</title>
+      <link>https://breezeshane.github.io/links/links-2/</link>
+      <guid>https://breezeshane.github.io/links/links-2/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>友人帐</title>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
-      <content:encoded><![CDATA[<div>
-    <a href=""><img src="/images/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
-    <a href=""><img src="/images/54879512.png" data-target="#myCarousel" data-slide-to="1"></img></a>
-    <a href=""><img src="/images/coronaPolvo.jpg" data-target="#myCarousel" data-slide-to="2"></img></a>
-    <a href=""><img src="/images/zerorains.png" data-target="#myCarousel" data-slide-to="3"></img></a>
-    <a href=""><img src="/images/asthestarsfall.jpg" data-target="#myCarousel" data-slide-to="4"></img></a>
-    <a href=""><img src="/images/Fly_Pluche.jpg" data-target="#myCarousel" data-slide-to="5"></img></a>
-    <a href=""><img src="/images/Softrabbit.jpg" data-target="#myCarousel" data-slide-to="6"></img></a>
-    <a href=""><img src="/images/cwt.jpg" data-target="#myCarousel" data-slide-to="7"></img></a>
-</div><br>
-<div id="myCarousel">
-    
-	<div>
-        <div>
-            <a href="https://focus.akasaki.space/">
-                <img src="/images/akasaki.png" alt="Akasaki Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    Miya Akasaki
-                </h3>
-                <p>
-                    Rubbish CVer | Poor LaTex speaker | Half stack developer | 键圈躺尸砖家
-                </p>
-                <p>
-                    Comment: 我的大学学长(同时也确实是同学)，曾担任我社2019级技术副主席，而我是他的接班人，此外他还是科协F4成员之一。他是个非常厉害的大佬，看的东西做的东西都很硬核(各种意义上的)，而且拿奖拿到手软，学院里的老师都很器重他。迄今为止我知道他精通Java、C/C++、React等语言，会并发与异步等高级编程技术，并且懂一些底层的原理，我所学到的底层原理大多都是从他这里来的。他从安卓开发到游戏开发再到机器学习都有所涉猎，而且都有很高水平，现在他在学大前端(React)和深度学习。不只是技术上，他在生活上也很有自己的一套，是一位出色的艺术家。顺便提一下，他的交际圈也很广(超出我理解范围的那种广)，而且他在游戏上也特别能卷。非常感谢他教会我很多东西，不嫌弃我还愿意带我玩。
-                </p>
-            </div>
-        </div>
-        <div>
-            <a href="https://memo.pommespeter.space">
-                <img src="/images/54879512.png" alt="PommesPeter Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    Pommes Peter
-                </h3>
-                <p>
-                    Hey Guys! Welcome to my repositories.Hope you guys enjoy it. Blessed with good gredients.
-                </p>
-                <p>
-                    Comment: 我的大学学长，曾担任我社2019级软件部副部长，科协F4成员之一。他的研究领域是基于深度学习的低照度增强。在他有女朋友之前，他是我交流得最多的学长。在软工学习中我遇到的各种困难凡是实在解决不了的都找他，他总是可以很出色地完成，另外，他有个称号叫“软工之爹”，是个经常翻看Linux系统内核源码的硬核男人。他是我专业学习和方向学习的启蒙导师，就是他启发了我去做各学科各知识点的组装与联系。他还教过我操作系统、异步与并发等很多实用的知识，他甚至可以做到深入浅出让我理解重难点。因为他的口头禅是“啊这”，所以我总是戏称他“谢啊这”。没有他的帮助，也就没有今天的我，感谢他带我玩带我飞，让我体会到了世界的精彩。
-                </p>
-            </div>
-        </div>
-        <div>
-            <a href="https://blog.keter.top">
-                <img src="/images/coronaPolvo.jpg" alt="coronaPolvo Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    And Sonder
-                </h3>
-                <p>
-                    life is but a span, I use python
-                </p>
-                <p>
-                    Comment: 我的大学学长，曾担任我社2019级软件部部长，是科协F4成员之一。他专注于研究机器学习的对抗攻击，科研能力特别强，而且技术水平也非常高，大大小小的比赛打了个遍，都拿奖拿到手软，甚至到了人在家中坐，奖从天上来的地步。他是我在机器学习方向上的带路人，每当我陷入迷茫困苦的时候他会点拨我，能给我一个比较好的答案。我和他都是机器学习方向上的领域开拓者，不过他有成果了，我还没有。他是个很阔气的大老板，从我入社到现在已经请过我好几杯奶茶了，每次请奶茶的时候还和我聊未来规划，聊人生，在他有女朋友之前我们还经常这样。在社内我们常称他为卢院士。很感谢他非常看重我，认可我，还经常鼓励我。
-                </p>
-            </div>
-        </div>
-        <div>
-            <a href="https://blog.zerorains.top">
-                <img src="/images/zerorains.png" alt="ZeroRains Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    Zero Rains
-                </h3>
-                <p>
-                    I want to be strong. But it seems so hard.
-                </p>
-                <p>
-                    Comment: 我的大学学长，曾担任我社2019级机器学习方向负责人，是科协F4成员之一。他专注于研究计算机视觉的语义分割，他虽然有点凶，但待人确实亚萨西，我有不会的都找他。他的二刺螈浓度已经是登峰造极的境界，甚至是在座各位毕生仅见的程度。
-                </p>
-            </div>
-        </div>
-        <div>
-            <a href="https://asthestarsfalll.icu">
-                <img src="/images/asthestarsfall.jpg" alt="As the Stars Fall Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    As the Stars Fall
-                </h3>
-                <p>
-                    Be vigilant to the superiority of knowledge
-                </p>
-                <p>
-                    Comment: 我的大学同学，是个很有个性的人，有时候有些孩子气。他的研究领域是深度学习的轻量化网络设计和图像分割，技术能力很强。
-                </p>
-            </div>
-        </div>
-        <div>
-            <a href="https://fly-pluche.github.io">
-                <img src="/images/Fly_Pluche.jpg" alt="FlyPluche Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    Fly Pluche
-                </h3>
-                <p>
-                    The man is too lazy to introduce himself.
-                </p>
-                <p>
-                    Comment: 我的大学同学，现担任我社20级软件部部长。他的研究领域是机器学习的对抗攻击领域。他是一个实力很强的大佬，我比较期待他在未来某一天能带我起飞。
-                </p>
-            </div>
-        </div>
-        <div>
-            <a href="https://www.cnblogs.com/whitebunny/">
-                <img src="/images/Softrabbit.jpg" alt="柔小兔 Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    柔小兔
-                </h3>
-                <p>
-                    Return Home海压竹枝低复举，风吹山角晦还明
-                </p>
-                <p>
-                    Comment: 我的大学同学，是隔壁学院（材料与科学学院）转来的，平时交流很少，我只知道她在做后端开发。
-                </p>
-            </div>
-        </div>
-        <div>
-            <a href="https://blog.csdn.net/qq_51415601">
-                <img src="/images/cwt.jpg" alt="野er Blog"></img>
-            </a>
-            <div>
-                <h3>
-                    野er
-                </h3>
-                <p>
-                    心有猛虎，细嗅蔷薇
-                </p>
-                <p>
-                    Comment: 我的大学同学，同时也是我的舍友。虽然平时我不在宿舍，但我和他聊天还蛮投缘的。他有志于学习大数据技术，不过有些佛系还有点懒。
-                </p>
-            </div>
-        </div>
-    </div>
-        
-    <a href="#myCarousel" role="button" data-slide="prev">
-        <span aria-hidden="true"></span>
-        <span>Previous</span>
-    </a>
-    <a href="#myCarousel" role="button" data-slide="next">
-        <span aria-hidden="true"></span>
-        <span>Next</span>
-    </a>
-</div>
-<link rel="stylesheet" href="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
-<script src="https://cdn.staticfile.org/jquery/2.1.1/jquery.min.js"></script>
-<script src="https://cdn.staticfile.org/twitter-bootstrap/3.3.7/js/bootstrap.min.js"></script>]]></content:encoded>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -17537,7 +17339,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17546,10 +17348,244 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 03 May 2022 07:57:23 GMT</pubDate>
+      <pubDate>Sun, 08 May 2022 17:23:30 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>数据库的关系与关系代数</title>
+      <link>https://breezeshane.github.io/Database/RelationalAlgebra/</link>
+      <guid>https://breezeshane.github.io/Database/RelationalAlgebra/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">数据库的关系与关系代数</source>
+      <pubDate>Thu, 07 Apr 2022 14:08:53 GMT</pubDate>
+      <content:encoded><![CDATA[<details><summary>参考</summary>
+<ol>
+<li><a href="https://blog.csdn.net/cnds123/article/details/39827049" target="_blank" rel="noopener noreferrer">外键约束详解及术语释疑</a></li>
+<li><a href="https://blog.csdn.net/weixin_44915226/article/details/105711836" target="_blank" rel="noopener noreferrer">关系型数据库的三类完整性约束</a></li>
+<li><a href="https://blog.csdn.net/qq_32623363/article/details/87911560" target="_blank" rel="noopener noreferrer">数据库关系模型的三类完整性约束</a></li>
+<li><a href="https://owen027.github.io/2019/09/19/integrity_constraint_of_relational/" target="_blank" rel="noopener noreferrer">关系数据模型要素三 关系完整性约束</a></li>
+<li><a href="https://kjhhhh.github.io/2021/03/07/%E6%95%B0%E6%8D%AE%E5%BA%93%E5%85%B3%E7%B3%BB%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/" target="_blank" rel="noopener noreferrer">数据库系统的关系数据结构</a></li>
+<li><a href="https://owen027.github.io/2019/09/09/relation_data_model/" target="_blank" rel="noopener noreferrer">关系数据模型要素一 （关系数据结构）</a></li>
+<li><a href="https://segmentfault.com/a/1190000017295639" target="_blank" rel="noopener noreferrer">数据库学习--关系模式</a></li>
+<li><a href="https://blog.csdn.net/u014698348/article/details/46923587" target="_blank" rel="noopener noreferrer">数据库中几个基本概念 主码 外码</a></li>
+<li><a href="https://blog.csdn.net/qq_35293120/article/details/105413418" target="_blank" rel="noopener noreferrer">数据库中的候选码、主码、全码、外码、主属性</a></li>
+<li><a href="https://zh.wikipedia.org/wiki/%E5%85%B3%E7%B3%BB%E4%BB%A3%E6%95%B0_(%E6%95%B0%E6%8D%AE%E5%BA%93)" target="_blank" rel="noopener noreferrer">关系代数 (数据库)</a></li>
+<li><a href="https://www.csdn.net/tags/MtjacgwsODc0My1ibG9n.html" target="_blank" rel="noopener noreferrer">利用SQL语言进行结果运算与聚集运算</a></li>
+<li><a href="https://www.jianshu.com/p/5e1f9b8a2ec9" target="_blank" rel="noopener noreferrer">SQL——聚集函数</a></li>
+<li><a href="https://billc.io/2020/04/latex-relational-algebra/" target="_blank" rel="noopener noreferrer">数据库常用关系代数符号在 LaTeX 中的表示</a></li>
+<li><a href="https://blog.csdn.net/FallingU/article/details/78955707" target="_blank" rel="noopener noreferrer">数据库Schema模式的理解——模式与数据库的区别</a></li>
+<li><a href="https://www.ibm.com/docs/zh/was/9.0.5?topic=language-aggregation-functions" target="_blank" rel="noopener noreferrer">聚集函数 - IBM</a></li>
+<li><a href="https://blog.csdn.net/Gosick_Geass_Gate/article/details/85794100" target="_blank" rel="noopener noreferrer">数据库关系代数的聚集函数</a></li>
+<li><a href="./cnblogs.com/xzxl/p/10742584.html">第9讲：结果计算与聚集计算</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Tuple#Tuples_as_nested_ordered_pairs" target="_blank" rel="noopener noreferrer">Tuple - Wikipedia</a></li>
+<li><a href="https://blog.csdn.net/doiit/article/details/89068580" target="_blank" rel="noopener noreferrer">MDX查询学习笔记1-元组和集合</a></li>
+<li><a href="https://stackoverflow.com/questions/751264/what-does-the-term-tuple-mean-in-relational-databases" target="_blank" rel="noopener noreferrer">What does the term &quot;Tuple&quot; Mean in Relational Databases?</a></li>
+<li><a href="https://sqtds.github.io/2014/10/26/2014/mondrian-source-code-2/" target="_blank" rel="noopener noreferrer">mondrian 源码解读（二）-MDX</a></li>
+<li><a href="https://www.bianchengquan.com/article/359307.html" target="_blank" rel="noopener noreferrer">多维数据表达式MDX笔记</a></li>
+</ol>
+</details>
+<h2 id="关系数据结构"> 关系数据结构</h2>
+<p><strong>候选码</strong>: 能够唯一标识一条记录的最小属性集. 若关系中的一个属性或属性组的值能够唯一地标识一个元组, 且他的真子集不能唯一的标识一个元组, 则称这个属性或属性组做候选码.</p>
+<p><strong>主码</strong>: 主码指主关键字. 主关键字(Primary key)是表中的一个或多个字段, 它的值用于唯一地标识表中的某一条记录. 在两个表的关系中, 主关键字用来在一个表中引用来自于另一个表中的特定记录. 主关键字是一种唯一关键字, 表定义的一部分. 一个表的主键可以由多个关键字共同组成, 并且主关键字的列不能包含空值.</p>
+<p><strong>全码</strong>: 关系模型的所有属性组组成该关系模式的候选码, 称为全码.</p>
+<p><strong>外码</strong>: 若关系中的某个属性是其他关系中的主码, 则这个属性称为外码.</p>
+<p><strong>主属性</strong>: 包含在任一候选码中的属性称主属性.</p>
+<p><strong>非主属性</strong>: 不包含在任何侯选码中的属性称为非主属性(Non-Prime attribute)或非码属性(Non-key attribute)</p>
+<div><p>注意</p>
+<p>主码是唯一标识, 候选码是可以作为主码的码, 主码一定是候选码的子集, 但候选码不一定是主码.</p>
+</div>
+<p><strong>关系模式</strong>: 关系模式（Relation Schema）是对关系的描述,它可以形式化地表示为: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.02778em;">D</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>d</span><span>o</span><span>m</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.13889em;">F</span><span>)</span></span></span></span>. 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>为关系名, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>为组成该关系的属性名集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">D</span></span></span></span>为属性组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>中属性所来自的域, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>d</span><span>o</span><span>m</span></span></span></span>为属性向域的映象集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>为属性间数据的依赖关系集合.</p>
+<p>通常简记为: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>或<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>)</span></span></span></span>, 其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>为关系名, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>为属性名集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>为各属性名.</p>
+<p><strong>关系数据库</strong>: 在一个给定的应用领域中, 所有关系的集合构成一个关系数据库</p>
+<h2 id="关系数据模型"> 关系数据模型</h2>
+<h3 id="关系完整性约束"> 关系完整性约束</h3>
+<p>关系模型中有三类完整性约束, 分别是: 实体完整性, 参照完整性, 用户定义完整性.</p>
+<h4 id="实体完整性"> 实体完整性</h4>
+<p><strong>定义</strong>: 实体完整性是用于保证关系数据库中每个元组都是可区分的, 唯一的.</p>
+<div><p>提示</p>
+<p>若属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>是基本关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的主属性, 则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>A</span></span></span></span>不能取空值<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>NULL</span></span></span></span></span>.</p>
+</div>
+<h4 id="参照完整性"> 参照完整性</h4>
+<p>参照完整性约束就是定义外码和主码之间的引用规则, 是对关系间引用数据的一种限制.</p>
+<p>若属性（属性组）<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>是基本关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>的外码, 它与基本关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>的主码<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>对应, 那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中每个元组在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>上的值要么取<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>NULL</span></span></span></span></span>, 要么等于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>中对应元组的主码值. <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>可以是不同的关系, 也可以是同一关系.</p>
+<details><summary>为什么可以是同一关系?</summary>
+<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+</details>
+<h4 id="用户定义完整性"> 用户定义完整性</h4>
+<p>此约束是针对某一应用环境的完整性约束条件, 反映了某一具体应用所涉及的数据应满足的要求. 关系模型提供定义和检验的机制, 此类规则一般在建立数据库表的同时进行定义, 如果某些条件未建立在库表一级, 则应在各个模块的具体编程中通过程序进行检查和控制.</p>
+<h3 id="关系操作"> 关系操作</h3>
+<p>数据库的关系操作如下:</p>
+<ul>
+<li>
+<p><strong>查询</strong>: 选择、投影、连接、除、并、差、交、笛卡尔积.</p>
+</li>
+<li>
+<p><strong>数据更新</strong>: 插入、删除、修改.</p>
+</li>
+</ul>
+<p>其中选择、投影、并、差、笛卡尔积是五种基本操作.</p>
+<div><p>关系运算符</p>
+<table>
+<thead>
+<tr>
+<th style="text-align:center">符号</th>
+<th style="text-align:center">含义</th>
+<th style="text-align:center">符号</th>
+<th style="text-align:center">含义</th>
+<th style="text-align:center">符号</th>
+<th style="text-align:center">含义</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>×</span></span></span></span></td>
+<td style="text-align:center">笛卡尔积</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>÷</span></span></span></span></td>
+<td style="text-align:center">除</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟖</span></span></span></span></td>
+<td style="text-align:center">右外连接</td>
+</tr>
+<tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∪</span></span></span></span></td>
+<td style="text-align:center">并</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.00001em;vertical-align:-0.25001em;"></span><span style="position:relative;top:-0.0000050000000000050004em;">∏</span></span></span></span></td>
+<td style="text-align:center">投影</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟗</span></span></span></span></td>
+<td style="text-align:center">全外连接</td>
+</tr>
+<tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∩</span></span></span></span></td>
+<td style="text-align:center">交</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.03588em;">σ</span></span></span></span></td>
+<td style="text-align:center">选择</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66334em;vertical-align:-0.08167em;"></span><span>⋉</span></span></span></span></td>
+<td style="text-align:center">左半连接</td>
+</tr>
+<tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>−</span></span></span></span></td>
+<td style="text-align:center">差</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>ρ</span></span></span></span></td>
+<td style="text-align:center">重命名</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66334em;vertical-align:-0.08167em;"></span><span>⋊</span></span></span></span></td>
+<td style="text-align:center">右半连接</td>
+</tr>
+<tr>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.51em;vertical-align:-0.005em;"></span><span>⋈</span></span></span></span></td>
+<td style="text-align:center">连接</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0em;vertical-align:0em;"></span><span>⟕</span></span></span></span></td>
+<td style="text-align:center">左外连接</td>
+<td style="text-align:center"><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.46528em;vertical-align:0em;"></span><span>▹</span></span></span></span></td>
+<td style="text-align:center">反连接/反半连接</td>
+</tr>
+</tbody>
+</table>
+</div>
+<p>大多运算我们都很熟悉, 在此不作赘述. 我们特别地讲解投影, 除, 选择, 连接和重命名.</p>
+<p><strong>选择</strong>:</p>
+<p>在关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中选择满足给定条件的元组:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.03588em;">σ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.07153em;">C</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07153em;">C</span><span>(</span><span>t</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>true</span></span><span>}</span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">C</span></span></span></span>是一个逻辑表达式, 表示选择条件, 基本形式是: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">Xθ</span><span style="margin-right:0.22222em;">Y</span></span></span></span>. 这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">θ</span></span></span></span>表示比较关系.</p>
+<p><strong>投影</strong>:</p>
+<p>从<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中选择出若干属性列组成新的关系:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>Π</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>[</span><span>L</span><span>]</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>}</span></span></span></span></span></p>
+<p>其中, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>L</span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中的属性(属性组).</p>
+<p><strong>重命名</strong>:</p>
+<p>重命名关系或属性:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.1052em;vertical-align:-0.3551999999999999em;"></span><span><span>ρ</span><span><span><span><span style="height:0.34480000000000005em;"><span style="top:-2.5198em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span style="margin-right:0.05764em;">S</span><span>(</span><span><span>A</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span><span>,</span><span><span>A</span><span><span><span><span style="height:0.31731428571428577em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span><span>,</span><span>…</span><span>,</span><span><span>A</span><span><span><span><span style="height:0.16454285714285719em;"><span style="top:-2.357em;margin-left:0em;margin-right:0.07142857142857144em;"><span style="height:2.5em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.143em;"><span></span></span></span></span></span></span><span>)</span></span></span></span></span><span>​</span></span><span><span style="height:0.3551999999999999em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.00773em;">R</span><span>)</span></span></span></span></span></p>
+<p>将关系R重命名为S, 属性依次重命名为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>A</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>.</p>
+<p><strong>元组连接</strong>:</p>
+<p>若存在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>目关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>目关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76508em;vertical-align:-0.15em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76508em;vertical-align:-0.15em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>, 则我们有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.66666em;vertical-align:-0.08333em;"></span><span>m</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>列的元组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.0650799999999998em;vertical-align:-0.15em;"></span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
+-11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span>, 其中前<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>个属性为关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>中的属性, 后<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>n</span></span></span></span>个属性为关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>中的属性.</p>
+<div><p>提示</p>
+<p>笛卡尔积可以用连接写成如下形式:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.16508em;vertical-align:-0.25em;"></span><span>{</span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
+-11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span><span>∣</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.76508em;vertical-align:-0.15em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>}</span></span></span></span></span></p>
+</div>
+<p><strong>条件连接</strong>:</p>
+<p>从两个(或多个)关系的笛卡尔积中选取属性间满足指定条件的元组:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span><span>⋈</span><span><span><span><span style="height:0.33610799999999996em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>A</span><span style="margin-right:0.05017em;">θB</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.16508em;vertical-align:-0.25em;"></span><span>{</span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
+-11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span><span>∣</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span>A</span><span>]</span><span style="margin-right:0.02778em;">θ</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]}</span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">θ</span></span></span></span>表示比较关系.</p>
+<p>特别地, 当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">θ</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.36687em;vertical-align:0em;"></span><span>=</span></span></span></span>时, 这样的连接叫作<strong>等值连接</strong>.</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span><span>⋈</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>A</span><span>=</span><span style="margin-right:0.05017em;">B</span></span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.16508em;vertical-align:-0.25em;"></span><span>{</span><span><span><span><span style="height:0.9150799999999999em;"><span style="top:-3em;"><span style="height:3em;"></span><span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span><span style="top:-3.61508em;"><span style="height:3em;"></span><span style="height:0.3em;"><svg xmlns="http://www.w3.org/2000/svg" width='100%' height='0.3em' viewBox='0 0 2364 300' preserveAspectRatio='none'><path d='M1181 0h2l1171 176c6 0 10 5 10 11l-2 23c-1 6-5 10
+-11 10h-1L1182 67 15 220h-1c-6 0-10-4-11-10l-2-23c-1-6 4-11 10-11z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span><span>∣</span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span>A</span><span>]</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]}</span></span></span></span></span></p>
+<p>等值连接中还有特殊的连接叫作<strong>自然连接</strong>. 自然连接是: 默认进行比较的分量是两个关系中相同的属性组, 并且在查询结果中去掉重复的属性列的等值连接.</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68833em;vertical-align:-0.005em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>⋈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.65418em;vertical-align:-0.0391em;"></span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span>是对于二元关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>为真的谓词, 当且仅当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>是函数二元关系.</p>
+<div><p>提示</p>
+<p>请多注意<strong>等值连接</strong>和<strong>自然连接</strong>两个定义式之间的区别, 去掉重复的属性列是体现在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span>t</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>s</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>[</span><span style="margin-right:0.05017em;">B</span><span>]</span></span></span></span>上的.</p>
+</div>
+<p><strong>外连接</strong>:</p>
+<ul>
+<li>
+<p><strong>左外连接</strong>: 结果集包括R的所有行, 而不仅仅是连接列所匹配的行. 如果R的某行在S中没有匹配行, 则在相关联的结果集行中右表的所有选择列表列均为空值, 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span>⟕</span><span style="margin-right:0.05764em;">S</span></span></span></span>.</p>
+<p>形式化定义为:</p>
+</li>
+<li>
+<p><strong>右外连接</strong>: 结果集包括S的所有行, 而不仅仅是连接列所匹配的行. 如果S的某行在R中没有匹配行, 则在相关联的结果集行中左表的所有选择列表列均为空值, 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span>⟖</span><span style="margin-right:0.05764em;">S</span></span></span></span></p>
+</li>
+</ul>
+<details><summary>课外知识</summary>
+<p>与外连接相像的连接是<strong>半连接</strong>, 半连接也分左半连接和右半连接.</p>
+<p>左半连接的形式化定义如下:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.765em;vertical-align:-0.08167em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>⋉</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span>是对于二元关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>为真的谓词, 当且仅当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>是函数二元关系.</p>
+<p>同理, 右半连接的形式化定义为:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.765em;vertical-align:-0.08167em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>⋊</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>s</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.00773em;">R</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.05764em;">S</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
+<p>其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span style="margin-right:0.02778em;">r</span><span>)</span></span></span></span>是对于二元关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>为真的谓词, 当且仅当<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>是函数二元关系.</p>
+<p>相应地, 我们还有<strong>反连接</strong>的概念, 形式化定义如下:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>▹</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span>t</span><span>∣</span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.73354em;vertical-align:-0.0391em;"></span><span>¬∃</span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.10764em;">f</span><span>(</span><span>t</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)}</span></span></span></span></span></p>
+<p>另外, 反连接还可以定义为半连接的补集, 形式化定义如下:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>▹</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.765em;vertical-align:-0.08167em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>⋉</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span></span></p>
+<p>为此反连接有时叫做反半连接.</p>
+</details>
+<p><strong>除运算</strong>:</p>
+<p>形式化定义为:</p>
+<p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>÷</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span><span>{</span></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span><span><span><span><span><span style="height:1.1619950000000001em;"><span style="top:-1.9659950000000004em;"><span style="height:2.61601em;"></span><span><span>∣</span></span></span><span style="top:-2.5639950000000002em;"><span style="height:2.61601em;"></span><span style="height:0.61601em;width:0.333em;"><svg xmlns="http://www.w3.org/2000/svg" width='0.333em' height='0.61601em' style='width:0.333em' viewBox='0 0 333 616' preserveAspectRatio='xMinYMin'><path d='M145 0 H188 V616 H145z M145 0 H188 V616 H145z'/></svg></span></span><span style="top:-3.1720050000000004em;"><span style="height:2.61601em;"></span><span><span>∣</span></span></span></span><span>​</span></span><span><span style="height:0.6500149999999999em;"><span></span></span></span></span></span></span><span>t</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>∧</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.73354em;vertical-align:-0.0391em;"></span><span>∀</span><span>s</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1.80002em;vertical-align:-0.65002em;"></span><span style="margin-right:0.05764em;">S</span><span><span>(</span></span><span>(</span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>s</span><span>)</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:2.40003em;vertical-align:-0.95003em;"></span><span style="margin-right:0.00773em;">R</span><span><span>)</span></span><span><span>}</span></span></span></span></span></span></p>
+<p>这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></span>是唯一于R的属性名字的集合, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.61508em;vertical-align:0em;"></span><span>t</span></span></span></span>到这个集合的限制(投影).</p>
+<details><summary>理解有困难?</summary>
+<p>应该注意到, 这里的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.61508em;vertical-align:0em;"></span><span>t</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span></span></span></span>都是被视作集合的, 因此进行运算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span><span style="margin-right:0.2222222222222222em;"></span><span>∪</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span></span></span></span>后得到的是合并两个行后得到的新行, 如果这个新行仍然属于关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>, 而且这一运算对每一行<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>s</span></span></span></span>都能成立的话, 这个行的投影<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>t</span><span>[</span><span><span>a</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span>…</span><span style="margin-right:0.16666666666666666em;"></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>a</span><span><span><span><span style="height:0.151392em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>n</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>]</span></span></span></span>是集合<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.76666em;vertical-align:-0.08333em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2222222222222222em;"></span><span>÷</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.05764em;">S</span></span></span></span>的一个元素.</p>
+<p>关于元组与行的含义, 在<a href="https://stackoverflow.com/questions/751264/what-does-the-term-tuple-mean-in-relational-databases" target="_blank" rel="noopener noreferrer">StackOverflow</a>上可以看到相关描述:</p>
+<blockquote>
+<p>However, a row is not a tuple. Tuples are unordered sets of known values with names.</p>
+<p>A row is an ordered set of known or unknown values with names (although they may be omitted).</p>
+</blockquote>
+<p>而且相关的说法我们也能在<a href="https://en.wikipedia.org/wiki/Tuple#Tuples_as_nested_ordered_pairs" target="_blank" rel="noopener noreferrer">Wiki</a>上找到.</p>
+<p>因此, 我们应该明白, 元组是无序集合, 而具体的行则是有序集合.</p>
+</details>
+<h3 id="扩展的关系代数操作符"> 扩展的关系代数操作符</h3>
+<p><strong>去重操作符</strong>: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.03785em;">δ</span><span>(</span><span>⋅</span><span>)</span></span></span></span>用于去除关系中重复的元组.</p>
+<p><strong>排序操作符</strong>: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.1132em;">τ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.1132em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>⋅</span><span>)</span></span></span></span>用于给关系进行关于属性(属性组)<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>L</span></span></span></span>的排序.</p>
+<p><strong>分组操作符</strong>: <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.05556em;">γ</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.05556em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>L</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span>⋅</span><span>)</span></span></span></span>用户将关系按照属性(属性组)<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>L</span></span></span></span>的值进行分组, 针对每一个分组产生新的元组.</p>
+<p><strong>聚集操作符</strong>: 多数数据库包括五个聚集函数, 这些运算是Sum、Count、Average、Maximum和Minimum.</p>
+<h3 id="关于sql聚集函数要注意的语法问题"> 关于SQL聚集函数要注意的语法问题</h3>
+<ol>
+<li>当SQL查询使用分组的时候, 需要保证出现在<code>select</code>语句中但没有被聚集的属性只能是出现在<code>group by</code>子句中的那些属性, 任何没有出现在<code>group by</code>子句中的属性如果出现在<code>select</code>子句中的话, 它只能出现在聚集函数的内部, 否则这样的查询就是错误的.</li>
+<li>任何出现在<code>having</code>子句中, 但没有被聚集的属性必须出现在<code>group by</code>子句中, 否则查询就被当成是错误的.</li>
+</ol>
+<div><p>提示</p>
+<p>包含聚集、<code>group by</code>或者<code>having</code>子句(分组过滤子句)的查询的含义可通过下述操作序列定义:</p>
+<ol>
+<li>根据<code>from</code>子句计算出一个关系.</li>
+<li>如果出现<code>where</code>子句, <code>where</code>子句的谓词将应用到<code>from</code>子句的结果上.</li>
+<li>如果出现<code>group by</code>子句, 满足<code>where</code>子句的元组通过<code>group by</code>子句形成分组. 如果没有<code>group by</code>子句, 满足<code>where</code>谓词的整个元组集被当做一个分组.</li>
+<li>如果出现<code>having</code>子句, 他将应用到每个分组上；不满足<code>having</code>子句谓词的分组将被抛弃.</li>
+<li><code>select</code>子句利用剩下的分组产生出查询结果中的元组, 即每个分组上应用聚集函数来得到单个关系元组.</li>
+</ol>
+</div>
+<p>顺便谈一个新手都容易犯的错误:</p>
+<div><pre><code><span>select</span> S <span>from</span> SC <span>where</span> Score <span>&lt;</span> <span>60</span> <span>and</span> <span>count</span><span>(</span><span>*</span><span>)</span> <span>></span> <span>2</span> <span>group</span> <span>by</span> S<span>;</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>起初我非常不理解这样为什么会行不通, 后来才知道, 这是因为where子句是对每一个元组进行条件过滤, 而聚集函数则是对一个分组(集合)进行条件过滤, 用途和针对的对象类型不一样, 故聚集函数不应出现在这里.</p>
+<div><p>having子句与where子句表达条件的区别</p>
+<ul>
+<li>对每一<strong>元组</strong>检查满足与否的条件要用where子句表达.</li>
+<li>对每一<strong>分组</strong>检查满足与否的条件要用having子句表达.</li>
+<li><code>having</code>子句需要<code>Group by</code>子句支持, 没有<code>Group by</code>子句的话就不能使用<code>having</code>子句.</li>
+</ul>
+</div>
+]]></content:encoded>
     </item>
   </channel>
 </rss>
