@@ -176,6 +176,8 @@ module.exports = config({
                 "openGauss",
                 "ShareConda",
                 "UUA",
+                "SystemSafety",
+
               ],
             },
             {
