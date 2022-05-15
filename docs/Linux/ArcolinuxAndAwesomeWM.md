@@ -615,7 +615,70 @@ awful.screen.connect_for_each_screen(function(s) beautiful.at_screen_connect(s)
 
 ### 配置桌面壁纸问题
 
-(还没修好呢，再等等吧……)
+::: details 参考资料
+
+1. [Nitrogen - Archwiki](https://wiki.archlinux.org/title/nitrogen)
+2. [xrandr - Archwiki](https://wiki.archlinux.org/title/xrandr)
+3. [Arch Linux下的外接显示器](https://codeantenna.com/a/oza5CQSPDi)
+4. [udev - Archwiki](https://wiki.archlinux.org/title/Udev#Execute_when_HDMI_cable_is_plugged_in_or_unplugged)
+5. [Xorg - Archwiki](https://wiki.archlinux.org/title/Xorg_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E4%BD%BF%E7%94%A8_.conf_%E6%96%87%E4%BB%B6)
+6. [Multihead - Archwiki](https://wiki.archlinux.org/title/Multihead_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E7%94%A8xrandr%E9%85%8D%E7%BD%AE)
+7. [Gtk-WARNING **: 22:21:47.873: cannot open display:1 / xhost : unable to open display:1](https://askubuntu.com/questions/1337680/gtk-warning-222147-873-cannot-open-display1-xhost-unable-to-open-dis/1337696#1337696?newreg=083e0066695b49ccbb9a3743503e04e2)
+
+:::
+
+::: info 前言
+
+现在我是正在使用三个电脑屏幕，左侧屏幕是垂直方向，右侧屏幕和下侧屏幕都是是水平方向，因为variety软件设置壁纸对多屏适应有些问题，我就卸载掉了variety，为了简便设置壁纸，就打算三个屏幕分别设置壁纸即可，又因为我存有的壁纸量比较大，于是打算采用随机抽取的方式去设置。过了很久才找到比较合适自己的解决方案。
+
+:::
+
+偶然心血来潮，翻看了一下系统的配置文件，然后意外发现nitrogen这个软件的存在，尝试使用之后发现它应该就是我希望的解决方案的关键。
+
+经过试用nitrogen之后暂时想到的比较朴素的做法是直接写一个脚本`wpch`来完成壁纸切换：
+```shell
+#!/bin/sh
+nitrogen --head=0 --random --set-zoom-fill /home/breezeshane/AppData/Wallpapers/Horizontal > /dev/null 2>&1
+nitrogen --head=1 --random --set-zoom-fill /home/breezeshane/AppData/Wallpapers/Horizontal > /dev/null 2>&1
+nitrogen --head=2 --random --set-zoom-fill /home/breezeshane/AppData/Wallpapers/Rotated > /dev/null 2>&1
+```
+然后我需要在终端运行这个脚本。
+
+这种方法确实操作起来有点麻烦，哪怕是我把脚本添加到环境变量之后可以直接使用`wpch`命令来执行脚本。是的，做到这里显然感觉还是不够方便。
+
+于是我想到暂时使用自动定时服务来代替我做这个事，正好可以自动化处理一下，于是执行`crontab -e`，添加如下语句：
+```shell
+* * * * * sh $HOME/Scripts/wpch
+```
+但不幸的是我发现毫无反应，通过`journalctl -f`监视活动三回之后才发现有个警告，查询了一下才知道，在执行nitrogen的时候它是不知道应该修改哪一个显示设置的，因此无法操作，查询了相关解决方案之后才知道，需要有一个环境变量来指定需要修改的显示设置，于是我在刚才的脚本中添加了一行语句：
+```shell
+export DISPLAY=:0
+```
+这样我的脚本最终的样子应该是这个：
+```shell
+#!/bin/sh
+export DISPLAY=:0
+nitrogen --head=0 --random --set-zoom-fill /home/breezeshane/AppData/Wallpapers/Horizontal > /dev/null 2>&1
+nitrogen --head=1 --random --set-zoom-fill /home/breezeshane/AppData/Wallpapers/Horizontal > /dev/null 2>&1
+nitrogen --head=2 --random --set-zoom-fill /home/breezeshane/AppData/Wallpapers/Rotated > /dev/null 2>&1
+```
+
+这样就可以自动多屏幕切换壁纸了。
+
+但是现在问题算解决了吗？不，其实还有一件事：当我尝试拔掉/插上HDMI和DP线的时候它并不会聪明地自动为我做适配。现在暂时想到的解决方案是写一个udev触发事件配置，使其在我插入/拔掉的时候触发执行我的脚本。
+
+创建文件`/etc/udev/rules.d/95-hdmi-plug.rules`，并向其中写入：
+```
+ACTION=="change",
+SUBSYSTEM=="drm",
+ENV{DISPLAY}=":0",
+ENV{XAUTHORITY}="/home/username/.Xauthority",
+RUN+="/home/breezeshane/Scripts/wpch"
+```
+
+保存后重新启动，这个脚本就可以正常运作了，但是在这里又遇到了新的问题：因为我要插入两根线，从开始插入到完成插入要持续比较长的时间，在这一段时间内，这个规则会被持续触发，换很多次壁纸，直到完成插入后两道三秒这样结束。
+
+我正在想这个问题该怎么解决。
 
 ### 修改主机名
 
@@ -1154,3 +1217,136 @@ extra/poppler-data 0.4.11-1 (2.0 MiB 12.3 MiB)
 4. 我后来安装什么东西时不经意把这个组件删掉了。
 
 :::
+
+### 开启休眠模式
+
+::: details 参考资料
+
+1. [Power management (简体中文)/Suspend and hibernate (简体中文) - Archwiki](https://wiki.archlinux.org/title/Power_management_(%E7%AE%80%E4%BD%93%E4%wang wB8%AD%E6%96%87)/Suspend_and_hibernate_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
+2. [ArchLinux 休眠到交换文件](https://harttle.land/2019/10/19/hibernate-archlinux.html)
+3. [Arch Linux Hibernates¶ - Cloud Atlas](https://cloud-atlas.readthedocs.io/zh_CN/latest/linux/arch_linux/archlinux_hibernates.html)
+4. [arch linux 启用休眠的具体步骤(hibernation)](https://blog.csdn.net/chenyiyue/article/details/79238487)
+
+:::
+
+::: info 前言
+
+因为我经常将电脑装入书包带回宿舍，做点事情之后合上盖子挂起，然后就去睡觉，这样第二天就总是会发现书包里热热的，而且电脑还没有电，往往此前有些东西没能来得及保存。这直接给我造成了损失和极大的不便，于是我说什么也要搞定休眠模式了。
+
+:::
+
+首先需要知道Linux支持三种挂起模式：
+1. suspend to RAM(也简称suspend)，做的是切断主机大多数部件的电源而保留RAM的电源。也就是说在这种模式下电脑仍旧会一点点消耗电池的电量，但比正常开机要更加省电得多。「我曾经使用的就是这个模式，前言部分也提到了这个模式」
+2. suspend to disk(又称hibernate)，是通过将内存内所有数据保存到swap分区/文件后切断所有电源，在开机的时候又会重新将swap分区/文件内数据复制到内存中。换句话说，该模式下电脑是完全不消耗电能的。
+3. suspend to both(也称hybrid suspend)，其实就是前两个模式结合一下，同时将主机状态保存到内存和硬盘中，如果电池电量充足，可以迅速开机反应运作，如果电量不足就会从硬盘恢复主机状态。可以把这个模式看作是suspend模式的保险版本，当电池耗尽的时候接上电源或者充一段时间的电，就可以从硬盘恢复主机状态，这样不论什么情况下你的工作内容都不会丢失。
+
+suspend模式和hibernate模式的优劣：
+ - suspend模式优点是可以迅速开机，反应快；缺点也很明显，就是仍旧需要消耗电能，尤其是在你的工作内容比较多、运行消耗比较大的时候，电能消耗也非常大，这不利于长时间放置。
+ - hibernate模式的优点是可以最大程度节省电源，有利于长时间放置；缺点同样明显，从硬盘恢复状态相对于suspend模式要慢。
+
+对于我个人来说，我是不喜欢在我不使用电脑的情况下仍要消耗电能的，往往当我需要使用的时候会发现笔记本电量所剩无几，这在我宿舍生活条件下是非常不利的，另外开机速度如何我本来无所谓，更何况其实hibernate模式恢复速度其实也不慢，因此我必然会选择使用hibernate模式。
+
+使用hibernate模式有两个选择：一是休眠到分区；二是休眠到文件。
+
+虽然分两个模式，其实两者本质上是差不多的。我就直接选择休眠到分区了。首先要自己准备好一个专门用来当作swap区使用的分区，一般大小有物理内存的60%就够，但我其实不差这点空间，所以直接和物理内存同样大小了。
+
+假设你划分好的盘是`/dev/sde4`，那么你需要依次执行如下操作：
+```shell
+mkswap /dev/sde4
+swapon /dev/sde4
+```
+这两个命令的意思就是你要在盘`/dev/sde4`上创建swap分区，然后开启使用这个swap分区。
+
+然后我们将该盘的信息添加到`/etc/fstab`中，使得开机可以自动挂载swap分区。
+```
+# <file system> <mount point> <type> <options> <dump> <pass>
+UUID={{ UUID }} /swap swap swap,defaults 0 0
+```
+> 虽然参考资料中写的type是none，这成功让我进入了12次Emergency Mode，但问题不大，只是类型不对，当我通过Gparted查看swap分区的信息时就了解到这里的type应该是swap。
+
+然后我们需要编辑`/etc/default/grub`，给内核添加参数：
+
+::: code-group
+
+::: code-group-item 第一种写法:active
+
+```
+GRUB_CMDLINE_LINUX_DEFAULT=".... resume=/dev/sde4"
+```
+
+:::
+
+::: code-group-item 第二种写法
+
+```
+GRUB_CMDLINE_LINUX_DEFAULT=".... resume=UUID={{ UUID }}"
+```
+
+:::
+
+:::
+
+接下来我们需要配置initramfs的resume钩子，编辑`/etc/mkinitcpio.conf`，找到`HOOKS=`，在其中添加：
+```
+HOOKS="base udev resume autodetect modconf block keyboard keymap consolefont filesystems"
+```
+
+::: warning 注意
+
+resume要放在filesystems之前。如果有lvm一项，则resume要放在lvm之后。
+
+:::
+
+最后我们要更新配置，分别执行以下命令：
+```shell
+sudo grub-mkconfig -o /boot/grub/grub.cfg
+sudo mkinitcpio -P
+```
+
+然后我们重启一下电脑，就可以使用命令：`systemctl hibernate`了。
+
+### 开机自动适配屏幕模式
+
+::: details 参考资料
+
+1. [Arch Linux下的外接显示器](https://codeantenna.com/a/oza5CQSPDi)
+2. [Xorg (简体中文) - Archwiki](https://wiki.archlinux.org/title/Xorg_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87)#%E4%BD%BF%E7%94%A8_.conf_%E6%96%87%E4%BB%B6)
+
+:::
+
+虽然我有`autorandr`这个非常好用的高层API软件，但是它在开机的时候却是一点办法都没有。如果我在开机之前就已经插好线了，那么从开机到正常使用一直都是默认向右扩展，而不是按照我习惯的配置模式，每次到这里我还必须要手动执行`autorandr --load`才能恢复正常。虽然这两个资料是我在解决壁纸问题时的参考资料，但实际上它们也启发我去尝试解决这个问题了。
+
+> Arch提供了位于`/usr/share/X11/xorg.conf.d`的默认配置文件。通常情况下，用户无需进行额外的配置与修改即可正常使用。
+> Xorg 使用名为`xorg.conf`的配置文件和后缀为`.conf`的文件作为它的初始设置。这些文件的位置的完整列表可以在[xorg.conf(5)](https://man.archlinux.org/man/xorg.conf.5)中找到，其中还附有全部可用选项的详尽解释。
+> `/etc/X11/xorg.conf.d/`目录保存主机特有设置，你可以创建自己的配置文件，需要以`XX-`开头(两个数字和一个连接符)并以`.conf`结尾。X服务器启动是会解析这些文件，将其视为`xorg.conf`的一部分进行处理。如果配置之间有冲突，将会使用最后被处理的文件。所以通用的设置应该放到前面。最后会解析`xorg.conf`文件。
+
+Archwiki在这里已经把配置文件的作用说得足够明确了，剩下就是需要我们去写这个配置文件了。
+```
+Section "Monitor"
+	Identifier "eDP-1"
+	Option "Primary" "true"
+	Option "DPMS" "true"
+	Option "PreferredMode" "1920x1080_60.01"
+    	Option "Position" "1080 1080"
+EndSection
+
+Section "Monitor"
+	Identifier "DP-1"
+	Option "DPMS" "true"
+	Option "PreferredMode" "1920x1080_60.00"
+	Option "LeftOf" "eDP1"
+    	Option "Position" "0 0"
+	Option "Rotate" "left"
+EndSection
+
+Section "Monitor"
+	Identifier "HDMI-1"
+	Option "DPMS" "true"
+	Option "PreferredMode" "1920x1080_60.00"
+	Option "Above" "eDP1"
+    	Option "Position" "1080 0"
+EndSection
+```
+目前我是按照这个配置文件来写的，其实语法什么的也比较简单，`xrandr`怎么写命令，在这里就要怎么写配置，还算比较容易。
+
+不过新的问题也出现了：开机的时候DP-1端口的分辨率输出有些异常，虽然配置文件是$1920\times1080$，但实际执行后的分辨率却比这个小，我目前还没找到解决办法，估计是与系统的默认配置出现了冲突，恰好系统的配置覆盖掉了。
