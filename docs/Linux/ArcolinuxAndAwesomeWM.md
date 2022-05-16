@@ -1266,25 +1266,19 @@ UUID={{ UUID }} /swap swap swap,defaults 0 0
 
 然后我们需要编辑`/etc/default/grub`，给内核添加参数：
 
-:::: code-group
-
-::: code-group-item 第一种写法:active
-
+<CodeGroup>
+<CodeGroupItem title="第一种写法" active>
 ```
 GRUB_CMDLINE_LINUX_DEFAULT=".... resume=/dev/sde4"
 ```
+</CodeGroupItem>
 
-:::
-
-::: code-group-item 第二种写法
-
+<CodeGroupItem title="第二种写法">
 ```
 GRUB_CMDLINE_LINUX_DEFAULT=".... resume=UUID={{ UUID }}"
 ```
-
-:::
-
-::::
+</CodeGroupItem>
+</CodeGroup>
 
 接下来我们需要配置initramfs的resume钩子，编辑`/etc/mkinitcpio.conf`，找到`HOOKS=`，在其中添加：
 ```
