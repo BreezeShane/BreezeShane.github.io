@@ -177,7 +177,7 @@ module.exports = config({
                 "ShareConda",
                 "UUA",
                 "SystemSafety",
-
+                "KeXieNetDisk",
               ],
             },
             {
