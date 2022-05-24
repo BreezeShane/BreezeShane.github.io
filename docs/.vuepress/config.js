@@ -155,10 +155,10 @@ module.exports = config({
                 "DataBase",
                 "RelationalAlgebra",
                 "MySQL",
-                "QueryOptimization",
+                "NormalForm",
+                // "QueryOptimization",
                 // "Trigger",
                 // "DatabaseSafety",
-                // "NormalForm",
               ],
             },
             {
