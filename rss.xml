@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 May 2022 02:49:37 GMT</pubDate>
-    <lastBuildDate>Tue, 24 May 2022 02:49:37 GMT</lastBuildDate>
+    <pubDate>Tue, 24 May 2022 13:18:27 GMT</pubDate>
+    <lastBuildDate>Tue, 24 May 2022 13:18:27 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -6270,19 +6270,6 @@ import torch as pd
 ]]></content:encoded>
     </item>
     <item>
-      <title>密码加密的文章</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
-      <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
-      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
-<p>实际的文章内容。</p>
-<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
-<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>组件禁用</title>
       <link>https://breezeshane.github.io/CourseOfBlog/guide/disable/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/disable/</guid>
@@ -6290,7 +6277,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6310,6 +6297,19 @@ import torch as pd
 ]]></content:encoded>
     </item>
     <item>
+      <title>密码加密的文章</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
+      <category>使用指南</category>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
+<p>实际的文章内容。</p>
+<p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
+<p>段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字段落 2 文字。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Markdown 增强</title>
       <link>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</guid>
@@ -6317,7 +6317,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6837,7 +6837,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6860,7 +6860,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6871,7 +6871,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6891,7 +6891,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6902,7 +6902,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8199,7 +8199,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -8893,13 +8893,23 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <li>所有非键字段都不能是候选键非全体字段的函数, 即每一个非主属性完全函数依赖于码.</li>
 </ul>
 <details><summary>分解算法</summary>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<p>设关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>，主键是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">W</span></span></span></span>，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>上还存在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>，并且Z是非主属性且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">W</span></span></span></span>，那么<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">W</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>就是一个局部依赖。此时应把<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>分解成两个模式：</p>
+<ul>
+<li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.07153em;">XZ</span><span>)</span></span></span></span>，主键是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>；</li>
+<li><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>(</span><span style="margin-right:0.10903em;">U</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.07153em;">Z</span><span>)</span></span></span></span>，主键仍是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">W</span></span></span></span>，外键为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>（参照<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>）。</li>
+</ul>
+<p>利用外键和主键的链接，可以重新得到<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>。如果<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>还不是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>2</span><span><span>NF</span></span></span></span></span>，重复上述过程，一直到每一个关系模式都是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>2</span><span><span>NF</span></span></span></span></span>为止。</p>
 </details>
 <h2 id="第三范式"> 第三范式</h2>
 <p><strong>简洁定义</strong>: 对于每个非平凡FD(函数依赖), 或者左边是超键, 或者右边仅由主属性构成.</p>
 <p><strong>第三范式</strong>(3NF)是数据库正规化所使用的正规形式, 要求所有非主键属性都只和候选键有相关性, 也就是说非主键属性之间应该是独立无关的.</p>
 <details><summary>分解算法</summary>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<p>首先对最小函数依赖集按照左部相同原则进行分组，然后计算左部<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.55556em;vertical-align:0em;"></span><span>∪</span></span></span></span>右部，</p>
+<p>然后看分组后的各子关系彼此有无包含关系，如果有就合并。</p>
+<p>最后看分出来的这些属性组是否至少有一组包含了码。</p>
+<blockquote>
+<p>如果包含码，就说明该分解操作是无损且保持函数依赖的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span>3</span><span><span>NF</span></span></span></span></span>，反之就不是了，这时候需要另外添加一个分组并加入码。</p>
+</blockquote>
 </details>
 <details><summary>证明例题</summary>
 <p>求证: 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72243em;vertical-align:-0.0391em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>∈</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>3</span><span><span>NF</span></span></span></span></span>, 则每一个非主属性既不部分依赖于码也不传递依赖于码.</p>
@@ -8919,7 +8929,13 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <li>R中不存在任何属性完全函数依赖于非码的一组属性.</li>
 </ul>
 <details><summary>分解算法</summary>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<ol>
+<li>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>0</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.13889em;">F</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">F</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>0</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span></li>
+<li>若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.00773em;">R</span></span></span></span>已经是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>BCNF</span></span></span></span></span>，则返回<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>{</span><span style="margin-right:0.00773em;">R</span><span>}</span></span></span></span>。</li>
+<li>若R存在BCNF违例，假设为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>。使用属性闭包算法计算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.771331em;vertical-align:0em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span>，选择<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.771331em;vertical-align:0em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span>作为关系模式，使用<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>包含属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>和不在<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.771331em;vertical-align:0em;"></span><span><span style="margin-right:0.07847em;">X</span><span><span><span><span style="height:0.771331em;"><span style="top:-3.063em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>+</span></span></span></span></span></span></span></span></span></span></span>中的属性。</li>
+<li>使用FD的投影算法计算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>的<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">F</span><span><span><span><span style="height:0.32833099999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span style="margin-right:0.02778em;">D</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>集，分别记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">F</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.13889em;">F</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.13889em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>。</li>
+<li>使用本算法递归地分解<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.83333em;vertical-align:-0.15em;"></span><span><span style="margin-right:0.00773em;">R</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.00773em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>。返回分解得到的结果集合。</li>
+</ol>
 </details>
 <h2 id="数据依赖的公理系统-armstrong公理系统"> 数据依赖的公理系统(Armstrong公理系统)</h2>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
@@ -8967,7 +8983,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <h2 id="总结"> 总结</h2>
 <div><p>以上各范式之间的联系</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>5NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>4NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>BCNF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>3NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>2NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>1NF</span></span></span></span></span></span></p>
-<Mermaid id="mermaid-64a552e0" data-code="flowchart%20TB%0AA%5B%221NF%22%5D%0AB%5B%222NF%22%5D%0AC%5B%223NF%22%5D%0AD%5B%22BCNF%22%5D%0AE%5B%224NF%22%5D%0AF%5B%225NF%22%5D%0A%0AA--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E9%83%A8%E5%88%86%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EB%0AB--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EC%0AC--%20%E6%B6%88%E5%8E%BB%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3ED%0AD--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E5%B9%B3%E5%87%A1%E4%B8%94%E9%9D%9E%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%E7%9A%84%E5%A4%9A%E5%80%BC%E4%BE%9D%E8%B5%96%20--%3E%20E%0AE--%20%E6%B6%88%E5%8E%BB%E4%B8%8D%E6%98%AF%E7%94%B1%E5%80%99%E9%80%89%E7%A0%81%E6%89%80%E8%95%B4%E5%90%AB%E7%9A%84%E8%BF%9E%E6%8E%A5%E4%BE%9D%E8%B5%96%20--%3E%20F%0A"></Mermaid></div>
+<Mermaid id="mermaid-64a551aa" data-code="flowchart%20TB%0AA%5B%221NF%22%5D%0AB%5B%222NF%22%5D%0AC%5B%223NF%22%5D%0AD%5B%22BCNF%22%5D%0AE%5B%224NF%22%5D%0AF%5B%225NF%22%5D%0A%0AA--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E9%83%A8%E5%88%86%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EB%0AB--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EC%0AC--%20%E6%B6%88%E5%8E%BB%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3ED%0AD--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E5%B9%B3%E5%87%A1%E4%B8%94%E9%9D%9E%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%E7%9A%84%E5%A4%9A%E5%80%BC%E4%BE%9D%E8%B5%96%20--%3E%20E%0AE--%20%E6%B6%88%E5%8E%BB%E4%B8%8D%E6%98%AF%E7%94%B1%E5%80%99%E9%80%89%E7%A0%81%E6%89%80%E8%95%B4%E5%90%AB%E7%9A%84%E8%BF%9E%E6%8E%A5%E4%BE%9D%E8%B5%96%20--%3E%20F%0A"></Mermaid></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -8975,7 +8991,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -9216,7 +9232,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -13705,7 +13721,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -16013,6 +16029,18 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <pubDate>Sun, 23 Jan 2022 01:12:20 GMT</pubDate>
     </item>
     <item>
+      <title>相关的简单运算</title>
+      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</link>
+      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">相关的简单运算</source>
+      <pubDate>Sun, 16 Jan 2022 20:59:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
+<h2 id="矩阵加法"> 矩阵加法</h2>
+<h2 id="矩阵乘法"> 矩阵乘法</h2>
+<h2 id="矩阵元素对应乘积"> 矩阵元素对应乘积</h2>
+]]></content:encoded>
+    </item>
+    <item>
       <title>向量范数与矩阵范数</title>
       <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/Norm/</link>
       <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/Norm/</guid>
@@ -16322,18 +16350,6 @@ s-109,-253,-109,-253c-72.7,-168,-109.3,-252,-110,-252c-10.7,8,-22,16.7,-34,26
 c-22,17.3,-33.3,26,-34,26s-26,-26,-26,-26s76,-59,76,-59s76,-60,76,-60z
 M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.25612499999999994em;"><span></span></span></span></span></span></span></span></span></span></span></p>
 </div>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>相关的简单运算</title>
-      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</link>
-      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">相关的简单运算</source>
-      <pubDate>Sun, 16 Jan 2022 20:59:30 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
-<h2 id="矩阵加法"> 矩阵加法</h2>
-<h2 id="矩阵乘法"> 矩阵乘法</h2>
-<h2 id="矩阵元素对应乘积"> 矩阵元素对应乘积</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -17629,7 +17645,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17663,7 +17679,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17673,7 +17689,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17698,7 +17714,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/links-1/</link>
       <guid>https://breezeshane.github.io/links/links-1/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<div>
     <div>
         <a href=""><img src="/Avatar/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
@@ -17879,17 +17895,10 @@ patch_request_class<span>(</span>app<span>)</span>
     </item>
     <item>
       <title>友人帐</title>
-      <link>https://breezeshane.github.io/links/links-2/</link>
-      <guid>https://breezeshane.github.io/links/links-2/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>友人帐</title>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -17926,7 +17935,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17935,10 +17944,17 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 24 May 2022 02:48:26 GMT</pubDate>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
+    </item>
+    <item>
+      <title>友人帐</title>
+      <link>https://breezeshane.github.io/links/links-2/</link>
+      <guid>https://breezeshane.github.io/links/links-2/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
+      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
