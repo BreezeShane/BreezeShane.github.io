@@ -712,13 +712,13 @@ URxvt.keysym.Control-Right:  \033[1;5C
 
 ::: danger 风险提示
 
-使用这个东西时应该做好心理准备，我使用一段时间后发现它有个缺陷，不知是什么时候，它就可能彻底锁死计算机。
+使用这个东西时应该做好心理准备，我使用一段时间的`Xscreensaver`后发现它有个缺陷，不知是什么时候，它就可能彻底锁死计算机。
 
 这里锁死的含义就是即使你输入了十分正确的密码，依旧会认为你输入错误。
 
-也正是这种原因，我弃用了这个锁屏。
+也正是这种原因，我弃用了这个锁屏程序。
 
-:::
+<details>
 
 如果希望能使用热键来锁定系统的话，需要稍微折腾一下，下载安装 `xscreensaver`，执行：`sudo pacman -S xscreensaver`，然后要编辑 `~/.xinitrc`文件，在结尾处添加：`xscreensaver -no-splash &`，并且需要在 `~/.Xresources`文件中寻找 `my_table.join`的字样，添加：
 
@@ -738,6 +738,69 @@ run xscreensaver -no-splash
 ```
 
 保存退出后即可自动启动该程序。
+
+<summary>之前采用的方案是什么？</summary>
+</details>
+
+:::
+
+后来我浏览到以下两个网站之后就来了思路了：
+ - [Your preferred way of locking the screen - reddit](https://www.reddit.com/r/awesomewm/comments/dabt30/your_preferred_way_of_locking_the_screen/)
+ - [i3/i3lock - GitHub](https://github.com/i3/i3lock)
+
+我从中第一次听说`i3lock`这个轻量级的锁屏程序，于是决定使用一下，意外地发现其实系统自带。
+
+于是我参照了官方文档，写了一个脚本用来配置锁屏样式：
+```shell
+#!/bin/sh
+
+image_path='/home/breezeshane/AppData/Wallpapers/Horizontal/wallhaven-1krqpv.png'
+
+i3lock --screen=1 \
+       --image=$image_path \
+       --nofork \
+       --fill \
+       --clock \
+       --indicator \
+       --radius 230 \
+       --date-str="%Y-%m-%d->%a" \
+       --date-color=#40de5a \
+       --date-size=30 \
+       --time-str="%H:%M:%S" \
+       --time-color=#c0ebd7 \
+       --time-size=100 \
+       --verif-text="Connecting to Neural Network…" \
+       --wrong-text="Connection Failed!" \
+       --noinput-text="no input" \
+       --lock-text="locking…" \
+       --lockfailed-text="lock failed!" \
+       --greeter-text="PTRS Working as Agent..." \
+       --greeter-color=#f2fdff \
+       --ignore-empty-password \
+```
+
+虽然当时我看到有`--slideshow-random-selection`这个选项，但是在我使用的时候发现它严重拖慢了锁屏的运行速度，所以才决定弃用。另外，如果不打算直接使用别人写的脚本而是自己做配置的话，有个比较好用的选项就是`--no-verify`，这样每次调整的时候都不必输入正确密码（虽然我是调整完后才发现的），不过记得调整好之后要去掉。
+
+写完这个脚本之后，我还希望通过快捷键来触发执行这个脚本，于是我编辑了`$HOME/.config/awesome/rc.lua`配置文件，修改以下部分，将想触发的事件添加到其中：
+```lua
+globalkeys = my_table.join(
+
+    -- {{{ Personal keybindings
+    awful.key({ modkey, "Shift" }, "l", function () awful.util.spawn_with_shell( "sh ~/Scripts/screen-lock.sh" ) end,
+    	{ description = "Screen lock", group = "global keys" }),
+    -- ……………………
+)
+```
+
+注意，要执行脚本，应该调用系统API`awful.util.spawn_with_shell`，如果调用`awful.util.spawn`是不会有任何响应的，可能是因为它们在底层实现不一样，这里我没细追究。
+
+最后重启一下AwesomeWM就可以正常使用快捷键锁屏了。
+
+::: tip 意外的发现
+
+我发现在这里即使是快捷键发生了冲突，AwesomeWM也不会做任何提示，而是直接使用最后的配置来覆盖掉前面冲突的配置，因此最开始我本是希望使用<kbd>Super</kbd>+<kbd>L</kbd>来实现的，结果和后面的移动鼠标到某一屏幕的相关快捷键冲突了，便只好修改。
+
+:::
 
 ### Virtual Machine Manager安装与配置
 

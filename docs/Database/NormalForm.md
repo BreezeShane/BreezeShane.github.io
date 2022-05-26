@@ -219,7 +219,15 @@ $$
 
 ## 数据依赖的公理系统(Armstrong公理系统)
 
-(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)
+首先ArmStrong公理系统具有以下三个运算性质：
+1. **自反律**(Reflexivity): 若$Y\subseteq X\subseteq U$，则$X\rightarrow Y$为$F$所蕴含。
+2. **增广律**(Augmentation): 若$X\rightarrow Y$为$F$所蕴含，且$Z\subseteq U$，则$XZ\rightarrow YZ$为$F$所蕴含。
+3. **传递律**(Transitivity): 若$X\rightarrow Y$及$Y\rightarrow Z$为$F$所蕴含，则$X\rightarrow Z$为$F$所蕴含。
+
+根据Armstrong公理系统可以获得三条推理规则：
+ - 合并规则：由$X\rightarrow Y$，$X\rightarrow Z$，有$X\rightarrow YZ$
+ - 伪传递规则：由$X\rightarrow Y$，$WY\rightarrow Z$，有$XW\rightarrow Z$
+ - 分解规则：由$X\rightarrow Y$ 及$Z\subseteq Y$，有$X\rightarrow Z$
 
 ## 模式分解
 
@@ -233,7 +241,7 @@ $$
 
 **定义**: 
 
-设$R(U)$是一个属性集$U$上的一个关系模式,  $X, Y$和$Z$是$U$的子集, 并且$Z＝U－X－Y$. 关系模式$R(U)$中多值依赖$X↠Y$成立, 当且仅当对$R(U)$的任一关系$r$, 给定的一对$(x, z)$值, 有一组$Y$的值, 这组值仅仅决定于$x$值而与$z$值无关. 
+设$R(U)$是一个属性集$U$上的一个关系模式, $X, Y$和$Z$是$U$的子集, 并且$Z＝U－X－Y$. 关系模式$R(U)$中多值依赖$X↠Y$成立, 当且仅当对$R(U)$的任一关系$r$, 给定的一对$(x, z)$值, 有一组$Y$的值, 这组值仅仅决定于$x$值而与$z$值无关. 
 
 在关系模式中, 函数依赖不能表示属性值之间的一对多联系, 这些属性之间有些虽然没有直接关系, 但存在间接的关系, 把没有直接联系、但有间接的联系称为多值依赖的数据依赖. 
 
