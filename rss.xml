@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Tue, 24 May 2022 13:18:27 GMT</pubDate>
-    <lastBuildDate>Tue, 24 May 2022 13:18:27 GMT</lastBuildDate>
+    <pubDate>Thu, 26 May 2022 14:12:02 GMT</pubDate>
+    <lastBuildDate>Thu, 26 May 2022 14:12:02 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -6277,7 +6277,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6302,7 +6302,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6317,7 +6317,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6837,7 +6837,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6860,7 +6860,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6871,7 +6871,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6891,7 +6891,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6902,7 +6902,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8199,7 +8199,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -8938,14 +8938,25 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 </ol>
 </details>
 <h2 id="数据依赖的公理系统-armstrong公理系统"> 数据依赖的公理系统(Armstrong公理系统)</h2>
-<p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
+<p>首先ArmStrong公理系统具有以下三个运算性质：</p>
+<ol>
+<li><strong>自反律</strong>(Reflexivity): 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>所蕴含。</li>
+<li><strong>增广律</strong>(Augmentation): 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>所蕴含，且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span style="margin-right:0.07153em;">Z</span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span> </span><span style="margin-right:0.10903em;">U</span></span></span></span>，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">XZ</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.07153em;">Z</span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>所蕴含。</li>
+<li><strong>传递律</strong>(Transitivity): 若<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>及<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>所蕴含，则<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.13889em;">F</span></span></span></span>所蕴含。</li>
+</ol>
+<p>根据Armstrong公理系统可以获得三条推理规则：</p>
+<ul>
+<li>合并规则：由<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>，有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span><span style="margin-right:0.07153em;">Z</span></span></span></span></li>
+<li>伪传递规则：由<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>，<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">WY</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>，有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.13889em;">W</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span></li>
+<li>分解规则：由<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span> 及<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span style="margin-right:0.07153em;">Z</span><span style="margin-right:0.2777777777777778em;"></span><span>⊆</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>，有<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span></li>
+</ul>
 <h2 id="模式分解"> 模式分解</h2>
 <p>(这里是施工现场, 我正在填坑了, 您先等等, 别着急......ToT)</p>
 <h2 id="第四范式"> 第四范式</h2>
 <div><p>多值依赖</p>
 <p><strong>设计的目的</strong>: 尽量消除插入、删除异常, 修改复杂, 数据冗余.</p>
 <p><strong>定义</strong>:</p>
-<p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>是一个属性集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>上的一个关系模式,  <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.07847em;">X</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>的子集, 并且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span><span>＝</span><span style="margin-right:0.10903em;">U</span><span>－</span><span style="margin-right:0.07847em;">X</span><span>－</span><span style="margin-right:0.22222em;">Y</span></span></span></span>. 关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>中多值依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>成立, 当且仅当对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>的任一关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>, 给定的一对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.04398em;">z</span><span>)</span></span></span></span>值, 有一组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>的值, 这组值仅仅决定于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>值而与<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.04398em;">z</span></span></span></span>值无关.</p>
+<p>设<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>是一个属性集<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>上的一个关系模式, <span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span style="margin-right:0.07847em;">X</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>和<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span></span></span></span>是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.10903em;">U</span></span></span></span>的子集, 并且<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07153em;">Z</span><span>＝</span><span style="margin-right:0.10903em;">U</span><span>－</span><span style="margin-right:0.07847em;">X</span><span>－</span><span style="margin-right:0.22222em;">Y</span></span></span></span>. 关系模式<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>中多值依赖<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69687em;vertical-align:-0.01354em;"></span><span style="margin-right:0.07847em;">X</span><span style="margin-right:0.2777777777777778em;"></span><span>↠</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>成立, 当且仅当对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span style="margin-right:0.00773em;">R</span><span>(</span><span style="margin-right:0.10903em;">U</span><span>)</span></span></span></span>的任一关系<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>, 给定的一对<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1em;vertical-align:-0.25em;"></span><span>(</span><span>x</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.04398em;">z</span><span>)</span></span></span></span>值, 有一组<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>的值, 这组值仅仅决定于<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span></span></span></span>值而与<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.04398em;">z</span></span></span></span>值无关.</p>
 <p>在关系模式中, 函数依赖不能表示属性值之间的一对多联系, 这些属性之间有些虽然没有直接关系, 但存在间接的关系, 把没有直接联系、但有间接的联系称为多值依赖的数据依赖.</p>
 <p><strong>判定方法</strong>: 对于任意关系中, 如果存在两个元组(就是行), 记为<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8777699999999999em;vertical-align:-0.19444em;"></span><span>A</span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span style="margin-right:0.05017em;">B</span></span></span></span>, 如果他们的某一属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.07847em;">X</span></span></span></span>的值相等, 那么我们交换它们另外的属性<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">Y</span></span></span></span>的值后, 得到的新的两个元组, 在表中仍可以在原来的表中找到与它们相匹配的元组.</p>
 </div>
@@ -8983,7 +8994,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
 <h2 id="总结"> 总结</h2>
 <div><p>以上各范式之间的联系</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>5NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>4NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>BCNF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>3NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.8193em;vertical-align:-0.13597em;"></span><span><span>2NF</span></span><span style="margin-right:0.2777777777777778em;"></span><span>⊊</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span><span>1NF</span></span></span></span></span></span></p>
-<Mermaid id="mermaid-64a551aa" data-code="flowchart%20TB%0AA%5B%221NF%22%5D%0AB%5B%222NF%22%5D%0AC%5B%223NF%22%5D%0AD%5B%22BCNF%22%5D%0AE%5B%224NF%22%5D%0AF%5B%225NF%22%5D%0A%0AA--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E9%83%A8%E5%88%86%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EB%0AB--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EC%0AC--%20%E6%B6%88%E5%8E%BB%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3ED%0AD--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E5%B9%B3%E5%87%A1%E4%B8%94%E9%9D%9E%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%E7%9A%84%E5%A4%9A%E5%80%BC%E4%BE%9D%E8%B5%96%20--%3E%20E%0AE--%20%E6%B6%88%E5%8E%BB%E4%B8%8D%E6%98%AF%E7%94%B1%E5%80%99%E9%80%89%E7%A0%81%E6%89%80%E8%95%B4%E5%90%AB%E7%9A%84%E8%BF%9E%E6%8E%A5%E4%BE%9D%E8%B5%96%20--%3E%20F%0A"></Mermaid></div>
+<Mermaid id="mermaid-64a550e2" data-code="flowchart%20TB%0AA%5B%221NF%22%5D%0AB%5B%222NF%22%5D%0AC%5B%223NF%22%5D%0AD%5B%22BCNF%22%5D%0AE%5B%224NF%22%5D%0AF%5B%225NF%22%5D%0A%0AA--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E9%83%A8%E5%88%86%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EB%0AB--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3EC%0AC--%20%E6%B6%88%E5%8E%BB%E4%B8%BB%E5%B1%9E%E6%80%A7%E5%AF%B9%E9%94%AE%E7%9A%84%E4%BC%A0%E9%80%92%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%20--%3ED%0AD--%20%E6%B6%88%E5%8E%BB%E9%9D%9E%E5%B9%B3%E5%87%A1%E4%B8%94%E9%9D%9E%E5%87%BD%E6%95%B0%E4%BE%9D%E8%B5%96%E7%9A%84%E5%A4%9A%E5%80%BC%E4%BE%9D%E8%B5%96%20--%3E%20E%0AE--%20%E6%B6%88%E5%8E%BB%E4%B8%8D%E6%98%AF%E7%94%B1%E5%80%99%E9%80%89%E7%A0%81%E6%89%80%E8%95%B4%E5%90%AB%E7%9A%84%E8%BF%9E%E6%8E%A5%E4%BE%9D%E8%B5%96%20--%3E%20F%0A"></Mermaid></div>
 ]]></content:encoded>
     </item>
     <item>
@@ -8991,7 +9002,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -9232,7 +9243,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -9947,10 +9958,10 @@ URxvt.keysym.Control-Right:  \033[1;5C
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后执行 <code>xrdb -merge ~/.Xresources</code>，重启一下，即可生效。</p>
 <h3 id="添加锁屏功能"> 添加锁屏功能</h3>
 <div><p>风险提示</p>
-<p>使用这个东西时应该做好心理准备，我使用一段时间后发现它有个缺陷，不知是什么时候，它就可能彻底锁死计算机。</p>
+<p>使用这个东西时应该做好心理准备，我使用一段时间的<code>Xscreensaver</code>后发现它有个缺陷，不知是什么时候，它就可能彻底锁死计算机。</p>
 <p>这里锁死的含义就是即使你输入了十分正确的密码，依旧会认为你输入错误。</p>
-<p>也正是这种原因，我弃用了这个锁屏。</p>
-</div>
+<p>也正是这种原因，我弃用了这个锁屏程序。</p>
+<details>
 <p>如果希望能使用热键来锁定系统的话，需要稍微折腾一下，下载安装 <code>xscreensaver</code>，执行：<code>sudo pacman -S xscreensaver</code>，然后要编辑 <code>~/.xinitrc</code>文件，在结尾处添加：<code>xscreensaver -no-splash &amp;</code>，并且需要在 <code>~/.Xresources</code>文件中寻找 <code>my_table.join</code>的字样，添加：</p>
 <div><pre><code>awful<span>.</span><span>key</span><span>(</span><span>{</span> modkey <span>}</span><span>,</span> <span>"l"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> awful<span>.</span>util<span>.</span><span>spawn</span><span>(</span> <span>"xscreensaver-command -lock"</span> <span>)</span> <span>end</span><span>,</span>
     <span>{</span> description <span>=</span> <span>"Screen lock"</span><span>,</span> group <span>=</span> <span>"global keys"</span> <span>}</span><span>)</span><span>,</span>
@@ -9962,6 +9973,57 @@ URxvt.keysym.Control-Right:  \033[1;5C
 run xscreensaver -no-splash
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存退出后即可自动启动该程序。</p>
+<summary>之前采用的方案是什么？</summary>
+</details>
+</div>
+<p>后来我浏览到以下两个网站之后就来了思路了：</p>
+<ul>
+<li><a href="https://www.reddit.com/r/awesomewm/comments/dabt30/your_preferred_way_of_locking_the_screen/" target="_blank" rel="noopener noreferrer">Your preferred way of locking the screen - reddit</a></li>
+<li><a href="https://github.com/i3/i3lock" target="_blank" rel="noopener noreferrer">i3/i3lock - GitHub</a></li>
+</ul>
+<p>我从中第一次听说<code>i3lock</code>这个轻量级的锁屏程序，于是决定使用一下，意外地发现其实系统自带。</p>
+<p>于是我参照了官方文档，写了一个脚本用来配置锁屏样式：</p>
+<div><pre><code><span>#!/bin/sh</span>
+
+<span>image_path</span><span>=</span><span>'/home/breezeshane/AppData/Wallpapers/Horizontal/wallhaven-1krqpv.png'</span>
+
+i3lock --screen<span>=</span><span>1</span> <span>\</span>
+       --image<span>=</span><span>$image_path</span> <span>\</span>
+       --nofork <span>\</span>
+       --fill <span>\</span>
+       --clock <span>\</span>
+       --indicator <span>\</span>
+       --radius <span>230</span> <span>\</span>
+       --date-str<span>=</span><span>"%Y-%m-%d->%a"</span> <span>\</span>
+       --date-color<span>=</span><span>#40de5a \</span>
+       --date-size<span>=</span><span>30</span> <span>\</span>
+       --time-str<span>=</span><span>"%H:%M:%S"</span> <span>\</span>
+       --time-color<span>=</span><span>#c0ebd7 \</span>
+       --time-size<span>=</span><span>100</span> <span>\</span>
+       --verif-text<span>=</span><span>"Connecting to Neural Network…"</span> <span>\</span>
+       --wrong-text<span>=</span><span>"Connection Failed!"</span> <span>\</span>
+       --noinput-text<span>=</span><span>"no input"</span> <span>\</span>
+       --lock-text<span>=</span><span>"locking…"</span> <span>\</span>
+       --lockfailed-text<span>=</span><span>"lock failed!"</span> <span>\</span>
+       --greeter-text<span>=</span><span>"PTRS Working as Agent..."</span> <span>\</span>
+       --greeter-color<span>=</span><span>#f2fdff \</span>
+       --ignore-empty-password <span>\</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br></div></div><p>虽然当时我看到有<code>--slideshow-random-selection</code>这个选项，但是在我使用的时候发现它严重拖慢了锁屏的运行速度，所以才决定弃用。另外，如果不打算直接使用别人写的脚本而是自己做配置的话，有个比较好用的选项就是<code>--no-verify</code>，这样每次调整的时候都不必输入正确密码（虽然我是调整完后才发现的），不过记得调整好之后要去掉。</p>
+<p>写完这个脚本之后，我还希望通过快捷键来触发执行这个脚本，于是我编辑了<code>$HOME/.config/awesome/rc.lua</code>配置文件，修改以下部分，将想触发的事件添加到其中：</p>
+<div><pre><code>globalkeys <span>=</span> my_table<span>.</span><span>join</span><span>(</span>
+
+    <span>-- {{{ Personal keybindings</span>
+    awful<span>.</span><span>key</span><span>(</span><span>{</span> modkey<span>,</span> <span>"Shift"</span> <span>}</span><span>,</span> <span>"l"</span><span>,</span> <span>function</span> <span>(</span><span>)</span> awful<span>.</span>util<span>.</span><span>spawn_with_shell</span><span>(</span> <span>"sh ~/Scripts/screen-lock.sh"</span> <span>)</span> <span>end</span><span>,</span>
+    	<span>{</span> description <span>=</span> <span>"Screen lock"</span><span>,</span> group <span>=</span> <span>"global keys"</span> <span>}</span><span>)</span><span>,</span>
+    <span>-- ……………………</span>
+<span>)</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br></div></div><p>注意，要执行脚本，应该调用系统API<code>awful.util.spawn_with_shell</code>，如果调用<code>awful.util.spawn</code>是不会有任何响应的，可能是因为它们在底层实现不一样，这里我没细追究。</p>
+<p>最后重启一下AwesomeWM就可以正常使用快捷键锁屏了。</p>
+<div><p>意外的发现</p>
+<p>我发现在这里即使是快捷键发生了冲突，AwesomeWM也不会做任何提示，而是直接使用最后的配置来覆盖掉前面冲突的配置，因此最开始我本是希望使用<kbd>Super</kbd>+<kbd>L</kbd>来实现的，结果和后面的移动鼠标到某一屏幕的相关快捷键冲突了，便只好修改。</p>
+</div>
 <h3 id="virtual-machine-manager安装与配置"> Virtual Machine Manager安装与配置</h3>
 <p>即使目前我已经是全栈使用Linux，但总会有那种时候，我是必须要使用Windows才行的，而我已经把原来的Windows系统完全删除掉了，因此我必须提前做好准备，先安装配置好虚拟机来以备不时之需。</p>
 <p>首先要确保你的系统是支持虚拟化的，执行下列命令来查看：</p>
@@ -13721,7 +13783,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -16029,18 +16091,6 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
       <pubDate>Sun, 23 Jan 2022 01:12:20 GMT</pubDate>
     </item>
     <item>
-      <title>相关的简单运算</title>
-      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</link>
-      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">相关的简单运算</source>
-      <pubDate>Sun, 16 Jan 2022 20:59:30 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
-<h2 id="矩阵加法"> 矩阵加法</h2>
-<h2 id="矩阵乘法"> 矩阵乘法</h2>
-<h2 id="矩阵元素对应乘积"> 矩阵元素对应乘积</h2>
-]]></content:encoded>
-    </item>
-    <item>
       <title>向量范数与矩阵范数</title>
       <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/Norm/</link>
       <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/Norm/</guid>
@@ -16350,6 +16400,18 @@ s-109,-253,-109,-253c-72.7,-168,-109.3,-252,-110,-252c-10.7,8,-22,16.7,-34,26
 c-22,17.3,-33.3,26,-34,26s-26,-26,-26,-26s76,-59,76,-59s76,-60,76,-60z
 M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><span style="height:0.25612499999999994em;"><span></span></span></span></span></span></span></span></span></span></span></p>
 </div>
+]]></content:encoded>
+    </item>
+    <item>
+      <title>相关的简单运算</title>
+      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</link>
+      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">相关的简单运算</source>
+      <pubDate>Sun, 16 Jan 2022 20:59:30 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
+<h2 id="矩阵加法"> 矩阵加法</h2>
+<h2 id="矩阵乘法"> 矩阵乘法</h2>
+<h2 id="矩阵元素对应乘积"> 矩阵元素对应乘积</h2>
 ]]></content:encoded>
     </item>
     <item>
@@ -17645,7 +17707,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17679,7 +17741,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17689,7 +17751,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17714,7 +17776,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/links-1/</link>
       <guid>https://breezeshane.github.io/links/links-1/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<div>
     <div>
         <a href=""><img src="/Avatar/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
@@ -17895,10 +17957,17 @@ patch_request_class<span>(</span>app<span>)</span>
     </item>
     <item>
       <title>友人帐</title>
+      <link>https://breezeshane.github.io/links/links-2/</link>
+      <guid>https://breezeshane.github.io/links/links-2/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>友人帐</title>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -17935,7 +18004,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -17944,17 +18013,10 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
+      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
-    </item>
-    <item>
-      <title>友人帐</title>
-      <link>https://breezeshane.github.io/links/links-2/</link>
-      <guid>https://breezeshane.github.io/links/links-2/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Tue, 24 May 2022 13:17:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
