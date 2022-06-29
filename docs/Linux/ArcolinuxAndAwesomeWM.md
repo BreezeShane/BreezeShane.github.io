@@ -1407,3 +1407,195 @@ EndSection
 目前我是按照这个配置文件来写的，其实语法什么的也比较简单，`xrandr`怎么写命令，在这里就要怎么写配置，还算比较容易。
 
 不过新的问题也出现了：开机的时候DP-1端口的分辨率输出有些异常，虽然配置文件是$1920\times1080$，但实际执行后的分辨率却比这个小，我目前还没找到解决办法，估计是与系统的默认配置出现了冲突，恰好系统的配置覆盖掉了。
+
+### Linux 查看充电信息
+
+因为之前我手里原本有一根双Type-C的线，但不知道为什么坏掉了~~（我什么也没有做～）~~，于是我只好再从网上买来两根，不过虽然店家表明支持100W充电并且明确表明内置E-marker芯片了（对于我个人目前的设备情况则是PD充电协议65W的规格），我还是想看看实际会不会有60W+的充电功率，而眼下我没有电流计那么方便的设备，那我该怎么做呢？
+
+于是我想，既然系统和电脑上任何一个活动的硬件都会有交互，而且想到系统中也会有一些软件能够获取到电源的相关信息，为什么认为不可能有在哪里直接找到存有这些信息的地方呢？
+
+几经搜索，我找到如下相关参考资料：
+1. [如何在 Linux 中检查笔记本电脑的电池健康状况](https://zhongguo.eskere.club/%E5%A6%82%E4%BD%95%E5%9C%A8-linux-%E4%B8%AD%E6%A3%80%E6%9F%A5%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E7%9A%84%E7%94%B5%E6%B1%A0%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5/2021-07-18/)
+2. [Dell Latitude 3420笔记本最快能以多少功率充电？](http://wildgun.net/2022/02/charge_rate_of_dell_latitude_3420/)
+3. [Linux power supply class](https://www.kernel.org/doc/Documentation/power/power_supply_class.txt)
+4. [Linux sysfs class typec](https://www.kernel.org/doc/Documentation/ABI/testing/sysfs-class-typec)
+5. [Linux sysfs class power](https://www.kernel.org/doc/Documentation/ABI/testing/sysfs-class-power)
+
+***再次感谢这些作者的帮助！***
+
+于是我在我的系统中找到笔记本电池对应的伪文件了，我二话不说就进去了啊：
+```shell
+cd /sys/class/power_supply/BAT1
+```
+
+这时候你`ls`一下会看到如下的信息：
+
+```shell
+alarm                           manufacturer
+capacity                        model_name
+capacity_level                  power
+charge_control_end_threshold    present
+charge_control_start_threshold  serial_number
+charge_full                     status
+charge_full_design              subsystem
+charge_now                      technology
+current_now                     type
+cycle_count                     uevent
+device                          voltage_min_design
+hwmon2                          voltage_now
+```
+
+注意到文档中也对这几个文件的介绍如下：
+1. **voltage_max**：Reports the maximum VBUS voltage the supply can support.
+2. **voltage_now**：Reports the VBUS voltage supplied now. This value is generally read-only reporting, unless the ‘online’ state of the supply is set to be programmable, in which case this value can be set within the reported min/max range.
+3. **current_max**：Reports the maximum IBUS current the supply can support.
+4. **current_now**：Reports the IBUS current supplied now. This value is generally read-only reporting, unless the ‘online’ state of the supply is set to be programmable, in which case this value can be setwithin the reported min/max range.
+
+而且，这些文件的单位都是采用微数量级单位的，如微安、微伏等等。
+
+那么我只需要知道里面存放的具体数值，就可以知道当前的充电信息了，用cat即可。
+
+::: details Linux伪文件
+
+> 参考资料：
+> - [linux伪文件与proc文件](https://www.cnblogs.com/rusking/p/3766633.html)
+> - [Linux学习-伪文件（设备文件，命名管道，proc文件）](https://blog.csdn.net/qq_31730735/article/details/80527449)
+
+Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文件和伪文件。
+
+伪文件不用来存储数据，本身不占用任何空间。它是文件系统的一部分，并按目录进行组织。伪文件设置的目的在于提供一种服务，采取与常规文件相同的访问方式进行访问，而且在多数情况下，伪文件用来访问内核（操作系统的核心部分）提供的服务。
+
+常见的伪文件分别有设备文件、命名管道及proc文件。
+
+- **设备文件**：又称特殊文件，是物理设备的内部表示，包括计算机和网络中的每个设备都可以当作特殊文件来访问，如键盘、显示器、打印机、磁盘驱动器等等，它们都存放在/dev目录中。
+- **命名管道**：管道功能的一个扩展，将一个进程的输出连接到另一个进程的输入。
+- **proc文件**：提供一种简单的途径来检查多种类型的系统文件的伪文件，它直接从内核获取信息，而不是使用复杂的程序搜出数据。这些文件都存放在/proc目录中。
+
+这里只是做一个简单介绍，想了解详情还是点开[这里](https://blog.csdn.net/qq_31730735/article/details/80527449)比较好，这位作者写的是相当详细的。
+
+:::
+
+### LaTeX & VS Code 双剑合璧
+
+> 参考资料：[vscode配置latex环境](https://www.jianshu.com/p/1f57334d56c4)
+> 「注意」：在这里我已经装过TexLive了，如果你还没有装的话请先完成安装，再做文中后续操作，执行如下命令：
+> ```shell
+> # yay -S texlive-full
+> # 上面这里似乎是安装TeXLive全套的命令，不过当时是考虑轻便的缘由，我执行的是下面的命令
+> sudo pacman -S texlive-core texlive-langchinese texlive-latexextra texlive-fontsextra
+> ```
+
+虽然我有在使用TeXStudio+LaTeX，但是说实在话，TeXStudio的编写体验实在不怎么样，且不说有些时候会有奇怪的提示，更多的时候是在补全上有些让人不爽……于是就打算直接让VS Code和LaTeX配合使用了，还好它没那么难配置，我只需要在VS Code上安装插件————LaTeX Workshop，然后在`settings.json`里添加如下代码就好了，非常感谢这位作者的分享！
+
+```json
+  "latex-workshop.latex.tools": [
+    {
+      "name": "latexmk",
+      "command": "latexmk",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "-pdf",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "xelatex",
+      "command": "xelatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "pdflatex",
+      "command": "pdflatex",
+      "args": [
+        "-synctex=1",
+        "-interaction=nonstopmode",
+        "-file-line-error",
+        "%DOC%"
+      ]
+    },
+    {
+      "name": "bibtex",
+      "command": "bibtex",
+      "args": [
+        "%DOCFILE%"
+      ]
+    }
+  ],
+  "latex-workshop.latex.recipes": [
+    {
+      "name": "latexmk",
+      "tools": [
+        "latexmk"
+      ]
+    },
+    {
+      "name": "xelatex",
+      "tools": [
+        "xelatex"
+      ]
+    },
+    {
+      "name": "pdflatex -> bibtex",
+      "tools": [
+        "pdflatex",
+        "bibtex"
+      ]
+    },
+    {
+      "name": "pdflatex -> bibtex -> pdflatex*2",
+      "tools": [
+        "pdflatex",
+        "bibtex",
+        "pdflatex",
+        "pdflatex"
+      ]
+    },
+    {
+      "name": "xelatex -> bibtex -> xelatex*2",
+      "tools": [
+        "xelatex",
+        "bibtex",
+        "xelatex",
+        "xelatex"
+      ]
+    }
+  ],
+  "latex-workshop.view.pdf.viewer": "tab",
+  "latex-workshop.latex.clean.fileTypes": [
+    "*.aux",
+    "*.bbl",
+    "*.blg",
+    "*.idx",
+    "*.ind",
+    "*.lof",
+    "*.lot",
+    "*.out",
+    "*.toc",
+    "*.acn",
+    "*.acr",
+    "*.alg",
+    "*.glg",
+    "*.glo",
+    "*.gls",
+    "*.ist",
+    "*.fls",
+    "*.log",
+    "*.fdb_latexmk"
+  ],
+  "latex-workshop.bibtex-format.tab": "4 spaces",
+```
+
+::: tip settings.json在哪里？
+
+虽然使用有一段时间了，但想到当初我还第一次使用的时候，看见别人只是写settings.json就一直在找，找了很久，于是我想在这里特别提示一下：
+
+- 按下<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>，然后输入`Open Settings`或者`settings.json`，第一个就是。
+
+:::
