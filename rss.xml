@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 26 May 2022 14:12:02 GMT</pubDate>
-    <lastBuildDate>Thu, 26 May 2022 14:12:02 GMT</lastBuildDate>
+    <pubDate>Wed, 29 Jun 2022 12:36:53 GMT</pubDate>
+    <lastBuildDate>Wed, 29 Jun 2022 12:36:53 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -6277,7 +6277,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6302,7 +6302,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6317,7 +6317,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6837,7 +6837,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6860,7 +6860,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6871,7 +6871,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6891,7 +6891,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6902,7 +6902,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8199,7 +8199,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -9002,7 +9002,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -9243,7 +9243,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -10466,6 +10466,181 @@ EndSection
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br></div></div><p>目前我是按照这个配置文件来写的，其实语法什么的也比较简单，<code>xrandr</code>怎么写命令，在这里就要怎么写配置，还算比较容易。</p>
 <p>不过新的问题也出现了：开机的时候DP-1端口的分辨率输出有些异常，虽然配置文件是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.72777em;vertical-align:-0.08333em;"></span><span>1920</span><span style="margin-right:0.2222222222222222em;"></span><span>×</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>1080</span></span></span></span>，但实际执行后的分辨率却比这个小，我目前还没找到解决办法，估计是与系统的默认配置出现了冲突，恰好系统的配置覆盖掉了。</p>
+<h3 id="linux-查看充电信息"> Linux 查看充电信息</h3>
+<p>因为之前我手里原本有一根双Type-C的线，但不知道为什么坏掉了~~（我什么也没有做～）~~，于是我只好再从网上买来两根，不过虽然店家表明支持100W充电并且明确表明内置E-marker芯片了（对于我个人目前的设备情况则是PD充电协议65W的规格），我还是想看看实际会不会有60W+的充电功率，而眼下我没有电流计那么方便的设备，那我该怎么做呢？</p>
+<p>于是我想，既然系统和电脑上任何一个活动的硬件都会有交互，而且想到系统中也会有一些软件能够获取到电源的相关信息，为什么认为不可能有在哪里直接找到存有这些信息的地方呢？</p>
+<p>几经搜索，我找到如下相关参考资料：</p>
+<ol>
+<li><a href="https://zhongguo.eskere.club/%E5%A6%82%E4%BD%95%E5%9C%A8-linux-%E4%B8%AD%E6%A3%80%E6%9F%A5%E7%AC%94%E8%AE%B0%E6%9C%AC%E7%94%B5%E8%84%91%E7%9A%84%E7%94%B5%E6%B1%A0%E5%81%A5%E5%BA%B7%E7%8A%B6%E5%86%B5/2021-07-18/" target="_blank" rel="noopener noreferrer">如何在 Linux 中检查笔记本电脑的电池健康状况</a></li>
+<li><a href="http://wildgun.net/2022/02/charge_rate_of_dell_latitude_3420/" target="_blank" rel="noopener noreferrer">Dell Latitude 3420笔记本最快能以多少功率充电？</a></li>
+<li><a href="https://www.kernel.org/doc/Documentation/power/power_supply_class.txt" target="_blank" rel="noopener noreferrer">Linux power supply class</a></li>
+<li><a href="https://www.kernel.org/doc/Documentation/ABI/testing/sysfs-class-typec" target="_blank" rel="noopener noreferrer">Linux sysfs class typec</a></li>
+<li><a href="https://www.kernel.org/doc/Documentation/ABI/testing/sysfs-class-power" target="_blank" rel="noopener noreferrer">Linux sysfs class power</a></li>
+</ol>
+<p><em><strong>再次感谢这些作者的帮助！</strong></em></p>
+<p>于是我在我的系统中找到笔记本电池对应的伪文件了，我二话不说就进去了啊：</p>
+<div><pre><code><span>cd</span> /sys/class/power_supply/BAT1
+</code></pre>
+<div><span>1</span><br></div></div><p>这时候你<code>ls</code>一下会看到如下的信息：</p>
+<div><pre><code>alarm                           manufacturer
+capacity                        model_name
+capacity_level                  power
+charge_control_end_threshold    present
+charge_control_start_threshold  serial_number
+charge_full                     status
+charge_full_design              subsystem
+charge_now                      technology
+current_now                     <span>type</span>
+cycle_count                     uevent
+device                          voltage_min_design
+hwmon2                          voltage_now
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br></div></div><p>注意到文档中也对这几个文件的介绍如下：</p>
+<ol>
+<li><strong>voltage_max</strong>：Reports the maximum VBUS voltage the supply can support.</li>
+<li><strong>voltage_now</strong>：Reports the VBUS voltage supplied now. This value is generally read-only reporting, unless the ‘online’ state of the supply is set to be programmable, in which case this value can be set within the reported min/max range.</li>
+<li><strong>current_max</strong>：Reports the maximum IBUS current the supply can support.</li>
+<li><strong>current_now</strong>：Reports the IBUS current supplied now. This value is generally read-only reporting, unless the ‘online’ state of the supply is set to be programmable, in which case this value can be setwithin the reported min/max range.</li>
+</ol>
+<p>而且，这些文件的单位都是采用微数量级单位的，如微安、微伏等等。</p>
+<p>那么我只需要知道里面存放的具体数值，就可以知道当前的充电信息了，用cat即可。</p>
+<details><summary>Linux伪文件</summary>
+<blockquote>
+<p>参考资料：</p>
+<ul>
+<li><a href="https://www.cnblogs.com/rusking/p/3766633.html" target="_blank" rel="noopener noreferrer">linux伪文件与proc文件</a></li>
+<li><a href="https://blog.csdn.net/qq_31730735/article/details/80527449" target="_blank" rel="noopener noreferrer">Linux学习-伪文件（设备文件，命名管道，proc文件）</a></li>
+</ul>
+</blockquote>
+<p>Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文件和伪文件。</p>
+<p>伪文件不用来存储数据，本身不占用任何空间。它是文件系统的一部分，并按目录进行组织。伪文件设置的目的在于提供一种服务，采取与常规文件相同的访问方式进行访问，而且在多数情况下，伪文件用来访问内核（操作系统的核心部分）提供的服务。</p>
+<p>常见的伪文件分别有设备文件、命名管道及proc文件。</p>
+<ul>
+<li><strong>设备文件</strong>：又称特殊文件，是物理设备的内部表示，包括计算机和网络中的每个设备都可以当作特殊文件来访问，如键盘、显示器、打印机、磁盘驱动器等等，它们都存放在/dev目录中。</li>
+<li><strong>命名管道</strong>：管道功能的一个扩展，将一个进程的输出连接到另一个进程的输入。</li>
+<li><strong>proc文件</strong>：提供一种简单的途径来检查多种类型的系统文件的伪文件，它直接从内核获取信息，而不是使用复杂的程序搜出数据。这些文件都存放在/proc目录中。</li>
+</ul>
+<p>这里只是做一个简单介绍，想了解详情还是点开<a href="https://blog.csdn.net/qq_31730735/article/details/80527449" target="_blank" rel="noopener noreferrer">这里</a>比较好，这位作者写的是相当详细的。</p>
+</details>
+<h3 id="latex-vs-code-双剑合璧"> LaTeX &amp; VS Code 双剑合璧</h3>
+<blockquote>
+<p>参考资料：<a href="https://www.jianshu.com/p/1f57334d56c4" target="_blank" rel="noopener noreferrer">vscode配置latex环境</a>
+「注意」：在这里我已经装过TexLive了，如果你还没有装的话请先完成安装，再做文中后续操作，执行如下命令：</p>
+<div><pre><code><span># yay -S texlive-full</span>
+<span># 上面这里似乎是安装TeXLive全套的命令，不过当时是考虑轻便的缘由，我执行的是下面的命令</span>
+<span>sudo</span> pacman -S texlive-core texlive-langchinese texlive-latexextra texlive-fontsextra
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div></blockquote>
+<p>虽然我有在使用TeXStudio+LaTeX，但是说实在话，TeXStudio的编写体验实在不怎么样，且不说有些时候会有奇怪的提示，更多的时候是在补全上有些让人不爽……于是就打算直接让VS Code和LaTeX配合使用了，还好它没那么难配置，我只需要在VS Code上安装插件————LaTeX Workshop，然后在<code>settings.json</code>里添加如下代码就好了，非常感谢这位作者的分享！</p>
+<div><pre><code>  <span>"latex-workshop.latex.tools"</span><span>:</span> <span>[</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"latexmk"</span><span>,</span>
+      <span>"command"</span><span>:</span> <span>"latexmk"</span><span>,</span>
+      <span>"args"</span><span>:</span> <span>[</span>
+        <span>"-synctex=1"</span><span>,</span>
+        <span>"-interaction=nonstopmode"</span><span>,</span>
+        <span>"-file-line-error"</span><span>,</span>
+        <span>"-pdf"</span><span>,</span>
+        <span>"%DOC%"</span>
+      <span>]</span>
+    <span>}</span><span>,</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"xelatex"</span><span>,</span>
+      <span>"command"</span><span>:</span> <span>"xelatex"</span><span>,</span>
+      <span>"args"</span><span>:</span> <span>[</span>
+        <span>"-synctex=1"</span><span>,</span>
+        <span>"-interaction=nonstopmode"</span><span>,</span>
+        <span>"-file-line-error"</span><span>,</span>
+        <span>"%DOC%"</span>
+      <span>]</span>
+    <span>}</span><span>,</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"pdflatex"</span><span>,</span>
+      <span>"command"</span><span>:</span> <span>"pdflatex"</span><span>,</span>
+      <span>"args"</span><span>:</span> <span>[</span>
+        <span>"-synctex=1"</span><span>,</span>
+        <span>"-interaction=nonstopmode"</span><span>,</span>
+        <span>"-file-line-error"</span><span>,</span>
+        <span>"%DOC%"</span>
+      <span>]</span>
+    <span>}</span><span>,</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"bibtex"</span><span>,</span>
+      <span>"command"</span><span>:</span> <span>"bibtex"</span><span>,</span>
+      <span>"args"</span><span>:</span> <span>[</span>
+        <span>"%DOCFILE%"</span>
+      <span>]</span>
+    <span>}</span>
+  <span>]</span><span>,</span>
+  <span>"latex-workshop.latex.recipes"</span><span>:</span> <span>[</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"latexmk"</span><span>,</span>
+      <span>"tools"</span><span>:</span> <span>[</span>
+        <span>"latexmk"</span>
+      <span>]</span>
+    <span>}</span><span>,</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"xelatex"</span><span>,</span>
+      <span>"tools"</span><span>:</span> <span>[</span>
+        <span>"xelatex"</span>
+      <span>]</span>
+    <span>}</span><span>,</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"pdflatex -> bibtex"</span><span>,</span>
+      <span>"tools"</span><span>:</span> <span>[</span>
+        <span>"pdflatex"</span><span>,</span>
+        <span>"bibtex"</span>
+      <span>]</span>
+    <span>}</span><span>,</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"pdflatex -> bibtex -> pdflatex*2"</span><span>,</span>
+      <span>"tools"</span><span>:</span> <span>[</span>
+        <span>"pdflatex"</span><span>,</span>
+        <span>"bibtex"</span><span>,</span>
+        <span>"pdflatex"</span><span>,</span>
+        <span>"pdflatex"</span>
+      <span>]</span>
+    <span>}</span><span>,</span>
+    <span>{</span>
+      <span>"name"</span><span>:</span> <span>"xelatex -> bibtex -> xelatex*2"</span><span>,</span>
+      <span>"tools"</span><span>:</span> <span>[</span>
+        <span>"xelatex"</span><span>,</span>
+        <span>"bibtex"</span><span>,</span>
+        <span>"xelatex"</span><span>,</span>
+        <span>"xelatex"</span>
+      <span>]</span>
+    <span>}</span>
+  <span>]</span><span>,</span>
+  <span>"latex-workshop.view.pdf.viewer"</span><span>:</span> <span>"tab"</span><span>,</span>
+  <span>"latex-workshop.latex.clean.fileTypes"</span><span>:</span> <span>[</span>
+    <span>"*.aux"</span><span>,</span>
+    <span>"*.bbl"</span><span>,</span>
+    <span>"*.blg"</span><span>,</span>
+    <span>"*.idx"</span><span>,</span>
+    <span>"*.ind"</span><span>,</span>
+    <span>"*.lof"</span><span>,</span>
+    <span>"*.lot"</span><span>,</span>
+    <span>"*.out"</span><span>,</span>
+    <span>"*.toc"</span><span>,</span>
+    <span>"*.acn"</span><span>,</span>
+    <span>"*.acr"</span><span>,</span>
+    <span>"*.alg"</span><span>,</span>
+    <span>"*.glg"</span><span>,</span>
+    <span>"*.glo"</span><span>,</span>
+    <span>"*.gls"</span><span>,</span>
+    <span>"*.ist"</span><span>,</span>
+    <span>"*.fls"</span><span>,</span>
+    <span>"*.log"</span><span>,</span>
+    <span>"*.fdb_latexmk"</span>
+  <span>]</span><span>,</span>
+  <span>"latex-workshop.bibtex-format.tab"</span><span>:</span> <span>"4 spaces"</span><span>,</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br><span>89</span><br><span>90</span><br><span>91</span><br><span>92</span><br><span>93</span><br><span>94</span><br><span>95</span><br><span>96</span><br><span>97</span><br><span>98</span><br><span>99</span><br><span>100</span><br><span>101</span><br><span>102</span><br></div></div><div><p>settings.json在哪里？</p>
+<p>虽然使用有一段时间了，但想到当初我还第一次使用的时候，看见别人只是写settings.json就一直在找，找了很久，于是我想在这里特别提示一下：</p>
+<ul>
+<li>按下<kbd>Ctrl</kbd>+<kbd>Shift</kbd>+<kbd>P</kbd>，然后输入<code>Open Settings</code>或者<code>settings.json</code>，第一个就是。</li>
+</ul>
+</div>
 ]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
@@ -13783,7 +13958,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -17707,7 +17882,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -17741,7 +17916,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -17751,7 +17926,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -17776,7 +17951,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/links-1/</link>
       <guid>https://breezeshane.github.io/links/links-1/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<div>
     <div>
         <a href=""><img src="/Avatar/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
@@ -17957,17 +18132,17 @@ patch_request_class<span>(</span>app<span>)</span>
     </item>
     <item>
       <title>友人帐</title>
-      <link>https://breezeshane.github.io/links/links-2/</link>
-      <guid>https://breezeshane.github.io/links/links-2/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>友人帐</title>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>友人帐</title>
+      <link>https://breezeshane.github.io/links/links-2/</link>
+      <guid>https://breezeshane.github.io/links/links-2/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -18004,7 +18179,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -18013,7 +18188,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Thu, 26 May 2022 14:10:35 GMT</pubDate>
+      <pubDate>Wed, 29 Jun 2022 12:35:39 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
