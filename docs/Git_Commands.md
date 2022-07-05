@@ -195,3 +195,47 @@ lib/*.dll	#忽略掉lib目录下的所有dll文件
 在此基础上再新建分支，执行`git checkout -b <NEW_BRANCH_NAME>`。
 
 这样你就可以发现，切换版本成功了。:+1:
+
+## 使用GitHub专用匿名邮箱
+
+> 参考资料：
+> 1. [Error "Your push would publish a private email address" - StackOverflow](https://stackoverflow.com/questions/43863522/error-your-push-would-publish-a-private-email-address)
+> 2. [设置提交电子邮件地址 - GitHub Docs](https://docs.github.com/cn/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address)
+> 3. [从哪里找自己的GitHub用户Id（UserId）](https://www.cnblogs.com/qiect/articles/16119007.html)
+
+近日出于隐私安全问题，我调整了一下GitHub上的用户隐私设置，当我更新完我的仓库时得到了如下的报错。
+
+::: danger Error
+
+```
+❯ git push
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 8.70 KiB | 2.90 MiB/s, done.
+Total 6 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+remote: error: GH007: Your push would publish a private email address.
+remote: You can make your email public or disable this protection by visiting:
+remote: http://github.com/settings/emails
+To github.com:BreezeShane/XXXXXXXX.git
+ ! [remote rejected] main -> main (push declined due to email privacy restrictions)
+error: failed to push some refs to 'github.com:BreezeShane/XXXXXXXX.git'
+```
+
+:::
+
+于是我查了一下相关资料，发现是我勾选了[这个页面](https://github.com/settings/emails)下的`Block command line pushes that expose my email`选项。这个选项是出于考虑传输数据时可能被人查看邮箱地址（*我说这传输是不是有点不靠谱了些……*）。按照相关文档的说明，应该在本地执行如下命令来更新配置：
+```shell
+git config --global user.email "email@example.com"
+```
+GitHub提供了`GitHub-provided noreply email address`的服务，具体的地址应该在`Keep my email addresses private`选项下的内容中：
+
+> We’ll remove your public profile email and use **_email@users.noreply.github.com_** when performing web-based Git operations (e.g. edits and merges) and sending email on your behalf. If you want command line Git operations to use your private email you must set your email in Git.
+
+你需要用这段文字中的粗斜体部分替换上面命令的`email@example.com`部分。
+
+这样就可以像以往那样正常提交了。
+
+「**注**」：_如果想查看当前设置的邮箱地址，可以执行命令：_`git config --global user.email`_。_
