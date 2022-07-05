@@ -6,7 +6,7 @@
   <author>
     <name>Breeze Shane</name>
   </author>
-  <updated>2022-06-29T12:36:53.042Z</updated>
+  <updated>2022-07-05T07:01:15.692Z</updated>
   <generator>@mr-hope/vuepress-plugin-feed</generator>
   <link rel="self" href="https://breezeshane.github.io/atom.xml"/>
   <link rel="alternate" href="https://breezeshane.github.io/"/>
@@ -25,7 +25,7 @@
     <title type="html">算法基础</title>
     <id>https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Basis/</id>
     <link href="https://breezeshane.github.io/AlgorithmDesignAndAnalysis/Basis/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://www.bookstack.cn/read/hunterhug-goa.c/basic-dregee.md#3.4.%20%E6%B8%90%E8%BF%9B%E5%88%86%E6%9E%90" target="_blank" rel="noopener noreferrer">算法复杂度及渐进符号</a></li>
@@ -65,7 +65,7 @@
     <title type="html">有关人工智能与机器学习领域的概况</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/AIOverview/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/AIOverview/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="人工智能是什么"> 人工智能是什么？</h2>
 <p>关于人工智能的定义在学术界一直尚存争议，原因也无非是因为实在难以给智能下定义。</p>
 <p>目前比较广泛的说法是：<strong>人工智能是一门研究、开发用于模拟、延伸和扩展人的智能的理论方法技术及应用的一门技术科学。</strong></p>
@@ -211,7 +211,7 @@
     <title type="html">入门机器学习的安装与配置</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/EnvInstall/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="你可能有配备"> 你可能有配备？</h2>
 <p>或许你的电脑配有独立显卡，一般可以在Windows系统下通过查看设备管理器，或者在Linux系统下通过键入 <code>inxi -G</code>来查看电脑的显卡配备信息。可能你不懂什么是显卡？</p>
 <blockquote>
@@ -285,7 +285,7 @@
     <title type="html">无监督学习介绍与入门</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/ElementaryCourse/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/ElementaryCourse/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="什么是无监督学习"> 什么是无监督学习？</h2>
 <p>无监督学习是机器学习的一种训练方式「或者是学习方式」。无监督学习的概念是相对有监督学习而言的。</p>
 <blockquote>
@@ -477,7 +477,7 @@
     <title type="html">Enlighten GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/EnlightenGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/EnlightenGAN/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="应用领域及背景"> 应用领域及背景</h2>
 <p>该项目是应用在图像修复领域的低照度增强方向，是致力于将日常生活中常见的各种难以用肉眼感知特征的低照度场景增强到能够方便、舒适地观察内容的场景。</p>
 <center>该项目迄今为止仍是无监督学习方法低照度增强的SOTA。</center>
@@ -535,7 +535,7 @@
     <title type="html">f-GAN</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/FGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/FGAN/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考来源</summary>
 <ul>
 <li><a href="https://arxiv.org/abs/1606.00709" target="_blank" rel="noopener noreferrer">f-GAN: Training Generative Neural Samplers using Variational Divergence Minimization</a></li>
@@ -574,7 +574,7 @@
     <title type="html">Low Light Metrics</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/LowLightMetrics/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/LowLightMetrics/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="low-light-metrics"> Low Light Metrics</h1>
 <h2 id="content"> Content</h2>
 <p>本文记录了LPIPS、SSIM、MAE、MSE、PSNR、NIQE和NIMA共计七个低照度指标，除了介绍相关背景、意义，也会提及算法实现的大致过程。</p>
@@ -703,7 +703,7 @@ h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><span><s
     <title type="html">Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/StandardGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/StandardGAN/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>经过接受GAN的洗礼，我感觉我整个人都变得“睿智”了。。。</strong></p>
 </blockquote>
@@ -978,7 +978,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Divergence for GANs</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/WGAN-div/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/WGAN-div/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wasserstein-divergence-for-gans"> Wasserstein Divergence for GANs</h1>
 <blockquote>
 <p>參考自：</p>
@@ -1113,7 +1113,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">WGAN with Gradient Penalty</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/WGAN-gp/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/WGAN-gp/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="wgan-with-gradient-penalty"> WGAN with Gradient Penalty</h1>
 <h2 id="结果"> 结果</h2>
 <p>WGAN-gp运行效果比上回的WGAN和Original GAN要好多了，不是一点！</p>
@@ -1177,7 +1177,7 @@ viz <span>=</span> visdom<span>.</span>Visdom<span>(</span><span>)</span>
     <title type="html">Wasserstein Generative Adversarial Networks</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/GAN/WGAN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/GAN/WGAN/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>首推这篇博客，本文内容多参考自此。<a href="https://www.cnblogs.com/Allen-rg/p/10305125.html" target="_blank" rel="noopener noreferrer">WGAN (原理解析)</a></p>
 <p>本文也另外参考了这篇<a href="https://lotabout.me/2018/WGAN/" target="_blank" rel="noopener noreferrer">博客</a></p>
@@ -1325,7 +1325,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <title type="html">Intelligent Software Defined Networking</title>
     <id>https://breezeshane.github.io/ArtificialIntelligence/ISDN/</id>
     <link href="https://breezeshane.github.io/ArtificialIntelligence/ISDN/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<div><p>温馨提示</p>
 <p>阅读本文之前需要先了解SDN，如果你还没有读过<a href="https://breezeshane.github.io/Web/SDN/" target="_blank" rel="noopener noreferrer">SDN入门基础</a>，请先读这篇。</p>
 <p>本文参考论文：李可欣, 王兴伟, 易波, 等. 智能软件定义网络[J]. 软件学报, 2020, 32(1): 118-136.</p>
@@ -1627,7 +1627,7 @@ D<span>.</span><span>apply</span><span>(</span>weights_init<span>)</span>
     <title type="html">多灾多难的博客搭建过程</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/BlogBuilding/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="blog-building"> Blog Building</h1>
 <blockquote>
 <p>参考：<a href="https://wxwoo.top/2019/05/15/hexo-mathjax-renderer-optimization/" target="_blank" rel="noopener noreferrer">hexo中的mathjax数学公式渲染优化</a></p>
@@ -1755,7 +1755,7 @@ FATAL {
     <title type="html">Changing Blog Theme</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/ChangeBlogTheme/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="to-change-my-blog-theme"> To Change My Blog Theme</h1>
 <blockquote>
 <p>参考文档：</p>
@@ -2183,7 +2183,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">用Shell脚本创建新文章</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/CreateNewFilebyShell/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前言"> 前言</h2>
 <p>自从我使用博客以后，写markdown就多了一件事——配置Front-matter。每次写文章我都要写这些几乎重复的东西，心情倍感烦躁，于是我决定用Shell脚本来实现这个功能。</p>
 <h2 id="实现"> 实现？</h2>
@@ -2385,7 +2385,7 @@ window<span>.</span><span>onload</span> <span>=</span> <span>function</span><spa
     <title type="html">LaTeX公式(For Markdown)</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/LaTeXforMd/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/LaTeXforMd/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>参考内容：</p>
 <p><a href="https://math.meta.stackexchange.com/questions/5020/mathjax-basic-tutorial-and-quick-reference" target="_blank" rel="noopener noreferrer">MathJax basic tutorial and quick reference</a></p>
@@ -3510,7 +3510,7 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
     <title type="html">Markdown语法杂记</title>
     <id>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</id>
     <link href="https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="markdown语法杂记"> Markdown语法杂记</h1>
 <hr>
 <blockquote>
@@ -6392,7 +6392,7 @@ import torch as pd
     <title type="html">组件禁用</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/disable/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/disable/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <summary type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
@@ -6419,14 +6419,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">密码加密的文章</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/encrypt/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6439,14 +6439,14 @@ import torch as pd
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Markdown 增强</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/markdown/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/markdown/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <summary type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 ]]></summary>
     <content type="html"><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
@@ -6919,14 +6919,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">页面配置</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/page/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/page/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="页面信息"> 页面信息</h2>
 <p>你可以在 Markdown 的 Frontmatter 中设置页面信息。</p>
 <ul>
@@ -6982,7 +6982,7 @@ $$
     <title type="html">主要功能与配置演示</title>
     <id>https://breezeshane.github.io/CourseOfBlog/guide/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/guide/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -7006,14 +7006,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">项目主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/home/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/home/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -7024,14 +7024,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">自定义布局</title>
     <id>https://breezeshane.github.io/CourseOfBlog/layout/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/layout/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -7051,14 +7051,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">博客主页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -7069,14 +7069,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">幻灯片页</title>
     <id>https://breezeshane.github.io/CourseOfBlog/slides/</id>
     <link href="https://breezeshane.github.io/CourseOfBlog/slides/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -7085,14 +7085,14 @@ $$
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Crawler</title>
     <id>https://breezeshane.github.io/Crawler/</id>
     <link href="https://breezeshane.github.io/Crawler/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="网络爬虫学习-updating"> 网络爬虫学习(Updating...)</h1>
 <h2 id="前言"> 前言</h2>
 <p>入门学习网络爬虫的阶段主要参考的是<a href="https://mofanpy.com/tutorials/data-manipulation/scraping/" target="_blank" rel="noopener noreferrer">莫烦 Python</a>的爬虫基础教程，按照了他的学习路线去学，因为这个教程实在是非常通俗易懂，能让你迅速掌握网络爬虫的相关基础概念。</p>
@@ -7189,7 +7189,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">循环链表</title>
     <id>https://breezeshane.github.io/DataStructures/CircularLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/CircularLinkedList/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>循环链表，即令单链表尾结点的指针指向链表的头结点。</p>
 <p>结构代码的定义：「本质上与单链表的结构体定义并无差异」</p>
@@ -7357,7 +7357,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">双链表</title>
     <id>https://breezeshane.github.io/DataStructures/DoubleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/DoubleLinkedList/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>双链表，即表中每一个结点都有两个指针，分别指向前驱和后继。</p>
 <p>结构代码的定义：</p>
@@ -7517,7 +7517,7 @@ loop<span>.</span>close<span>(</span><span>)</span>                             
     <title type="html">队列与循环队列</title>
     <id>https://breezeshane.github.io/DataStructures/Queue/</id>
     <link href="https://breezeshane.github.io/DataStructures/Queue/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>队列是限制结点插入操作固定在一端进行,而结点的删除操作固定在另一端进行的一种特殊线性表，特殊在于它操作受限，仅能使用入队、出队操作。</p>
 <p>如图所示：</p>
@@ -7624,7 +7624,7 @@ DataType <span>computeNum</span><span>(</span>PseqQueue Q<span>)</span><span>{</
     <title type="html">顺序线性表</title>
     <id>https://breezeshane.github.io/DataStructures/SequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructures/SequentialLinearList/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>顺序线性表是数据结构算法中最简单的一种结构，它的组成成分如下：</p>
@@ -7830,7 +7830,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">单向链表</title>
     <id>https://breezeshane.github.io/DataStructures/SingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/SingleLinkedList/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <blockquote>
 <p>单链表是一种链式存取的数据结构，用一组地址任意的存储单元存放线性表中的数据元素。</p>
@@ -8021,7 +8021,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">顺序线性栈</title>
     <id>https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/</id>
     <link href="https://breezeshane.github.io/DataStructures/StackBasedonSequentialLinearList/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="顺序线性栈的定义"> 顺序线性栈的定义</h2>
@@ -8130,7 +8130,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">链式栈</title>
     <id>https://breezeshane.github.io/DataStructures/StackBasedonSingleLinkedList/</id>
     <link href="https://breezeshane.github.io/DataStructures/StackBasedonSingleLinkedList/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="栈的定义"> 栈的定义</h2>
 <p>栈是一种特殊的线性表，特殊在于该线性表的操作是受限的，只能访问与操作栈顶元素。</p>
 <h2 id="链式栈的定义"> 链式栈的定义</h2>
@@ -8156,7 +8156,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">底层原因</title>
     <id>https://breezeshane.github.io/DataStructures/Statement/</id>
     <link href="https://breezeshane.github.io/DataStructures/Statement/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="指针变量写法"> 指针变量写法</h2>
 <div><pre><code>PseqList <span>createNullList_seq</span><span>(</span><span>int</span> m<span>)</span><span>{</span>
     <span>if</span> <span>(</span> <span>!</span>m <span>)</span>
@@ -8215,7 +8215,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">2-3树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/2-3Tree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/2-3Tree/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8229,7 +8229,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">B+树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/B+Tree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/B+Tree/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8243,7 +8243,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">B树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/BTree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/BTree/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8257,7 +8257,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">二叉树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/BinaryTree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/BinaryTree/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>二叉树是一颗有序树，它由</p>
 ]]></content>
@@ -8274,7 +8274,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">红黑树</title>
     <id>https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/</id>
     <link href="https://breezeshane.github.io/DataStructures/Tree/Red-BlackTree/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -8288,7 +8288,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">数据库泛谈</title>
     <id>https://breezeshane.github.io/Database/DataBase/</id>
     <link href="https://breezeshane.github.io/Database/DataBase/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<p><strong>数据库</strong>，又称为数据管理系统，是以一定方式储存在一起、能予多个用户共享、具有尽可能小的冗余度、与应用程序彼此独立的数据集合。</p>
 <h2 id="分类"> 分类</h2>
 <p><strong>关系型数据库</strong>，是指采用了关系模型来组织数据的数据库，其以行和列的形式存储数据，以便于用户理解，关系型数据库这一系列的行和列被称为表，一组表组成了数据库。用户通过查询来检索数据库中的数据，而查询是一个用于限定数据库中某些区域的执行代码。</p>
@@ -8480,21 +8480,21 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
     <title type="html">数据库安全</title>
     <id>https://breezeshane.github.io/Database/DatabaseSafety/</id>
     <link href="https://breezeshane.github.io/Database/DatabaseSafety/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">MySQL初步使用</title>
     <id>https://breezeshane.github.io/Database/MySQL/</id>
     <link href="https://breezeshane.github.io/Database/MySQL/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://www.runoob.com/mysql/mysql-create-database.html" target="_blank" rel="noopener noreferrer">MySQL 创建数据库</a></li>
@@ -9088,7 +9088,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
     <title type="html">数据库规范化</title>
     <id>https://breezeshane.github.io/Database/NormalForm/</id>
     <link href="https://breezeshane.github.io/Database/NormalForm/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://zh.wikipedia.org/wiki/%E6%95%B0%E6%8D%AE%E5%BA%93%E8%A7%84%E8%8C%83%E5%8C%96" target="_blank" rel="noopener noreferrer">数据库规范化 - Wikipedia</a></li>
@@ -9304,21 +9304,21 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
     <title type="html">数据库查询优化</title>
     <id>https://breezeshane.github.io/Database/QueryOptimization/</id>
     <link href="https://breezeshane.github.io/Database/QueryOptimization/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">数据库的关系与关系代数</title>
     <id>https://breezeshane.github.io/Database/RelationalAlgebra/</id>
     <link href="https://breezeshane.github.io/Database/RelationalAlgebra/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://blog.csdn.net/cnds123/article/details/39827049" target="_blank" rel="noopener noreferrer">外键约束详解及术语释疑</a></li>
@@ -9559,21 +9559,21 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
     <title type="html">数据库触发器</title>
     <id>https://breezeshane.github.io/Database/Trigger/</id>
     <link href="https://breezeshane.github.io/Database/Trigger/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Git Commands</title>
     <id>https://breezeshane.github.io/Git_Commands/</id>
     <link href="https://breezeshane.github.io/Git_Commands/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<p>最近小伙伴们好像都在为git指令发愁啊，讲真，刚开始确实用不惯。嘛，用的时间长了，git指令还是很好的东西~   <sub>（我不可能告诉你我是DOS系统的情怀党）</sub></p>
 <p>于是我就写这个帮助文档，一来我能日后有需要再去复习，二来也可以给小伙伴们提供参考~</p>
 <h2 id="git-前期准备该怎么做"> Git 前期准备该怎么做？</h2>
@@ -9709,6 +9709,43 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
 <p>然后执行<code>git checkout &lt;Commit_ID&gt;</code>，这里的<code>&lt;Commit_ID&gt;</code>就是刚才要记的分支编号。</p>
 <p>在此基础上再新建分支，执行<code>git checkout -b &lt;NEW_BRANCH_NAME&gt;</code>。</p>
 <p>这样你就可以发现，切换版本成功了。👍</p>
+<h2 id="使用github专用匿名邮箱"> 使用GitHub专用匿名邮箱</h2>
+<blockquote>
+<p>参考资料：</p>
+<ol>
+<li><a href="https://stackoverflow.com/questions/43863522/error-your-push-would-publish-a-private-email-address" target="_blank" rel="noopener noreferrer">Error &quot;Your push would publish a private email address&quot; - StackOverflow</a></li>
+<li><a href="https://docs.github.com/cn/account-and-profile/setting-up-and-managing-your-personal-account-on-github/managing-email-preferences/setting-your-commit-email-address" target="_blank" rel="noopener noreferrer">设置提交电子邮件地址 - GitHub Docs</a></li>
+<li><a href="https://www.cnblogs.com/qiect/articles/16119007.html" target="_blank" rel="noopener noreferrer">从哪里找自己的GitHub用户Id（UserId）</a></li>
+</ol>
+</blockquote>
+<p>近日出于隐私安全问题，我调整了一下GitHub上的用户隐私设置，当我更新完我的仓库时得到了如下的报错。</p>
+<div><p>Error</p>
+<div><pre><code>❯ git push
+Enumerating objects: 11, done.
+Counting objects: 100% (11/11), done.
+Delta compression using up to 8 threads
+Compressing objects: 100% (6/6), done.
+Writing objects: 100% (6/6), 8.70 KiB | 2.90 MiB/s, done.
+Total 6 (delta 4), reused 0 (delta 0), pack-reused 0
+remote: Resolving deltas: 100% (4/4), completed with 4 local objects.
+remote: error: GH007: Your push would publish a private email address.
+remote: You can make your email public or disable this protection by visiting:
+remote: http://github.com/settings/emails
+To github.com:BreezeShane/XXXXXXXX.git
+ ! [remote rejected] main -&gt; main (push declined due to email privacy restrictions)
+error: failed to push some refs to &#39;github.com:BreezeShane/XXXXXXXX.git&#39;
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div></div>
+<p>于是我查了一下相关资料，发现是我勾选了<a href="https://github.com/settings/emails" target="_blank" rel="noopener noreferrer">这个页面</a>下的<code>Block command line pushes that expose my email</code>选项。这个选项是出于考虑传输数据时可能被人查看邮箱地址（<em>我说这传输是不是有点不靠谱了些……</em>）。按照相关文档的说明，应该在本地执行如下命令来更新配置：</p>
+<div><pre><code><span>git</span> config --global user.email <span>"email@example.com"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>GitHub提供了<code>GitHub-provided noreply email address</code>的服务，具体的地址应该在<code>Keep my email addresses private</code>选项下的内容中：</p>
+<blockquote>
+<p>We’ll remove your public profile email and use <strong><em>email@users.noreply.github.com</em></strong> when performing web-based Git operations (e.g. edits and merges) and sending email on your behalf. If you want command line Git operations to use your private email you must set your email in Git.</p>
+</blockquote>
+<p>你需要用这段文字中的粗斜体部分替换上面命令的<code>email@example.com</code>部分。</p>
+<p>这样就可以像以往那样正常提交了。</p>
+<p>「<strong>注</strong>」：<em>如果想查看当前设置的邮箱地址，可以执行命令：</em><code>git config --global user.email</code><em>。</em></p>
 ]]></content>
     <author>
       <name>Breeze Shane</name>
@@ -9723,7 +9760,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">Java 杂记</title>
     <id>https://breezeshane.github.io/Java/</id>
     <link href="https://breezeshane.github.io/Java/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="java-输出nan的原因"> Java 输出NaN的原因</h2>
 <p>中间的某步计算是在算<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:1.190108em;vertical-align:-0.345em;"></span><span><span></span><span><span><span><span style="height:0.845108em;"><span style="top:-2.6550000000000002em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span><span style="top:-3.23em;"><span style="height:3em;"></span><span style="border-bottom-width:0.04em;"></span></span><span style="top:-3.394em;"><span style="height:3em;"></span><span><span><span>0</span></span></span></span></span><span>​</span></span><span><span style="height:0.345em;"><span></span></span></span></span></span><span></span></span></span></span></span>或者负数的平方根(即虚数)的.</p>
 <p>注意: 判断是否为NaN时要使用isNaN.</p>
@@ -9743,7 +9780,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">TeXlive-LaTeX使用</title>
     <id>https://breezeshane.github.io/LaTeX/</id>
     <link href="https://breezeshane.github.io/LaTeX/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="tex-studio安装宏包"> TeX Studio安装宏包</h2>
 <p>在ArcoLinux+AwesomeWM环境下,TeX Studio要操作的文件夹位于:<code>/usr/share/texmf/tex/latex/</code>.</p>
 <p>然后从宏包的官网上下载相应的文档,如果遇到<code>sty</code>文档的话(它是已经编译好的宏包文档),下载过来放在上面那个文件夹就好;如果是一个压缩包,解压出来后将文件夹命名为包的名字后直接放在上面的目录即可.</p>
@@ -9772,7 +9809,7 @@ lib/<span>*.dll</span>	<span>#忽略掉lib目录下的所有dll文件</span>
     <title type="html">Arcolinux &amp; AwesomeWM</title>
     <id>https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/</id>
     <link href="https://breezeshane.github.io/Linux/ArcolinuxAndAwesomeWM/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>前因</strong>：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 <code>sudo rm -rf /*</code>。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。</p>
 </blockquote>
@@ -10998,7 +11035,7 @@ hwmon2                          voltage_now
     <title type="html">Shell全自动安装与部署Anaconda</title>
     <id>https://breezeshane.github.io/Linux/AutoIAC/</id>
     <link href="https://breezeshane.github.io/Linux/AutoIAC/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
 <h2 id="实现思路"> 实现思路</h2>
@@ -11288,7 +11325,7 @@ python Generative<span>\</span> Adversaria<span>\</span> Networks.py
     <title type="html">记将旧电脑改建成服务器的过程</title>
     <id>https://breezeshane.github.io/Linux/BuildingServer/</id>
     <link href="https://breezeshane.github.io/Linux/BuildingServer/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>因为家和学校距离非常远，而我希望到我回到学校的时候还能继续使用家里的电脑，再加之电脑家里人几乎不用，电脑一年到头就是闲置，于是很自然的想法就是将这台电脑做成一个服务器，在这上面部署一些常用工具，存放一些我需要存放的数据，将它用作我的生产力工具。</p>
 <h2 id="启动时遇到拦截"> 启动时遇到拦截</h2>
@@ -11417,7 +11454,7 @@ rfkill: Cannot get wiphy information
     <title type="html">科协网盘数据迁移记录</title>
     <id>https://breezeshane.github.io/Linux/KeXieNetDisk/</id>
     <link href="https://breezeshane.github.io/Linux/KeXieNetDisk/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考资料</summary>
 <ol>
 <li><a href="https://github.com/nextcloud/docker/blob/master/.examples/docker-compose/insecure/postgres/apache/docker-compose.yml" target="_blank" rel="noopener noreferrer">docker/.examples/docker-compose/insecure/postgres/apache/docker-compose.yml - GitHub</a></li>
@@ -11628,7 +11665,7 @@ https://XXX.XXXXX.XXXXX {
     <title type="html">Magic SysRq 组合键功能表</title>
     <id>https://breezeshane.github.io/Linux/MagicSysRq/</id>
     <link href="https://breezeshane.github.io/Linux/MagicSysRq/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<div><p>说明</p>
 <p>以下表格中的按键是指按下 <kbd>Alt</kbd>+<kbd>SysRq</kbd>后再按下相应的附加按键，如按键中写B时表示 <kbd>Alt</kbd>+<kbd>SysRq</kbd>+<kbd>B</kbd>。</p>
 </div>
@@ -11752,7 +11789,7 @@ https://XXX.XXXXX.XXXXX {
     <title type="html">Manjaro Linux</title>
     <id>https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/</id>
     <link href="https://breezeshane.github.io/Linux/Manjaro%E5%AE%89%E8%A3%85%E4%B8%8E%E9%85%8D%E7%BD%AE/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="manjaro-linux"> Manjaro Linux</h1>
 <p>终于考完试了！在大学第一个寒假到来之际，我决定入坑Linux系统，并花了很长时间挑选系统（深度选择困难患者），终于，我选择了Manjaro Linux，希望它<sub>不会让人失望</sub>！</p>
 <h2 id="_1-windows10-manjaro-linux深度指北"> 1.Windows10+Manjaro Linux深度指北</h2>
@@ -13023,7 +13060,7 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
     <title type="html">记一次局域网搭建私人云盘的过程</title>
     <id>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</id>
     <link href="https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
 </blockquote>
@@ -13145,7 +13182,7 @@ nextcloud
     <title type="html">Linux 共享 Anaconda</title>
     <id>https://breezeshane.github.io/Linux/ShareConda/</id>
     <link href="https://breezeshane.github.io/Linux/ShareConda/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>安装Anaconda的步骤这里不做详细记述.</p>
 </blockquote>
@@ -13194,7 +13231,7 @@ nextcloud
     <title type="html">Linux Shell 编程学习与实战</title>
     <id>https://breezeshane.github.io/Linux/Shells/</id>
     <link href="https://breezeshane.github.io/Linux/Shells/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="模拟输入组合键ctrl-anykey"> 模拟输入组合键<kbd>Ctrl</kbd>+<kbd>AnyKey</kbd></h2>
 <p>在<a href="./AutoIAC.html">上一篇笔记</a>中我提到没能将输入内容送入指定的进程PID，但在了解到这一点之前我学到了如下的一些内容：</p>
 <div><pre><code><span>echo</span> <span>$$</span> <span># 这个是显示当前进程的PID。</span>
@@ -14359,21 +14396,21 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
     <title type="html">Linux系统维护</title>
     <id>https://breezeshane.github.io/Linux/SystemDoubleM/</id>
     <link href="https://breezeshane.github.io/Linux/SystemDoubleM/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Linux系统安全防护</title>
     <id>https://breezeshane.github.io/Linux/SystemSafety/</id>
     <link href="https://breezeshane.github.io/Linux/SystemSafety/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://www.modb.pro/db/116651" target="_blank" rel="noopener noreferrer">Linux系统安全隐患及加强安全管理的方法</a></li>
@@ -14954,7 +14991,7 @@ lastlog <span>#查看每个用户最后一次登陆的时间</span>
     <title type="html">Linux 用户与组和权限分配杂谈</title>
     <id>https://breezeshane.github.io/Linux/UUA/</id>
     <link href="https://breezeshane.github.io/Linux/UUA/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ol>
 <li><a href="https://jiabaoer.github.io/2019/11/21/013.Linux-%E7%94%A8%E6%88%B7%E5%92%8C%E7%BB%84%E7%AE%A1%E7%90%86/" target="_blank" rel="noopener noreferrer">Linux 用户和组管理</a></li>
@@ -15401,7 +15438,7 @@ setfacl --restore <span>&lt;</span>YourDirectory<span>></span>
     <title type="html">从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</title>
     <id>https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/</id>
     <link href="https://breezeshane.github.io/Linux/ZeroTier-One%E5%AE%89%E8%A3%85%E4%B8%8E%E4%BD%BF%E7%94%A8/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="从zerotier-one安装与配置到android-manjaro连接共享控制的一条龙服务问题"> 从Zerotier One安装与配置到Android &amp; Manjaro连接共享控制的一条龙服务问题</h1>
 <h2 id="zerotier-one安装与配置"> Zerotier One安装与配置</h2>
 <p>ZerotierOne是一种内网穿透工具，它的基本原理是通过搭建虚拟内网来连接各设备。为什么会提到连接共享控制的问题？此类的连接共享以及控制，多都是在内网上实现的，这样说你多少该懂了。。。</p>
@@ -15506,7 +15543,7 @@ vncserver :1
     <title type="html">在Arch系中安装openGauss(全失败过程)</title>
     <id>https://breezeshane.github.io/Linux/openGauss/</id>
     <link href="https://breezeshane.github.io/Linux/openGauss/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="opengauss下载"> openGauss下载</h2>
 <p>官网至给出了CentOS和Windows系统下的安装包, 但考虑同样是Linux, openGauss也应该可以安装在Arch系上, 故有此笔记.</p>
 <p>去<a href="https://opengauss.org/zh/download.html" target="_blank" rel="noopener noreferrer">官方网站</a>下载CentOS版本的包.</p>
@@ -15933,7 +15970,7 @@ gsql -d postgres -U gaussdb -W<span>'Enmo@123'</span>
     <title type="html">Building Up Servicer</title>
     <id>https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/</id>
     <link href="https://breezeshane.github.io/Linux/%E8%AE%B0%E6%9C%8D%E5%8A%A1%E5%99%A8%E6%90%AD%E5%BB%BA%E8%BF%87%E7%A8%8B/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="背景"> 背景</h2>
 <p>在做项目的我正为自己的显卡太小跑不了预测而发愁的时候，由于非常微妙的缘分，我白嫖到一个装有GeForce GTX 1060显卡的主机，更令人高兴的是这个主机装上的系统就是Manjaro！</p>
 <h2 id="怎么做"> 怎么做？</h2>
@@ -15999,7 +16036,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">同余式及其性质</title>
     <id>https://breezeshane.github.io/Mathematics/CongruenceExpression/</id>
     <link href="https://breezeshane.github.io/Mathematics/CongruenceExpression/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="定义"> 定义</h2>
 <p>若一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>a</span></span></span></span>被一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除的时候得到的商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>和唯一的一个余数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>，另一个整数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.69444em;vertical-align:0em;"></span><span>b</span></span></span></span>也被<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>除时得到商<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span></span></span></span>，得到的唯一余数也是<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.43056em;vertical-align:0em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span>（其中<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.78041em;vertical-align:-0.13597em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>≤</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.5782em;vertical-align:-0.0391em;"></span><span style="margin-right:0.02778em;">r</span><span style="margin-right:0.2777777777777778em;"></span><span>&lt;</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>m</span></span></span></span>），即</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:3.0000299999999998em;vertical-align:-1.25003em;"></span><span><span style="top:0em;"><span>{</span></span><span><span><span><span><span><span style="height:1.69em;"><span style="top:-3.69em;"><span style="height:3.008em;"></span><span><span>a</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>1</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span><span style="top:-2.25em;"><span style="height:3.008em;"></span><span><span>b</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span><span>m</span><span><span style="margin-right:0.03588em;">q</span><span><span><span><span style="height:0.30110799999999993em;"><span style="top:-2.5500000000000003em;margin-left:-0.03588em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>2</span></span></span></span><span>​</span></span><span><span style="height:0.15em;"><span></span></span></span></span></span></span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span><span style="margin-right:0.02778em;">r</span></span></span></span><span>​</span></span><span><span style="height:1.19em;"><span></span></span></span></span></span></span></span><span></span></span></span></span></span></span></p>
@@ -16081,7 +16118,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">共轭函数性质的证明</title>
     <id>https://breezeshane.github.io/Mathematics/ConjugateFunction/</id>
     <link href="https://breezeshane.github.io/Mathematics/ConjugateFunction/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<blockquote>
 <p>参考连接: <a href="https://blog.csdn.net/weixin_42258608/article/details/87610618" target="_blank" rel="noopener noreferrer">共轭函数两个性质的证明</a></p>
 </blockquote>
@@ -16126,7 +16163,7 @@ zerotier-cli <span>join</span> <span>{</span>YOUR_NETWORK_ID<span>}</span>
     <title type="html">凸优化学习</title>
     <id>https://breezeshane.github.io/Mathematics/Convex/</id>
     <link href="https://breezeshane.github.io/Mathematics/Convex/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<details><summary>参考</summary>
 <ul>
 <li><strong>Main</strong> <a href="https://bicmr.pku.edu.cn/~wenzw/optbook/lect/03_functions_newhyx.pdf" target="_blank" rel="noopener noreferrer">凸函数 - 文再文讲义</a></li>
@@ -16726,7 +16763,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <title type="html">Moore-Penrose伪逆</title>
     <id>https://breezeshane.github.io/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/</id>
     <link href="https://breezeshane.github.io/Mathematics/LinearAlgebra/Moore-Penrose%E4%BC%AA%E9%80%86/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -16740,7 +16777,7 @@ M834 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span><
     <title type="html">向量范数与矩阵范数</title>
     <id>https://breezeshane.github.io/Mathematics/LinearAlgebra/Norm/</id>
     <link href="https://breezeshane.github.io/Mathematics/LinearAlgebra/Norm/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="向量范数"> 向量范数</h2>
 <p>向量范数具有“长度”概念，是一个函数，其为向量空间内的所有向量赋予非零的正长度或大小。</p>
 <p>假设V是域F上的向量空间；V的半范数是一个函数<span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.625em;vertical-align:-0.19444em;"></span><span>p</span><span style="margin-right:0.2777777777777778em;"></span><span>:</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span style="margin-right:0.22222em;">V</span><span style="margin-right:0.2777777777777778em;"></span><span>→</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.88333em;vertical-align:-0.19444em;"></span><span>R</span><span>;</span><span style="margin-right:0.16666666666666666em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>↦</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:1em;vertical-align:-0.25em;"></span><span>p</span><span>(</span><span>x</span><span>)</span></span></span></span>，满足：</p>
@@ -17059,7 +17096,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关的简单运算</title>
     <id>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/</id>
     <link href="https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeCompute/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="矩阵转置"> 矩阵转置</h2>
 <h2 id="矩阵加法"> 矩阵加法</h2>
 <h2 id="矩阵乘法"> 矩阵乘法</h2>
@@ -17078,7 +17115,7 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
     <title type="html">相关名词的概念</title>
     <id>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeConcepts/</id>
     <link href="https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeConcepts/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h3 id="标量"> 标量</h3>
 <p>又称<strong>纯量</strong>，是只有大小、没有方向、可用实数表示的一个量。</p>
 <p>实际上标量就是实数，“标量”这个称法只是为了区别于向量。</p>
@@ -17180,7 +17217,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">「实例」主成分分析</title>
     <id>https://breezeshane.github.io/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</id>
     <link href="https://breezeshane.github.io/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17194,7 +17231,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">奇异值分解</title>
     <id>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17208,7 +17245,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">特征分解</title>
     <id>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</id>
     <link href="https://breezeshane.github.io/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<div><p>定义</p>
 <p>线性代数中，特征分解（Eigendecomposition），又称谱分解（Spectral decomposition）是将矩阵分解为由其特征值和特征向量表示的矩阵之积的方法。需要注意只有对可对角化矩阵才可以施以特征分解。</p>
 </div>
@@ -17261,7 +17298,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">Lipschitz Continuity</title>
     <id>https://breezeshane.github.io/Mathematics/LipschitzContinuity/</id>
     <link href="https://breezeshane.github.io/Mathematics/LipschitzContinuity/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="利普希茨连续-lipschitz-continuity"> 利普希茨连续——Lipschitz Continuity</h1>
 <blockquote>
 <p>参考资料：<a href="https://zh.wikipedia.org/wiki/%E5%88%A9%E6%99%AE%E5%B8%8C%E8%8C%A8%E9%80%A3%E7%BA%8C" target="_blank" rel="noopener noreferrer">利普希茨连续 - 维基百科</a></p>
@@ -17325,7 +17362,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">信息论</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E4%BF%A1%E6%81%AF%E8%AE%BA/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17339,7 +17376,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见函数及其性质</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E5%87%BD%E6%95%B0%E5%8F%8A%E5%85%B6%E6%80%A7%E8%B4%A8/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17353,7 +17390,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">常见概率分布</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E5%B8%B8%E8%A7%81%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17367,7 +17404,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">期望、方差和协方差</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E6%9C%9F%E6%9C%9B%E3%80%81%E6%96%B9%E5%B7%AE%E5%92%8C%E5%8D%8F%E6%96%B9%E5%B7%AE/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17381,7 +17418,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">条件概率及其链式法则</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E6%9D%A1%E4%BB%B6%E6%A6%82%E7%8E%87%E5%8F%8A%E5%85%B6%E9%93%BE%E5%BC%8F%E6%B3%95%E5%88%99/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17395,7 +17432,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">概率分布</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E6%A6%82%E7%8E%87%E5%88%86%E5%B8%83/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17409,7 +17446,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">独立性和条件独立性</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E7%8B%AC%E7%AB%8B%E6%80%A7%E5%92%8C%E6%9D%A1%E4%BB%B6%E7%8B%AC%E7%AB%8B%E6%80%A7/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17423,7 +17460,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">结构化概率模型</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E7%BB%93%E6%9E%84%E5%8C%96%E6%A6%82%E7%8E%87%E6%A8%A1%E5%9E%8B/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17437,7 +17474,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">贝叶斯规则</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E8%B4%9D%E5%8F%B6%E6%96%AF%E8%A7%84%E5%88%99/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17451,7 +17488,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">边缘概率</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E8%BE%B9%E7%BC%98%E6%A6%82%E7%8E%87/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17465,7 +17502,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">连续性变量的技术细节</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E8%BF%9E%E7%BB%AD%E6%80%A7%E5%8F%98%E9%87%8F%E7%9A%84%E6%8A%80%E6%9C%AF%E7%BB%86%E8%8A%82/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17479,7 +17516,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">随机变量</title>
     <id>https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/</id>
     <link href="https://breezeshane.github.io/Mathematics/ProbabilityTheory/%E9%9A%8F%E6%9C%BA%E5%8F%98%E9%87%8F/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
@@ -17493,7 +17530,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">关于Vcomputer如何实现循环的哲学问题</title>
     <id>https://breezeshane.github.io/VComputer/</id>
     <link href="https://breezeshane.github.io/VComputer/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="关于vcomputer如何实现循环的哲学问题"> 关于Vcomputer如何实现循环的哲学问题</h1>
 <hr>
 <p>由于种种原因，我的计算机科学导论实验作业少做了第三题，题目如下：</p>
@@ -17543,7 +17580,7 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
     <title type="html">简单的网页前后端搭建过程</title>
     <id>https://breezeshane.github.io/Web/Frontbackend/</id>
     <link href="https://breezeshane.github.io/Web/Frontbackend/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="前端-html-css-javascript"> 前端(HTML + CSS + JavaScript)</h2>
 <h3 id="html"> HTML</h3>
 <p><strong>HTML设置字体：</strong></p>
@@ -17695,7 +17732,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">在受限的网站里强制复制粘贴</title>
     <id>https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/</id>
     <link href="https://breezeshane.github.io/Web/HowtoForceCVWhenBanned/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="在受限的网站里强制复制粘贴"> 在受限的网站里强制复制粘贴</h1>
 <blockquote>
 <p>参考：</p>
@@ -17784,7 +17821,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">SDN入门基础</title>
     <id>https://breezeshane.github.io/Web/SDN/</id>
     <link href="https://breezeshane.github.io/Web/SDN/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<div><p>参考链接</p>
 <p><a href="https://mp.weixin.qq.com/s?__biz=MjM5MTM3MzIzMg==&amp;mid=209513316&amp;idx=1&amp;sn=e5dbd9a2ccccb88d0ee5c4d5790699c1#rd" target="_blank" rel="noopener noreferrer">《SDN软件定义网络从入门到精通》导论课</a>
 <a href="http://www.keyunict.com/news/news-271.html" target="_blank" rel="noopener noreferrer">SDN的主要分层结构</a>
@@ -18189,7 +18226,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">Windows10 快捷键大全</title>
     <id>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</id>
     <link href="https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="windows10-快捷键大全"> Windows10 快捷键大全</h1>
 <h2 id="_2020-11-19"> 2020/11/19</h2>
 <hr>
@@ -18515,7 +18552,7 @@ patch_request_class<span>(</span>app<span>)</span>
     <title type="html">𝕬𝖇𝖔𝖚𝖙</title>
     <id>https://breezeshane.github.io/about/</id>
     <link href="https://breezeshane.github.io/about/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -18549,14 +18586,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Intro Page</title>
     <id>https://breezeshane.github.io/intro/</id>
     <link href="https://breezeshane.github.io/intro/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content>
@@ -18566,14 +18603,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Custom Layout</title>
     <id>https://breezeshane.github.io/layout/</id>
     <link href="https://breezeshane.github.io/layout/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -18598,14 +18635,14 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">友人帐</title>
     <id>https://breezeshane.github.io/links/links-1/</id>
     <link href="https://breezeshane.github.io/links/links-1/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<div>
     <div>
         <a href=""><img src="/Avatar/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
@@ -18789,42 +18826,42 @@ patch_request_class<span>(</span>app<span>)</span>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
-    <rights>Copyright by Breeze Shane</rights>
-  </entry>
-  <entry>
-    <title type="html">友人帐</title>
-    <id>https://breezeshane.github.io/links/</id>
-    <link href="https://breezeshane.github.io/links/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
-    <author>
-      <name>Breeze Shane</name>
-    </author>
-    <contributor>
-      <name>Breeze Shane</name>
-    </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">友人帐</title>
     <id>https://breezeshane.github.io/links/links-2/</id>
     <link href="https://breezeshane.github.io/links/links-2/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <author>
       <name>Breeze Shane</name>
     </author>
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
+    <rights>Copyright by Breeze Shane</rights>
+  </entry>
+  <entry>
+    <title type="html">友人帐</title>
+    <id>https://breezeshane.github.io/links/</id>
+    <link href="https://breezeshane.github.io/links/"/>
+    <updated>2022-07-05T06:59:41.000Z</updated>
+    <author>
+      <name>Breeze Shane</name>
+    </author>
+    <contributor>
+      <name>Breeze Shane</name>
+    </contributor>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
     <id>https://breezeshane.github.io/qap/</id>
     <link href="https://breezeshane.github.io/qap/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<center>
     <font color="#4b5cc4" size="5">
     𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓸𝔀𝓷 <br><br><br>
@@ -18861,7 +18898,7 @@ background-size: cover;
     <title type="html">Blog Home</title>
     <id>https://breezeshane.github.io/</id>
     <link href="https://breezeshane.github.io/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content>
     <author>
@@ -18870,14 +18907,14 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
   <entry>
     <title type="html">Slide page</title>
     <id>https://breezeshane.github.io/slides/</id>
     <link href="https://breezeshane.github.io/slides/"/>
-    <updated>2022-06-29T12:35:39.000Z</updated>
+    <updated>2022-07-05T06:59:41.000Z</updated>
     <content type="html"><![CDATA[
 <i>Not supported content</i>]]></content>
     <author>
@@ -18886,7 +18923,7 @@ background-size: cover;
     <contributor>
       <name>Breeze Shane</name>
     </contributor>
-    <published>2022-06-29T12:35:39.000Z</published>
+    <published>2022-07-05T06:59:41.000Z</published>
     <rights>Copyright by Breeze Shane</rights>
   </entry>
 </feed>
