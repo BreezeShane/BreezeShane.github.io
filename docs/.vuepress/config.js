@@ -110,6 +110,7 @@ module.exports = config({
                     ],
                   },
                   "ISDN",
+                  "GPU",
               ],
             },
             {
