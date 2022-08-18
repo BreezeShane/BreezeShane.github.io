@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Aug 2022 10:49:24 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Aug 2022 10:49:24 GMT</lastBuildDate>
+    <pubDate>Thu, 18 Aug 2022 11:54:29 GMT</pubDate>
+    <lastBuildDate>Thu, 18 Aug 2022 11:54:29 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -3492,33 +3492,6 @@ xy <span>&amp;</span> if <span>\quad</span> x^y=e^<span>{</span>x+y<span>}</span
 ]]></content:encoded>
     </item>
     <item>
-      <title>组件禁用</title>
-      <link>https://breezeshane.github.io/CourseOfBlog/guide/disable/</link>
-      <guid>https://breezeshane.github.io/CourseOfBlog/guide/disable/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">组件禁用</source>
-      <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
-</description>
-      <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
-      <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
-
-<p>本页面应当禁用了:</p>
-<ul>
-<li>导航栏</li>
-<li>侧边栏</li>
-<li>路径导航</li>
-<li>页面信息</li>
-<li>贡献者</li>
-<li>编辑此页链接</li>
-<li>更新时间</li>
-<li>上一篇/下一篇 链接</li>
-<li>评论</li>
-<li>页脚</li>
-<li>返回顶部按钮</li>
-</ul>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Markdown语法杂记</title>
       <link>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</link>
       <guid>https://breezeshane.github.io/BlogBuildingAndUsing/Markdown%E8%AF%AD%E6%B3%95%E6%9D%82%E8%AE%B0/</guid>
@@ -6394,12 +6367,39 @@ import torch as pd
 ]]></content:encoded>
     </item>
     <item>
+      <title>组件禁用</title>
+      <link>https://breezeshane.github.io/CourseOfBlog/guide/disable/</link>
+      <guid>https://breezeshane.github.io/CourseOfBlog/guide/disable/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">组件禁用</source>
+      <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
+</description>
+      <category>使用指南</category>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
+
+<p>本页面应当禁用了:</p>
+<ul>
+<li>导航栏</li>
+<li>侧边栏</li>
+<li>路径导航</li>
+<li>页面信息</li>
+<li>贡献者</li>
+<li>编辑此页链接</li>
+<li>更新时间</li>
+<li>上一篇/下一篇 链接</li>
+<li>评论</li>
+<li>页脚</li>
+<li>返回顶部按钮</li>
+</ul>
+]]></content:encoded>
+    </item>
+    <item>
       <title>密码加密的文章</title>
       <link>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6414,7 +6414,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6934,7 +6934,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6957,7 +6957,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6968,7 +6968,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6988,7 +6988,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6999,7 +6999,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8459,7 +8459,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -9262,7 +9262,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -9503,7 +9503,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -9720,289 +9720,6 @@ error: failed to push some refs to &#39;github.com:BreezeShane/XXXXXXXX.git&#39;
 <li>tikz, tikz-qtree</li>
 </ol>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>Shell全自动安装与部署Anaconda</title>
-      <link>https://breezeshane.github.io/Linux/AutoIAC/</link>
-      <guid>https://breezeshane.github.io/Linux/AutoIAC/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Shell全自动安装与部署Anaconda</source>
-      <pubDate>Mon, 13 Dec 2021 01:36:37 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
-<p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
-<h2 id="实现思路"> 实现思路</h2>
-<ol>
-<li>下载anaconda</li>
-<li>自动化交互并安装anaconda</li>
-<li>自动配置conda和pip</li>
-<li>自动创建虚拟环境</li>
-<li>自动拉取git仓库项目</li>
-<li>自动安装requirements</li>
-<li>自动运行项目「可选」</li>
-</ol>
-<h2 id="分步具体实现"> 分步具体实现</h2>
-<h3 id="下载anaconda"> 下载Anaconda</h3>
-<p>这里实现非常简单，调用wget即可，链接从官网获取：</p>
-<div><pre><code><span>wget</span> https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-XXXX.sh
-</code></pre>
-<div><span>1</span><br></div></div><p>注意这里的XXXX是需要你指定类型的，一般情况下系统是使用x86架构的，写<code>x86_64</code>即可，但openEuler实验课上我们选择的系统是ARM架构，因此要写<code>aarch64</code>。</p>
-<h3 id="自动化交互并安装anaconda"> 自动化交互并安装anaconda</h3>
-<p>通过shell实现自动化交互比较麻烦，我搜索了好长时间才知道应该如何解决，</p>
-<p>起初我是写成这样的：</p>
-<div><pre><code><span>#!/usr/bin/bash</span>
-<span>echo</span> <span>$'<span title="\003">\003</span>'</span> <span>|</span> <span>echo</span> <span>$KEYCODE_ENTER</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>很明显失败了，仔细想想不应该写成这样，这意思是：将<kbd>Ctrl</kbd>+<kbd>C</kbd>对应的SIGINT信号送入命令<code>echo $KEYCODE_ENTER | sh ./Anaconda3-2021.11-Linux-XXXX.sh</code>，就是中断该命令进行。</p>
-<p>后来我的实现思路是尝试将输入的内容发送到进程中，于是在纠结如何获取进程，折腾了好久才发现，实际上在我不修改下载来的Shell Installer的话，我这样做是送不进去的。</p>
-<p>之后我查到了有效的方法，写成这样即可按照预期进行：</p>
-<div><pre><code><span>{</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-	<span>kill</span> -SIGINT <span>$PPID</span><span>;</span>
-	<span>echo</span> <span>"yes"</span><span>;</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>但是，当我执行的时候我就发现不论如何，中间出现的用户条例总是会弹出来，而且即使我先后尝试添加语句来输入SIGINT信号也好，输入Q也罢，都不能自动退出阅读用户条例的模式，搜索许久无果后我最终决定看安装脚本的源码，最后我发现，在这个脚本中有这样的语句：</p>
-<div><pre><code><span>"<span>$pager</span>"</span> <span>&lt;&lt;</span><span>EOF
-......
-EOF</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时我才明白，我应该将问题放在如何阻止他向<code>$pager</code>写入内容，但搜索了许久也没有能满足我需求的指令，起先是觉得pager应该是个系统环境变量，但经过<code>env</code>查看之后也没能找到，虽然看到了<code>PAGER</code>，但他俩毕竟有区别，即使是我尝试创建变量$pager也于事无补，始终都不能解决问题。</p>
-<p>于是我翻了又翻源代码，注意到这里：</p>
-<div><pre><code><span>pager</span><span>=</span><span>"cat"</span>
-<span>if</span> <span>command</span> -v <span>"more"</span> <span>></span> /dev/null <span><span>2</span>></span><span>&amp;1</span><span>;</span> <span>then</span>
-<span>pager</span><span>=</span><span>"more"</span>
-<span>fi</span>
-<span>"<span>$pager</span>"</span> <span>&lt;&lt;</span>EOF
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后我将问题中心转移在cat身上了，我查过cat的相关文档，但看了许久也没发现它有任何相关参数。</p>
-<blockquote>
-<p><strong>题外话</strong>：我搜到过systemctl的相应解决方案，是在输入<code>systemctl stats</code>时避免出现分页器问题，这个的解决方案也简单，就是执行<code>export SYSTEMD_PAGER=cat</code>即可，原因是这个：</p>
-<blockquote>
-<p><code>$SYSTEMD_PAGER</code> Pager to use when <code>--no-pager</code> is not given; overrides <code>$PAGER</code>. If neither <code>$SYSTEMD_PAGER</code> nor <code>$PAGER</code> are set, a set of well-known pager implementations are tried in turn, including <code>less</code>(1) and <code>more</code>(1), until one is found. If no pager implementation is discovered no pager is invoked. Setting this environment variable to an empty string or the value &quot;<code>cat</code>&quot; is equivalent to passing <code>--no-pager</code>.</p>
-</blockquote>
-<p>man page表述已经很清晰了，<code>$SYSTEMD_PAGER</code>和<code>$PAGER</code>都不存在的时候，就会尝试从<code>less</code>和<code>more</code>中加载可用的软件。
-因此如果不想使用分页器就可以执行<code>export SYSTEMD_PAGER=cat</code>，这样当你再次输入<code>systemctl stats</code>时它也不会出现分页器了。</p>
-</blockquote>
-<p>后来就觉得，可能问题中心还没有找到，我就又从遇到的第一个问题开始分析，从头整理思绪后，开始觉得，分页器终归是分页器，问题应该是在于它的Here Documentation内写了太多的文字信息，因此当它输出的时候即使原本配置是不用分页器的，在这样的情况下也不得不使用分页器，于是我认为应该将问题中心放在这一大段文字上。</p>
-<p>于是我自然而然地想到了重定向问题。猛地发现，我可以使用重定向将这一大段文字清空掉，于是我写成了如下形式：</p>
-<div><pre><code><span>{</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-	<span>echo</span> <span>"yes"</span><span>;</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh <span>></span> /dev/null
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>但后来我发现，这样是直接将所有输出全部丢弃掉了，有些事是还想回溯一下历史，那应该如何做？</p>
-<p>在我进一步深入学习重定向之后，了解到了如下内容：</p>
-<blockquote>
-<p>在shell脚本中，默认情况下，总是有三个文件处于打开状态，标准输入、标准输出、标准错误，它们分别对应的文件描述符是0，1，2 。</p>
-<p><code>&gt;</code>默认为标准输出重定向，与<code>1&gt;</code>相同。
-<code>2&gt;&amp;1</code>是输出标准错误并重定向到标准输出。</p>
-<p><code>&amp;&gt;file</code>是把标准输出和标准错误都重定向到文件file中。</p>
-<p><code>/dev/null</code>是一个特殊的文件，所有传给它的东西都会被丢弃掉。</p>
-<p><code>1&gt;&amp;2</code>指的是将正确返回值传递给2输出通道，<code>&amp;2</code>表示2输出通道。</p>
-<p><code>2&gt;&amp;1</code>指的是将错误返回值传递给1输出通道, 同样<code>&amp;1</code>表示1输出通道。</p>
-</blockquote>
-<p>结合以上的知识和我目前的需求，最后就暂时写成以下的样子：</p>
-<div><pre><code><span>{</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-	<span>echo</span> <span>"yes"</span><span>;</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh <span><span>1</span>></span>./Anaconda.log <span><span>2</span>></span><span>&amp;1</span> <span>&amp;</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><h3 id="自动配置conda和pip"> 自动配置conda和pip</h3>
-<p>前面的事做好的话，后面也不怎么难了，把常用的那些指令写上去就可以了。</p>
-<div><pre><code><span># conda change channels</span>
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/conda-forge/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/msys2/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/menpo/
-conda config --set show_channel_urls <span>yes</span>
-<span># cat /root/.condarc</span>
-
-<span># pip change channels</span>
-pip config <span>set</span> global.index-url http://mirrors.aliyun.com/pypi/simple/
-pip config <span>set</span> install.trusted-host mirrors.aliyun.com
-<span># cat /root/.config/pip/pip.conf</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><h3 id="自动创建虚拟环境"> 自动创建虚拟环境</h3>
-<div><pre><code><span>{</span> <span>echo</span> <span>"y"</span><span>;</span> <span>}</span> <span>|</span> conda create -n OEDL <span>python</span><span>=</span><span>3.8</span>
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="自动拉取git仓库项目"> 自动拉取git仓库项目</h3>
-<div><pre><code><span>git</span> clone https://hub.fastgit.org/<span>&lt;</span>USERNAME<span>></span>/<span>&lt;</span>REPO-NAME<span>></span>.git
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="自动安装requirements"> 自动安装requirements</h3>
-<div><pre><code>pip <span>install</span> -r requirements.txt
-</code></pre>
-<div><span>1</span><br></div></div><h3 id="自动运行项目「可选」"> 自动运行项目「可选」</h3>
-<div><pre><code>python YOUR_SCRIPT.py
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="强化与优化"> 强化与优化</h2>
-<p>将上述分布执行再优化一下，设置一些参数，增强其通用性。</p>
-<p>在该脚本中，我增加了如下功能：</p>
-<ol>
-<li>判断文件是否已下载过，若存在则跳过下载；</li>
-<li>给出选项供用户选择不同架构下的Anaconda；</li>
-<li>提供帮助文档；</li>
-<li>允许通过传送参数修改项目来源地和虚拟环境名称；</li>
-</ol>
-<h5 id="实现功能一"> 实现功能一：</h5>
-<p>基本思路就是判断文件是否存在，然后套用shell的if语法框架即可：</p>
-<div><pre><code><span>if</span> <span>[</span> <span>!</span> -f <span>"./Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh"</span> <span>]</span><span>;</span> <span>then</span>
-	<span>wget</span> https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><strong>扩展：</strong></p>
-<p>判断文件夹是否存在时将上段代码中<code>-f</code>改为<code>-d</code>即可；判断是否有执行权限则改为<code>-x</code>即可；判断变量是否有值则改为<code>-n</code>即可。</p>
-<h5 id="实现功能二"> 实现功能二：</h5>
-<p>基本思路是shell分支语句的框架：</p>
-<div><pre><code><span>read</span> TYPEID<span>;</span>
-<span>if</span> <span>[</span> <span>$TYPEID</span> -eq <span>1</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"x86_64"</span><span>;</span>
-<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>2</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"aarch64"</span><span>;</span>
-<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>3</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"ppc64le"</span><span>;</span>
-<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>4</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"s390x"</span><span>;</span>
-<span>else</span>
-	<span>echo</span> -e <span>"Invalid type id."</span><span>;</span>
-	<span>exit</span> <span>1</span><span>;</span>
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><h5 id="实现功能三"> 实现功能三：</h5>
-<p>基本思路就是利用echo带有转义输出的控制<code>echo -e &quot;&lt;String&gt;\n&quot;</code>。</p>
-<h5 id="实现功能四"> 实现功能四：</h5>
-<p>基本思路是利用shell脚本中的特殊变量如<code>$1</code>、<code>$2</code>、<code>$3</code>等等，分别表示第一个参数、第二个参数、第三个参数，另外注意<code>$0</code>是表示程序名。该功能还利用shell变量的特殊替换结构而设置默认值。</p>
-<blockquote>
-<p>shell变量特殊替换结构：</p>
-<p><code>${var:-string}</code>：当变量var未定义或者值为空时，返回值为string的内容，否则返回变量的值。</p>
-<p><code>${var:+string}</code>：若变量var已赋值的话，其值才用string替换，否则不进行任何替换。</p>
-<p><code>${var:=string}</code>：若变量var未定义或者值为空时，在返回string的值的同时将string赋值给var。</p>
-<p><code>${var:?string}</code>：若变量var已赋值的话,正常输出var的值。否则将消息string送到标准错误输出（若此替换出现在Shell程序中，那么该程序将终止运行）</p>
-<p><code>${var:offset:length}</code>：从变量var中提取子串，这里offset和length可以是算术表达式。offset代表偏移量，从第几个字符开始提取，length是需要提取的字符串的个数。</p>
-<p><code>${#var}</code>：变量var的字符个数。</p>
-<p><code>${var#pattern}</code>和<code>${var##pattern}</code>：去掉var中与pattern相匹配的部分，条件是var的开头与pattern相匹配。#与##的区别在于一个是最短匹配模式，一个是最长匹配模式。</p>
-<p><code>${var%pattern}</code>和<code>${var%%pattern}</code>：与上例相似，但是从var的尾部和pattern相匹配，%与%%的区别与#与##一样。</p>
-<p><code>${var/pattern/string}</code> 和<code>${var//pattern/string}</code>：进行变量内容的替换，把与pattern匹配的部分替换为string的内容。<code>/</code>与<code>//</code>的区别是<code>/</code>只进行一次匹配替换，而<code>//</code>可以进行多次匹配替换。</p>
-<p>从网上看到的模式匹配记忆方法：</p>
-<blockquote>
-<p><code>#</code> 是去掉左边(在键盘上<code>#</code>在<code>$</code>之左边)
-<code>%</code> 是去掉右边(在键盘上<code>%</code>在<code>$</code>之右边)
-<code>#</code>和<code>%</code>中的单一符号是最小匹配，两个相同符号是最大匹配。</p>
-</blockquote>
-</blockquote>
-<div><pre><code><span># Variables</span>
-<span><span>USER</span></span><span>=</span><span>$1</span>
-<span>REPO</span><span>=</span><span>$2</span>
-<span>ENVNAME</span><span>=</span><span>$3</span>
-
-<span>..</span><span>..</span><span>..</span>
-
-<span># Create the virtual environment.</span>
-<span>{</span> <span>echo</span> <span>"y"</span><span>;</span> <span>}</span> <span>|</span> conda create -n <span>${ENVNAME<span>:-</span>"OEDL"}</span> <span>python</span><span>=</span><span>3.8</span>
-
-<span># Activate the environment.</span>
-conda activate <span>${ENVNAME}</span>
-
-<span>..</span><span>..</span><span>..</span>
-
-<span># Download the repo.</span>
-<span>git</span> clone https://hub.fastgit.org/<span>${<span>USER</span><span>:-</span>"BreezeShane"}</span>/<span>${REPO<span>:-</span>"Unsupervised-Learning"}</span>.git
-<span>cd</span> <span>${REPO}</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><h2 id="最终成果"> 最终成果</h2>
-<div><pre><code><span>#!/bin/bash</span>
-
-<span># Variables</span>
-<span><span>USER</span></span><span>=</span><span>$1</span>
-<span>REPO</span><span>=</span><span>$2</span>
-<span>ENVNAME</span><span>=</span><span>$3</span>
-
-<span>if</span> <span>[</span> <span>$1</span> <span>==</span> <span>"help"</span> <span>]</span><span>;</span> <span>then</span>
-	<span>echo</span> -e <span>"To use the shell script, type in this format:<span title="\n">\n</span><span title="\t">\t</span> <span title="\&quot;">\"</span>source IAC.sh &lt;USERNAME> &lt;REPONAME> &lt;ENVNAME><span title="\&quot;">\"</span><span title="\n">\n</span>Parameter Introduction:<span title="\n">\n</span><span title="\t">\t</span>&lt;USERNAME>: The parameter should be the name of your GitHub account. The default value is <span title="\&quot;">\"</span>BreezeShane<span title="\&quot;">\"</span><span title="\n">\n</span><span title="\t">\t</span>&lt;REPONAME>: The parameter should be the name of your GitHub Repository you want to download. The default value is <span title="\&quot;">\"</span>Unsupervised-Learning<span title="\&quot;">\"</span>.<span title="\n">\n</span><span title="\t">\t</span>&lt;ENVNAME>: The parameter should be the name of your new anaconda virtual environment. The default value is <span title="\&quot;">\"</span>OEDL<span title="\&quot;">\"</span><span title="\n">\n</span>If you type <span title="\&quot;">\"</span>source IAC.sh help<span title="\&quot;">\"</span> and then the help documentation will be displayed.<span title="\n">\n</span>"</span><span>;</span>
-	<span>exit</span> <span>0</span><span>;</span>
-<span>fi</span>
-
-<span># Download source file.</span>
-<span>echo</span> <span>"Welcome to use Auto Installer!"</span>
-<span>echo</span> <span>"Which kind of Anaconda3 would you like?"</span>
-<span>echo</span> <span>"1. 64-Bit (x86) Installer (581 MB)"</span>
-<span>echo</span> <span>"2. 64-Bit (AWS Graviton2 / ARM64) Installer (488 M)"</span>
-<span>echo</span> <span>"3. 64-Bit (Power8 and Power9) Installer (255 MB)"</span>
-<span>echo</span> <span>"4. 64-bit (Linux on IBM Z &amp; LinuxONE) Installer (242 M)"</span>
-
-<span>read</span> TYPEID<span>;</span>
-<span>if</span> <span>[</span> <span>$TYPEID</span> -eq <span>1</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"x86_64"</span><span>;</span>
-<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>2</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"aarch64"</span><span>;</span>
-<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>3</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"ppc64le"</span><span>;</span>
-<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>4</span> <span>]</span><span>;</span> <span>then</span>
-	<span>TYPE</span><span>=</span><span>"s390x"</span><span>;</span>
-<span>else</span>
-	<span>echo</span> -e <span>"Invalid type id."</span><span>;</span>
-	<span>exit</span> <span>1</span><span>;</span>
-<span>fi</span>
-
-<span>if</span> <span>[</span> <span>!</span> -f <span>"./Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh"</span> <span>]</span><span>;</span> <span>then</span>
-	<span>wget</span> https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh
-	<span>echo</span> <span>"Anaconda Shell Installer Download Success!"</span>
-<span>else</span>
-	<span>echo</span> <span>"Anaconda Shell Installer File exists!"</span>
-<span>fi</span>
-
-<span># Auto-Install anaconda3.</span>
-<span>echo</span> <span>"Installing Anaconda3......"</span>
-<span>{</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-	<span>echo</span> <span>"yes"</span><span>;</span>
-	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
-<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh <span><span>1</span>></span>./Anaconda.log <span><span>2</span>></span><span>&amp;1</span>
-<span>echo</span> <span>"Anaconda3 now is installed!"</span>
-
-<span># Initialize anaconda.</span>
-/root/anaconda3/bin/conda init <span>bash</span>
-<span>.</span> ~/.bashrc
-
-<span># Create the virtual environment.</span>
-<span>{</span> <span>echo</span> <span>"y"</span><span>;</span> <span>}</span> <span>|</span> conda create -n <span>${ENVNAME<span>:=</span>"OEDL"}</span> <span>python</span><span>=</span><span>3.8</span>
-
-<span># Activate the environment.</span>
-conda activate <span>${ENVNAME}</span>
-
-<span># conda change channels</span>
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/conda-forge/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/msys2/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
-conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/menpo/
-conda config --set show_channel_urls <span>yes</span>
-<span># cat /root/.condarc</span>
-
-<span># pip change channels</span>
-pip config <span>set</span> global.index-url http://mirrors.aliyun.com/pypi/simple/
-pip config <span>set</span> install.trusted-host mirrors.aliyun.com
-<span># cat /root/.config/pip/pip.conf</span>
-
-<span># Download the repo.</span>
-<span># git clone https://hub.fastgit.org/BreezeShane/Unsupervised-Learning.git</span>
-<span>git</span> clone https://hub.fastgit.org/<span>${<span>USER</span><span>:=</span>"BreezeShane"}</span>/<span>${REPO<span>:=</span>"Unsupervised-Learning"}</span>.git
-<span># cd ${REPO}</span>
-
-<span># Install requirements.</span>
-pip <span>install</span> -r <span>"<span>${REPO}</span>/requirements.txt"</span>
-
-<span># Run visdom server.</span>
-python -m visdom.server <span>&amp;</span>
-
-<span># Run the demo.</span>
-python Generative<span>\</span> Adversaria<span>\</span> Networks.py
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
     </item>
     <item>
       <title>Arcolinux &amp; AwesomeWM</title>
@@ -11237,6 +10954,289 @@ Binary plugin for HPs hplip printer driver library</p>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
     <item>
+      <title>Shell全自动安装与部署Anaconda</title>
+      <link>https://breezeshane.github.io/Linux/AutoIAC/</link>
+      <guid>https://breezeshane.github.io/Linux/AutoIAC/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Shell全自动安装与部署Anaconda</source>
+      <pubDate>Mon, 13 Dec 2021 01:36:37 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="背景"> 背景</h2>
+<p>因为学校布置了一个在openEuler上的综合大作业，我和比较多的同学们选择了部署安装深度学习的主题，但同学们苦于配置环境非常繁琐。我就产生了编写全自动化Shell部署安装脚本的想法，特此一记。</p>
+<h2 id="实现思路"> 实现思路</h2>
+<ol>
+<li>下载anaconda</li>
+<li>自动化交互并安装anaconda</li>
+<li>自动配置conda和pip</li>
+<li>自动创建虚拟环境</li>
+<li>自动拉取git仓库项目</li>
+<li>自动安装requirements</li>
+<li>自动运行项目「可选」</li>
+</ol>
+<h2 id="分步具体实现"> 分步具体实现</h2>
+<h3 id="下载anaconda"> 下载Anaconda</h3>
+<p>这里实现非常简单，调用wget即可，链接从官网获取：</p>
+<div><pre><code><span>wget</span> https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-XXXX.sh
+</code></pre>
+<div><span>1</span><br></div></div><p>注意这里的XXXX是需要你指定类型的，一般情况下系统是使用x86架构的，写<code>x86_64</code>即可，但openEuler实验课上我们选择的系统是ARM架构，因此要写<code>aarch64</code>。</p>
+<h3 id="自动化交互并安装anaconda"> 自动化交互并安装anaconda</h3>
+<p>通过shell实现自动化交互比较麻烦，我搜索了好长时间才知道应该如何解决，</p>
+<p>起初我是写成这样的：</p>
+<div><pre><code><span>#!/usr/bin/bash</span>
+<span>echo</span> <span>$'<span title="\003">\003</span>'</span> <span>|</span> <span>echo</span> <span>$KEYCODE_ENTER</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>很明显失败了，仔细想想不应该写成这样，这意思是：将<kbd>Ctrl</kbd>+<kbd>C</kbd>对应的SIGINT信号送入命令<code>echo $KEYCODE_ENTER | sh ./Anaconda3-2021.11-Linux-XXXX.sh</code>，就是中断该命令进行。</p>
+<p>后来我的实现思路是尝试将输入的内容发送到进程中，于是在纠结如何获取进程，折腾了好久才发现，实际上在我不修改下载来的Shell Installer的话，我这样做是送不进去的。</p>
+<p>之后我查到了有效的方法，写成这样即可按照预期进行：</p>
+<div><pre><code><span>{</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+	<span>kill</span> -SIGINT <span>$PPID</span><span>;</span>
+	<span>echo</span> <span>"yes"</span><span>;</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br></div></div><p>但是，当我执行的时候我就发现不论如何，中间出现的用户条例总是会弹出来，而且即使我先后尝试添加语句来输入SIGINT信号也好，输入Q也罢，都不能自动退出阅读用户条例的模式，搜索许久无果后我最终决定看安装脚本的源码，最后我发现，在这个脚本中有这样的语句：</p>
+<div><pre><code><span>"<span>$pager</span>"</span> <span>&lt;&lt;</span><span>EOF
+......
+EOF</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>这时我才明白，我应该将问题放在如何阻止他向<code>$pager</code>写入内容，但搜索了许久也没有能满足我需求的指令，起先是觉得pager应该是个系统环境变量，但经过<code>env</code>查看之后也没能找到，虽然看到了<code>PAGER</code>，但他俩毕竟有区别，即使是我尝试创建变量$pager也于事无补，始终都不能解决问题。</p>
+<p>于是我翻了又翻源代码，注意到这里：</p>
+<div><pre><code><span>pager</span><span>=</span><span>"cat"</span>
+<span>if</span> <span>command</span> -v <span>"more"</span> <span>></span> /dev/null <span><span>2</span>></span><span>&amp;1</span><span>;</span> <span>then</span>
+<span>pager</span><span>=</span><span>"more"</span>
+<span>fi</span>
+<span>"<span>$pager</span>"</span> <span>&lt;&lt;</span>EOF
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>然后我将问题中心转移在cat身上了，我查过cat的相关文档，但看了许久也没发现它有任何相关参数。</p>
+<blockquote>
+<p><strong>题外话</strong>：我搜到过systemctl的相应解决方案，是在输入<code>systemctl stats</code>时避免出现分页器问题，这个的解决方案也简单，就是执行<code>export SYSTEMD_PAGER=cat</code>即可，原因是这个：</p>
+<blockquote>
+<p><code>$SYSTEMD_PAGER</code> Pager to use when <code>--no-pager</code> is not given; overrides <code>$PAGER</code>. If neither <code>$SYSTEMD_PAGER</code> nor <code>$PAGER</code> are set, a set of well-known pager implementations are tried in turn, including <code>less</code>(1) and <code>more</code>(1), until one is found. If no pager implementation is discovered no pager is invoked. Setting this environment variable to an empty string or the value &quot;<code>cat</code>&quot; is equivalent to passing <code>--no-pager</code>.</p>
+</blockquote>
+<p>man page表述已经很清晰了，<code>$SYSTEMD_PAGER</code>和<code>$PAGER</code>都不存在的时候，就会尝试从<code>less</code>和<code>more</code>中加载可用的软件。
+因此如果不想使用分页器就可以执行<code>export SYSTEMD_PAGER=cat</code>，这样当你再次输入<code>systemctl stats</code>时它也不会出现分页器了。</p>
+</blockquote>
+<p>后来就觉得，可能问题中心还没有找到，我就又从遇到的第一个问题开始分析，从头整理思绪后，开始觉得，分页器终归是分页器，问题应该是在于它的Here Documentation内写了太多的文字信息，因此当它输出的时候即使原本配置是不用分页器的，在这样的情况下也不得不使用分页器，于是我认为应该将问题中心放在这一大段文字上。</p>
+<p>于是我自然而然地想到了重定向问题。猛地发现，我可以使用重定向将这一大段文字清空掉，于是我写成了如下形式：</p>
+<div><pre><code><span>{</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+	<span>echo</span> <span>"yes"</span><span>;</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh <span>></span> /dev/null
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><p>但后来我发现，这样是直接将所有输出全部丢弃掉了，有些事是还想回溯一下历史，那应该如何做？</p>
+<p>在我进一步深入学习重定向之后，了解到了如下内容：</p>
+<blockquote>
+<p>在shell脚本中，默认情况下，总是有三个文件处于打开状态，标准输入、标准输出、标准错误，它们分别对应的文件描述符是0，1，2 。</p>
+<p><code>&gt;</code>默认为标准输出重定向，与<code>1&gt;</code>相同。
+<code>2&gt;&amp;1</code>是输出标准错误并重定向到标准输出。</p>
+<p><code>&amp;&gt;file</code>是把标准输出和标准错误都重定向到文件file中。</p>
+<p><code>/dev/null</code>是一个特殊的文件，所有传给它的东西都会被丢弃掉。</p>
+<p><code>1&gt;&amp;2</code>指的是将正确返回值传递给2输出通道，<code>&amp;2</code>表示2输出通道。</p>
+<p><code>2&gt;&amp;1</code>指的是将错误返回值传递给1输出通道, 同样<code>&amp;1</code>表示1输出通道。</p>
+</blockquote>
+<p>结合以上的知识和我目前的需求，最后就暂时写成以下的样子：</p>
+<div><pre><code><span>{</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+	<span>echo</span> <span>"yes"</span><span>;</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-XXXX.sh <span><span>1</span>></span>./Anaconda.log <span><span>2</span>></span><span>&amp;1</span> <span>&amp;</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br></div></div><h3 id="自动配置conda和pip"> 自动配置conda和pip</h3>
+<p>前面的事做好的话，后面也不怎么难了，把常用的那些指令写上去就可以了。</p>
+<div><pre><code><span># conda change channels</span>
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/conda-forge/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/msys2/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/menpo/
+conda config --set show_channel_urls <span>yes</span>
+<span># cat /root/.condarc</span>
+
+<span># pip change channels</span>
+pip config <span>set</span> global.index-url http://mirrors.aliyun.com/pypi/simple/
+pip config <span>set</span> install.trusted-host mirrors.aliyun.com
+<span># cat /root/.config/pip/pip.conf</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br></div></div><h3 id="自动创建虚拟环境"> 自动创建虚拟环境</h3>
+<div><pre><code><span>{</span> <span>echo</span> <span>"y"</span><span>;</span> <span>}</span> <span>|</span> conda create -n OEDL <span>python</span><span>=</span><span>3.8</span>
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="自动拉取git仓库项目"> 自动拉取git仓库项目</h3>
+<div><pre><code><span>git</span> clone https://hub.fastgit.org/<span>&lt;</span>USERNAME<span>></span>/<span>&lt;</span>REPO-NAME<span>></span>.git
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="自动安装requirements"> 自动安装requirements</h3>
+<div><pre><code>pip <span>install</span> -r requirements.txt
+</code></pre>
+<div><span>1</span><br></div></div><h3 id="自动运行项目「可选」"> 自动运行项目「可选」</h3>
+<div><pre><code>python YOUR_SCRIPT.py
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="强化与优化"> 强化与优化</h2>
+<p>将上述分布执行再优化一下，设置一些参数，增强其通用性。</p>
+<p>在该脚本中，我增加了如下功能：</p>
+<ol>
+<li>判断文件是否已下载过，若存在则跳过下载；</li>
+<li>给出选项供用户选择不同架构下的Anaconda；</li>
+<li>提供帮助文档；</li>
+<li>允许通过传送参数修改项目来源地和虚拟环境名称；</li>
+</ol>
+<h5 id="实现功能一"> 实现功能一：</h5>
+<p>基本思路就是判断文件是否存在，然后套用shell的if语法框架即可：</p>
+<div><pre><code><span>if</span> <span>[</span> <span>!</span> -f <span>"./Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh"</span> <span>]</span><span>;</span> <span>then</span>
+	<span>wget</span> https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p><strong>扩展：</strong></p>
+<p>判断文件夹是否存在时将上段代码中<code>-f</code>改为<code>-d</code>即可；判断是否有执行权限则改为<code>-x</code>即可；判断变量是否有值则改为<code>-n</code>即可。</p>
+<h5 id="实现功能二"> 实现功能二：</h5>
+<p>基本思路是shell分支语句的框架：</p>
+<div><pre><code><span>read</span> TYPEID<span>;</span>
+<span>if</span> <span>[</span> <span>$TYPEID</span> -eq <span>1</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"x86_64"</span><span>;</span>
+<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>2</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"aarch64"</span><span>;</span>
+<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>3</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"ppc64le"</span><span>;</span>
+<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>4</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"s390x"</span><span>;</span>
+<span>else</span>
+	<span>echo</span> -e <span>"Invalid type id."</span><span>;</span>
+	<span>exit</span> <span>1</span><span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br></div></div><h5 id="实现功能三"> 实现功能三：</h5>
+<p>基本思路就是利用echo带有转义输出的控制<code>echo -e &quot;&lt;String&gt;\n&quot;</code>。</p>
+<h5 id="实现功能四"> 实现功能四：</h5>
+<p>基本思路是利用shell脚本中的特殊变量如<code>$1</code>、<code>$2</code>、<code>$3</code>等等，分别表示第一个参数、第二个参数、第三个参数，另外注意<code>$0</code>是表示程序名。该功能还利用shell变量的特殊替换结构而设置默认值。</p>
+<blockquote>
+<p>shell变量特殊替换结构：</p>
+<p><code>${var:-string}</code>：当变量var未定义或者值为空时，返回值为string的内容，否则返回变量的值。</p>
+<p><code>${var:+string}</code>：若变量var已赋值的话，其值才用string替换，否则不进行任何替换。</p>
+<p><code>${var:=string}</code>：若变量var未定义或者值为空时，在返回string的值的同时将string赋值给var。</p>
+<p><code>${var:?string}</code>：若变量var已赋值的话,正常输出var的值。否则将消息string送到标准错误输出（若此替换出现在Shell程序中，那么该程序将终止运行）</p>
+<p><code>${var:offset:length}</code>：从变量var中提取子串，这里offset和length可以是算术表达式。offset代表偏移量，从第几个字符开始提取，length是需要提取的字符串的个数。</p>
+<p><code>${#var}</code>：变量var的字符个数。</p>
+<p><code>${var#pattern}</code>和<code>${var##pattern}</code>：去掉var中与pattern相匹配的部分，条件是var的开头与pattern相匹配。#与##的区别在于一个是最短匹配模式，一个是最长匹配模式。</p>
+<p><code>${var%pattern}</code>和<code>${var%%pattern}</code>：与上例相似，但是从var的尾部和pattern相匹配，%与%%的区别与#与##一样。</p>
+<p><code>${var/pattern/string}</code> 和<code>${var//pattern/string}</code>：进行变量内容的替换，把与pattern匹配的部分替换为string的内容。<code>/</code>与<code>//</code>的区别是<code>/</code>只进行一次匹配替换，而<code>//</code>可以进行多次匹配替换。</p>
+<p>从网上看到的模式匹配记忆方法：</p>
+<blockquote>
+<p><code>#</code> 是去掉左边(在键盘上<code>#</code>在<code>$</code>之左边)
+<code>%</code> 是去掉右边(在键盘上<code>%</code>在<code>$</code>之右边)
+<code>#</code>和<code>%</code>中的单一符号是最小匹配，两个相同符号是最大匹配。</p>
+</blockquote>
+</blockquote>
+<div><pre><code><span># Variables</span>
+<span><span>USER</span></span><span>=</span><span>$1</span>
+<span>REPO</span><span>=</span><span>$2</span>
+<span>ENVNAME</span><span>=</span><span>$3</span>
+
+<span>..</span><span>..</span><span>..</span>
+
+<span># Create the virtual environment.</span>
+<span>{</span> <span>echo</span> <span>"y"</span><span>;</span> <span>}</span> <span>|</span> conda create -n <span>${ENVNAME<span>:-</span>"OEDL"}</span> <span>python</span><span>=</span><span>3.8</span>
+
+<span># Activate the environment.</span>
+conda activate <span>${ENVNAME}</span>
+
+<span>..</span><span>..</span><span>..</span>
+
+<span># Download the repo.</span>
+<span>git</span> clone https://hub.fastgit.org/<span>${<span>USER</span><span>:-</span>"BreezeShane"}</span>/<span>${REPO<span>:-</span>"Unsupervised-Learning"}</span>.git
+<span>cd</span> <span>${REPO}</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br></div></div><h2 id="最终成果"> 最终成果</h2>
+<div><pre><code><span>#!/bin/bash</span>
+
+<span># Variables</span>
+<span><span>USER</span></span><span>=</span><span>$1</span>
+<span>REPO</span><span>=</span><span>$2</span>
+<span>ENVNAME</span><span>=</span><span>$3</span>
+
+<span>if</span> <span>[</span> <span>$1</span> <span>==</span> <span>"help"</span> <span>]</span><span>;</span> <span>then</span>
+	<span>echo</span> -e <span>"To use the shell script, type in this format:<span title="\n">\n</span><span title="\t">\t</span> <span title="\&quot;">\"</span>source IAC.sh &lt;USERNAME> &lt;REPONAME> &lt;ENVNAME><span title="\&quot;">\"</span><span title="\n">\n</span>Parameter Introduction:<span title="\n">\n</span><span title="\t">\t</span>&lt;USERNAME>: The parameter should be the name of your GitHub account. The default value is <span title="\&quot;">\"</span>BreezeShane<span title="\&quot;">\"</span><span title="\n">\n</span><span title="\t">\t</span>&lt;REPONAME>: The parameter should be the name of your GitHub Repository you want to download. The default value is <span title="\&quot;">\"</span>Unsupervised-Learning<span title="\&quot;">\"</span>.<span title="\n">\n</span><span title="\t">\t</span>&lt;ENVNAME>: The parameter should be the name of your new anaconda virtual environment. The default value is <span title="\&quot;">\"</span>OEDL<span title="\&quot;">\"</span><span title="\n">\n</span>If you type <span title="\&quot;">\"</span>source IAC.sh help<span title="\&quot;">\"</span> and then the help documentation will be displayed.<span title="\n">\n</span>"</span><span>;</span>
+	<span>exit</span> <span>0</span><span>;</span>
+<span>fi</span>
+
+<span># Download source file.</span>
+<span>echo</span> <span>"Welcome to use Auto Installer!"</span>
+<span>echo</span> <span>"Which kind of Anaconda3 would you like?"</span>
+<span>echo</span> <span>"1. 64-Bit (x86) Installer (581 MB)"</span>
+<span>echo</span> <span>"2. 64-Bit (AWS Graviton2 / ARM64) Installer (488 M)"</span>
+<span>echo</span> <span>"3. 64-Bit (Power8 and Power9) Installer (255 MB)"</span>
+<span>echo</span> <span>"4. 64-bit (Linux on IBM Z &amp; LinuxONE) Installer (242 M)"</span>
+
+<span>read</span> TYPEID<span>;</span>
+<span>if</span> <span>[</span> <span>$TYPEID</span> -eq <span>1</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"x86_64"</span><span>;</span>
+<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>2</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"aarch64"</span><span>;</span>
+<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>3</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"ppc64le"</span><span>;</span>
+<span>elif</span> <span>[</span> <span>$TYPEID</span> -eq <span>4</span> <span>]</span><span>;</span> <span>then</span>
+	<span>TYPE</span><span>=</span><span>"s390x"</span><span>;</span>
+<span>else</span>
+	<span>echo</span> -e <span>"Invalid type id."</span><span>;</span>
+	<span>exit</span> <span>1</span><span>;</span>
+<span>fi</span>
+
+<span>if</span> <span>[</span> <span>!</span> -f <span>"./Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh"</span> <span>]</span><span>;</span> <span>then</span>
+	<span>wget</span> https://repo.anaconda.com/archive/Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh
+	<span>echo</span> <span>"Anaconda Shell Installer Download Success!"</span>
+<span>else</span>
+	<span>echo</span> <span>"Anaconda Shell Installer File exists!"</span>
+<span>fi</span>
+
+<span># Auto-Install anaconda3.</span>
+<span>echo</span> <span>"Installing Anaconda3......"</span>
+<span>{</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+	<span>echo</span> <span>"yes"</span><span>;</span>
+	<span>echo</span> <span>${KEYCODE_ENTER}</span><span>;</span>
+<span>}</span> <span>|</span> <span>sh</span> ./Anaconda3-2021.11-Linux-<span>${TYPE}</span>.sh <span><span>1</span>></span>./Anaconda.log <span><span>2</span>></span><span>&amp;1</span>
+<span>echo</span> <span>"Anaconda3 now is installed!"</span>
+
+<span># Initialize anaconda.</span>
+/root/anaconda3/bin/conda init <span>bash</span>
+<span>.</span> ~/.bashrc
+
+<span># Create the virtual environment.</span>
+<span>{</span> <span>echo</span> <span>"y"</span><span>;</span> <span>}</span> <span>|</span> conda create -n <span>${ENVNAME<span>:=</span>"OEDL"}</span> <span>python</span><span>=</span><span>3.8</span>
+
+<span># Activate the environment.</span>
+conda activate <span>${ENVNAME}</span>
+
+<span># conda change channels</span>
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/main/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/pkgs/free/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/conda-forge/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/msys2/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/bioconda/
+conda config --add channels https://mirrors.ustc.edu.cn/anaconda/cloud/menpo/
+conda config --set show_channel_urls <span>yes</span>
+<span># cat /root/.condarc</span>
+
+<span># pip change channels</span>
+pip config <span>set</span> global.index-url http://mirrors.aliyun.com/pypi/simple/
+pip config <span>set</span> install.trusted-host mirrors.aliyun.com
+<span># cat /root/.config/pip/pip.conf</span>
+
+<span># Download the repo.</span>
+<span># git clone https://hub.fastgit.org/BreezeShane/Unsupervised-Learning.git</span>
+<span>git</span> clone https://hub.fastgit.org/<span>${<span>USER</span><span>:=</span>"BreezeShane"}</span>/<span>${REPO<span>:=</span>"Unsupervised-Learning"}</span>.git
+<span># cd ${REPO}</span>
+
+<span># Install requirements.</span>
+pip <span>install</span> -r <span>"<span>${REPO}</span>/requirements.txt"</span>
+
+<span># Run visdom server.</span>
+python -m visdom.server <span>&amp;</span>
+
+<span># Run the demo.</span>
+python Generative<span>\</span> Adversaria<span>\</span> Networks.py
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br><span>34</span><br><span>35</span><br><span>36</span><br><span>37</span><br><span>38</span><br><span>39</span><br><span>40</span><br><span>41</span><br><span>42</span><br><span>43</span><br><span>44</span><br><span>45</span><br><span>46</span><br><span>47</span><br><span>48</span><br><span>49</span><br><span>50</span><br><span>51</span><br><span>52</span><br><span>53</span><br><span>54</span><br><span>55</span><br><span>56</span><br><span>57</span><br><span>58</span><br><span>59</span><br><span>60</span><br><span>61</span><br><span>62</span><br><span>63</span><br><span>64</span><br><span>65</span><br><span>66</span><br><span>67</span><br><span>68</span><br><span>69</span><br><span>70</span><br><span>71</span><br><span>72</span><br><span>73</span><br><span>74</span><br><span>75</span><br><span>76</span><br><span>77</span><br><span>78</span><br><span>79</span><br><span>80</span><br><span>81</span><br><span>82</span><br><span>83</span><br><span>84</span><br><span>85</span><br><span>86</span><br><span>87</span><br><span>88</span><br></div></div>]]></content:encoded>
+    </item>
+    <item>
       <title>记将旧电脑改建成服务器的过程</title>
       <link>https://breezeshane.github.io/Linux/BuildingServer/</link>
       <guid>https://breezeshane.github.io/Linux/BuildingServer/</guid>
@@ -11679,164 +11679,6 @@ https://XXX.XXXXX.XXXXX {
 </tr>
 </tbody>
 </table>
-]]></content:encoded>
-    </item>
-    <item>
-      <title>记一次局域网搭建私人云盘的过程</title>
-      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
-      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
-      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
-</blockquote>
-<h2 id="过程"> 过程</h2>
-<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
-<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
-<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
-<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
-<h2 id="还没结束"> 还没结束</h2>
-<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
-<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
-<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
-</code></pre>
-<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
-<p>上面的docker命令中各参数的含义如下：</p>
-<blockquote>
-<ol>
-<li>run：创建一个容器并运行。</li>
-<li>-d：后台挂起，返回容器ID。</li>
-<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
-<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
-<li>--name：为容器指定名称。</li>
-<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
-<li>-e：设置环境变量</li>
-<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
-</ol>
-</blockquote>
-<div><p>错误指正</p>
-<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
-<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
-<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
-<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
-<div><pre><code><span>cd</span> <span>$MAIN</span>
-<span>mkdir</span> MySQL-Database
-<span>mkdir</span> Redis
-<span>mkdir</span> NextCloud
-
-docker run -d -p <span>33306</span>:3306 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name mysql <span>\</span>
--v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
--e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
-mysql
-
-<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
-
-docker run -d -p <span>65379</span>:6379 <span>\</span>
---restart<span>=</span>always <span>\</span>
---privileged<span>=</span>true --name redis <span>\</span>
--v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
--v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
-redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
-<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
-
-docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
---name nextcloud <span>\</span>          
---restart<span>=</span>always <span>\</span>
--v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
--v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
--v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
--v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
--v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
---link mysql:mysql <span>\</span>
---link redis:redis <span>\</span>
-nextcloud
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
-]]></content:encoded>
-      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
-    </item>
-    <item>
-      <title>Linux 共享 Anaconda</title>
-      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
-      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
-      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
-      <content:encoded><![CDATA[<blockquote>
-<p>安装Anaconda的步骤这里不做详细记述.</p>
-</blockquote>
-<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
-<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
-<div><pre><code><span>groupadd</span> anaconda
-</code></pre>
-<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
-<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
-</code></pre>
-<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
-<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
-<span>chmod</span> <span>770</span> -R /opt/anaconda/
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
-<div><pre><code><span>chmod</span> g+s /opt/anaconda
-<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
-<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
-<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
-</code></pre>
-<div><span>1</span><br></div></div><p>保存即可.</p>
-<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
-<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
-  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
-<span>fi</span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
-<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
-<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
-</code></pre>
-<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
 ]]></content:encoded>
     </item>
     <item>
@@ -13105,11 +12947,162 @@ Server = https<span>:</span>//mirrors.zju.edu.cn/manjaro/stable/$repo/$arch
       <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
     </item>
     <item>
-      <title>Linux系统维护</title>
-      <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
-      <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <title>记一次局域网搭建私人云盘的过程</title>
+      <link>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</link>
+      <guid>https://breezeshane.github.io/Linux/PrivateNetdiskBuilding/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">记一次局域网搭建私人云盘的过程</source>
+      <pubDate>Sun, 17 Jan 2021 11:23:18 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p><strong>参考连接</strong>：<a href="https://www.wo66.cc/archives/docker%E9%83%A8%E7%BD%B2nextcloud%E5%BF%AB%E9%80%9F%E6%90%AD%E5%BB%BA%E7%A7%81%E6%9C%89%E4%BA%91%E7%9B%98" target="_blank" rel="noopener noreferrer">Docker 部署 Nextcloud，快速搭建私有云盘</a></p>
+</blockquote>
+<h2 id="过程"> 过程</h2>
+<p>在搭建之前应该已经准备好了虚拟内网的相关配置，并且能够保证正常使用。「如果还没有的话请看<a href="./ZeroTier-One安装与使用.html">这篇</a>」另外，本篇搭建私人云需要使用Docker来进行。</p>
+<p>搭建基于NextCloud的私人云需要使用docker安装NextCloud、MySQL以及Redis。因此需要在下面执行命令：<code>docker pull nextcloud mysql redis</code>来从官方获取镜像。</p>
+<p>这时你要<strong>定好网盘主体的存放位置在哪</strong>，为了便于表述，我们使用 <code>$MAIN</code>来表示这个地址。</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>                                                                      
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>                                                                
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br></div></div><p>执行完以上步骤之后就可以正常使用NextCloud了，通过 <code>http://localhost:8088</code>来访问即可。</p>
+<p>应该注意的是，第一次使用的时候会提示创建管理员帐号以及配置数据库连接，管理员用户名和密码还好说，数据库连接的话，<strong>第一空</strong>写的是数据库内用户名，在本次安装配置中数据库内用户名是用户root。<strong>第三空</strong>写的是数据库名称，在本次安装配置中应该是nextcloud，这和你设置的参数name有关。<strong>第四空</strong>写的是mysql，因为docker创建nextcloud时已经执行了命令 <code>--link mysql:mysql</code>，和 <code>:</code>后面的 <code>mysql</code>有关。</p>
+<h2 id="还没结束"> 还没结束</h2>
+<p>仅仅到这里你的设备是无法登录的，因为设备的ip都没有被信任，因而不能直接连接。由于本次配置目的是在局域网中能自由使用。那么可以直接开放访问，因为在家庭中没必要特意部署安全攻防工具。要做的是：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>sudo</span> <span>vim</span> ./NextCloud/config/config.php
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>然后在这里需要修改 <code>trusted_domains</code>这一项，添加：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>preg_match</span><span>(</span><span>'/cli/i'</span><span>,</span><span>php_sapi_name</span><span>(</span><span>)</span><span>)</span><span>?</span><span>'127.0.0.1'</span><span>:</span><span>$_SERVER</span><span>[</span><span>'SERVER_NAME'</span><span>]</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>其中XXX表示代号。添加的这一行也是表示接受任何访问，这个在家里使用是完全够用的。</p>
+<p>当然如果不希望这样做，你也可以直接手动添加IP地址，即：</p>
+<div><pre><code><span>XXX</span> <span>=></span> <span>'xxx.xxx.xxx.xxx'</span><span>,</span>
+</code></pre>
+<div><span>1</span><br></div></div><h2 id="「注意」"> 「注意」</h2>
+<p>上面的docker命令中各参数的含义如下：</p>
+<blockquote>
+<ol>
+<li>run：创建一个容器并运行。</li>
+<li>-d：后台挂起，返回容器ID。</li>
+<li>-p：端口映射，从宿主机映射到容器机，<code>:</code>左为宿主机，右为容器机。</li>
+<li>--privileged：true/false决定容器内root有无宿主机root权限。</li>
+<li>--name：为容器指定名称。</li>
+<li>-v：目录映射，格式与参数 <code>-p</code>相似，通过该参数可以将数据持久化到指定的宿主机目录下，容器重启时数据不会丢失。</li>
+<li>-e：设置环境变量</li>
+<li>--link：连接到已安装的容器，使用后可将mysql和redis用作主机名了。</li>
+</ol>
+</blockquote>
+<div><p>错误指正</p>
+<p>前一段时间重新使用了上面的教程，但后来遇到了一个比较奇怪的问题：</p>
+<p>当我按照上面的教程部署的时候，使用了一段时间就会发现网络不可访问，几经排查后发现，是Docker在运行容器一段时间后自动停止运行了。</p>
+<p>原因在于：这个是docker 的机制问题，容器运行的命令如果不是那些一直挂起的命令（ 运行top，tail、循环等），就是会自动退出，并且docker容器运行必须有一个前台进程， 如果没有前台进程执行，容器认为空闲，就会自行退出。</p>
+<p>然后我去仔细看了一下运行命令，终于发现一个大问题：我在运行MySQL和Redis时没有使用<code>--restart=always</code>这个参数，导致运行一段时间时Docker会认为这些后台进程是空闲的，为了验证这一点，我运行起来容器后特意直接重启，当我登录成功时一查看，果然这三个容器都没有启动。因此运行方式需要再作调整，最终行之有效的代码如下：</p>
+<div><pre><code><span>cd</span> <span>$MAIN</span>
+<span>mkdir</span> MySQL-Database
+<span>mkdir</span> Redis
+<span>mkdir</span> NextCloud
+
+docker run -d -p <span>33306</span>:3306 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name mysql <span>\</span>
+-v <span>$MAIN</span>/MySQL-Database:/var/lib/mysql <span>\</span>
+-e <span>MYSQL_ROOT_PASSWORD</span><span>=</span>XXXXXXX <span>\</span>
+mysql
+
+<span>wget</span> -P <span>$MAIN</span>/Redis http://download.redis.io/redis-stable/redis.conf
+
+docker run -d -p <span>65379</span>:6379 <span>\</span>
+--restart<span>=</span>always <span>\</span>
+--privileged<span>=</span>true --name redis <span>\</span>
+-v <span>$MAIN</span>/Redis/redis.conf:/etc/redis/redis.conf <span>\</span>
+-v <span>$MAIN</span>/Redis/data:/data  <span>\</span>                   
+redis redis-server /etc/redis/redis.conf --appendonly <span>yes</span>
+<span># --requirepass 'redis637 ## 这行代码是用来设定密码的</span>
+
+docker run -d -p <span>8088</span>:80 <span>\</span>                                                                   
+--name nextcloud <span>\</span>          
+--restart<span>=</span>always <span>\</span>
+-v <span>$MAIN</span>/NextCloud/html:/var/www/html <span>\</span>      
+-v <span>$MAIN</span>/NextCloud/apps:/var/www/html/custom_apps <span>\</span>
+-v <span>$MAIN</span>/NextCloud/config:/var/www/html/config <span>\</span>
+-v <span>$MAIN</span>/NextCloud/data:/var/www/html/data <span>\</span>
+-v <span>$MAIN</span>/NextCloud/theme:/var/www/html/themes <span>\</span>
+--link mysql:mysql <span>\</span>
+--link redis:redis <span>\</span>
+nextcloud
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br><span>10</span><br><span>11</span><br><span>12</span><br><span>13</span><br><span>14</span><br><span>15</span><br><span>16</span><br><span>17</span><br><span>18</span><br><span>19</span><br><span>20</span><br><span>21</span><br><span>22</span><br><span>23</span><br><span>24</span><br><span>25</span><br><span>26</span><br><span>27</span><br><span>28</span><br><span>29</span><br><span>30</span><br><span>31</span><br><span>32</span><br><span>33</span><br></div></div></div>
+]]></content:encoded>
+      <enclosure url="https://breezeshane.github.io/images/Manjaro-logo-text-edit.png" type="image/png"/>
+    </item>
+    <item>
+      <title>Linux 共享 Anaconda</title>
+      <link>https://breezeshane.github.io/Linux/ShareConda/</link>
+      <guid>https://breezeshane.github.io/Linux/ShareConda/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Linux 共享 Anaconda</source>
+      <pubDate>Tue, 05 Apr 2022 13:07:23 GMT</pubDate>
+      <content:encoded><![CDATA[<blockquote>
+<p>安装Anaconda的步骤这里不做详细记述.</p>
+</blockquote>
+<p>恰好有朋友需要和我共享同一个服务器, 但是我已经用过一段时间了, 要说共用一个用户简直不现实, 于是我就决定使用Linux的多用户机制了. 接着我以root用户登录了服务器.</p>
+<p>为了便于分配权限, 我们需要创建相应的用户组, 执行:</p>
+<div><pre><code><span>groupadd</span> anaconda
+</code></pre>
+<div><span>1</span><br></div></div><p>然后将所有需要加入的用户加到这个组中, 执行:</p>
+<div><pre><code><span>usermod</span> -a -G anaconda <span>&lt;</span>UserToAdd<span>></span>
+</code></pre>
+<div><span>1</span><br></div></div><p>然后我们做一下文件的相关更改:</p>
+<div><pre><code><span>chgrp</span> -R anaconda /opt/anaconda/
+<span>chmod</span> <span>770</span> -R /opt/anaconda/
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>考虑到低权限用户会在这里进行后续的读写等操作, 用户创建的新文件也需要有自己的权限去管理, 因此我们需要做一下组继承, 执行:</p>
+<div><pre><code><span>chmod</span> g+s /opt/anaconda
+<span>chmod</span> g+s <span><span>`</span><span>find</span> /opt/anaconda -type d<span>`</span></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>第二行的意思是设置/opt/anaconda下的所有子文件夹的组继承.</p>
+<p>接着我们切到低权限用户视角来看, 发现使用conda会提示unknown command, 这是因为我们没有为它添加环境变量, 添加一下就好, 这里需要我们修改/etc/profile文件, 然后在最后一行添加如下语句:</p>
+<div><pre><code><span>export</span> <span><span>PATH</span></span><span>=</span><span>"/opt/anaconda/bin:<span>$PATH</span>"</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>保存即可.</p>
+<p>然后用户需要先完成初始化, 执行<code>conda init bash</code>, 接着你会发现登出后再重新登录, 还是使用不了conda, 只当执行了<code>source ~/.bashrc</code>才能继续使用conda, 因此需要编辑一下<code>.profile</code>文件, 执行<code>vim $HOME/.profile</code>后输入以下内容:</p>
+<div><pre><code><span>if</span> <span>[</span> -s <span>$HOME</span>/.bashrc <span>]</span><span>;</span> <span>then</span>
+  <span>source</span> <span>$HOME</span>/.bashrc<span>;</span>
+<span>fi</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br></div></div><p>保存后重新登录即可.</p>
+<p>另外我发现, 在低权限用户的home目录下好像缺少了很多权限, 结果一看, 我之前是使用root用户给他创建的, 因此那个文件夹的拥有者和用户组都是属于root的, 因此我还需要修改一下, 执行:</p>
+<div><pre><code><span>sudo</span> <span>chown</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+<span>sudo</span> <span>chgrp</span> -R <span>&lt;</span>YourUserName<span>></span> <span>&lt;</span>YourUserName<span>></span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>这样就大功告成了!</p>
+]]></content:encoded>
     </item>
     <item>
       <title>Linux Shell 编程学习与实战</title>
@@ -14268,6 +14261,13 @@ opost -olcuc -ocrnl onlcr -onocr -onlret -ofill -ofdel nl0 cr0 tab0 bs0 vt0 ff0
 isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop -echoprt echoctl echoke -flusho -extproc
 </code></pre>
 <div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br></div></div>]]></content:encoded>
+    </item>
+    <item>
+      <title>Linux系统维护</title>
+      <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
+      <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -17001,6 +17001,13 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
       <pubDate>Sun, 23 Jan 2022 01:11:57 GMT</pubDate>
     </item>
     <item>
+      <title>奇异值分解</title>
+      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</link>
+      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">奇异值分解</source>
+      <pubDate>Sun, 23 Jan 2022 01:13:40 GMT</pubDate>
+    </item>
+    <item>
       <title>特征分解</title>
       <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</link>
       <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E7%89%B9%E5%BE%81%E5%88%86%E8%A7%A3/</guid>
@@ -17045,13 +17052,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 <p>此外，正定矩阵还保证</p>
 <p class='katex-block'><span><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.8991079999999999em;vertical-align:0em;"></span><span><span>x</span><span><span><span><span style="height:0.8991079999999999em;"><span style="top:-3.113em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span>⊤</span></span></span></span></span></span></span></span><span>A</span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span><span style="margin-right:0.2777777777777778em;"></span><span>⇒</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.43056em;vertical-align:0em;"></span><span>x</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.64444em;vertical-align:0em;"></span><span>0</span></span></span></span></span></p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>奇异值分解</title>
-      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</link>
-      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/%E5%A5%87%E5%BC%82%E5%80%BC%E5%88%86%E8%A7%A3/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">奇异值分解</source>
-      <pubDate>Sun, 23 Jan 2022 01:13:40 GMT</pubDate>
     </item>
     <item>
       <title>Lipschitz Continuity</title>
@@ -17867,40 +17867,6 @@ patch_request_class<span>(</span>app<span>)</span>
       <enclosure url="https://breezeshane.github.io/images/SDN/sdn-architecture.png" type="image/png"/>
     </item>
     <item>
-      <title>𝕬𝖇𝖔𝖚𝖙</title>
-      <link>https://breezeshane.github.io/about/</link>
-      <guid>https://breezeshane.github.io/about/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
-      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
-<p>【代号】和风曦日</p>
-<p>【本体】Bug</p>
-<p>【性别】男</p>
-<p>【战斗经验】没有战斗经验</p>
-<p>【出身地】不明</p>
-<p>【生日】本人表示遗忘</p>
-<p>【种族】萨卡兹</p>
-<p>【身高】163cm</p>
-<p>【矿石病感染情况】</p>
-<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
-<h2 id="综合体检测试"> 综合体检测试</h2>
-<p>【物理强度】普通</p>
-<p>【战场机动】普通</p>
-<p>【生理耐受】普通</p>
-<p>【战术规划】普通</p>
-<p>【战斗技巧】普通</p>
-<p>【源石技艺适应性】卓越</p>
-<h2 id="客观履历"> 客观履历</h2>
-<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
-<h2 id="临床诊断分析"> 临床诊断分析</h2>
-<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
-<p>【体细胞与源石融合率】12%</p>
-<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
-<p>【血液源石结晶密度】0.5µ/L</p>
-<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
-]]></content:encoded>
-    </item>
-    <item>
       <title>Windows10 快捷键大全</title>
       <link>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</link>
       <guid>https://breezeshane.github.io/Windows10%E5%BF%AB%E6%8D%B7%E9%94%AE%E5%A4%A7%E5%85%A8/</guid>
@@ -18221,11 +18187,45 @@ patch_request_class<span>(</span>app<span>)</span>
       <enclosure url="https://breezeshane.github.io/images/Windows10.jpeg" type="image/jpeg"/>
     </item>
     <item>
+      <title>𝕬𝖇𝖔𝖚𝖙</title>
+      <link>https://breezeshane.github.io/about/</link>
+      <guid>https://breezeshane.github.io/about/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
+<p>【代号】和风曦日</p>
+<p>【本体】Bug</p>
+<p>【性别】男</p>
+<p>【战斗经验】没有战斗经验</p>
+<p>【出身地】不明</p>
+<p>【生日】本人表示遗忘</p>
+<p>【种族】萨卡兹</p>
+<p>【身高】163cm</p>
+<p>【矿石病感染情况】</p>
+<p>体表有源石结晶分布，参照医学检测报告，确认为感染者。</p>
+<h2 id="综合体检测试"> 综合体检测试</h2>
+<p>【物理强度】普通</p>
+<p>【战场机动】普通</p>
+<p>【生理耐受】普通</p>
+<p>【战术规划】普通</p>
+<p>【战斗技巧】普通</p>
+<p>【源石技艺适应性】卓越</p>
+<h2 id="客观履历"> 客观履历</h2>
+<p>和风曦日，人工智障和智械学习的研究员实习生，来自四大电子科技大学的G字号大学，目前就读本科。</p>
+<h2 id="临床诊断分析"> 临床诊断分析</h2>
+<p>造影检测结果显示，该干员体内脏器轮廓模糊，可见异常阴影，循环系统内源石颗粒检测异常，有矿石病感染迹象，现阶段可确认为是矿石病感染者。</p>
+<p>【体细胞与源石融合率】12%</p>
+<p>患者和风曦日有着明显的感染迹象，且伴随一定程度的失聪。</p>
+<p>【血液源石结晶密度】0.5µ/L</p>
+<p>患者和风曦日的内循环结晶水平处于较高位置。</p>
+]]></content:encoded>
+    </item>
+    <item>
       <title>Intro Page</title>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -18235,7 +18235,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -18260,7 +18260,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/links-1/</link>
       <guid>https://breezeshane.github.io/links/links-1/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<div>
     <div>
         <a href=""><img src="/Avatar/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
@@ -18444,14 +18444,14 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/links-2/</link>
       <guid>https://breezeshane.github.io/links/links-2/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
     </item>
     <item>
       <title>友人帐</title>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -18488,7 +18488,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -18497,7 +18497,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Thu, 18 Aug 2022 10:48:10 GMT</pubDate>
+      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
