@@ -1602,13 +1602,15 @@ Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文�
 
 ### HP Laser Jet P1106 打印机驱动
 
-高三的时候买到一台打印机，型号就是标题所写。比较意外的是这个打印机的驱动居然在Linux上也有相应的驱动支持，安装这个即可：
+高三的时候买到一台打印机，型号就是标题所写。比较意外的是这个打印机的驱动居然在Linux上也有相应的驱动支持，安装这些即可：
 ```shell
-sudo pacman -S extra/hplip
+sudo pacman -S hplip hp-plugin
 ```
 
 关于它的简要描述如下：
 > extra/hplip 1:3.22.6-1 [installed]
 >    Drivers for HP DeskJet, OfficeJet, Photosmart, Business Inkjet and some LaserJet
+> archlinuxcn/hplip-plugin 1:3.22.6-1 [installed]
+>    Binary plugin for HPs hplip printer driver library
 
 这样就打印机即可投入正常使用。
