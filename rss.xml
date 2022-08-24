@@ -6,8 +6,8 @@
     <link>https://breezeshane.github.io/</link>
     <description>🤗😄😃😉𝓖𝓻𝓮𝓮𝓽𝓲𝓷𝓰𝓼! 𝓘'𝓶 𝓑𝓻𝓮𝓮𝔃𝓮 𝓢𝓱𝓪𝓷𝓮 ~😉😃😄🤗</description>
     <language>zh-CN</language>
-    <pubDate>Thu, 18 Aug 2022 11:54:29 GMT</pubDate>
-    <lastBuildDate>Thu, 18 Aug 2022 11:54:29 GMT</lastBuildDate>
+    <pubDate>Wed, 24 Aug 2022 08:16:09 GMT</pubDate>
+    <lastBuildDate>Wed, 24 Aug 2022 08:16:09 GMT</lastBuildDate>
     <generator>@mr-hope/vuepress-plugin-feed</generator>
     <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
     <copyright>Copyright © 2021-present Breeze Shane</copyright>
@@ -6374,7 +6374,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;你可以通过设置页面的 Frontmatter，在页面禁用一些功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<p>你可以通过设置页面的 Frontmatter，在页面禁用一些功能。</p>
 
 <p>本页面应当禁用了:</p>
@@ -6399,7 +6399,7 @@ import torch as pd
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/encrypt/</guid>
       <source url="https://breezeshane.github.io/rss.xml">密码加密的文章</source>
       <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="密码加密的文章"> 密码加密的文章</h1>
 <p>实际的文章内容。</p>
 <p>段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字段落 1 文字。</p>
@@ -6414,7 +6414,7 @@ import torch as pd
       <description>&amp;lt;p&amp;gt;&amp;lt;code&amp;gt;vuepress-theme-hope&amp;lt;/code&amp;gt; 通过内置 &amp;lt;a href=&amp;quot;https://vuepress-theme-hope.github.io/md-enhance&amp;quot; target=&amp;quot;_blank&amp;quot; rel=&amp;quot;noopener noreferrer&amp;quot;&amp;gt;md-enhance&amp;lt;/a&amp;gt;，在 Markdown 中启用了更多的语法与新功能。&amp;lt;/p&amp;gt;
 </description>
       <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<p><code>vuepress-theme-hope</code> 通过内置 <a href="https://vuepress-theme-hope.github.io/md-enhance" target="_blank" rel="noopener noreferrer">md-enhance</a>，在 Markdown 中启用了更多的语法与新功能。</p>
 
 <h2 id="一键启用"> 一键启用</h2>
@@ -6934,7 +6934,7 @@ $$
       <guid>https://breezeshane.github.io/CourseOfBlog/guide/</guid>
       <source url="https://breezeshane.github.io/rss.xml">主要功能与配置演示</source>
       <category>使用指南</category>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="主要功能与配置演示"> 主要功能与配置演示</h1>
 <ul>
 <li>
@@ -6957,7 +6957,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/home/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/home/</guid>
       <source url="https://breezeshane.github.io/rss.xml">项目主页</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是普通主页的案例。你可以在这里放置你的主体内容。</p>
 <p>想要使用此布局，你需要在页面 front matter 中设置 <code>home: true</code>。</p>
 <p>配置项的相关说明详见 <a href="https://vuepress-theme-hope.github.io/zh/guide/layout/home/" target="_blank" rel="noopener noreferrer">项目主页配置</a>。</p>
@@ -6968,7 +6968,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/layout/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">自定义布局</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<p>您可以使用带有 Markdown 支持的插槽来自定义页面布局。</p>
 <template #page-top><p>页面顶部内容</p>
 </template><template #page-bottom><p>页面底部内容</p>
@@ -6988,7 +6988,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/</guid>
       <source url="https://breezeshane.github.io/rss.xml">博客主页</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<p>这是一个博客主页。</p>
 <p>要使用此布局，您应该在页面前端设置 <code>blog: true</code> 和 <code>home: true</code>。</p>
 <p>相关配置文档请见 <a href="https://vuepress-theme-hope.github.io/zh/guide/blog/home/" target="_blank" rel="noopener noreferrer">博客主页</a></p>
@@ -6999,7 +6999,7 @@ $$
       <link>https://breezeshane.github.io/CourseOfBlog/slides/</link>
       <guid>https://breezeshane.github.io/CourseOfBlog/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">幻灯片页</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
@@ -8459,7 +8459,7 @@ DataType <span>locatePos_seq</span><span>(</span>PseqList L<span>,</span> <span>
       <link>https://breezeshane.github.io/Database/DatabaseSafety/</link>
       <guid>https://breezeshane.github.io/Database/DatabaseSafety/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库安全</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
     </item>
     <item>
       <title>MySQL初步使用</title>
@@ -9262,7 +9262,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/QueryOptimization/</link>
       <guid>https://breezeshane.github.io/Database/QueryOptimization/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库查询优化</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
     </item>
     <item>
       <title>数据库的关系与关系代数</title>
@@ -9503,7 +9503,7 @@ locate <span>(</span> substr<span>,</span> str<span>,</span> pos <span>)</span>
       <link>https://breezeshane.github.io/Database/Trigger/</link>
       <guid>https://breezeshane.github.io/Database/Trigger/</guid>
       <source url="https://breezeshane.github.io/rss.xml">数据库触发器</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
     </item>
     <item>
       <title>Git Commands</title>
@@ -10950,7 +10950,35 @@ archlinuxcn/hplip-plugin 1:3.22.6-1 [installed]
 Binary plugin for HPs hplip printer driver library</p>
 </blockquote>
 <p>这样就打印机即可投入正常使用。</p>
-]]></content:encoded>
+<h3 id="给视频添加字幕并制作成内嵌字幕"> 给视频添加字幕并制作成内嵌字幕</h3>
+<details><summary>参考</summary>
+<ol>
+<li><a href="https://progsoft.net/zh-cn/software/aegisub" target="_blank" rel="noopener noreferrer">Aegisub - ProgSoft.net</a></li>
+<li><a href="https://www.gpbctv.com/swkx/202108/358065.html" target="_blank" rel="noopener noreferrer">镶嵌字幕（Ubuntu下视频字幕嵌入教程）</a></li>
+</ol>
+</details>
+<p>该功能需要分两部分进行：先做成外挂字幕（软字幕），后做成内嵌字幕（硬字幕）。</p>
+<p>我使用的制作外挂字幕工具是Aegisub：</p>
+<div><pre><code>community/aegisub <span>3.3</span>.3-1 <span>(</span><span>3.0</span> MiB <span>9.8</span> MiB<span>)</span> <span>(</span>Installed<span>)</span>
+    A general-purpose subtitle editor with ASS/SSA support
+</code></pre>
+<div><span>1</span><br><span>2</span><br></div></div><p>在此之后我用这个工具添加完字幕，就要解决内嵌字幕的制作问题了。</p>
+<p>实现其实很简单，由于之前我装过OpenShot，因此我已经有ffmpeg工具了，如果没有就要单独另外安装。</p>
+<p>接着在终端执行命令：</p>
+<div><pre><code>ffmpeg -i <span>$YOUR_VIDEO_PATH</span> -vf <span>"ass=<span>$ASS_FILE_NAME</span>"</span> -c:a copy <span>$OUTPUT_VIDEO_PATH</span>
+</code></pre>
+<div><span>1</span><br></div></div><p>命令太过麻烦的话大可写一个简易的Shell脚本来作一下封装，可以给脚本名起一个简易好记的名字：<code>embed</code>，代码如下：</p>
+<div><pre><code><span>#!/bin/bash</span>
+
+<span>#Video_Path=>$1</span>
+<span>#ASS_File_Path=>$2</span>
+<span>#Save_Path=>$3</span>
+
+ffmpeg -i <span>$1</span> -vf <span>"ass=<span>$2</span>"</span> -c:a copy <span>$3</span>
+
+<span>echo</span> <span>"Done"</span>
+</code></pre>
+<div><span>1</span><br><span>2</span><br><span>3</span><br><span>4</span><br><span>5</span><br><span>6</span><br><span>7</span><br><span>8</span><br><span>9</span><br></div></div>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/images/ArcolinuxAndAwesomeWM.assets/image-20211215174833313.png" type="image/png"/>
     </item>
     <item>
@@ -14267,7 +14295,7 @@ isig icanon iexten <span>echo</span> echoe echok -echonl -noflsh -xcase -tostop 
       <link>https://breezeshane.github.io/Linux/SystemDoubleM/</link>
       <guid>https://breezeshane.github.io/Linux/SystemDoubleM/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Linux系统维护</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
     </item>
     <item>
       <title>Linux系统安全防护</title>
@@ -16899,6 +16927,13 @@ M1001 80h400000v40h-400000z'/></svg></span></span></span><span>​</span></span>
 ]]></content:encoded>
     </item>
     <item>
+      <title>「实例」主成分分析</title>
+      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</link>
+      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</guid>
+      <source url="https://breezeshane.github.io/rss.xml">「实例」主成分分析</source>
+      <pubDate>Sun, 23 Jan 2022 01:11:57 GMT</pubDate>
+    </item>
+    <item>
       <title>相关名词的概念</title>
       <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeConcepts/</link>
       <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/RelativeConcepts/</guid>
@@ -16992,13 +17027,6 @@ c100.7 8.3 195.3 44 280 108 55.3 42 101.7 93 139 153l9 14c2.7-4 5.7-8.7 9-14
 <p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.972218em;vertical-align:-0.286108em;"></span><span><span>对于</span></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>若</span></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.85396em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222222222222222em;"></span><span>+</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>1</span><span><span>，则该元素为次对角元。</span></span></span></span></span></p>
 <p><span><span><i>Not supported content</i></span><span aria-hidden="true"><span><span style="height:0.972218em;vertical-align:-0.286108em;"></span><span><span>对于</span></span><span><span>A</span><span><span><span><span style="height:0.311664em;"><span style="top:-2.5500000000000003em;margin-left:0em;margin-right:0.05em;"><span style="height:2.7em;"></span><span><span><span>i</span><span>,</span><span style="margin-right:0.05724em;">j</span></span></span></span></span><span>​</span></span><span><span style="height:0.286108em;"><span></span></span></span></span></span></span><span>,</span><span style="margin-right:0.16666666666666666em;"></span><span><span>若</span></span><span>i</span><span style="margin-right:0.2777777777777778em;"></span><span>=</span><span style="margin-right:0.2777777777777778em;"></span></span><span><span style="height:0.85396em;vertical-align:-0.19444em;"></span><span style="margin-right:0.05724em;">j</span><span style="margin-right:0.2222222222222222em;"></span><span>−</span><span style="margin-right:0.2222222222222222em;"></span></span><span><span style="height:0.68333em;vertical-align:0em;"></span><span>1</span><span><span>，则该元素为超对角元。</span></span></span></span></span></p>
 ]]></content:encoded>
-    </item>
-    <item>
-      <title>「实例」主成分分析</title>
-      <link>https://breezeshane.github.io/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</link>
-      <guid>https://breezeshane.github.io/Mathematics/LinearAlgebra/%5B%E5%AE%9E%E4%BE%8B%5D%E4%B8%BB%E6%88%90%E5%88%86%E5%88%86%E6%9E%90/</guid>
-      <source url="https://breezeshane.github.io/rss.xml">「实例」主成分分析</source>
-      <pubDate>Sun, 23 Jan 2022 01:11:57 GMT</pubDate>
     </item>
     <item>
       <title>奇异值分解</title>
@@ -18191,7 +18219,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/about/</link>
       <guid>https://breezeshane.github.io/about/</guid>
       <source url="https://breezeshane.github.io/rss.xml">𝕬𝖇𝖔𝖚𝖙</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<h2 id="基础档案"> 基础档案</h2>
 <p>【代号】和风曦日</p>
 <p>【本体】Bug</p>
@@ -18225,7 +18253,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/intro/</link>
       <guid>https://breezeshane.github.io/intro/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Intro Page</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<h1 id="intro-page"> Intro Page</h1>
 <p>Place your introducation and profile here.</p>
 ]]></content:encoded>
@@ -18235,7 +18263,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/layout/</link>
       <guid>https://breezeshane.github.io/layout/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Custom Layout</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<p>You can use slots with markdown and component support to custom page layout.</p>
 <div><p>注意</p>
 <p>This is just a demo, you should add styles according to your own needs.</p>
@@ -18260,7 +18288,7 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/links-1/</link>
       <guid>https://breezeshane.github.io/links/links-1/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<div>
     <div>
         <a href=""><img src="/Avatar/akasaki.png" data-target="#myCarousel" data-slide-to="0"></img></a>
@@ -18444,14 +18472,14 @@ patch_request_class<span>(</span>app<span>)</span>
       <link>https://breezeshane.github.io/links/links-2/</link>
       <guid>https://breezeshane.github.io/links/links-2/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
     </item>
     <item>
       <title>友人帐</title>
       <link>https://breezeshane.github.io/links/</link>
       <guid>https://breezeshane.github.io/links/</guid>
       <source url="https://breezeshane.github.io/rss.xml">友人帐</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
     </item>
     <item>
       <title>𝕼𝖚𝖔𝖙𝖆𝖙𝖎𝖔𝖓 𝖆𝖓𝖉 𝕻𝖔𝖊𝖓</title>
@@ -18488,7 +18516,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/</link>
       <guid>https://breezeshane.github.io/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Blog Home</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[<center><p><font color="#ff4c00" size=6>等等，觉得好的话<br>不点一下<a href="https://github.com/BreezeShane?tab=repositories">✨🌟star🌟✨</a>再走吗？</font><br><font color="#4b5cc4" size=5>😯😯😯如果觉得不好也不要紧😯😯😯<br>🤗🤗🤗还烦请各位<a href="https://github.com/BreezeShane/BreezeShane.github.io/issues">批评指正</a>，一定洗耳恭听🤗🤗🤗</font></p></center>
 ]]></content:encoded>
     </item>
@@ -18497,7 +18525,7 @@ background-size: cover;
       <link>https://breezeshane.github.io/slides/</link>
       <guid>https://breezeshane.github.io/slides/</guid>
       <source url="https://breezeshane.github.io/rss.xml">Slide page</source>
-      <pubDate>Thu, 18 Aug 2022 11:53:19 GMT</pubDate>
+      <pubDate>Wed, 24 Aug 2022 08:15:06 GMT</pubDate>
       <content:encoded><![CDATA[
 <i>Not supported content</i>]]></content:encoded>
       <enclosure url="https://breezeshane.github.io/logo.svg" type="image/svg+xml"/>
