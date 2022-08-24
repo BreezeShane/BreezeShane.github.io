@@ -1614,3 +1614,42 @@ sudo pacman -S hplip hp-plugin
 >    Binary plugin for HPs hplip printer driver library
 
 这样就打印机即可投入正常使用。
+
+### 给视频添加字幕并制作成内嵌字幕
+
+::: details 参考
+
+1. [Aegisub - ProgSoft.net](https://progsoft.net/zh-cn/software/aegisub)
+2. [镶嵌字幕（Ubuntu下视频字幕嵌入教程）](https://www.gpbctv.com/swkx/202108/358065.html)
+
+:::
+
+该功能需要分两部分进行：先做成外挂字幕（软字幕），后做成内嵌字幕（硬字幕）。
+
+我使用的制作外挂字幕工具是Aegisub：
+```shell
+community/aegisub 3.3.3-1 (3.0 MiB 9.8 MiB) (Installed)
+    A general-purpose subtitle editor with ASS/SSA support
+```
+
+在此之后我用这个工具添加完字幕，就要解决内嵌字幕的制作问题了。
+
+实现其实很简单，由于之前我装过OpenShot，因此我已经有ffmpeg工具了，如果没有就要单独另外安装。
+
+接着在终端执行命令：
+```shell
+ffmpeg -i $YOUR_VIDEO_PATH -vf "ass=$ASS_FILE_NAME" -c:a copy $OUTPUT_VIDEO_PATH
+```
+
+命令太过麻烦的话大可写一个简易的Shell脚本来作一下封装，可以给脚本名起一个简易好记的名字：`embed`，代码如下：
+```shell
+#!/bin/bash
+
+#Video_Path=>$1
+#ASS_File_Path=>$2
+#Save_Path=>$3
+
+ffmpeg -i $1 -vf "ass=$2" -c:a copy $3
+
+echo "Done"
+```
