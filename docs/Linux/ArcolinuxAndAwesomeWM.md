@@ -141,7 +141,7 @@ end
 
 :::
 
-### 科学上网的配置
+### 科学上网的配置(已过时)
 
 经过较长时间的配置我最后终于理明白应该如何配置好科学上网套装了。
 
@@ -168,6 +168,43 @@ export no_proxy='localhost,127.0.0.1,localaddress,.localdomain.com'
 我尝试过只安装v2ray和qv2ray的方案，但是发现它并不能稳定运行，只是能用上一小段时间然后就连不上了，因此仍然认为采取以上做法才是稳定妥当做法。
 
 :::
+
+### 科学上网配置(新)
+
+从2022年9月起，Qv2ray现在已经彻底不能用了，它现在不能和V2ray内核兼容，因此经过长达一个月的尝试，最妥的办法是直接放弃使用Qv2ray，改用`V2rayA`这个工具，这个工具应用起来也比较简单，不需要自己再配置环境变量，安装完后运行起来服务即可正常使用：
+```shell
+sudo systemctl enable v2raya
+sudo systemctl start v2raya
+```
+
+这样就可以在`http://127.0.0.1:2017/`中做配置等了。
+
+### Oh-my-zsh
+
+因为我的电脑老是挂掉，每次都要打开几个教程和官方文档才能完成安装配置，所以这次我索性直接记录下来这些操作了：
+首先拉取以前的配置文件，接着下载这些字体：
+1. [MesloLGS NF Regular.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf)
+2. [MesloLGS NF Bold.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold.ttf)
+3. [MesloLGS NF Italic.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Italic.ttf)
+4. [MesloLGS NF Bold Italic.ttf](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Bold%20Italic.ttf)
+
+因为URxvt的字体支持问题，我在使用Powerlevel10k时发现无法使用Unicode字符，因此需要按照官方文档给出的Manual Install方式去做：
+
+1. 先下载字体，我选择了官方文档给出的[MesloLGS NF Regular](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf)下载链接。
+2. 下载后将它移动到 `/usr/share/fonts/awesome-terminal-fonts`下。
+3. 执行 `fc-cache -vf`来刷新字体库缓存。
+
+在此之后需要继续执行以下操作：
+
+```shell
+yay -S --noconfirm zsh-theme-powerlevel10k-git
+echo 'source /usr/share/zsh-theme-powerlevel10k/powerlevel10k.zsh-theme' >>~/.zshrc
+yay -S autojump zsh-syntax-highlighting zsh-autosuggestions
+sudo ln -s /usr/share/zsh/plugins/zsh-syntax-highlighting /usr/share/oh-my-zsh/custom/plugins/
+sudo ln -s /usr/share/zsh/plugins/zsh-autosuggestions /usr/share/oh-my-zsh/custom/plugins/
+```
+
+这样即可直接投入使用。
 
 ### 设置系统非静默启动
 
@@ -929,14 +966,6 @@ sudo systemctl restart libvirtd.service
 
 现在你可以在平板上连接电脑开放的端口来查看了。
 
-### 手动安装字体
-
-因为URxvt的字体支持问题，我在使用Powerlevel10k时发现无法使用Unicode字符，因此需要按照官方文档给出的Manual Install方式去做：
-
-1. 先下载字体，我选择了官方文档给出的[MesloLGS NF Regular](https://github.com/romkatv/powerlevel10k-media/raw/master/MesloLGS%20NF%20Regular.ttf)下载链接。
-2. 下载后将它移动到 `/usr/share/fonts/awesome-terminal-fonts`下。
-3. 执行 `fc-cache -vf`来刷新字体库缓存。
-
 ### 更改URxvt字体
 
 安装好字体后，需要编辑 `～/.Xresources`文件，找到其中的段落：
@@ -1652,4 +1681,13 @@ ffmpeg -i $YOUR_VIDEO_PATH -vf "ass=$ASS_FILE_NAME" -c:a copy $OUTPUT_VIDEO_PATH
 ffmpeg -i $1 -vf "ass=$2" -c:a copy $3
 
 echo "Done"
+```
+
+### raw.githubusercontent.com 拒绝连接请求
+
+最近在GitHub上下载文件时遇到这种问题，问题所在其实是DNS解析服务上的问题，它找不到这个链接的IP.
+
+因此我们只需要编辑一下`/etc/hosts`文件，在最后添加即可：
+```
+151.101.76.133 raw.githubusercontent.com
 ```
