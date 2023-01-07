@@ -14,6 +14,13 @@ tags:
  - Arco Linux
  - Awesome Window Manager
 ---
+
+::: danger 提示
+
+本篇于2022年10月1日停止更新，因为本人已经停止使用该操作系统，以下内容或不具备时效性，望知悉。
+
+:::
+
 > **前因**：由于之前我使用的Manjaro始终都存在着无法正常扩展第三屏幕的Bug，反反复复修了五六次，还是没能彻底解决，所有之前的解决方法其实治标不治本，最后我实在无法解决这个问题，只好解决出问题的系统了，执行 `sudo rm -rf /*`。也正是这样，才不得不换新的系统，经过较长时间的选择以及和大佬交流，最后我选择了ArcoLinux。
 
 不过，这个路比Manjaro艰难得多就是了，ArcoLinuxB仅仅是比ArchLinux多了个桌面环境，我原本是有选择安装的，奈何网络质量问题，我无法如意，因此得到的ArcoLinux几乎相当于一台裸机……
@@ -1511,7 +1518,7 @@ Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文�
 > ```shell
 > # yay -S texlive-full
 > # 上面这里似乎是安装TeXLive全套的命令，不过当时是考虑轻便的缘由，我执行的是下面的命令
-> sudo pacman -S texlive-core texlive-langchinese texlive-latexextra texlive-fontsextra
+> sudo pacman -S texlive-core texlive-langchinese texlive-latexextra texlive-fontsextra texlive-science
 > ```
 
 虽然我有在使用TeXStudio+LaTeX，但是说实在话，TeXStudio的编写体验实在不怎么样，且不说有些时候会有奇怪的提示，更多的时候是在补全上有些让人不爽……于是就打算直接让VS Code和LaTeX配合使用了，还好它没那么难配置，我只需要在VS Code上安装插件————LaTeX Workshop，然后在`settings.json`里添加如下代码就好了，非常感谢这位作者的分享！
@@ -1614,7 +1621,7 @@ Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文�
     "*.glo",
     "*.gls",
     "*.ist",
-    "*.买到
+    "*.fls",
     "*.log",
     "*.fdb_latexmk"
   ],
