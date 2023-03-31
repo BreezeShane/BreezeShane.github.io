@@ -187,6 +187,10 @@ sudo udevadm trigger # 立刻重新触发所有输入设备，让更改立刻生
 
 :::
 
+以上一切都完成之后，我们就可以安装相应工具来实现屏幕亮度调节功能了：
+
+首先我们不使用原生的`xorg-xbacklight`，因为这个要直接操作设备文件才能实现，往往会遇到缺少权限，因此我们使用替代品`acpilight`（运行`sudo pacman -S acpilight`即可安装），安装之后我们还需要将当前用户组加入`video`组内，执行`sudo gpasswd video -a <YOUR_USER_NAME>`即可，如要确认该用户是否在组内，可以执行`groups <YOUR_USER_NAME>`，最后重启计算机即可。
+
 ::: tip 知识补充
 
 要精准匹配键盘设备，应按照如下规则完整填写：
@@ -204,3 +208,20 @@ sudo udevadm trigger # 立刻重新触发所有输入设备，让更改立刻生
 ## Minecraft
 
 我没想到Archlinux系也能直接下载安装Minecraft，但也不意外。下载安装`hmcl`和`jre8-openjdk`这两个包即可。
+
+如果提示报错，请注意查看报错信息提示的版本号，然后用这个版本号将`jre8-openjdk`的`8`替换掉即可。
+
+
+## 启用时间同步
+
+执行这一条命令即可：`sudo timedatectl set-ntp true`
+
+## Authenticate Agent
+
+在linux使用过程中，难免会遇到一些软件，不能直接用`sudo`运行，但需要root权限，比如`via-bin`、`gparted`，然后我在具体运行中遇到的错误信息如下：
+```shell
+UnhandledPromiseRejectionWarning: Error: No polkit authentication agent found.
+```
+于是我就明白这里是缺少了一个专用的助手来安全地授予我们权限，于是我花了一些时间查找，最后从[Polkit - ArchWiki](https://wiki.archlinux.org/title/Polkit)里的1.1节Authentication agents中选了比较合适的[lxqt-policykit](https://github.com/lxqt/lxqt-policykit)，这个可以直接用pacman安装。安装好之后我们只需要让它随系统启动即可，我是通过写入rc.lua配置文件启动列表来完成的，具体做法转到[这里](http://blog.brz.ink/Linux/ArcolinuxAndAwesomeWM/#%E5%AE%89%E8%A3%85fcitx5%E8%BE%93%E5%85%A5%E6%B3%95%E4%BB%A5%E5%8F%8A%E8%AE%BE%E7%BD%AE%E8%BD%AF%E4%BB%B6%E5%BC%80%E6%9C%BA%E8%87%AA%E5%8A%A8%E5%90%AF%E5%8A%A8)。
+
+这样就可以开始使用了，如果未见效请重启再尝试。

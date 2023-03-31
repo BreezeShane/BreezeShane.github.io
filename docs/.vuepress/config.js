@@ -179,6 +179,7 @@ module.exports = config({
                 "UUA",
                 "SystemSafety",
                 "KeXieNetDisk",
+                "ArchLinux",
               ],
             },
             {

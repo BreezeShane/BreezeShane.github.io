@@ -312,3 +312,8 @@ if __name__ == '__main__':
 ### GDIndex
 
 *这个网站的执行策略有些不一样，先留个坑，以后或许会填，或许会删掉（。。。）*
+<!--
+```javascript
+document.querySelectorAll(".v-btn--round").forEach(function(item){console.log(item.href)})
+```
+-->
