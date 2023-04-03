@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://breezeshane.github.io/sitemap.xml
+Sitemap: https://blog.brz.ink/sitemap.xml
