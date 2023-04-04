@@ -83,6 +83,7 @@ export const Navbar = navbar([
     prefix: "/DataStructures/",
     icon: "/navicons/data_structure.svg",
     children: [
+      "Basis",
       "SequentialLinearList",
       "SingleLinkedList",
       "CircularLinkedList",

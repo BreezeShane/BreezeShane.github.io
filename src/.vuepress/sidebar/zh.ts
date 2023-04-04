@@ -92,6 +92,7 @@ export const Sidebar = sidebar([
     prefix: "/DataStructures/",
     collapsible: true,
     children: [
+      "Basis",
       "SequentialLinearList",
       "SingleLinkedList",
       "CircularLinkedList",
