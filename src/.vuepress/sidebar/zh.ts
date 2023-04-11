@@ -93,7 +93,7 @@ export const Sidebar = sidebar([
     collapsible: true,
     children: [
       "Basis",
-      "SequentialLinearList",
+      "LinearList",
       "SingleLinkedList",
       "CircularLinkedList",
       "DoubleLinkedList",

@@ -84,7 +84,7 @@ export const Navbar = navbar([
     icon: "/navicons/data_structure.svg",
     children: [
       "Basis",
-      "SequentialLinearList",
+      "LinearList",
       "SingleLinkedList",
       "CircularLinkedList",
       "DoubleLinkedList",
