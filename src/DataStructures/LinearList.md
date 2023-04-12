@@ -58,11 +58,10 @@ tag:
 
 ```c
 typedef int DataType;
-struct seqList {
+typedef struct {
     DataType *element;
     int MAXNUM, length;
-};
-typedef struct seqList* PseqList;
+} seqList, *PseqList;
 ```
 
 @tab 在栈上的定义
@@ -70,11 +69,10 @@ typedef struct seqList* PseqList;
 ```c
 enum { MAXNUM = 50 };
 typedef int DataType;
-struct seqList {
+typedef struct {
     DataType element[MAXNUM];
     int length;
-};
-typedef struct seqList* PseqList;
+} seqList, *PseqList;
 ```
 
 :::
@@ -86,12 +84,13 @@ typedef struct seqList* PseqList;
 ```c
 //创建头指针用于建立顺序线性表
 PseqList createNullList_seq(int m){
-    if ( !m )
-        return NULL;
-    struct seqList* HEAD = (struct seqList*)malloc(sizeof(struct seqList));
+    PseqList HEAD = (PseqList)malloc(sizeof(struct seqList));
     HEAD->MAXNUM = m;
     HEAD->length = 0;
-    HEAD->element = (DataType *)malloc(sizeof(DataType) * HEAD->MAXNUM);
+    if ( m )
+        HEAD->element = (DataType*)malloc(sizeof(DataType) * HEAD->MAXNUM);
+    else
+        HEAD->element = NULL;
     // C++
     // HEAD->element = new DataType[HEAD->MAXNUM];
     return HEAD;
@@ -114,7 +113,7 @@ int isFullList_seq(PseqList L) {
     }
 }
 //在指定位置插入数据
-int insertP_seq(PseqList L, int p, int x) {
+int insertP_seq(PseqList L, int p, DataType x) {
     if (isFullList_seq(L)) {
         printf("list is full");
         return 0;
@@ -131,7 +130,7 @@ int insertP_seq(PseqList L, int p, int x) {
     }
 }
 //在指定位置的前面插入数据
-int insertPre_seq(PseqList L, int p, int x) {
+int insertPre_seq(PseqList L, int p, DataType x) {
     if (insertP_seq(L, p - 1, x)) {
         return 1;
     } else {
@@ -139,7 +138,7 @@ int insertPre_seq(PseqList L, int p, int x) {
     }
 }
 //在指定位置的后面插入数据
-int insertPost_seq(PseqList L, int p, int x) {
+int insertPost_seq(PseqList L, int p, DataType x) {
     if (insertP_seq(L, p + 1, x)) {
         return 1;
     } else {
@@ -366,10 +365,10 @@ void replace_seq(PseqList L, int x, int y) {
 结构定义的代码：
 
 ```c
-typedef struct LNode{
+typedef struct {
     ElemType data;
     struct LNode* next;
-}LNode, *LinkList;
+} LNode, *LinkList;
 ```
 
 通常用**头指针**来标识一个单链表。此外，为了操作方便，一般会在第一个结点前附加一个结点，我们称之为**头结点**。头结点的数据域可以不设置任何信息，也可以记录表长等信息，指针域指向线性表的第一个元素结点。
@@ -389,9 +388,9 @@ typedef struct LNode{
 
 ```c
 //创建带有头结点的单链表
-LinkList mycreateList(){
-	LinkList HEAD = (LinkList)malloc(sizeof(struct node));
-	LinkList p = (LinkList)malloc(sizeof(struct node));
+LinkList createList(){
+	LinkList HEAD = (LinkList)malloc(sizeof(LNode));
+	LinkList p = (LinkList)malloc(sizeof(LNode));
 	p->data = 0;
 	p->next = NULL;
 	HEAD->next = p;
@@ -413,8 +412,8 @@ LinkList mycreateList(){
 > 内存泄漏形象的比喻是“操作系统可提供给所有程序使用的内存空间正在被某个程序榨干”，最终结果是程序运行时间越长，占用内存空间越来越多，最终用尽全部内存空间，整个系统崩溃。
 
 ```c
-void headInsert(LinkList head, ElemType insData ){
-	LinkList tmp = (LinkList)malloc(sizeof(struct node));
+void headInsert(LinkList head, ElemType insData){
+	LinkList tmp = (LinkList)malloc(sizeof(LNode));
 	tmp->data = insData;
 	tmp->next = head->next;
     head->next = tmp;
@@ -426,8 +425,8 @@ void headInsert(LinkList head, ElemType insData ){
 实现思路：显然要在表尾插入，就需要先遍历到表尾才能在此基础上做插入。
 
 ```c
-void tailInsert(LinkList head , int insData ){
-	LinkList tmp = (LinkList)malloc(sizeof(struct node));
+void tailInsert(LinkList head , ElemType insData){
+	LinkList tmp = (LinkList)malloc(sizeof(LNode));
 	tmp->data = insData;
 	tmp->next = NULL;
 	LinkList pointer = head->next;
@@ -445,7 +444,7 @@ void tailInsert(LinkList head , int insData ){
 实现思路：因为要多次使用尾插法，需要使用尾指针作为辅助变量来完成操作，每插入一个结点就更新一次尾指针。
 
 ```c
-LinkList ListTailInsert(LinkList &L){ // 传入的单链表L应为空表
+LinkList ListTailInsert(LinkList L){ // 传入的单链表L应为空表
     LinkList tail = L->next;
     LNode tmp;
     while(scanf("%d", data)){
@@ -463,7 +462,7 @@ LinkList ListTailInsert(LinkList &L){ // 传入的单链表L应为空表
 实现思路：与尾插法创建新表方法类似，但是先遍历原来旧表到尾结点后再插入一组数据。
 
 ```c
-LinkList ListTailInsert(LinkList &L){ // 传入的单链表L应为空表
+LinkList ListTailInsert(LinkList L){ // 传入的单链表L应为空表
     LinkList tail = L->next;
     while(tail->next){
 		tail=tail->next;
@@ -649,7 +648,7 @@ int destroyList(LinkList L) {
 @tab 不带头结点的单链表
 
 ```c
-int queryLength(LinkList &L){
+int queryLength(LinkList L){
     int a = 0;
     LinkList p = L;
     while(p){
@@ -663,7 +662,7 @@ int queryLength(LinkList &L){
 @tab 带头结点的单链表
 
 ```c
-int queryLength(LinkList &L){
+int queryLength(LinkList L){
     int a = 0;
     LinkList p = L->next;
     while(p){
