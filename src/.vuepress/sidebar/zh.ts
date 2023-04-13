@@ -94,9 +94,6 @@ export const Sidebar = sidebar([
     children: [
       "Basis",
       "LinearList",
-      "SingleLinkedList",
-      "CircularLinkedList",
-      "DoubleLinkedList",
       {
         text: "Stack",
         icon: "/sideicons/stack.svg",

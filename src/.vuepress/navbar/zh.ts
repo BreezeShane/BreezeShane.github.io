@@ -85,9 +85,6 @@ export const Navbar = navbar([
     children: [
       "Basis",
       "LinearList",
-      "SingleLinkedList",
-      "CircularLinkedList",
-      "DoubleLinkedList",
       {
         text: "Stack",
         children: [
