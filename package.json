@@ -6,9 +6,13 @@
   "type": "module",
   "scripts": {
     "docs:build": "vuepress build src",
+    "build": "vuepress build src",
     "docs:clean-dev": "vuepress dev src --clean-cache",
+    "clean": "vuepress dev src --clean-cache",
     "docs:dev": "vuepress dev src",
-    "docs:update-package": "npx vp-update"
+    "dev": "vuepress dev src",
+    "docs:update-package": "npx vp-update",
+    "update": "npx vp-update"
   },
   "devDependencies": {
     "@vuepress/client": "2.0.0-beta.61",

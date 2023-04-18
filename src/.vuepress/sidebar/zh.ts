@@ -95,15 +95,16 @@ export const Sidebar = sidebar([
       "Basis",
       "LinearList",
       {
-        text: "Stack",
+        text: "Stack, Queue and Array",
         icon: "/sideicons/stack.svg",
         collapsible: true,
         children: [
-          "StackBasedonSequentialLinearList",
-          "StackBasedonSingleLinkedList",
+          "Stack",
+          "Queue",
+          "ApplicationOfStackAndQueue",
+          "Array",
         ],
       },
-      "Queue",
       {
         text: "Tree",
         icon: "/sideicons/tree.svg",

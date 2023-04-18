@@ -1,6 +1,6 @@
 ---
 title: 线性表
-date: 2021-10-02 18:42:05
+date: 2023-04-13 17:33:00
 author: Breeze Shane
 toc: true
 mathjax: true
@@ -695,7 +695,7 @@ int queryLength(LinkList L){
 typedef struct DNode{
     ElemType data;
     struct DNode *prior, *next;
-}DNode, *DLinkList;
+} DNode, *DLinkList;
 ```
 
 以下仅讨论插入和删除操作，其他操作与单链表基本一致。
@@ -772,7 +772,7 @@ free(p);
 typedef struct CNode{
     ElemType data;
     struct CNode *next;
-}CNode, *CLinkList;
+} CNode, *CLinkList;
 ```
 
 这里仅简单讨论判空、插入与删除操作，其他操作与单链表几乎一致。

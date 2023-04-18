@@ -86,10 +86,12 @@ export const Navbar = navbar([
       "Basis",
       "LinearList",
       {
-        text: "Stack",
+        text: "Stack, Queue and Array",
         children: [
-          "StackBasedonSequentialLinearList",
-          "StackBasedonSingleLinkedList",
+          "Stack",
+          "Queue",
+          "ApplicationOfStackAndQueue",
+          "Array",
         ],
       },
       "Queue",
