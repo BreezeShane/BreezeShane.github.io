@@ -46,11 +46,11 @@ $$
 
 作者提出了一种方案，将判别器的表达式推导出来：
 $$
-T^*=\underset{T}{\argmax}\mathbb{E}_{x\sim P_r}[T(x)]-\mathbb{E}_{x\sim P_g}[T(x)]-{1\over2}\mathbb{E}_{x\sim r(x)}[||\nabla T||^2]
+T^*=\underset{T}{\arg\max}\mathbb{E}_{x\sim P_r}[T(x)]-\mathbb{E}_{x\sim P_g}[T(x)]-{1\over2}\mathbb{E}_{x\sim r(x)}[||\nabla T||^2]
 $$
 接着推导了生成器的Loss表达式：
 $$
-\underset{G}{\argmin}\mathbb{E}_{x\sim P_r}[T^*(x)]-\mathbb{E}_{z\sim P_g}[T^*(G(z))]
+\underset{G}{\arg\min}\mathbb{E}_{x\sim P_r}[T^*(x)]-\mathbb{E}_{z\sim P_g}[T^*(G(z))]
 $$
 目标函数也随之而确定下来：
 $$

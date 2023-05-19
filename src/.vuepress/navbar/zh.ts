@@ -51,6 +51,7 @@ export const Navbar = navbar([
       "LipschitzContinuity",
       "Convex",
       "ConjugateFunction",
+      "BrokenThoughts",
     ],
   },
   {

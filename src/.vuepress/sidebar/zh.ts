@@ -56,6 +56,7 @@ export const Sidebar = sidebar([
       "LipschitzContinuity",
       "Convex",
       "ConjugateFunction",
+      "BrokenThoughts",
     ],
   },
   {
