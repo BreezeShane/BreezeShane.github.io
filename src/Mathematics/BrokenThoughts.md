@@ -19,21 +19,25 @@ tag:
 4. [[数学分析]反常积分判敛法 - 知乎](https://zhuanlan.zhihu.com/p/493001732)
 5. [数学篇18-反常积分的审敛法（一定要熟练掌握） - 知乎](https://zhuanlan.zhihu.com/p/353396396)
 6. [反常积分敛散性判别的万能公式 - 知乎](https://zhuanlan.zhihu.com/p/411898293)
-7. [ln(1+x)和ln(1-x)的麦克劳林级数 -CSDN](https://blog.csdn.net/rgbhi/article/details/120844430)
-8. [伽马函数（概率论与数理统计） - 知乎](https://zhuanlan.zhihu.com/p/584422956)
-9. [考研中的伽马函数](https://shiraha.cn/2021/gamma-function-in-kaoyan/)
-10. [如何通俗的理解伽马(gamma)函数 - 知乎](https://zhuanlan.zhihu.com/p/147583667)
-11. [Γ函数 - Wiki](https://zh.wikipedia.org/zh-cn/%CE%93%E5%87%BD%E6%95%B0)
-12. [Gamma函数入门指北——完全抛开积分定义理解Gamma函数 - Bilibili](https://www.bilibili.com/video/BV1cT411H7Hp/?share_source=copy_web&vd_source=2f006da37bcfa74648db50269d197857)
-13. [如何求证：无穷级数∑1/i²=π²/6，求方法？](https://www.zhihu.com/question/50940968)
-14. [巴塞尔问题(Basel problem)的多种解法](https://www.cnblogs.com/misaka01034/p/BaselProof.html#title02)
-15. [三角恒等式 - Wiki](https://zh.wikipedia.org/zh-cn/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F)
-16. [单调收敛定理 - Wiki](https://zh.wikipedia.org/wiki/%E5%8D%95%E8%B0%83%E6%94%B6%E6%95%9B%E5%AE%9A%E7%90%86)
-17. [如何证明通项为（n²+1）/n²的数列的前n项乘积小于2（n≥2）？ - 知乎](https://www.zhihu.com/question/463177983/answer/1938305418)
-18. [双曲正弦函数 - 百度百科](https://baike.baidu.com/item/%E5%8F%8C%E6%9B%B2%E6%AD%A3%E5%BC%A6%E5%87%BD%E6%95%B0/4395524)
-19. [欧拉公式 - Wiki](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F)
-20. [等比数列 - Wiki](https://zh.wikipedia.org/wiki/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97)
-21. 
+7. [反常积分收敛的极端情形 - 知乎](https://zhuanlan.zhihu.com/p/559189773)
+8. [A-D判别法 - 知乎](https://zhuanlan.zhihu.com/p/162972708)
+9. [第一类反常积分收敛，则被积函数一定趋于0？ - Bilibili](https://www.bilibili.com/video/BV1ke4y1e7mh/?spm_id_from=333.1007.top_right_bar_window_history.content.click&vd_source=e9e9499e9ac0aecac6794a1ecc2e2f4a)
+10. [ln(1+x)和ln(1-x)的麦克劳林级数 -CSDN](https://blog.csdn.net/rgbhi/article/details/120844430)
+11. [伽马函数（概率论与数理统计） - 知乎](https://zhuanlan.zhihu.com/p/584422956)
+12. [考研中的伽马函数](https://shiraha.cn/2021/gamma-function-in-kaoyan/)
+13. [如何通俗的理解伽马(gamma)函数 - 知乎](https://zhuanlan.zhihu.com/p/147583667)
+14. [Γ函数 - Wiki](https://zh.wikipedia.org/zh-cn/%CE%93%E5%87%BD%E6%95%B0)
+15. [Gamma函数入门指北——完全抛开积分定义理解Gamma函数 - Bilibili](https://www.bilibili.com/video/BV1cT411H7Hp/?share_source=copy_web&vd_source=2f006da37bcfa74648db50269d197857)
+16. [如何求证：无穷级数∑1/i²=π²/6，求方法？](https://www.zhihu.com/question/50940968)
+17. [巴塞尔问题(Basel problem)的多种解法](https://www.cnblogs.com/misaka01034/p/BaselProof.html#title02)
+18. [三角恒等式 - Wiki](https://zh.wikipedia.org/zh-cn/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F)
+19. [单调收敛定理 - Wiki](https://zh.wikipedia.org/wiki/%E5%8D%95%E8%B0%83%E6%94%B6%E6%95%9B%E5%AE%9A%E7%90%86)
+20. [如何证明通项为（n²+1）/n²的数列的前n项乘积小于2（n≥2）？ - 知乎](https://www.zhihu.com/question/463177983/answer/1938305418)
+21. [双曲正弦函数 - 百度百科](https://baike.baidu.com/item/%E5%8F%8C%E6%9B%B2%E6%AD%A3%E5%BC%A6%E5%87%BD%E6%95%B0/4395524)
+22. [双曲函数 - Wiki](https://zh.wikipedia.org/wiki/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0)
+23. [欧拉公式 - Wiki](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F)
+24. [等比数列 - Wiki](https://zh.wikipedia.org/wiki/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97)
+25. 
 
 :::
 
@@ -185,6 +189,73 @@ $$
 也就是说$\ln x$的等效数量级连$1$都没有。
 
 :::
+
+## 反常积分的收敛性与被积函数的收敛性之间的关系
+
+::: danger 结论
+
+两者之间不存在必然关系，反常积分收敛是其被积函数收敛的既不充分也不必要条件。
+
+:::
+
+假设反常积分收敛是其被积函数收敛的充分条件，即反常积分收敛$\Rightarrow$被积函数收敛：
+
+令$f(x) = x\sin(x^4)$，则
+$$
+\int_{C}^{+\infty}f(x)\mathrm{d}x = \int_{C}^{+\infty}x\sin(x^4)\mathrm{d}x \xlongequal[\mathrm{d}x = \frac{1}{4}t^{-\frac{3}{4}}]{t=x^4, x = t^{\frac{1}{4}}} \frac{1}{4}\int_{C^4}^{+\infty}\frac{\sin t}{\sqrt{t}}\mathrm{d}t
+$$
+
+根据$g(x) = \int_{C^4}^{x}\sin t\mathrm{d}t$有界，$h(x) = \frac{1}{\sqrt{x}}$在$[C^4,+\infty)$上单调递减，且$\lim_{x\to+\infty}h(x) = 0$，由Dirichlet判别法可知反常积分$\int_{C^4}^{+\infty}g(x)h(x)\mathrm{d}x = \int_{C^4}^{+\infty}\frac{\sin t}{\sqrt{t}}\mathrm{d}t$收敛，所以反常积分$\int_{C}^{+\infty}x\sin(x^4)\mathrm{d}x$收敛，但显然$\lim_{x\to+\infty}f(x) = \lim_{x\to+\infty} x\sin(x^4) = +\infty$，该被积函数发散，与假设矛盾，故假设不成立。
+
+::: info 其他情形
+
+设$f(x)$在$[1, +\infty)$上如下定义：
+$$
+f(x) = 
+\begin{cases}
+    n + 1 & x\in \Big[ n, n + \frac{1}{n(n+1)^2} \Big] \\
+    0 & x\in \Big( n + \frac{1}{n(n+1)^2}, n + 1 \Big)
+\end{cases},\quad n\in \mathbb{Z}^+
+$$
+
+则$\forall A>1$，总$\exist n$使得$A\in[n, n + 1)$，又因为$f(x)\geq 0$，故有
+$$
+\int_{1}^{n} f(x)\mathrm{d}x \leq \int_{1}^{A} f(x)\mathrm{d}x  \leq \int_{1}^{n+1} f(x)\mathrm{d}x
+$$
+
+当$n\to +\infty$时，有
+$$
+\begin{align*}
+\lim_{n\to+\infty}\int_{1}^{n} f(x)\mathrm{d}x 
+&= \lim_{n\to+\infty} \sum_{\lambda=2}^{n}\Bigg[ \int_{\lambda-1}^{\lambda}f(x)\mathrm{d}x \Bigg] \\
+&= \lim_{n\to+\infty} \sum_{\lambda=2}^{n}\Bigg[ \int_{\lambda-1}^{\lambda-1 + \frac{1}{\lambda^2(\lambda-1)}}f(x)\mathrm{d}x \Bigg] \\
+&= \lim_{n\to+\infty} \sum_{\lambda=2}^{n}\Bigg[ \lambda\cdot\frac{1}{\lambda^2(\lambda-1)} \Bigg] = \lim_{n\to+\infty} \sum_{\lambda=2}^{n}\Bigg( \frac{1}{\lambda-1} - \frac{1}{\lambda} \Bigg) \\
+&= \lim_{n\to+\infty} 1 - \frac{1}{n} = 1
+\end{align*}
+$$
+
+而显然有
+$$
+\lim_{n\to+\infty}\int_{1}^{n} f(x)\mathrm{d}x = \lim_{n\to+\infty}\int_{1}^{n+1} f(x)\mathrm{d}x
+$$
+
+所以根据夹逼准则可得
+$$
+\int_{1}^{+\infty} f(x)\mathrm{d}x = \lim_{A\to+\infty}\int_{1}^{A} f(x)\mathrm{d}x = 1
+$$
+但极限$\lim_{x\to+\infty}f(x)$不存在（在$0$和$n+1$之间震荡）。
+
+:::
+
+假设反常积分收敛是其被积函数收敛的必要条件，即被积函数收敛$\Rightarrow$反常积分收敛：
+
+令$f(x) = \frac{1}{x}$，则有$\lim_{x\to\infty}f(x) = 0$，而
+$$
+\int_{C}^{+\infty}\frac{1}{x} \mathrm{d}x = \ln x \Bigg|_{C}^{+\infty} = \lim_{x\to +\infty}\ln x - \ln C = +\infty
+$$
+显然该反常积分发散，与假设矛盾，故假设不成立。
+
+> 令$f(x) = C,\; C\in R$，也容易得出与假设矛盾的结果。
 
 ## 证明$\prod_{n=2}^{\infty}\frac{n^2 + 1}{n^2} < 2$
 
