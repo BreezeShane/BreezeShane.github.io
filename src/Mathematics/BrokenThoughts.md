@@ -30,20 +30,24 @@ tag:
 15. [Gamma函数入门指北——完全抛开积分定义理解Gamma函数 - Bilibili](https://www.bilibili.com/video/BV1cT411H7Hp/?share_source=copy_web&vd_source=2f006da37bcfa74648db50269d197857)
 16. [如何求证：无穷级数∑1/i²=π²/6，求方法？](https://www.zhihu.com/question/50940968)
 17. [巴塞尔问题(Basel problem)的多种解法](https://www.cnblogs.com/misaka01034/p/BaselProof.html#title02)
-18. [三角恒等式 - Wiki](https://zh.wikipedia.org/zh-cn/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F)
-19. [单调收敛定理 - Wiki](https://zh.wikipedia.org/wiki/%E5%8D%95%E8%B0%83%E6%94%B6%E6%95%9B%E5%AE%9A%E7%90%86)
-20. [如何证明通项为（n²+1）/n²的数列的前n项乘积小于2（n≥2）？ - 知乎](https://www.zhihu.com/question/463177983/answer/1938305418)
-21. [双曲正弦函数 - 百度百科](https://baike.baidu.com/item/%E5%8F%8C%E6%9B%B2%E6%AD%A3%E5%BC%A6%E5%87%BD%E6%95%B0/4395524)
-22. [双曲函数 - Wiki](https://zh.wikipedia.org/wiki/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0)
-23. [欧拉公式 - Wiki](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F)
-24. [等比数列 - Wiki](https://zh.wikipedia.org/wiki/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97)
-25. 
+18. [Wallis公式及其应用 -CSDN](https://blog.csdn.net/ACdreamers/article/details/41451591)
+19. [欧拉-马斯刻若尼常数 - Wiki](https://zh.wikipedia.org/zh-cn/%E6%AD%90%E6%8B%89-%E9%A6%AC%E6%96%AF%E5%88%BB%E8%8B%A5%E5%B0%BC%E5%B8%B8%E6%95%B8)
+20. [三角恒等式 - Wiki](https://zh.wikipedia.org/zh-cn/%E4%B8%89%E8%A7%92%E6%81%92%E7%AD%89%E5%BC%8F)
+21. [单调收敛定理 - Wiki](https://zh.wikipedia.org/wiki/%E5%8D%95%E8%B0%83%E6%94%B6%E6%95%9B%E5%AE%9A%E7%90%86)
+22. [如何证明通项为（n²+1）/n²的数列的前n项乘积小于2（n≥2）？ - 知乎](https://www.zhihu.com/question/463177983/answer/1938305418)
+23. [双曲正弦函数 - 百度百科](https://baike.baidu.com/item/%E5%8F%8C%E6%9B%B2%E6%AD%A3%E5%BC%A6%E5%87%BD%E6%95%B0/4395524)
+24. [双曲函数 - Wiki](https://zh.wikipedia.org/wiki/%E5%8F%8C%E6%9B%B2%E5%87%BD%E6%95%B0)
+25. [欧拉公式 - Wiki](https://zh.wikipedia.org/wiki/%E6%AC%A7%E6%8B%89%E5%85%AC%E5%BC%8F)
+26. [等比数列 - Wiki](https://zh.wikipedia.org/wiki/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97)
+27. [Infinite product formula for sin(x) - Youtube](https://www.youtube.com/watch?v=qWxfpQ2wwto)
+28. [Euler’s Nonstandard Nonsense](https://cornellmath.wordpress.com/2007/07/13/eulers-nonstandard-nonsense/)
+29. 
 
 :::
 
 ## 颠覆认知的一个问题
 
-讨论积分$\int_{0}^{+\infty}\frac{\ln(1+x^2)}{x^p}\mathrm{d}x\;(p>0)$的收敛性。
+讨论积分$\int_{0}^{\infty}\frac{\ln(1+x^2)}{x^p}\mathrm{d}x\;(p>0)$的收敛性。
 
 $$
 \int_{0}^{+\infty}\frac{\ln(1+x^2)}{x^p}\mathrm{d}x = \int_{0}^{1}\frac{\ln(1+x^2)}{x^p}\mathrm{d}x + \int_{1}^{+\infty}\frac{\ln(1+x^2)}{x^p}\mathrm{d}x
@@ -362,7 +366,106 @@ $$
 
 ## $\Gamma$函数
 
-Bilibili偶然刷到的[视频](https://www.bilibili.com/video/BV1cT411H7Hp/?share_source=copy_web&vd_source=2f006da37bcfa74648db50269d197857)，讲解了$\Gamma$函数的一些入门知识，看到了如下等式，我偶然心血来潮，想来算一算：
+Bilibili偶然刷到的[视频](https://www.bilibili.com/video/BV1cT411H7Hp/?share_source=copy_web&vd_source=2f006da37bcfa74648db50269d197857)，讲解了$\Gamma$函数的一些入门知识。
+
+::: tip
+
+$\Gamma$函数本质是递推式$\Gamma(z+1) = z\Gamma(z)$所体现的递推关系。
+
+:::
+
+我之前接触$\Gamma$函数的时候书上是直接给出了它的积分定义，实际上我确实无法理解为何这样定义，这个视频是从阶乘递推关系来得到用极限定义函数的形式，再由这个定义推导出积分定义的。
+
+那么现在从递推式$\Gamma(z+1) = z\Gamma(z)$出发，我们有
+
+$$
+\Gamma(z+n+1) = \prod_{\lambda = 0}^{n} (z+\lambda) \cdot \Gamma(z) \Rightarrow \Gamma(z) = \frac{\Gamma(z+n+1)}{\prod_{\lambda = 0}^{n} (z+\lambda)}
+$$
+
+又有
+$$
+\Gamma(z+n+1) = (n+z)! = n! \cdot \prod_{\lambda=1}^{z}(n+\lambda)
+$$
+
+那么
+$$
+\Gamma(z) = \frac{n!}{\prod_{\lambda = 0}^{n} (z+\lambda)}\cdot\prod_{\lambda=1}^{z}(n+\lambda)
+$$
+
+当$n\to\infty$时，有
+$$
+\lim_{n\to\infty}\frac{\prod_{\lambda=1}^{z}(n+\lambda)}{n^z} = \lim_{n\to\infty}\prod_{\lambda=1}^{z} \Big( \frac{n+\lambda}{n} \Big) = \lim_{n\to\infty}\prod_{\lambda=1}^{z} \Big( 1 + \frac{\lambda}{n} \Big) = 1^z = 1
+$$
+
+故可得
+$$
+\Gamma(z) = \lim_{n\to\infty}\frac{n!}{\prod_{\lambda = 0}^{n} (z+\lambda)}n^z
+$$
+
+该式正是$\Gamma$函数的极限定义形式。
+
+而如果对上式做一些变换并引入欧拉常数，就可以得到著名的倒数$\Gamma$函数：
+
+::: tip
+
+**欧拉常数**(欧拉-马斯刻若尼常数)的定义为调和级数与自然对数的差值：
+$$
+\gamma = \lim_{n\to\infty}\Bigg[ \Big( \sum_{k=1}^{n}\frac{1}{k} \Big) - \ln(n) \Bigg] = \int_{1}^{\infty}\Big( \frac{1}{\lfloor x \rfloor} - \frac{1}{x} \Big)\mathrm{d}x
+$$
+
+:::
+
+$$
+n^z = e^{z\ln n} = e^{z(\ln n - \sum_{\lambda=1}^{n}\frac{1}{\lambda} + \sum_{\lambda=1}^{n}\frac{1}{\lambda})} = e^{z(\ln n - \sum_{\lambda=1}^{n}\frac{1}{\lambda}) + z\sum_{\lambda=1}^{n}\frac{1}{\lambda}} \\
+\Rightarrow \lim_{n\to\infty}n^z = \lim_{n\to\infty}e^{z(\ln n - \sum_{\lambda=1}^{n}\frac{1}{\lambda})}\cdot e^{z\sum_{\lambda=1}^{n}\frac{1}{\lambda}} = e^{-\gamma z}\prod_{\lambda=1}^{\infty}e^{\frac{z}{\lambda}}
+$$
+
+那么倒数$\Gamma$函数推导过程如下
+$$
+\begin{align*}
+\frac{1}{\Gamma(z)} &= \lim_{n\to\infty}\frac{\prod_{\lambda = 0}^{n} (z+\lambda)}{n!}n^{-z} = \lim_{n\to\infty}\frac{z\prod_{\lambda = 1}^{n} (z+\lambda)}{\prod_{\lambda = 1}^{n}\lambda}e^{\gamma z}\prod_{\lambda=1}^{n}e^{-\frac{z}{\lambda}} \\
+&= z\lim_{n\to\infty}\prod_{\lambda = 1}^{n}\Big(\frac{z+\lambda}{\lambda}\Big)e^{\gamma z}\prod_{\lambda=1}^{n}e^{-\frac{z}{\lambda}}
+\end{align*}
+$$
+
+故倒数$\Gamma$函数(Weierstrass公式)为
+$$
+\frac{1}{\Gamma(z)} = ze^{\gamma z}\prod_{\lambda = 1}^{\infty}\Bigg[\Big(1+\frac{z}{\lambda}\Big)e^{-\frac{z}{\lambda}}\Bigg]
+$$
+
+那么这个式子能用来做什么？仔细观察会发现，如果分别代入一对相反数的话，似乎会简单很多：
+$$
+\Gamma(z) = z^{-1}e^{-\gamma z}\prod_{\lambda = 1}^{\infty}\Bigg[\Big(1+\frac{z}{\lambda}\Big)^{-1}e^{\frac{z}{\lambda}}\Bigg] \\
+\Gamma(-z) = -z^{-1}e^{\gamma z}\prod_{\lambda = 1}^{\infty}\Bigg[\Big(1-\frac{z}{\lambda}\Big)^{-1}e^{-\frac{z}{\lambda}}\Bigg] \\
+\therefore \Gamma(z)\Gamma(-z) = -\frac{1}{z^2}\prod_{\lambda = 1}^{\infty}\Bigg[\Big(1-\frac{z^2}{\lambda^2}\Big)^{-1}\Bigg] = -\frac{1}{z^2}\frac{\pi z}{\sin(\pi z)} = -\frac{1}{z}\frac{\pi}{\sin(\pi z)} \\
+\text{又}\because \Gamma(z)\Gamma(1-z) = -z\Gamma(z)\Gamma(-z) \\
+\therefore \Gamma(z)\Gamma(1-z) = \frac{\pi}{\sin(\pi z)}
+$$
+
+这样余元公式就得证了。
+
+现在来求这个式子$\Gamma(z)\Gamma(z+\frac{1}{2})$，这个是倍增公式，下面我们计算的时候需要用到Wallis公式。
+
+::: tip Wallis公式
+
+$$
+\lim_{n\to\infty} \frac{1}{2n+1}\Big[ \frac{(2n)!!}{(2n-1)!!} \Big]^2 = \frac{\pi}{2} \\
+\lim_{n\to\infty} \frac{(n!)^22^{2n}}{(2n)!\sqrt{n}} = \sqrt{\pi}
+$$
+
+:::
+
+$$
+\because\Gamma(z) = \lim_{n\to\infty} \frac{n!}{\prod_{\lambda=0}^{n}(z+\lambda)} \cdot n^z,\;\Gamma(z+\frac{1}{2}) = \lim_{n\to\infty} \frac{n!}{\prod_{\lambda=0}^{n}(z+\frac{1}{2}+\lambda)} \cdot n^{z+\frac{1}{2}} \\
+\therefore \lim_{n\to\infty} \frac{\Gamma(z)\Gamma(z+\frac{1}{2})}{\Gamma(2z)} = \lim_{n\to\infty} \cfrac{\frac{n!\cdot n!}{\prod_{\lambda=0}^{n}(z+\lambda)\prod_{\lambda=0}^{n}(z+\frac{1}{2}+\lambda)} n^{2z+\frac{1}{2}}}{\frac{(2n)!}{\prod_{\lambda=0}^{2n}(2z+\lambda)}(2n)^{2z}} = \lim_{n\to\infty} \cfrac{\frac{(n!)^2\cdot2^{2n+2}}{\prod_{\lambda=0}^{n}(2z+2\lambda)\prod_{\lambda=0}^{n}(2z+2\lambda+1)} \cdot n^{2z+\frac{1}{2}}}{\frac{(2n)!}{\prod_{\lambda=0}^{2n}(2z+\lambda)}(2n)^{2z}} \\
+\Rightarrow \lim_{n\to\infty} \frac{\Gamma(z)\Gamma(z+\frac{1}{2})}{\Gamma(2z)} = \lim_{n\to\infty} \frac{(n!)^22^{2n+2}\cdot\prod_{\lambda=0}^{2n}(2z+\lambda)}{2^{2z}(2n)!\prod_{\lambda=0}^{n}(2z+2\lambda)(2z+2\lambda+1)} \cdot n^{\frac{1}{2}} \\
+\Rightarrow \lim_{n\to\infty} \frac{\Gamma(z)\Gamma(z+\frac{1}{2})}{\Gamma(2z)} = \lim_{n\to\infty} \frac{(n!)^22^{2n}}{(2n)!\sqrt{n}} \cdot \frac{2^{2-2z}n}{2z+2n+1} = \sqrt{\pi} \lim_{n\to\infty} \frac{2^{2-2z}}{\frac{2z+1}{n}+2} = 2^{1-2z}\sqrt{\pi} \\
+\therefore \Gamma(z)\Gamma(z+\frac{1}{2}) = \frac{\sqrt{\pi}}{2^{2z-1}}\Gamma(2z)
+$$
+
+易知$\Gamma(\frac{1}{2})\Gamma(1) = \sqrt{\pi}\Gamma(1) \Rightarrow \Gamma(\frac{1}{2})=\sqrt{\pi}$。
+
+我在视频中看到了如下等式，我偶然心血来潮，想来算一算：
 
 $$
 \prod_{n=1}^{\infty}\Big( 1 + \frac{1}{n^2} \Big) = \prod_{n=1}^{\infty}\frac{(n+i)(n-i)}{n^2} = \frac{1}{i\Gamma(i)\Gamma(1-i)} = \frac{\sinh \pi}{\pi}
@@ -400,3 +503,19 @@ $$
 \therefore \frac{\sin(\pi i)}{\pi i} = \frac{\sinh \pi}{\pi} \\
 \text{综上所述},\;\; \prod_{n=1}^{\infty}\Big( 1 + \frac{1}{n^2} \Big) = \prod_{n=1}^{\infty}\frac{(n+i)(n-i)}{n^2} = \frac{1}{i\Gamma(i)\Gamma(1-i)} = \frac{\sinh \pi}{\pi}
 $$
+
+然而中间的式子
+$$
+\prod_{n=1}^{\infty}\frac{(n+i)(n-i)}{n^2} = \frac{1}{i\Gamma(i)\Gamma(1-i)}
+$$
+有另外更简便的做法，正是视频所说的一个结论
+$$
+\sum_{k=1}^{n} a_k = \sum_{k=1}^{n} b_k \Rightarrow \prod_{n=1}^{\infty} \Big[ \frac{\prod_{i=1}^{k}(n + a_i)}{\prod_{i=1}^{k}(n + b_i)} \Big] = \prod_{n=1}^{k} \frac{\Gamma(1+b_n)}{\Gamma(1+a_n)}
+$$
+那么有
+$$
+\prod_{n=1}^{\infty}\frac{(n+i)(n-i)}{n^2} = \prod_{n=1}^{\infty}\frac{(n+i)}{n}\cdot\frac{(n-i)}{n} = \prod_{n=1}^{1}\frac{\Gamma(1+0)}{\Gamma(1+i)} \cdot \prod_{n=1}^{1}\frac{\Gamma(1+0)}{\Gamma(1-i)} = \frac{1}{\Gamma(1+i)\Gamma(1-i)} \\
+\because \Gamma(1+i) = i\Gamma(i) \\
+\therefore \prod_{n=1}^{\infty}\frac{(n+i)(n-i)}{n^2} = \frac{1}{i\Gamma(i)\Gamma(1-i)}
+$$
+
