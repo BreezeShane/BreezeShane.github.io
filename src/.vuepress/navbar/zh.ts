@@ -149,7 +149,8 @@ export const Navbar = navbar([
       "UUA",
       "SystemSafety",
       "KeXieNetDisk",
-      "ArchLinux",
+      "ArchLinux_awesome",
+      "ArchLinux_i3",
     ],
   },
   {

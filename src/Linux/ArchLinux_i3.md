@@ -11,7 +11,7 @@ tags:
  - ArchLinux
 ---
 
-::: 参考资料
+::: details 参考资料
 
 1. [Arch Linux 基础安装](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/rookie/basic_install?id=arch-linux-%E5%9F%BA%E7%A1%80%E5%AE%89%E8%A3%85)
 2. [Arch Linux 启用 archlinuxcn 源](https://www.expoli.tech/articles%2F2020%2F02%2F12%2F1581513647899)
@@ -160,7 +160,11 @@ mount /dev/xxxx1 /mnt/efi
 
 ### 系统安装
 
-接下来要安装系统了，在此之前先选择好镜像源，执行`vim /etc/pacman.d/mirrorlist`来查看当前所有镜像，并将中科大镜像源写到第一行中：`Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch`。
+接下来要安装系统了，在此之前先选择好镜像源，执行`vim /etc/pacman.d/mirrorlist`来查看当前所有镜像，并将中科大镜像源写到第一行中：
+
+```shell
+Server = https://mirrors.ustc.edu.cn/archlinux/$repo/os/$arch
+```
 
 接下来执行该命令安装系统【先确保等待 `pacman-init.service` 服务启动后，才能执行，可通过`systemctl status pacman-init`查看】：
 
@@ -410,6 +414,8 @@ git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-m
 
 配置好之后一般会自动帮你写好`.zshrc`文件，除去下面的alias，剩下的便是正常写好的样子：
 
+::: details .zshrc 文件内容
+
 ```shell
 # Enable Powerlevel10k instant prompt. Should stay close to the top of ~/.zshrc.
 # Initialization code that may require console input (password prompts, [y/n]
@@ -542,6 +548,8 @@ alias cat="bat"
 alias wpe="fantascene-dynamic-wallpaper"
 ```
 
+:::
+
 记得执行`chsh -s zsh <YOUR_USERNAME>`来修改默认 Shell 。
 
 ### 安装 Fcitx5 Rime 中文输入法
@@ -633,6 +641,8 @@ sudo pacman -S texlive-core texlive-langchinese texlive-latexextra texlive-fonts
 ```
 
 打开其配置文件(`Ctrl`+`Shift`+`P`后输入`settings.json`, 打开 User Settings), 在`{}`内加入如下内容：
+
+::: details User Settings.json 文件内容
 
 ```json
     "latex-workshop.latex.tools": [
@@ -740,6 +750,8 @@ sudo pacman -S texlive-core texlive-langchinese texlive-latexextra texlive-fonts
       "latex-workshop.latex.autoBuild.run": "onSave",
       "latex-workshop.latex.recipe.default": "lastUsed",   
 ```
+
+:::
 
 这次的配置文件较以前在 ArcoLinux 中多了按照上次使用的编译方式进行编译，并且可以修改是否在保存时编译的设置。
 
