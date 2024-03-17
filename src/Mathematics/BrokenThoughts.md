@@ -41,7 +41,10 @@ tag:
 26. [等比数列 - Wiki](https://zh.wikipedia.org/wiki/%E7%AD%89%E6%AF%94%E6%95%B0%E5%88%97)
 27. [Infinite product formula for sin(x) - Youtube](https://www.youtube.com/watch?v=qWxfpQ2wwto)
 28. [Euler’s Nonstandard Nonsense](https://cornellmath.wordpress.com/2007/07/13/eulers-nonstandard-nonsense/)
-29. 
+29. [LDA-math - 神奇的 Gamma 函数](https://cosx.org/2013/01/lda-math-gamma-function/)
+30. [Γ 函数 - 香蕉空间](https://www.bananaspace.org/wiki/Gamma_%E5%87%BD%E6%95%B0)
+31. [沃利斯乘积 - Wiki](https://zh.wikipedia.org/wiki/%E6%B2%83%E5%88%A9%E6%96%AF%E4%B9%98%E7%A7%AF)
+32. 
 
 :::
 
