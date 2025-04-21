@@ -1,0 +1,9 @@
+*.md text eol=lf linguist-detectable
+*.json text eol=lf linguist-detectable
+*.yml text eol=lf linguist-detectable
+*.scss text eol=lf linguist-detectable
+*.ts text eol=lf linguist-detectable
+
+*.jpg binary
+*.png binary
+*.svg binary
