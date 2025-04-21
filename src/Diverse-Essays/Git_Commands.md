@@ -236,3 +236,39 @@ GitHub提供了`GitHub-provided noreply email address`的服务，具体的地�
 如果你在跨系统维护一个仓库，在Windows下你难免会遇到这个报错：`warning: in the working copy of 'xxx/xxxx.xx', LF will be replaced by CRLF the next time Git touches it`。
 
 发生这个的原因是Windows和Linux两个系统下使用的换行符是不同的：Linux使用`LF`(`\n`)换行，而Windows使用`CRLF`(`\r\n`)换行。那么最好为了保证仓库代码一致，建议修改Windows系统下的git设置，执行`git config --global core.autocrlf input`来让git在提交时将`CRLF`转成`LF`，不过会看到一些警告：`warning: in the working copy of 'xxx/xxxx.xx', CRLF will be replaced by LF the next time Git touches it`。
+
+那么是否有更好的解决办法，能够使不同平台上使用同一仓库时的配置也是一样的？
+
+有，`.gitattribute`文件就是专门为了解决这样的事情。这个文件的语法要求是每一行均满足以下的格式要求：
+
+```text
+*.<FileExtension> <Attr1> <Attr2> ...
+```
+
+其中每一个`<AttrN>`可支持四个方式：
+
+1. `<AttrN>`: 设置该属性。
+2. `-<AttrN>`: 取消设置该属性。
+3. `<AttrN>=<Value>`: 设置该属性值。
+4. `!<AttrN>`: 取消声明该属性。
+
+其中，对于每一个属性`<AttrN>`，可以接受的值有：`text`、`binary`、`eol`、`diff`。
+
+- `text`用于控制行尾规范。
+- `binary`用于表示文件是二进制文件。
+- `eol`用于设置行尾字符。
+- `diff`用于声明需要比较版本差异的文件。特别地，`diff`会强制将文件看作文本文件，即使包含`Ambiguous Chars`；`!diff`则表示非文本；在未定义的情况下，git会自动判断是否为文本文件（可解析文本，且比`core.bigFileThreshold`设定的阈值小）。
+
+因此以本博客仓库为例，我可以写这样的`.gitattribute`文件：
+
+```text
+*.md text eol=lf
+*.json text eol=lf
+*.yml text eol=lf
+*.scss text eol=lf
+*.ts text eol=lf
+
+*.jpg binary
+*.png binary
+*.svg binary
+```
