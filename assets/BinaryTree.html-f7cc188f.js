@@ -1,1 +1,0 @@
-import{_ as t,W as a,X as r,Y as e,Z as n}from"./framework-68a75bb9.js";const s={},c=e("h2",{id:"定义",tabindex:"-1"},[e("a",{class:"header-anchor",href:"#定义","aria-hidden":"true"},"#"),n(" 定义")],-1),o=e("p",null,"二叉树是一颗有序树，它由",-1),_=[c,o];function d(i,l){return a(),r("div",null,_)}const f=t(s,[["render",d],["__file","BinaryTree.html.vue"]]);export{f as default};

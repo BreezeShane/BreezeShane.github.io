@@ -1,1 +1,0 @@
-import{_ as o,W as t,X as r}from"./framework-68a75bb9.js";const a={mounted(){(function(){var n=new Array("/links/links/","/YuuJinChou/");window.location.href=n[Math.floor(Math.random()*n.length)]})()}};function c(e,n,i,s,l,u){return t(),r("div")}const d=o(a,[["render",c],["__file","index.html.vue"]]);export{d as default};
