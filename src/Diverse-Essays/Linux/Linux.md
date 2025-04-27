@@ -40,7 +40,7 @@ star: true
 ::: info 参考资料 [Arch Linux 基础安装 / 0.禁用 reflector](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/rookie/basic_install?id=_0%e7%a6%81%e7%94%a8-reflector)、[Arch Linux 基础安装 / 1.再次确保是否为 UEFI 模式](https://archlinuxstudio.github.io/ArchLinuxTutorial/#/rookie/basic_install?id=_1%e5%86%8d%e6%ac%a1%e7%a1%ae%e4%bf%9d%e6%98%af%e5%90%a6%e4%b8%ba-uefi-%e6%a8%a1%e5%bc%8f)
 :::
 
-提前准备好 ArchLinux 的镜像之后，通过 Ventoy 把 TF 卡做成启动盘，将镜像放入之后, 用户可在此时考虑直接给盘划好分区，不管怎么说，图形化分区还是比命令行分区更友好方便。在保证 Secure Boot 【安全启动】处于关闭, 且启动方式为 UEFI 的情况下, 通过 BIOS 启动【Portable PC一般按F12即可自行选择启动项】镜像系统。一般安装镜像系统是无图形化界面的，会以终端的形式出现。
+提前准备好 ArchLinux 的镜像之后，通过 Ventoy 把 TF 卡做成启动盘，将镜像放入之后, 用户可在此时考虑直接给盘划好分区，不管怎么说，图形化分区还是比命令行分区更友好方便。在保证 Secure Boot 【安全启动】处于关闭, 且启动方式为 UEFI 的情况下, 通过 BIOS 启动【Portable PC 一般按`F12`即可自行选择启动项】镜像系统。一般安装镜像系统是无图形化界面的，会以终端的形式出现。
 
 ::: tip
 
@@ -138,9 +138,9 @@ mkfs.btrfs -m dup -d single -L DATA /dev/xxxx3
 mkswap -L SWAP /dev/xxxx4
 ```
 
-### Btrfs 子卷与快照
+### Btrfs
 
-::: info 参考资料 [archlinux 基础安装 / 7-2-3. 创建 Btrfs 子卷](https://arch.icekylin.online/guide/rookie/basic-install#_7-2-3-%E5%88%9B%E5%BB%BA-btrfs-%E5%AD%90%E5%8D%B7)
+::: info 参考资料 [archlinux 基础安装 / 7-2-3. 创建 Btrfs 子卷](https://arch.icekylin.online/guide/rookie/basic-install#_7-2-3-%E5%88%9B%E5%BB%BA-btrfs-%E5%AD%90%E5%8D%B7) [archlinux调整分区及btrfs文件系统大小](https://www.cnblogs.com/lookfeel/p/17975517)
 :::
 
 为了利用 Btrfs 的特性，需要先挂载一下然后创建子卷。挂载时可以开启透明压缩，执行命令`mount -t btrfs -o compress=zstd /dev/xxxx2 /mnt`。
@@ -162,6 +162,22 @@ btrfs subvolume create /mnt/@home # 创建 /home 目录子卷
 :::
 
 创建好之后先卸载掉该分区，执行`umount /mnt`
+
+::: caution
+
+如果未来需要调整 Btrfs 分区，请严格按照以下执行顺序来做：
+
+1. 挂载 Btrfs 分区
+2. 通过 Btrfs 的工具缩小分区，执行`btrfs filesystem resize <TARGET_PARTITION_SIZE> <MOUNT_POINT>`
+3. 使用`cfdisk`调整分区
+
+如果不按照该顺序执行，将会导致 Btrfs 分区无法正常挂载，这是由 Btrfs 的基本原理决定的。
+
+若不幸先使用了`cfdisk`调整分区，如果这时还未执行额外操作，只是简单地缩小了 Btrfs 分区，对于出现的空闲空间没有做进一步操作，那么还可以使用`cfdisk`调整回原有大小，这时 Btrfs 分区就可以正常挂载了。
+
+若对空闲空间做了创建分区、格式化等操作，不保证删除该分区后通过`cfdisk`调整回原有大小是否还能正常挂载 Btrfs 分区，这取决于进一步的操作是否影响 Btrfs 的 BTree 索引。
+
+:::
 
 ### 硬盘挂载
 
@@ -318,7 +334,7 @@ pacman -S amd-ucode # For AMD
 
 ```shell
 pacman -S grub efibootmgr
-grub-install --target=x86_64-efi --efi-directory=/efi --bootloader-id=GRUB # --removable 如果要装入移动硬盘内，一般要加上这个参数
+grub-install --target=x86_64-efi --efi-directory=/boot/efi --bootloader-id=ARCH # --removable 如果要装入移动硬盘内，一般要加上这个参数
 ```
 
 > 有关 removable 参数有资料这样解释：
@@ -333,7 +349,7 @@ grub-install --target=x86_64-efi --efi-directory=/efi --bootloader-id=GRUB # --r
 
 ```shell
 exit                # 退回系统镜像
-umount -R  /mnt     # 递归卸载新系统分区
+umount -R /mnt     # 递归卸载新系统分区
 reboot              # 重启
 ```
 
@@ -445,7 +461,7 @@ startx # 启动 Xorg 进行图形桌面服务测试
 
 ## 深梦
 
-### 安装桌面管理器 i3 WM 及其常用系统软件
+### 安装 i3 桌面管理器及其常用的基础系统软件
 
 ::: info 参考资料 [ArchLinux下i3wm安装和简单配置美化](https://mindview.top/pages/be527f/)、[Arch Linux install i3-wm](https://www.cnblogs.com/shadow-/p/17572589.html)
 :::
@@ -463,13 +479,7 @@ sudo pacman -S sddm
 sudo systemctl enable sddm
 ```
 
-系统音频控制需要安装好以下软件：
-
-```shell
-sudo pacman -S alsa alsa-utils pulseaudio-utils pulseaudio pavucontrol playerctl # Alsa系的音频控制工具，含pavucontrol图形控制界面工具
-```
-
-个人偏好的软件如下：
+#### 个人偏好
 
 ```shell
 sudo pacman -S picom # 窗口透明化
@@ -481,7 +491,6 @@ sudo pacman -S polybar # 系统状态栏，可自定制
 sudo pacman -S tree # 文件树展开，项目结构可一目了然
 sudo pacman -S autorandr # 屏幕扩展的自动管理工具
 sudo pacman -S rofimoji # rofi界面的Emoji表情输入
-sudo pacman -S telegram-desktop # Telegram聊天工具软件
 sudo pacman -S less # 功能强大的查看文件内容的工具
 sudo pacman -S timeshift # 快照备份工具，BTRFS文件系统备份常用
 sudo pacman -S qbittorrent # BT下载器
@@ -494,11 +503,14 @@ sudo pacman -S ranger # 终端资源管理器
 sudo pacman -S xsel # 操作剪贴板的终端工具
 sudo pacman -S xdotool # 可以模拟鼠标和按键操作的工具
 
+sudo pacman -S telegram-desktop # Telegram聊天工具软件
 yay -S i3lock-color # i3常用的屏幕锁定工具
 yay -S wechat-appimage # 微信官方客户端
 ```
 
-系统字体对个人来说安装 Noto fonts 已经够用了：
+#### 系统字体
+
+对个人来说安装 Noto fonts 已经够用了：
 
 ```shell
 sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
@@ -516,17 +528,292 @@ sudo pacman -S noto-fonts noto-fonts-cjk noto-fonts-emoji noto-fonts-extra
 
 :::
 
-### i3 WM 配置
+### 安装 yay
 
-::: info On building...
+::: info 参考资料
+
+- [在 Arch Linux 上安装和使用 Yay | Linux 中国](https://zhuanlan.zhihu.com/p/661351588)
+- [PKGBUILD Source Code](https://github.com/Jguer/yay-PKGBUILD/blob/master/yay/PKGBUILD)
+- [GitHub yay Makefile Source Code](https://github.com/Jguer/yay/blob/next/Makefile)
+
 :::
+
+依次执行以下命令来安装`yay`：
+
+::: important 请确保 base-devel 和 git 有正确安装，因为以下命令将会用到`git`和`makepkg`等工具。
+:::
+
+```shell
+git clone https://aur.archlinux.org/yay.git
+cd yay
+makepkg -si
+```
+
+::: tip
+
+如果无法通过`https://aur.archlinux.org/yay.git`来获取`yay`，可考虑拉取 GitHub 源码后进行编译安装：
+
+```shell
+git clone https://github.com/Jguer/yay
+cd yay
+make install
+# make uninstall # 如果需要卸载，可执行该命令进行卸载。
+```
+
+如果仍然无法正常访问`https://github.com/Jguer/yay`，可使用 GitHub 镜像站，如`https://githubfast.com/Jguer/yay`。
+
+更多镜像站可参考[MirrorSite - GitHub](https://github.com/runningcheese/MirrorSite)。
+
+:::
+
+### 安装 Bluetooth
+
+::: info 参考资料 [蓝牙#安装 - ArchWiki](https://wiki.archlinuxcn.org/wiki/%E8%93%9D%E7%89%99#%E5%AE%89%E8%A3%85) [内核模块#获取信息](https://wiki.archlinuxcn.org/wiki/%E5%86%85%E6%A0%B8%E6%A8%A1%E5%9D%97#%E8%8E%B7%E5%8F%96%E4%BF%A1%E6%81%AF) [蓝牙工具 bluetoothctl 用法简介](https://blog.csdn.net/weixin_42396877/article/details/86772153) [[BlueZ] 2、使用bluetoothctl搜索、连接、配对、读写、使能notify蓝牙低功耗设备](https://www.cnblogs.com/zjutlitao/p/9589661.html)
+:::
+
+执行`sudo pacman -S bluez bluez-utils`来安装蓝牙协议栈以及相关的工具，然后执行以下命令来启动蓝牙服务：
+
+```shell
+sudo systemctl enable bluetooth.service
+sudo systemctl start bluetooth.service
+```
+
+::: important 请确保通用蓝牙驱动有正常加载，执行`lsmod | grep btusb`或者`modinfo btusb`，正常情况是有输出内容。
+:::
+
+此时蓝牙已经可以正常使用了，可通过`bluetoothctl`来管理蓝牙设备配对和连接。
+
+```shell
+bluetoothctl
+# 进入控制界面
+devices # 查看可连接的设备
+scan on # 扫描等待连接的设备
+pair <MAC_ADDRESS> # 通过 MAC 地址与设备进行配对
+connect <MAC_ADDRESS> # 通过 MAC 地址与设备进行连接
+disconnect <MAC_ADDRESS> # 取消连接设备
+scan off # 停止扫描
+```
+
+::: tip 如果希望使用图形化界面来管理蓝牙连接，可以执行`sudo pacman -S blueman`来安装图形管理工具。
+:::
+
+### 屏幕亮度调节
+
+执行`sudo pacman -S acpilight`，安装之后我们还需要将当前用户组加入`video`组内，执行`sudo gpasswd video -a <YOUR_USER_NAME>`即可，如要确认该用户是否在组内，可以执行`groups <YOUR_USER_NAME>`，在 i3 中就需要写入`bindsym XF86MonBrightnessUp exec xbacklight -inc 10`和`bindsym XF86MonBrightnessDown exec xbacklight -dec 10`
+
+::: tip 类似的多媒体按键名称
+
+- `XF86AudioRaiseVolume`
+- `XF86AudioLowerVolume`
+- `XF86AudioMute`
+- `XF86AudioPlay`
+- `XF86AudioNext`
+- `XF86AudioPrev`
+- `XF86AudioStop`
+
+:::
+
+### 系统音频控制
+
+::: info 参考资料
+
+- [[SOLVED] pactl: pa_context_connect() failed: Connection refused](https://bbs.archlinux.org/viewtopic.php?id=296995)
+- [PipeWire - ArchWiki](https://wiki.archlinux.org/title/PipeWire)
+- [ALSA#键盘控制音量 - ArchWiki](https://wiki.archlinuxcn.org/wiki/ALSA#%E9%94%AE%E7%9B%98%E6%8E%A7%E5%88%B6%E9%9F%B3%E9%87%8F)
+- [[SOLVED] Using ALSA for i3status bar volume indicator not working](https://bbs.archlinux.org/viewtopic.php?id=257103)
+- [i3status manpage](https://i3wm.org/i3status/manpage.html#_volume)
+- [speaker-test - Arch manual pages](https://man.archlinux.org/man/extra/alsa-utils/speaker-test.1.en)
+
+:::
+
+Linux 如今内核已经内置`alsa`了，一般不需要额外安装软件，但如果希望使用`alsa-utils`来控制音频，可以执行`sudo pacman -S alsa-utils`，然后通过`amixer`或`alsamixer`来控制即可。但由于 i3 桌面管理器一般自带`pipewire`（可执行`pacman -Qs pipewire`来确认是否已安装），所以打算继续沿用`pipewire`。
+
+::: tip
+
+安装好`alsa-utils`后可在 i3 配置文件中去掉`XF86AudioRaiseVolume`、`XF86AudioLowerVolume`、`XF86AudioMute`的相关事件，并添加以下内容来控制音量：
+
+```yaml
+bindsym XF86AudioRaiseVolume exec amixer set Master 5%+
+bindsym XF86AudioLowerVolume exec amixer set Master 5%-
+bindsym XF86AudioMute exec amixer set Master toggle
+```
+
+---
+
+如果希望使用`pulseaudio`来替代`pipewire`，则需要装以下这些软件：
+
+```shell
+sudo pacman -S pulseaudio-utils pulseaudio pavucontrol playerctl # Alsa系的音频控制工具，含pavucontrol图形控制界面工具
+```
+
+:::
+
+使用`pipewire`需要额外安装以下软件：
+
+```shell
+sudo pacman -S pipewire-alsa pipewire-pulse
+```
+
+由于 i3 配置中包含了以下内容：
+
+```yaml
+# Use pactl to adjust volume in PulseAudio.
+set $refresh_i3status killall -SIGUSR1 i3status
+bindsym XF86AudioRaiseVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ +10% && $refresh_i3status
+bindsym XF86AudioLowerVolume exec --no-startup-id pactl set-sink-volume @DEFAULT_SINK@ -10% && $refresh_i3status
+bindsym XF86AudioMute exec --no-startup-id pactl set-sink-mute @DEFAULT_SINK@ toggle && $refresh_i3status
+bindsym XF86AudioMicMute exec --no-startup-id pactl set-source-mute @DEFAULT_SOURCE@ toggle && $refresh_i3status
+```
+
+要想这些配置生效，需要依次执行以下命令来启用：
+
+```shell
+systemctl --user enable pipewire pipewire-pulse
+systemctl --user start pipewire pipewire-pulse
+```
+
+::: important
+
+`--user`参数不可省略，因为`systemctl`默认通过 System Manager 到系统空间下寻找`service`和`socket`，而对于`pipewire`它应当通过 User Service Manager 在用户空间下寻找`service`和`socket`。
+
+:::
+
+::: tip Optional for i3bar(with i3status) user
+
+如果希望在 i3bar 状态栏上显示音量控制，在`~/.config/i3status/config`文件中按以下内容编辑：
+
+在`order +=`块中添加一行：`order += "volume master"`并在文件最后部分添加以下代码块：
+
+```config
+volume master {
+        format = "Vol: %volume"
+        format_muted = "Vol: MUTED (%volume)"
+        device = "default"
+}
+```
+
+然后重启 i3 即可。
+
+:::
+
+最后如果想测试声音，可以执行`speaker-test -c 2`来测试。
+
+### Authentication Agent 配置
+
+::: info 参考资料 [Polkit - ArchWiki](https://wiki.archlinux.org/title/Polkit)
+:::
+
+在linux使用过程中，难免会遇到一些软件，不能直接用`sudo`运行，但需要root权限，比如`via-bin`、`gparted`，然后我在具体运行中遇到的错误信息如下：
+
+```shell
+UnhandledPromiseRejectionWarning: Error: No polkit authentication agent found.
+```
+
+于是我就明白这里是缺少了一个专用的助手来安全地授予我们权限，于是我花了一些时间查找，最后从[Polkit - ArchWiki](https://wiki.archlinux.org/title/Polkit)里的 1.1 节 Authentication agents 中选了比较合适的[lxqt-policykit](https://github.com/lxqt/lxqt-policykit)，这个可以直接用pacman安装。安装好之后我们只需要让它随系统启动即可，在 i3 config 中写入`exec --no-startup-id lxqt-policykit`，重启 i3 即可。
 
 ## 梦魇
 
 ### Efibootmgr 使用
 
-::: info On building...
+::: details 参考资料: Efibootmgr help doc
+
+```shell
+(base) ➜  ~ efibootmgr -h
+efibootmgr version 18
+usage: efibootmgr [options]
+  -a | --active         Set bootnum active.
+  -A | --inactive       Set bootnum inactive.
+  -b | --bootnum XXXX   Modify BootXXXX (hex).
+  -B | --delete-bootnum Delete bootnum.
+  -c | --create         Create new variable bootnum and add to bootorder at index (-I).
+  -C | --create-only    Create new variable bootnum and do not add to bootorder.
+  -d | --disk disk      Disk containing boot loader (defaults to /dev/sda).
+  -D | --remove-dups    Remove duplicate values from BootOrder.
+  -e | --edd [1|3]      Force boot entries to be created using EDD 1.0 or 3.0 info.
+  -E | --device num     EDD 1.0 device number (defaults to 0x80).
+        --full-dev-path  Use a full device path.
+        --file-dev-path  Use an abbreviated File() device path.
+  -f | --reconnect      Re-connect devices after driver is loaded.
+  -F | --no-reconnect   Do not re-connect devices after driver is loaded.
+  -g | --gpt            Force disk with invalid PMBR to be treated as GPT.
+  -i | --iface name     Create a netboot entry for the named interface.
+  -I | --index number   When creating an entry, insert it in bootorder at specified position (default: 0).
+  -l | --loader name     (Defaults to "\EFI\arch\grub.efi").
+  -L | --label label     Boot manager display label (defaults to "Linux").
+  -m | --mirror-below-4G t|f Mirror memory below 4GB.
+  -M | --mirror-above-4G X Percentage memory to mirror above 4GB.
+  -n | --bootnext XXXX   Set BootNext to XXXX (hex).
+  -N | --delete-bootnext Delete BootNext.
+  -o | --bootorder XXXX,YYYY,ZZZZ,...     Explicitly set BootOrder (hex).
+  -O | --delete-bootorder Delete BootOrder.
+  -p | --part part        Partition containing loader (defaults to 1 on partitioned devices).
+  -q | --quiet            Be quiet.
+  -r | --driver           Operate on Driver variables, not Boot Variables.
+  -t | --timeout seconds  Set boot manager timeout waiting for user input.
+  -T | --delete-timeout   Delete Timeout.
+  -u | --unicode | --UCS-2  Handle extra args as UCS-2 (default is ASCII).
+  -v | --verbose          Print additional information.
+  -V | --version          Return version and exit.
+  -w | --write-signature  Write unique sig to MBR if needed.
+  -y | --sysprep          Operate on SysPrep variables, not Boot Variables.
+  -@ | --append-binary-args file  Append extra args from file (use "-" for stdin).
+  -h | --help             Show help/usage.
+```
+
 :::
+
+由于 Windows 的安装或修复机制，它总会自动修改 EFI 启动项，甚至会直接删除其它系统的启动项。对于这种情况，Linux 一般需要自行使用 LiveCD 或其它方式来添加/修复启动项。但对于启动顺序，比较稳妥的做法是使用 Efibootmgr 来调整。
+
+::: tip
+
+如果希望使用同一个界面来决定启动 Windows 或 Linux 等多个操作系统，首先需要启用 `os-prober`。编辑`/etc/default/grub`文件，找到如下内容并取消注释`GRUB_DISABLE_OS_PROBER=false`：
+
+```conf
+# Probing for other operating systems is disabled for security reasons. Read
+# documentation on GRUB_DISABLE_OS_PROBER, if still want to enable this
+# functionality install os-prober and uncomment to detect and include other
+# operating systems.
+GRUB_DISABLE_OS_PROBER=false
+```
+
+这样在生成启动项时会自动检测是否存在其它操作系统的启动项，并将这些启动项加入到启动项界面。
+
+:::
+
+可以通过执行`efibootmgr -v`来查看当前 EFI 启动信息，将会得到类似如下的输出：
+
+```shell
+(base) ➜  ~ efibootmgr -v
+BootCurrent: 0002
+Timeout: 0 seconds
+BootOrder: 0002,2001,0001,2002,2003
+Boot0001* Windows Boot Manager  HD(1,GPT,59685006-d751-438d-845a-8594ddf09c5c,0x800,0xf4000)/\EFI\Microsoft\Boot\bootmgfw.efi57494e444f5753000100000088000000780000004200430044004f0042004a004500430054003d007b00390064006500610038003600320063002d0035006300640064002d0034006500370030002d0061006300630031002d006600330032006200330034003400640034003700390035007d00000061000100000010000000040000007fff0400
+      dp: 04 01 2a 00 01 00 00 00 00 08 00 00 00 00 00 00 00 40 0f 00 00 00 00 00 06 50 68 59 51 d7 8d 43 84 5a 85 94 dd f0 9c 5c 02 02 / 04 04 46 00 5c 00 45 00 46 00 49 00 5c 00 4d 00 69 00 63 00 72 00 6f 00 73 00 6f 00 66 00 74 00 5c 00 42 00 6f 00 6f 00 74 00 5c 00 62 00 6f 00 6f 00 74 00 6d 00 67 00 66 00 77 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+    data: 57 49 4e 44 4f 57 53 00 01 00 00 00 88 00 00 00 78 00 00 00 42 00 43 00 44 00 4f 00 42 00 4a 00 45 00 43 00 54 00 3d 00 7b 00 39 00 64 00 65 00 61 00 38 00 36 00 32 00 63 00 2d 00 35 00 63 00 64 00 64 00 2d 00 34 00 65 00 37 00 30 00 2d 00 61 00 63 00 63 00 31 00 2d 00 66 00 33 00 32 00 62 00 33 00 34 00 34 00 64 00 34 00 37 00 39 00 35 00 7d 00 00 00 61 00 01 00 00 00 10 00 00 00 04 00 00 00 7f ff 04 00
+Boot0002* ARCH  HD(1,GPT,59685006-d751-438d-845a-8594ddf09c5c,0x800,0xf4000)/\EFI\ARCH\grubx64.efi
+      dp: 04 01 2a 00 01 00 00 00 00 08 00 00 00 00 00 00 00 40 0f 00 00 00 00 00 06 50 68 59 51 d7 8d 43 84 5a 85 94 dd f0 9c 5c 02 02 / 04 04 30 00 5c 00 45 00 46 00 49 00 5c 00 41 00 52 00 43 00 48 00 5c 00 67 00 72 00 75 00 62 00 78 00 36 00 34 00 2e 00 65 00 66 00 69 00 00 00 / 7f ff 04 00
+Boot2001* EFI USB Device  RC
+      dp: 7f ff 04 00
+    data: 52 43
+Boot2002* EFI DVD/CDROM RC
+      dp: 7f ff 04 00
+    data: 52 43
+Boot2003* EFI Network RC
+      dp: 7f ff 04 00
+    data: 52 43
+```
+
+从中可以注意到每个启动项都是以`Boot<ID> <Device Name>`为开头的，找到其中的 Windows Boot Manager 和 Linux Grub 启动项即可。
+
+::: tip Linux Grub 启动项的名称取决于当初创建 Grub启动项时传递参数`--bootloader-id`的值。
+:::
+
+可以通过使用`efibootmgr -o <Ordered Boot List>`（需要 Root 权限）来控制 EFI 启动顺序，其中`<Ordered Boot List>`是各 ID 之间用`,`隔开，如`efibootmgr -o 2001,0001,0002`。
+
+::: important 如果`<Ordered Boot List>`没有包括全部的 ID，实际启动时将只会看到`<Ordered Boot List>`内的所有启动项。
+:::
+
+最后记得执行`grub-mkconfig -o /boot/grub/grub.cfg`（需要 Root 权限）重新生成 Grub 配置，然后重启即可。
 
 ### 设置 Swap 文件或分区
 
@@ -540,22 +827,12 @@ swapon /swapfile #启用swap文件
 sudo echo '/swapfile none swap defaults 0 0' >> /etc/fstab
 ```
 
-类似的，也可以自行裁出一块分区后，依次使用`mkswap`和`swapon`制作 Swap 分区，并在`/etc/fstab`最后添加`UUID=<YOUR_DISK_UUID>   /swap   swap    swap,defaults   0 0`
+类似的，也可以自行裁出一块分区后，依次使用`mkswap`和`swapon`制作 Swap 分区，并在`/etc/fstab`最后添加`UUID=<YOUR_DISK_UUID>   /swap   swap    swap,defaults   0 0`，不过这种做法一般在前面[系统分区](#硬盘分区)的章节里就可以做了。
 
 ### Magic SysRq Keybinding
 
 ::: info On building...
 :::
-
-### Authentication Agent 配置
-
-在linux使用过程中，难免会遇到一些软件，不能直接用`sudo`运行，但需要root权限，比如`via-bin`、`gparted`，然后我在具体运行中遇到的错误信息如下：
-
-```shell
-UnhandledPromiseRejectionWarning: Error: No polkit authentication agent found.
-```
-
-于是我就明白这里是缺少了一个专用的助手来安全地授予我们权限，于是我花了一些时间查找，最后从[Polkit - ArchWiki](https://wiki.archlinux.org/title/Polkit)里的 1.1 节 Authentication agents 中选了比较合适的[lxqt-policykit](https://github.com/lxqt/lxqt-policykit)，这个可以直接用pacman安装。安装好之后我们只需要让它随系统启动即可，在 i3 config 中写入`exec --no-startup-id lxqt-policykit`，重启 i3 即可。
 
 ### Linux 与 Windows 时间同步
 
@@ -600,11 +877,6 @@ Linux 和 Windows 的时间总会存在“时差”，一般这种问题有两�
 
 Windows 和 Linux 两个系统看待硬件时钟的方式不同：Windows 会将硬件时钟（RTC）看作本地时间；Linux 则会将 RTC 看作 UTC 时间，故 Windows 时钟 = UTC + Time Zone，即两系统之间的时差刚好就是时区。在中国（UTC+8），Linux 总是比 Windows 快 8 小时。
 
-:::
-
-### Linux 与 Windows 共用蓝牙设备
-
-::: info On building...
 :::
 
 ### 关于Linux系统下键盘的F1～F12键无法响应的问题
@@ -657,14 +929,14 @@ Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文�
 
 :::
 
-### 安装 yay
+### 安装 Oh-my-zsh 并切换默认终端并安装插件
+
+前面安装好 Zsh 之后，就可以安装 Oh-my-zsh 了，并且加入其中的一些插件：
 
 ::: info On building...
 :::
 
-### 安装 Oh-my-zsh 、切换默认终端并安装插件
-
-前面安装好 Zsh 之后，就可以安装 Oh-my-zsh 了，并且加入其中的一些插件：
+### i3 WM 配置
 
 ::: info On building...
 :::
@@ -931,11 +1203,29 @@ sudo systemctl start daed
 之后就可以通过访问[localhost:2023](localhost:2023)来配置代理。**注意，订阅链接需要从机场的订阅链接获取。**
 
 ::: info On building...
+DNS, Router configure
 :::
 
 ### Linux 屏幕扩展
 
-使用`arandr`和`autorandr`即可方便快捷地配置屏幕扩展方案。
+使用`xrandr`就要记很多参数，而且一般要花很长时间才能调整好参数，往往调整好后又几乎不需要做修改，因此每次都查询`xrandr`文档来调整屏幕扩张是麻烦且不必要的，因此使用`arandr`和`autorandr`可更方便快捷地配置屏幕扩展方案。
+
+::: tip
+
+`autorandr`可以将当前屏幕方案保存下来，方便下次使用时直接调用。故可以在系统检测到接口插入时触发`autorandr`加载对应屏幕方案。
+
+:::
+
+### Linux & Windows 共用蓝牙设备
+
+::: caution On building...
+:::
+
+::: info 参考资料 [双系统共用一个蓝牙鼠标 - 知乎](https://zhuanlan.zhihu.com/p/466962255) [在Windows与Linux双系统下共享蓝牙鼠标](https://zhul.in/2021/05/30/share-xiaomi-bluetooth-mouse-on-both-windows-and-linux/)
+:::
+
+::: warning 这种做法只能对
+:::
 
 ### Linux 查找软件安装目录
 
@@ -965,22 +1255,6 @@ yay -S p7zip-natspec
 ```
 
 然后打开Ark，点击菜单栏中的设置，单击配置Ark，然后取消勾选Libzip，并且要选中P7zip，保存设置并重启Ark即可。
-
-### 屏幕亮度调节
-
-执行`sudo pacman -S acpilight`，安装之后我们还需要将当前用户组加入`video`组内，执行`sudo gpasswd video -a <YOUR_USER_NAME>`即可，如要确认该用户是否在组内，可以执行`groups <YOUR_USER_NAME>`，在 i3 中就需要写入`bindsym XF86MonBrightnessUp exec xbacklight -inc 10`和`bindsym XF86MonBrightnessDown exec xbacklight -dec 10`
-
-::: tip 类似的多媒体按键名称
-
-- `XF86AudioRaiseVolume`
-- `XF86AudioLowerVolume`
-- `XF86AudioMute`
-- `XF86AudioPlay`
-- `XF86AudioNext`
-- `XF86AudioPrev`
-- `XF86AudioStop`
-
-:::
 
 ### 修改默认应用程序
 
@@ -1045,7 +1319,7 @@ sudo systemctl restart libvirtd.service
 i3 窗口管理器下可以直接使用`feh`来设置壁纸。
 
 ```shell
-feh
+feh --bg-fill --no-fehbg --randomize "Path/to/your/Wallpaper/Folder"
 ```
 
 对于 Awesome 窗口管理器，我推荐使用 Nitrogen。
