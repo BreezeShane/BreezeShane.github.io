@@ -68,7 +68,7 @@ GitHUb上SSH配置路线如下：点击右上角用户后，在出现的菜单�
 
 ## Git 上传文件被拒绝该怎么办？
 
-输入 `git pull --rebase (Your repository's name) master`然后再push一下就好啦！
+输入 `git pull --rebase (Your repository's name) master`然后再 push 一下就好啦！
 
 ## Git 需要走代理怎么办？
 
@@ -159,7 +159,7 @@ git pull
 
 ## Git有些东西根本不想上传，怎么办？
 
-在项目目录下新建一个文件，命名为 `.gitignore`，并写入不希望添加的文件(夹)：
+在项目目录下新建一个文件，命名为`.gitignore`，并写入不希望添加的文件(夹)：
 
 ```yaml
 Content # 忽略掉Content目录
@@ -167,6 +167,9 @@ __cache__/* # 忽略掉__cache__下的所有文件
 dust.txt # 忽略掉dust.txt文件
 lib/*.dll # 忽略掉lib目录下的所有dll文件
 ```
+
+::: important 这只对未建立追踪的文件及文件夹生效，如果已追踪则`.gitignore`不生效
+:::
 
 ## Git如何下载指定版本？
 
@@ -272,3 +275,10 @@ GitHub提供了`GitHub-provided noreply email address`的服务，具体的地�
 *.png binary
 *.svg binary
 ```
+
+## 修改已提交的Commit
+
+::: info 参考资料 [Changing a commit message](https://docs.github.com/en/pull-requests/committing-changes-to-your-project/creating-and-editing-commits/changing-a-commit-message)
+:::
+
+有时候提交了之后发现有些东西没写到 Commit Message 里面，但这时候也为时不晚，GitHub 允许用户重新编写最后一次提交的 Commit Message，执行`git commit --amend`后修改补充 Commit Message，然后提交即可。
