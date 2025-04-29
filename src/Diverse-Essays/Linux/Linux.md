@@ -831,8 +831,10 @@ sudo echo '/swapfile none swap defaults 0 0' >> /etc/fstab
 
 ### Magic SysRq Keybinding
 
-::: info On building...
+::: info 参考资料 [Linux：内核调试之内核魔术键sysrq](https://blog.csdn.net/hhd1988/article/details/130006269)
 :::
+
+我曾经时常遇到 Linux 在关机时等待时间过长的情况，往往这种时候我是已经有保存好自己的数据的，加之经常要马上关机离开，要为这种没必要的事情等太长时间不值得，所以我了解到了这个。
 
 ### Linux 与 Windows 时间同步
 
@@ -1218,14 +1220,95 @@ DNS, Router configure
 
 ### Linux & Windows 共用蓝牙设备
 
-::: caution On building...
+::: info 参考资料
+
+- [双系统共用一个蓝牙鼠标 - 知乎](https://zhuanlan.zhihu.com/p/466962255)
+- [在Windows与Linux双系统下共享蓝牙鼠标](https://zhul.in/2021/05/30/share-xiaomi-bluetooth-mouse-on-both-windows-and-linux/)
+- [蓝牙 - ArchWiki](https://wiki.archlinuxcn.org/wiki/%E8%93%9D%E7%89%99)
+- [低功耗蓝牙(Bluetooth LE)安全机制概述 - 知乎](https://zhuanlan.zhihu.com/p/546585124)
+- [BlueZ详解：Linux下的蓝牙堆栈架构与实践](https://www.showapi.com/news/article/66c119c54ddd79f11a06c00d)
+- [蓝牙低功耗(LE)和蓝牙经典(BR/EDR)概述](https://www.cnblogs.com/iini/p/8692541.html)
+- [深入浅出蓝牙低功耗(Bluetooth LE)协议栈](https://www.cnblogs.com/iini/p/8969828.html)
+- [多系统共享蓝牙设备 - 腾讯云](https://cloud.tencent.com/developer/article/1958351)
+- [工具：PsTools-windows问题定位系列小工具](https://blog.csdn.net/xiaobaiPlayGame/article/details/129481945)
+- [什么是经典蓝牙BR/EDR?](https://support.tuya.com/zh/help/_detail/Ke5d9s97d72ac)
+
 :::
 
-::: info 参考资料 [双系统共用一个蓝牙鼠标 - 知乎](https://zhuanlan.zhihu.com/p/466962255) [在Windows与Linux双系统下共享蓝牙鼠标](https://zhul.in/2021/05/30/share-xiaomi-bluetooth-mouse-on-both-windows-and-linux/)
+普遍存在这样的情况，Linux 和 Windows 系统都可以连接蓝牙设备的情况下，切换系统时蓝牙设备必须要重新配对连接。而这一情况对用户而言很不友好，事实上无论是在哪个系统，本机设备的 MAC 都不会发生变化，但由于某种原因，两个系统连接蓝牙设备时使用的 MAC 地址是不同的，由此可见，问题出在两个系统与蓝牙设备连接时的配对信息存在差别，下面就要解决这个异常。
+
+首先让蓝牙设备和 Linux 系统进行配对，目的是为了在`/var/lib/bluetooth/<Local Machine MAC Address>`目录下生成对应设备的配对信息。
+
+然后回到 Windows 系统，先配对好蓝牙设备，再下载 [PsTools](https://learn.microsoft.com/en-us/sysinternals/downloads/psexec)。
+
+::: info PsTools
+
+PsTools 是 Sysinternals Suite 中一款排名靠前的一个安全管理工具套件，现已被微软收购。目前 PsTools 中含有各式各样的小工具。如果能灵活运用它们，渗透过程中将会收到奇效。
+
 :::
 
-::: warning 这种做法只能对
+之后通过管理员身份运行命令提示符(CMD)，进入到 PsTools 存放目录，执行
+
+```shell
+psexec -si /e <PATH\Anywhere\You\Like>\<ANY_NAME_YOU_LIKE>.txt HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BTHPORT\Parameters\Keys
+```
+
+::: tip
+
+这个命令是使用 PsExec 将`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BTHPORT\Parameters\Keys`目录下的所有注册表项导出到文本文件，该文本文件将会存放在你指定的`/e`参数后面的路径。当然，注册表中的`CurrentControlSet`也可以是`ControlSet001`。
+
 :::
+
+之后最好通过某种方式，能让 Linux 系统访问到文本文件的内容。在进行下一步操作之前，有一个知识点需要了解，了解这个知识点有利于解决本小节的核心问题。
+
+::: important
+
+不同蓝牙设备之间使用的蓝牙协议未必相同，同时设备的蓝牙版本与使用的蓝牙协议类型无必然联系，从 2010 年蓝牙 4.0 出现以后就有了 LE 模式，因此不能看使用了高版本的蓝牙就断定设备使用的是低功耗蓝牙协议。
+
+蓝牙它本身是蓝牙技术联盟(SIG)发布的技术，而它自己又分 BR、EDR、AMP 和 LE 四种 Controller 类型。其中 LE 就是蓝牙低功耗模式，其它三者则通常被统称为蓝牙经典模式。
+
+> 经典蓝牙（BR/EDR）与 BLE（Bluetooth Low Energy）是蓝牙技术规范中的两个不同的协议栈，它们虽然共享相同的无线电硬件，但设计目标和应用场景不同。经典蓝牙更适合需要连续数据流的应用，而 BLE 则更专注于提供低功耗的周期性数据传输。随着蓝牙技术的发展，许多设备现在都支持这两种蓝牙模式，以满足不同的应用需求。
+
+因此一般常见的蓝牙设备如鼠标、键盘等等涉及数据传输、位置服务、设备网络等方面的设备多都采用蓝牙低功耗模式，而其它如蓝牙耳机等音频设备则是采用蓝牙经典模式。
+
+:::
+
+回到 Linux 下，如前文所述，蓝牙设备信息都存储在`/var/lib/bluetooth/<Local Machine MAC Address>`目录下，需要留意该目录下有哪些设备，并找出要连接设备的 MAC 地址。然后执行`su`登录 root 账户，进入到`/var/lib/bluetooth/<Local Machine MAC Address>`，修改该目录下的蓝牙设备的 MAC（即重命名文件夹），使 Linux 解析的 MAC 值与 Windows 的值保持一致。注意 Linux 的 MAC 格式是`XX:XX:XX:XX:XX:XX`，重命名时应给`:`做转义，即`XX\:XX\:XX\:XX\:XX\:XX`。
+
+如果不清楚自己的设备应该是哪个 MAC 地址，这时候主要参考 MAC 文件夹的`info`文件下`[General]`小节的`Name`键，它的值就是设备名称。而凭经验来看，Windows 和 Linux 两系统下同一蓝牙设备的 MAC 地址差别不大，通常只有后四位（两字节）是不同的，这个未经长期检验验证的经验或许可以帮助你快速定位到自己的设备。
+
+---
+
+现在就设备所采用的蓝牙协议类型进行分类讨论：
+
+对于鼠标、键盘一类使用 BLE 的设备，需要修改`info`文件下`[LongTermKey]`一节下的三个键的值：`LTK`、`Rand`、`EDiv`，因为 Linux 和 Windows 两个系统在这三个键上存储方式不同。
+
+- `Key` & `LTK`: Windows 和 Linux 都是使用十六进制存储，但 Windows 会每两位数（小写）之间用`,`隔开，而 Linux 是直接连在一起（大写）。
+- `Rand` & `ERand`: Windows 下该键的数据格式和 LTK 键一样，但采用大端存储方式存储，而 Linux 则采用小端存储，并使用十进制。
+- `EDiv` & `EDIV`: Windows 采用十六进制存储，而 Linux 采用十进制存储。
+
+接下来就是要根据上面所述对数值进行一次转换，本人则是使用 Python 的简单实现：
+
+```python
+ltk_str = "63,e9,67,de,ef,17,4e,43,71,5d,93,e3,a8,ff,52,0c"
+erand_str = "25,45,88,56,42,ec,b8,0b"
+ediv_str = "00005240"
+
+key = "".join( [ char.upper() for char in ltk_str.split(",") ] )
+rand = "".join(reversed(erand_str.split(",")))
+
+print("Key: ", key)
+print("Rand: ", int(rand, 16))
+print("EDiv: ", int(ediv_str, 16))
+```
+
+而对于蓝牙耳机等一类使用经典蓝牙协议的设备，它的信息结构反而没有上面那样复杂，甚至`info`可能只有`[General]`和`[LinkKey]`两小节。对于这种设备，一般只需要修改`[LinkKey]`下的`Key`键值即可。
+
+在 Windows 的注册表中，BLE 类型的设备都会存在`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BTHPORT\Parameters\Keys\<LOCAL_MAC_ADDRESS>`下的`<DEVICE_MAC_ADDRESS>`内，而这类使用经典蓝牙协议的设备则是以键值对的形式（非文件夹结构）直接存放在`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BTHPORT\Parameters\Keys\<LOCAL_MAC_ADDRESS>`下的，键是设备的 MAC 地址，而值就是要寻找的`[LinkKey]`的`Key`键值，与 BLE 中 LTK 的处理方式类似，只需要 Windows 下的值去除`,`后转成大写即可。
+
+---
+
+最后，经过以上两种情况的操作，该问题便可得到解决。需要重启蓝牙服务，执行`sudo systemctl restart bluetooth.service`，然后再尝试连接蓝牙设备即可。
 
 ### Linux 查找软件安装目录
 
