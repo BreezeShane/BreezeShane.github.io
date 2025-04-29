@@ -834,7 +834,72 @@ sudo echo '/swapfile none swap defaults 0 0' >> /etc/fstab
 ::: info 参考资料 [Linux：内核调试之内核魔术键sysrq](https://blog.csdn.net/hhd1988/article/details/130006269)
 :::
 
-我曾经时常遇到 Linux 在关机时等待时间过长的情况，往往这种时候我是已经有保存好自己的数据的，加之经常要马上关机离开，要为这种没必要的事情等太长时间不值得，所以我了解到了这个。
+我曾经时常遇到 Linux 在关机时等待时间过长的情况（甚至等待超时后会自动延长等待时间），往往这种时候我是已经有保存好自己的数据的，加之经常要马上关机离开，要为这种没必要的事情等太长时间不值得，所以我了解到了这个。
+
+::: info
+
+Magic SysRq 组合键是一串能直接与 Linux 内核沟通的组合键，允许用户就算在系统进入死循环濒临崩溃时，直接调用系统底层将资料写入文件系统或重启，避免尚未写入文件系统与硬盘的数据在关机后消失。效果类似于电脑上的电源键或重启键，但能执行更多操作。此组合键提供一系列在系统崩溃时常用到的功能，比如上述的写入数据，或关闭 X Server 、Kill 进程、卸载 文件系统，也通常是死机时的最后手段。但在 Linux 核心停止运作的情况下 Magic SysRq 无效，例如 kernel panic。
+
+::: right
+
+——摘自[Magic SysRq组合键 - 维基百科](https://zh.wikipedia.org/zh-sg/Magic_SysRq%E7%B5%84%E5%90%88%E9%8D%B5)
+
+:::
+
+打开方式有两种：一种可以通过执行`sysctl -w kernel.sysrq=1`临时开启，另一种可以通过执行`echo "kernel.sysrq = 1" >> /etc/sysctl.conf`添加配置信息，接着执行`sysctl -p`来更新配置，达到永久开启的目的。
+
+| KeyBoard Shortcut | Illustration |
+| :---------------: | :----------------: |
+| `Alt`+`SysRq`+`R` | 从 X 收回对键盘的控制 |
+| `Alt`+`SysRq`+`E` | 向所有进程发送`SIGTERM`信号，使其正常终止 |
+| `Alt`+`SysRq`+`I` | 向所有进程发送`SIGKILL`信号，强制立即终止 |
+| `Alt`+`SysRq`+`S` | 将待写数据写入磁盘 |
+| `Alt`+`SysRq`+`U` | 卸载所有硬盘然后重新按只读模式挂载 |
+| `Alt`+`SysRq`+`B` | 重启 |
+
+通常我们在关机/重启之前都会做好保存工作，因此一般而言执行这三步就可以了：
+
+1. `Alt`+`SysRq`+`R`
+2. `Alt`+`SysRq`+`E`
+3. `Alt`+`SysRq`+`I`
+
+::: important 第二步和第三步之间最好隔开 1~2 秒，不然做完第二步后立刻做第三步的话有可能导致有些本可以正常结束的进程被意外终止掉的结果，因此稍微等一下是更妥当的做法。
+:::
+
+当系统中有内核高耗的进程导致系统卡顿时，可以使用 Magic SysRq 组合键`Alt`+`SysRq`+`F`唤醒 Linux Kernel 的 OOM（out of memory） Killer 杀死这些进程。使用这个组合键可以减少因内存高耗导致重启系统的次数，OMM Killer使用启发算法选取当前系统内存占用最高且不重要的进程进行杀死，所以当系统内存占用不高的情况下还是需要慎用。
+
+::: details 有关 Magic SysRq 的所有功能按键
+
+以下表格中的按键均与`Alt`+`SysRq`组合，如按键中写`B`时表示按下`Alt`+`SysRq`+`B`。
+
+|    按键    |     功能     |
+| :-------: | ------------ |
+| `0`~`9` | 设置控制台日志等级，这个可以控制内核信息打印的等级 |
+| `B` | 立即重启系统，不同步文件系统或者卸载文件系统 |
+| `C` | 发起内核 Crash 崩溃，如果配置了 kdump 服务的话，将会获得一个 crashdump 文件 |
+| `D` | 打印当前正在被持有的锁 Locks，CONFIG_LOCKEDP 内核选项需要开启 |
+| `E` | 发送一个 SIGTERM 信号至所有进程，除开 1 号进程（init 进程） |
+| `F` | 调用 oom_kill，选择一个最符合 oom 的进程杀死 |
+| `G` | 当使用 Kernel Model Setting 模式的时候，切换至内核的 Frame Buffer 控制台，如果正在使用 kdb 进行调试，那么直接切换到 debugger |
+| `H` | 将简洁的帮助文档打印至控制台 |
+| `I` | 发送一个 SIGKILL 信号至所有进程，除开 1 号进程（init 进程） |
+| `J` | 强制解冻由 FIFREEZE ioctl 冻结的文件系统 |
+| `K` | 杀死当前虚拟中断的所有进程（可以杀死 X 和 SVGAlib 进程），最初是为了模仿安全警示按键而设立的 |
+| `L` | 打印当前所有在线的 CPU 堆栈信息 |
+| `M` | 打印当前的内存信息在控制台 |
+| `N` | 重置所有的实时进程或者高优先级进程的 nice 值 |
+| `O` | 关闭系统 |
+| `P` | 打印当前的寄存器信息和 flags 信息在控制台 |
+| `Q` | 显示所有在线的高进度定时器和时钟源信息 |
+| `R` | 键盘从 raw mode 切出至 XLATE 模式，经常被 X11 或者 SVGALib 使用 |
+| `S` | 同步所有的已挂载的文件系统 |
+| `T` | 打印当前的进程列表，以及他们的详细信息 |
+| `U` | 重新挂载文件系统至只读模式 |
+| `V` | 强制还原帧缓冲控制台 |
+| `W` | 打印所有 D 状态（阻塞）的进程信息 |
+| `Z` | 转储 ftrace 缓冲区 |
+
+:::
 
 ### Linux 与 Windows 时间同步
 
@@ -1202,11 +1267,9 @@ sudo systemctl enable daed
 sudo systemctl start daed
 ```
 
-之后就可以通过访问[localhost:2023](localhost:2023)来配置代理。**注意，订阅链接需要从机场的订阅链接获取。**
+之后就可以通过访问[localhost:2023](localhost:2023)来配置代理。**注意，订阅链接需要从机场的订阅链接获取。**获取到订阅链接之后可在右侧的订阅窗口里添加订阅，添加成功后手动将该元素手动拖动到左侧的群组中，如此一来便可以科学上网了。
 
-::: info On building...
-DNS, Router configure
-:::
+通常情况下 DNS、Router 等配置采用默认的方案即可。
 
 ### Linux 屏幕扩展
 
@@ -1232,6 +1295,7 @@ DNS, Router configure
 - [多系统共享蓝牙设备 - 腾讯云](https://cloud.tencent.com/developer/article/1958351)
 - [工具：PsTools-windows问题定位系列小工具](https://blog.csdn.net/xiaobaiPlayGame/article/details/129481945)
 - [什么是经典蓝牙BR/EDR?](https://support.tuya.com/zh/help/_detail/Ke5d9s97d72ac)
+- [解决Win10和Linux双系统配对蓝牙设备问题(不使用PsExec)](https://www.cnblogs.com/eswd/p/15113084.html)
 
 :::
 
@@ -1239,7 +1303,9 @@ DNS, Router configure
 
 首先让蓝牙设备和 Linux 系统进行配对，目的是为了在`/var/lib/bluetooth/<Local Machine MAC Address>`目录下生成对应设备的配对信息。
 
-然后回到 Windows 系统，先配对好蓝牙设备，再下载 [PsTools](https://learn.microsoft.com/en-us/sysinternals/downloads/psexec)。
+然后回到 Windows 系统，先配对好蓝牙设备，再下载 [PsTools](https://learn.microsoft.com/en-us/sysinternals/downloads/psexec)。下载 PsTools 的原因是 Windows 默认隐藏注册表`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BTHPORT\Parameters\Keys`下的信息，而这是进行后续操作所需要的信息。
+
+> 确实存在不下载 PsTools 的解决方案，但是通过将 Windows 系统盘挂载到 Linux 系统下并使用`chntpw`来读取注册表信息的，这种方案本篇不是很推荐采用，理由是：除非必要情况，应尽量避免将 Windows 系统分区盘挂载到 Linux 系统下使用的情况，尤其是在 Windows 使用 NTFS 文件系统的情况下。
 
 ::: info PsTools
 
@@ -1310,7 +1376,7 @@ print("EDiv: ", int(ediv_str, 16))
 
 最后，经过以上两种情况的操作，该问题便可得到解决。需要重启蓝牙服务，执行`sudo systemctl restart bluetooth.service`，然后再尝试连接蓝牙设备即可。
 
-### Linux 查找软件安装目录
+### Linux 查找软件安装目录的方法
 
 ::: info 参考资料
 
@@ -1355,7 +1421,7 @@ yay -S p7zip-natspec
 3. （可以不做）也可以执行命令`xdg-mime query default application/<文件后缀>`来查看这个文件类型当前设置的默认应用程序。
 4. 执行命令`xdg-mime default <第一步你选择的结果> application/<文件后缀>`来设定应用与文件类型的关联。
 
-修改是立即生效的，因此不用重启计算机。
+修改是立即生效的，不用重启计算机。
 
 ### Virtual Machine Manager 安装与使用方法
 
