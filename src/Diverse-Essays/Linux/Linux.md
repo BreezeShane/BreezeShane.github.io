@@ -998,10 +998,60 @@ Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文�
 
 ### 安装 Oh-my-zsh 并切换默认终端并安装插件
 
-前面安装好 Zsh 之后，就可以安装 Oh-my-zsh 了，并且加入其中的一些插件：
-
-::: info On building...
+::: info 参考资料 [Oh my zsh - GitHub](https://github.com/ohmyzsh/ohmyzsh) [常用的oh-my-zsh插件](https://zhuanlan.zhihu.com/p/61447507) [Zsh常用插件整理](https://juejin.cn/post/7110009485783433229)
 :::
+
+前面安装好 Zsh 之后，执行`sudo chsh -s /bin/zsh`来切换默认终端（可选值可通过`chsh -l`来查看）。
+
+接下来可以安装 Oh-my-zsh 了，根据 GitHub 官方文档，可以通过执行`sh -c "$(wget -O- https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"`来直接安装 Oh-my-zsh。
+
+我安装使用了如下插件：
+
+```conf
+plugins=(
+  z
+  fzf
+  sudo
+  extract
+  gitignore
+  web-search
+  zsh-autosuggestions
+  zsh-syntax-highlighting
+)
+```
+
+可以依次执行以下命令来安装上面各插件：
+
+```shell
+cp -r ~/.oh-my-zsh/plugins/z ~/.oh-my-zsh/custom/plugins/
+
+git clone --depth 1 <https://github.com/junegunn/fzf.git> ~/.fzf
+~/.fzf/install
+
+cp -r ~/.oh-my-zsh/plugins/sudo ~/.oh-my-zsh/custom/plugins/
+
+cp -r ~/.oh-my-zsh/plugins/extract ~/.oh-my-zsh/custom/plugins/
+
+cp -r ~/.oh-my-zsh/plugins/gitignore ~/.oh-my-zsh/custom/plugins/
+
+cp -r ~/.oh-my-zsh/plugins/web-search ~/.oh-my-zsh/custom/plugins/
+
+git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+```
+
+关于`web-search`插件我在`.zshrc`中添加了如下内容：
+
+```conf
+ZSH_WEB_SEARCH_ENGINES=(
+  blbl "https://www.bilibili.com"
+  grgr "https://www.google.com"
+  gh "https://github.com/"
+)
+```
+
+关于 Oh-my-zsh 主题我使用的是`robbyrussell`
 
 ### i3 WM 配置
 
