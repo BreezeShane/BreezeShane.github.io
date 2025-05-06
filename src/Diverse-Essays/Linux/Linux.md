@@ -1527,7 +1527,11 @@ print("EDiv: ", int(ediv_str, 16))
 
 在 Windows 的注册表中，BLE 类型的设备都会存在`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BTHPORT\Parameters\Keys\<LOCAL_MAC_ADDRESS>`下的`<DEVICE_MAC_ADDRESS>`内，而这类使用经典蓝牙协议的设备则是以键值对的形式（非文件夹结构）直接存放在`HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\BTHPORT\Parameters\Keys\<LOCAL_MAC_ADDRESS>`下的，键是设备的 MAC 地址，而值就是要寻找的`[LinkKey]`的`Key`键值，与 BLE 中 LTK 的处理方式类似，只需要 Windows 下的值去除`,`后转成大写即可。
 
----
+::: tip
+
+如果想知道该蓝牙设备采用的是哪种蓝牙技术，可以留意`info`文件`[General]`小节下的`SupportedTechnologies=<ANY_VALUE>;`，这里的值会直接表明当前设备使用的蓝牙技术类型，常见的值有：`BR/EDR`和`LE`两种。
+
+:::
 
 最后，经过以上两种情况的操作，该问题便可得到解决。需要重启蓝牙服务，执行`sudo systemctl restart bluetooth.service`，然后再尝试连接蓝牙设备即可。
 
