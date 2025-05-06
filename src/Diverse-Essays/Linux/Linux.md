@@ -497,7 +497,7 @@ sudo pacman -S qbittorrent # BT下载器
 sudo pacman -S ark # 开源压缩软件
 sudo pacman -S flameshot # 截屏工具，对多屏幕支持友好
 sudo pacman -S vlc # 开源视频播放器
-sudo pacman -S thunar # 资源管理器
+sudo pacman -S thunar gvfs # Thunar 资源管理器以及相关依赖 GVfs (方便挂载设备、使用回收站等功能) ，如需要挂载安卓设备，应当另安装 gvfs-mtp。
 sudo pacman -S ranger # 终端资源管理器
 
 sudo pacman -S xsel # 操作剪贴板的终端工具
@@ -507,6 +507,38 @@ sudo pacman -S telegram-desktop # Telegram聊天工具软件
 yay -S i3lock-color # i3常用的屏幕锁定工具
 yay -S wechat-appimage # 微信官方客户端
 ```
+
+::: details GVfs 可选后端
+
+点击[此处](https://wiki.gnome.org/Projects/gvfs)可访问 GVfs 官网。
+
+```shell
+extra/gvfs 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO
+extra/gvfs-afc 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - AFC backend (Apple mobile devices)
+extra/gvfs-dnssd 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - DNS-SD and WebDAV backend (macOS file sharing)
+extra/gvfs-goa 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - Gnome Online Accounts backend (e.g. OwnCloud)
+extra/gvfs-google 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - Google Drive backend
+extra/gvfs-gphoto2 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - gphoto2 backend (PTP camera, MTP media player)
+extra/gvfs-mtp 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - MTP backend (Android, media player)
+extra/gvfs-nfs 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - NFS backend
+extra/gvfs-onedrive 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - Microsoft OneDrive backend
+extra/gvfs-smb 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - SMB/CIFS backend (Windows file sharing)
+extra/gvfs-wsdd 1.57.2-3 (gnome)
+    Virtual filesystem implementation for GIO - Web Services Dynamic Discovery backend
+    (Windows discovery)
+```
+
+:::
 
 #### 系统字体
 
@@ -1058,11 +1090,84 @@ ZSH_WEB_SEARCH_ENGINES=(
 ::: info On building...
 :::
 
-### 安装 Terminal Simulator
+### 安装配置 Terminal Simulator
 
 #### Alacritty
 
-::: info On building...
+::: info 参考资料 [Alacritty - ArchWiki](https://wiki.archlinuxcn.org/wiki/Alacritty) [Alacritty Config](https://alacritty.org/config-alacritty.html)
+:::
+
+执行`sudo pacman -S alacritty`来安装即可。我主要配置了窗体透明度、字体、字体边距以及主题，更多的配置细节可以见上方参考链接。主题可以去[alacritty/alacritty-theme - GitHub](https://github.com/alacritty/alacritty-theme)下载，或者直接执行`git clone https://github.com/alacritty/alacritty-theme $HOME/.config/alacritty/themes/`，然后在`$HOME/.config/alacritty/alacritty.toml`下添加以下内容即可：
+
+```conf
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/<THEME_NAME>.toml"
+]
+```
+
+::: details 完整配置
+
+```conf
+# $HOME/.config/alacritty/alacritty.toml
+# by Rito Ghosh 2023-10-06
+
+# Alacritty now uses TOML formatting for its config files.
+# This is a simple example.
+
+# There are the specification here: https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd
+# It is not obvious how it translates to TOML. But it is extremely straightforward.
+
+# example: WINDOW, COLORS, etc. are tables, and should be represented as [window], [colors], respectively.
+# specifics of variables go under them. e.g.- look under "dynamic_padding" under-
+# https://github.com/alacritty/alacritty/blob/master/extra/man/alacritty.5.scd#window
+# write `dynamic_padding = true` (without backticks -`) under the table [window]
+# for variables with multiple values, use "dotted keys". Like setting `padding.x = 5` under [window].
+# This is simple. If not clear, do several trials and errors.
+
+# Below is my initial set-up. The TOML homepage (https://toml.io/en/v1.0.0) was very helpful in figuring this out.
+# I put the file alacritty.toml in $HOME/.config/alacritty. However it can be kept anywhere among the places mentioned in
+# https://github.com/alacritty/alacritty/tree/master#configuration
+
+[window]
+
+opacity = 0.65
+
+padding.x = 10
+padding.y = 10
+
+decorations = "None"
+decorations_theme_variant ="Dark" # Light or Dark
+
+startup_mode = "SimpleFullscreen"
+
+[font]
+
+size = 18.0
+
+[font.normal]
+family = "MesloLGS NF"
+
+[font.bold]
+family = "MesloLGS NF"
+
+[font.italic]
+family = "MesloLGS NF"
+
+
+[font.bold_italic]
+family = "MesloLGS NF"
+
+# Tip: for inspiration, look for values in the source code files of your favorite VS Code themes, and use the color picker in
+# Google to test colors before setting a value, or simply using an editor such as VS Code where colors are displayed in a
+# small box when a HEX is detected by the editor.
+
+[general]
+import = [
+    "~/.config/alacritty/themes/themes/catppuccin_frappe.toml"
+]
+```
+
 :::
 
 #### URxvt
