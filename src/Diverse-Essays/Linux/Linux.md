@@ -716,7 +716,7 @@ systemctl --user start pipewire pipewire-pulse
 
 在`order +=`块中添加一行：`order += "volume master"`并在文件最后部分添加以下代码块：
 
-```config
+```shell
 volume master {
         format = "Vol: %volume"
         format_muted = "Vol: MUTED (%volume)"
@@ -747,7 +747,7 @@ UnhandledPromiseRejectionWarning: Error: No polkit authentication agent found.
 
 ### Efibootmgr 使用
 
-::: details 参考资料: Efibootmgr help doc
+::: details 参考资料: `efibootmgr help doc`
 
 ```shell
 (base) ➜  ~ efibootmgr -h
@@ -800,7 +800,7 @@ usage: efibootmgr [options]
 
 如果希望使用同一个界面来决定启动 Windows 或 Linux 等多个操作系统，首先需要启用 `os-prober`。编辑`/etc/default/grub`文件，找到如下内容并取消注释`GRUB_DISABLE_OS_PROBER=false`：
 
-```conf
+```shell
 # Probing for other operating systems is disabled for security reasons. Read
 # documentation on GRUB_DISABLE_OS_PROBER, if still want to enable this
 # functionality install os-prober and uncomment to detect and include other
@@ -1039,7 +1039,7 @@ Linux/Unix系统的文件类型大致可分为三类：普通文件、目录文�
 
 我安装使用了如下插件：
 
-```conf
+```shell
 plugins=(
   z
   fzf
@@ -1075,7 +1075,7 @@ git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:
 
 关于`web-search`插件我在`.zshrc`中添加了如下内容：
 
-```conf
+```shell
 ZSH_WEB_SEARCH_ENGINES=(
   blbl "https://www.bilibili.com"
   grgr "https://www.google.com"
@@ -1099,7 +1099,7 @@ ZSH_WEB_SEARCH_ENGINES=(
 
 执行`sudo pacman -S alacritty`来安装即可。我主要配置了窗体透明度、字体、字体边距以及主题，更多的配置细节可以见上方参考链接。主题可以去[alacritty/alacritty-theme - GitHub](https://github.com/alacritty/alacritty-theme)下载，或者直接执行`git clone https://github.com/alacritty/alacritty-theme $HOME/.config/alacritty/themes/`，然后在`$HOME/.config/alacritty/alacritty.toml`下添加以下内容即可：
 
-```conf
+```toml
 [general]
 import = [
     "~/.config/alacritty/themes/themes/<THEME_NAME>.toml"
@@ -1108,7 +1108,7 @@ import = [
 
 ::: details 完整配置
 
-```conf
+```toml
 # $HOME/.config/alacritty/alacritty.toml
 # by Rito Ghosh 2023-10-06
 
