@@ -4,8 +4,7 @@ date: 2021-05-12
 author: Breeze Shane
 category: Mathematics
 tag:
- - Convex Analysis
- - Lipschitz Continuity
+ - Convex
 order: 4
 ---
 

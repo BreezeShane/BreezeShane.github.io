@@ -11,7 +11,7 @@ export default hopeTheme({
     name: "𝕭𝖗𝖊𝖊𝖟𝖊 𝕾𝖍𝖆𝖓𝖊",
     url: "https://github.com/BreezeShane",
   },
-  pageInfo: ["Author", "Date", "Category", "Tag", "Word", "ReadingTime"],
+  pageInfo: ["Author", "Date", "Word", "Category", "Tag"],
 
   logo: "/logos/navbar-logo.svg",
 
@@ -35,7 +35,7 @@ export default hopeTheme({
     description: "努力不会背叛自己，却有可能背叛梦想。",
     intro: "/intro.html",
     medias: {
-      Email: "breeze.shane@protonmail.com",
+      Email: "mailto:breeze.shane@protonmail.com",
       GitHub: "https://github.com/BreezeShane",
       Zhihu: "https://www.zhihu.com/people/jaygee-byron",
       "163Music": "https://y.music.163.com/m/user?id=1325265696",
@@ -109,7 +109,7 @@ export default hopeTheme({
     tabs: true,
     tasklist: true,
     // footnote: true,
-    
+
     // 取消注释它们如果你需要 TeX 支持
     math: {
       // 启用前安装 katex

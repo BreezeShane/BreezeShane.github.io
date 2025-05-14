@@ -4,7 +4,6 @@ date: 2022-01-29
 category:
  - Diverse Essays
 tag:
- - Artificial Intelligence
  - SDN
  - Network
 ---

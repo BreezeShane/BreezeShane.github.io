@@ -1,7 +1,7 @@
 ---
 title: 机器学习的GPU参数指南
 date: 2022-08-17
-category: ArtificialIntelligence
+category: Artificial Intelligence
 tag:
  - AI
  - GPU

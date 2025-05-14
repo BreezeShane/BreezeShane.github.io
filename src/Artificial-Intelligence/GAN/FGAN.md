@@ -1,7 +1,7 @@
 ---
 title: f-GAN
 date: 2022-02-21
-category: AritficialIntelligence
+category: Artificial Intelligence
 tag:
  - AI
  - GAN
